@@ -1,3 +1,4 @@
+# One-shot bootstrap for the verified static Shakerrr build.
 name: Bootstrap Shakerrr Pages
 
 on:
