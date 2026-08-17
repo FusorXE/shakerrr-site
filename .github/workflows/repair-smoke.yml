@@ -1,0 +1,36 @@
+name: Shakerrr repair smoke check
+on:
+  push:
+    branches: [repair-content-v2]
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: JavaScript syntax
+        run: |
+          node --check app.js
+          node --check clean-runtime.js
+          node --check ui-fix.js
+      - name: Recipe cleanup integrity
+        run: |
+          node <<'NODE'
+          const fs=require('fs');
+          global.window={fetch:global.fetch};
+          require('./clean-runtime.js');
+          const raw=JSON.parse(fs.readFileSync('data/recipes.json','utf8'));
+          const rows=window.__SHAKERRR_CLEAN__(raw);
+          const ids=new Set(rows.map(r=>r.id));
+          if(rows.length!==399) throw new Error(`Expected 399 cleaned recipes, got ${rows.length}`);
+          if(ids.size!==399) throw new Error(`Expected 399 unique ids, got ${ids.size}`);
+          for(const bad of ['1 Orange Wheel','1 Egg White','1 Egg Yolk','Campari','Brandy','Kosher Salt']) if(rows.some(r=>r.name===bad)) throw new Error(`OCR artifact survived: ${bad}`);
+          for(const good of ['Negroni','Padang Swizzle','Rhythm and Soul','Bitter Tom','Jungle Bird','Naked And Famous','Paper Plane']) if(!rows.some(r=>r.name.toLowerCase()===good.toLowerCase())) throw new Error(`Featured recipe missing: ${good}`);
+          const badFooter=rows.filter(r=>/(CLASSIC RECIPES|THE ESSENTIAL COCKTAIL BOOK)\s*\|?\s*\d+\s*$/i.test(r.instructions||''));
+          if(badFooter.length) throw new Error(`Footer text survived in ${badFooter.length} recipes`);
+          console.log(`OK: ${rows.length} cleaned recipes, ${ids.size} unique ids`);
+          NODE
