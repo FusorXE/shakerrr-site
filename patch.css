@@ -1,0 +1,197 @@
+/* Shakerrr content-quality patch. Keeps the premium visual language while
+   making extracted book recipes readable and preventing UI text collisions. */
+
+/* Cards: ingredient summaries should read, not look arbitrarily chopped. */
+.ingredient-line{
+  white-space:normal;
+  overflow:hidden;
+  text-overflow:clip;
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:2;
+  line-height:1.45;
+  min-height:2.9em;
+}
+.card h3{
+  line-height:1.08;
+  overflow-wrap:anywhere;
+}
+.card-body{min-height:137px}
+
+/* Image state: always look intentional while a verified image resolves. */
+.photo-status{
+  background:
+    radial-gradient(circle at 50% 35%,#1b2027 0,#14171c 38%,#101216 76%);
+  color:#73777c;
+  letter-spacing:.07em;
+  text-transform:uppercase;
+}
+.card-photo img,.detail-photo>img,.hero-media img{
+  background:#111419;
+}
+.photo-credit{
+  background:#090a0db8;
+  border:1px solid #ffffff12;
+  border-radius:6px;
+  padding:5px 7px;
+  backdrop-filter:blur(8px);
+}
+.photo-credit:empty{display:none}
+
+/* Detail page: book OCR must never create layout overflow or half-hidden copy. */
+.detail-copy{min-width:0}
+.detail-note,.method-box,.note-box,.garnish-box,.version-pane{
+  overflow-wrap:anywhere;
+  word-break:normal;
+}
+.detail-note:empty{display:none}
+.ingredient-table{table-layout:fixed}
+.ingredient-table td:first-child{
+  width:76%;
+  padding-right:18px;
+  overflow-wrap:anywhere;
+}
+.ingredient-table td:last-child{
+  width:24%;
+  white-space:normal;
+  overflow-wrap:anywhere;
+}
+.method-box,.note-box,.garnish-box{
+  font-size:9.5px;
+  line-height:1.65;
+}
+.garnish-box{
+  margin-top:9px;
+  padding:11px 12px;
+  border-radius:9px;
+  background:#10151a;
+  border:1px solid #2d3b46;
+  color:#aab8c2;
+}
+.garnish-box b{
+  display:block;
+  font:7px var(--mono);
+  text-transform:uppercase;
+  color:#d6e0e7;
+  margin-bottom:4px;
+}
+.version-photo{
+  display:block;
+  width:100%;
+  max-height:330px;
+  object-fit:cover;
+  border-radius:10px;
+  margin-bottom:11px;
+  background:#111419;
+}
+
+/* Books: shelves are source selectors, not a dump of OCR fragments. */
+.book-shelf-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:12px;
+  margin-top:18px;
+}
+.book-shelf{
+  width:100%;
+  min-height:155px;
+  display:grid;
+  grid-template-columns:70px 1fr 26px;
+  align-items:center;
+  gap:16px;
+  padding:20px;
+  text-align:left;
+  border:1px solid var(--line);
+  border-radius:17px;
+  background:
+    linear-gradient(135deg,#15181d 0%,#111318 56%,#0e1014 100%);
+  transition:transform .22s,border-color .22s,background .22s;
+  position:relative;
+  overflow:hidden;
+}
+.book-shelf:before{
+  content:"";
+  position:absolute;
+  inset:0 auto 0 0;
+  width:3px;
+  background:linear-gradient(var(--gold),#6e4e22);
+  opacity:.72;
+}
+.book-shelf:hover{
+  transform:translateY(-3px);
+  border-color:#424952;
+  background:linear-gradient(135deg,#181c22,#111318 62%);
+}
+.book-no{
+  font:400 43px/1 var(--serif);
+  color:var(--gold);
+  opacity:.92;
+}
+.book-copy small{
+  display:block;
+  color:#6d7176;
+  font:7px var(--mono);
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  margin-bottom:7px;
+}
+.book-copy h3{
+  margin:0 0 8px;
+  font:400 25px/1.05 var(--serif);
+}
+.book-copy p{
+  margin:0;
+  max-width:560px;
+  color:#85888d;
+  font-size:9px;
+  line-height:1.55;
+}
+.book-arrow{
+  color:var(--gold);
+  font:22px var(--serif);
+  text-align:right;
+}
+.book-quality-note{
+  margin:8px 0 18px;
+  color:#74787e;
+  font-size:9px;
+  line-height:1.55;
+  max-width:750px;
+}
+
+/* Keep extracted recipe lists calm and scannable. */
+.book-recipe-grid .card-body{min-height:145px}
+.book-recipe-grid .card h3{font-size:20px}
+
+/* Movie cards should prioritize the drink. */
+.movie-meta p{display:block;overflow:visible;-webkit-line-clamp:unset}
+
+/* Source link should look useful without overwhelming the spec. */
+.version-pane .source-head a{
+  color:var(--blue);
+  text-decoration:none;
+}
+.version-pane .source-head a:hover{text-decoration:underline}
+
+@media(max-width:1180px){
+  .book-shelf-grid{grid-template-columns:1fr}
+}
+@media(max-width:760px){
+  .card-body{min-height:126px}
+  .detail-photo{min-height:430px}
+  .photo-controls{left:10px;right:10px;bottom:10px;justify-content:flex-start}
+  .photo-credit{left:10px;bottom:62px;max-width:calc(100% - 20px)}
+  .book-shelf{grid-template-columns:52px 1fr 18px;gap:10px;padding:16px;min-height:135px}
+  .book-no{font-size:34px}
+  .book-copy h3{font-size:22px}
+  .ingredient-table td:first-child{width:70%}
+  .ingredient-table td:last-child{width:30%}
+}
+@media(max-width:470px){
+  .book-shelf{grid-template-columns:42px 1fr;padding:14px}
+  .book-arrow{display:none}
+  .book-no{font-size:29px}
+  .photo-controls button{font-size:7px;padding:6px}
+  .detail-photo{min-height:360px}
+  .detail h1{overflow-wrap:anywhere}
+}
