@@ -21386,72 +21386,12 @@
     "quality": "verified"
   },
   {
-    "id": "queen-s-park-swizzle",
-    "name": "Queen's Park Swizzle",
-    "category": "Classic",
-    "country": "Trinidad and Tobago",
-    "method": "Built",
-    "tags": [
-      "book",
-      "classic"
-    ],
-    "versions": [
-      {
-        "label": "Essential Cocktail Book",
-        "key": "essential",
-        "type": "book",
-        "ingredients": [
-          {
-            "name": "Lime Juice Syrup",
-            "amount": "1 oz"
-          },
-          {
-            "name": "Demerara Rum",
-            "amount": "2 oz"
-          },
-          {
-            "name": "Angostura Bitters",
-            "amount": "4 DASHES"
-          }
-        ],
-        "instructions": "In a Collins or hurricane glass, gently muddle mint sprig with simple syrup to release oils. Add lime juice, rum, and crushed ice. Swizzle with a straw or swizzle stick to mix. Add more crushed ice and dash Angostura bitters over the top. Garnish with a mint sprig.",
-        "note": "With few ingredients, this drink gets its unique signature from the swizzle technique, which calls for agitating the drink with a swizzle stick (see page 25). Created in Trinidad, the rum-based, bitters- topped drink is named for a famous cricket field in the country’s capital, Port of Spain. However, its traditional dark and muggy Demerara rum base hails from neighboring Guyana, which had amore established rum industry than Trinidad when this drink was created in the early twentieth century.",
-        "creator": "",
-        "image": "assets/recipes/ess-queen-s-park-swizzle.webp",
-        "usable": true
-      }
-    ],
-    "image": null,
-    "movie": null,
-    "collections": [
-      "Essential Cocktail Book"
-    ],
-    "ingredients": [
-      {
-        "name": "Lime Juice Syrup",
-        "amount": "1 oz"
-      },
-      {
-        "name": "Demerara Rum",
-        "amount": "2 oz"
-      },
-      {
-        "name": "Angostura Bitters",
-        "amount": "4 DASHES"
-      }
-    ],
-    "instructions": "In a Collins or hurricane glass, gently muddle mint sprig with simple syrup to release oils. Add lime juice, rum, and crushed ice. Swizzle with a straw or swizzle stick to mix. Add more crushed ice and dash Angostura bitters over the top. Garnish with a mint sprig.",
-    "note": "With few ingredients, this drink gets its unique signature from the swizzle technique, which calls for agitating the drink with a swizzle stick (see page 25). Created in Trinidad, the rum-based, bitters- topped drink is named for a famous cricket field in the country’s capital, Port of Spain. However, its traditional dark and muggy Demerara rum base hails from neighboring Guyana, which had amore established rum industry than Trinidad when this drink was created in the early twentieth century.",
-    "family": "Swizzle",
-    "quality": "verified"
-  },
-  {
     "id": "queens-park-swizzle",
     "name": "Queen’s Park Swizzle",
     "category": "International",
     "country": "Trinidad and Tobago",
     "method": "Swizzle",
-    "family": "Sour",
+    "family": "Swizzle",
     "tags": [
       "world",
       "international"
@@ -21488,12 +21428,37 @@
         "creator": "",
         "image": null,
         "usable": true
+      },
+      {
+        "label": "Essential Cocktail Book",
+        "key": "essential",
+        "type": "book",
+        "ingredients": [
+          {
+            "name": "Lime Juice Syrup",
+            "amount": "1 oz"
+          },
+          {
+            "name": "Demerara Rum",
+            "amount": "2 oz"
+          },
+          {
+            "name": "Angostura Bitters",
+            "amount": "4 DASHES"
+          }
+        ],
+        "instructions": "In a Collins or hurricane glass, gently muddle mint sprig with simple syrup to release oils. Add lime juice, rum, and crushed ice. Swizzle with a straw or swizzle stick to mix. Add more crushed ice and dash Angostura bitters over the top. Garnish with a mint sprig.",
+        "note": "With few ingredients, this drink gets its unique signature from the swizzle technique, which calls for agitating the drink with a swizzle stick (see page 25). Created in Trinidad, the rum-based, bitters- topped drink is named for a famous cricket field in the country’s capital, Port of Spain. However, its traditional dark and muggy Demerara rum base hails from neighboring Guyana, which had amore established rum industry than Trinidad when this drink was created in the early twentieth century.",
+        "creator": "",
+        "image": "assets/recipes/ess-queen-s-park-swizzle.webp",
+        "usable": true
       }
     ],
     "image": null,
     "movie": null,
     "collections": [
-      "Shakerrr World"
+      "Shakerrr World",
+      "Essential Cocktail Book"
     ],
     "ingredients": [
       {

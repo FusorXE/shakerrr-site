@@ -2802,18 +2802,6 @@
         }
       ]
     },
-    "queen-s-park-swizzle": {
-      "name": "Queen's Park Swizzle",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-queen-s-park-swizzle.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
-    },
     "ramos-gin-fizz": {
       "name": "Ramos Gin Fizz",
       "candidates": [
@@ -3777,6 +3765,18 @@
           "path": "assets/recipes/ryan-zombie.webp",
           "source": "Essential Cocktails 2021",
           "scope": "version",
+          "available": false,
+          "status": "referenced-not-committed"
+        }
+      ]
+    },
+    "queens-park-swizzle": {
+      "name": "Queen’s Park Swizzle",
+      "candidates": [
+        {
+          "path": "assets/recipes/ess-queen-s-park-swizzle.webp",
+          "source": "Essential Cocktail Book",
+          "scope": "base",
           "available": false,
           "status": "referenced-not-committed"
         }

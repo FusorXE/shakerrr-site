@@ -2,7 +2,7 @@
   "version": 1,
   "generated": "2026-09-25",
   "rawRecords": 606,
-  "canonicalRecipes": 399,
+  "canonicalRecipes": 398,
   "countries": [
     "Argentina",
     "Australia",
@@ -33,7 +33,7 @@
   ],
   "categories": {
     "Movies": 31,
-    "Classic": 71,
+    "Classic": 70,
     "Mezcal": 70,
     "International": 35,
     "Modern": 53,
@@ -41,8 +41,8 @@
     "Book": 32,
     "Tropical": 43
   },
-  "recipesWithInstructions": 351,
-  "recipesWithMultipleUsableVersions": 11,
+  "recipesWithInstructions": 350,
+  "recipesWithMultipleUsableVersions": 12,
   "usableVersions": 280,
   "referencedImageRecipes": 301,
   "note": "Historical catalog image paths are recorded but not counted as coverage because the binary assets were never committed."
