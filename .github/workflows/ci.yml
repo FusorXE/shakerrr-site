@@ -1,0 +1,26 @@
+name: Shakerrr CI
+on:
+  push:
+    branches: [main, finish-shakerrr-20260925]
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate-and-browser-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Validate catalog
+        run: npm run validate
+      - name: Install test dependencies
+        run: npm install
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+      - name: Start site
+        run: python3 -m http.server 4173 >/tmp/shakerrr-http.log 2>&1 &
+      - name: Browser smoke tests
+        run: npm test
