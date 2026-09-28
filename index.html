@@ -1,1 +1,83 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#090a0d"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><title>Shakerrr · MJ</title><meta name="description" content="Premium cocktail reference: recipes, source versions, books, movies, regions, mezcal, amaro, My Bar and cocktail families."><link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="styles.css?v=20260925-1"></head><body><div id="app"><header class="topbar"><button class="brand" data-nav="discover" aria-label="Shakerrr home"><span class="orb"></span><span>Shakerrr</span><small>MJ</small></button><nav id="nav" class="nav" aria-label="Main navigation"></nav><div class="head-actions"><div class="search"><input id="searchInput" autocomplete="off" placeholder="Search cocktails, ingredients, countries…" aria-label="Search cocktails"><span>⌕</span><div id="searchResults" class="search-results" role="listbox"></div></div><button id="unitBtn" class="ghost">oz</button><button id="toolsBtn" class="ghost">Tools</button></div></header><main id="main"></main><nav id="mobileNav" class="mobile-nav" aria-label="Mobile navigation"></nav></div><aside id="drawer" class="drawer" aria-hidden="true"><div class="drawer-head"><h2>Tools</h2><button class="icon-btn" data-action="close-drawer" aria-label="Close tools">✕</button></div><div id="drawerBody"></div></aside><div id="scrim" class="scrim" data-action="close-drawer"></div><div id="modal" class="modal-wrap" aria-hidden="true"><section class="modal" role="dialog" aria-modal="true"><header><h2 id="modalTitle"></h2><button class="icon-btn" data-action="close-modal" aria-label="Close dialog">✕</button></header><div id="modalBody" class="modal-body"></div></section></div><input id="photoUpload" type="file" accept="image/*" hidden><script src="app.js?v=20260925-1"></script></body></html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#090a0d" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <title>Shakerrr · MJ</title>
+    <meta
+      name="description"
+      content="Premium cocktail reference: recipes, source versions, books, movies, regions, mezcal, amaro, My Bar and cocktail families."
+    />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="stylesheet" href="styles.css?v=20260928-1" />
+  </head>
+  <body>
+    <div id="app">
+      <header class="topbar">
+        <button class="brand" data-nav="discover" aria-label="Shakerrr home">
+          <span class="orb"></span><span>Shakerrr</span><small>MJ</small>
+        </button>
+        <nav id="nav" class="nav" aria-label="Main navigation"></nav>
+        <div class="head-actions">
+          <div class="search">
+            <input
+              id="searchInput"
+              autocomplete="off"
+              placeholder="Search cocktails, ingredients, countries…"
+              aria-label="Search cocktails"
+            /><span>⌕</span>
+            <div id="searchResults" class="search-results" role="listbox"></div>
+          </div>
+          <button id="unitBtn" class="ghost">oz</button
+          ><button id="toolsBtn" class="ghost">Tools</button>
+        </div>
+      </header>
+      <main id="main"></main>
+      <nav
+        id="mobileNav"
+        class="mobile-nav"
+        aria-label="Mobile navigation"
+      ></nav>
+    </div>
+    <aside id="drawer" class="drawer" aria-hidden="true">
+      <div class="drawer-head">
+        <h2>Tools</h2>
+        <button
+          class="icon-btn"
+          data-action="close-drawer"
+          aria-label="Close tools"
+        >
+          ✕
+        </button>
+      </div>
+      <div id="drawerBody"></div>
+    </aside>
+    <div id="scrim" class="scrim" data-action="close-drawer"></div>
+    <div id="modal" class="modal-wrap" aria-hidden="true">
+      <section class="modal" role="dialog" aria-modal="true">
+        <header>
+          <h2 id="modalTitle"></h2>
+          <button
+            class="icon-btn"
+            data-action="close-modal"
+            aria-label="Close dialog"
+          >
+            ✕
+          </button>
+        </header>
+        <div id="modalBody" class="modal-body"></div>
+      </section>
+    </div>
+    <input id="photoUpload" type="file" accept="image/*" hidden />
+    <script type="module" src="app.js?v=20260928-1"></script>
+  </body>
+</html>
