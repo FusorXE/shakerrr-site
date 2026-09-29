@@ -5555,27 +5555,29 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "white rum, such as Bacardi Light or Havana Club",
-            "amount": "4 ounces"
+            "amount": "4 oz",
+            "name": "White rum, such as Bacardi Light or Havana Club"
           },
           {
-            "name": "freshly squeezed strained lime juice",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Freshly squeezed strained lime juice"
           },
           {
-            "name": "Simple Syrup",
-            "amount": "4 teaspoons"
+            "amount": "4 tsp",
+            "name": "Simple Syrup"
           },
           {
-            "name": "to 8 ice cubes",
-            "amount": "6"
+            "amount": "6 to 8",
+            "name": "Ice cubes"
           }
         ],
-        "instructions": "",
+        "instructions": "Combine all ingredients in a cocktail shaker and shake vigorously. Strain into a chilled martini glass and serve immediately.",
         "note": "Nothing like the ubiquitous frozen drinks that bear the same name, this classic cocktail is light, refreshing, and the perfect easy cocktail to while away the summer hours. Like many classics in all areas, the daiquiri is simplicity itself. It is a variant on the rum, lime, and sugar theme that is also the hallmark of the ’ti punch of the French islands and the caipirinha of Brazil. There are many stories of the origin of the daiquiri. According to one of them, the daiquiri was invented in the l",
         "creator": "",
         "image": "assets/recipes/ryan-daiquiri-classic.webp",
-        "usable": true
+        "usable": true,
+        "page": "17-18",
+        "glass": "Martini glass"
       },
       {
         "label": "Tropical Standard",
@@ -13805,12 +13807,41 @@
         "label": "Essential Cocktails 2021",
         "key": "ryan",
         "type": "book",
-        "ingredients": [],
-        "instructions": "",
+        "ingredients": [
+          {
+            "amount": "2 oz",
+            "name": "Freshly squeezed strained lime juice"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Jamaican-style dark rum, such as Myers's or Appleton"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Amber rhum agricole, such as Rhum Damoiseau or Rhum St. James"
+          },
+          {
+            "amount": "1 oz",
+            "name": "Orange curaçao"
+          },
+          {
+            "amount": "3 tsp",
+            "name": "Simple Syrup"
+          },
+          {
+            "amount": "3 tsp",
+            "name": "Orgeat"
+          }
+        ],
+        "instructions": "Shake all ingredients with ice. Strain into a chilled highball glass.",
         "note": "Composed of rum, orange curaçao, fresh lime juice and orgeat (a nuanced almond syrup), it’s held sway over cocktail enthusiasts and Tiki aficionados for decades. It even enjoyed a star turn in the Elvis film “Blue Hawaii.” Victor “Trader Vic” Bergeron is often credited with inventing the drink at his Trader Vic’s bar in the 1940s, though it’s likely that Donn Beach laid the groundwork for the famous recipe during the 1930s at his Don the Beachcomber bar. The original Trader Vic’s recipe featured",
         "creator": "",
         "image": "assets/recipes/ryan-mai-tai.webp",
-        "usable": false
+        "usable": true,
+        "page": "37-38",
+        "garnish": "Peppermint sprig or lime garnish",
+        "glass": "Highball glass",
+        "ice": "Crushed ice"
       }
     ],
     "image": null,
@@ -20527,27 +20558,39 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "fresh pineapple chunks",
-            "amount": "2 cups"
+            "amount": "2 cups",
+            "name": "Fresh pineapple chunks"
           },
           {
-            "name": "fresh coconut milk, chilled",
-            "amount": "4 ounces"
+            "amount": "4 oz",
+            "name": "Fresh coconut milk, chilled"
           },
           {
-            "name": "dark rum, such as Brugal",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Dark rum, such as Brugal"
           },
           {
-            "name": "Dominican-style white rum, such as Bermudez Ron Blanco or Fresh Pineapple Infused Rum",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Dominican-style white rum, such as Bermudez Ron Blanco or Fresh Pineapple Infused Rum"
+          },
+          {
+            "amount": "6",
+            "name": "Ice cubes"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Heavy cream"
           }
         ],
-        "instructions": "",
+        "instructions": "Blend the pineapple chunks to a liquid slurry. Combine ½ cup of the pineapple liquid, coconut milk, both rums, and ice in a cocktail shaker. Add the cream and shake vigorously. Strain into a tall glass.",
         "note": "with rum, cream of coconut or coconut milk, and pineapple juice, usually served either blended or shaken with ice. It may be garnished with either a pineapple wedge, maraschino cherry, or both. There are two versions of the drink, both originating in Puerto Rico. Fresh pineapple, freshly made coconut milk, and—naturally— fabulous rum and served in a hollowed-out pineapple will lives in your taste memory and your dreams. Try one and you’ll see why.",
         "creator": "",
         "image": "assets/recipes/ryan-pina-colada.webp",
-        "usable": false
+        "usable": true,
+        "page": "35-36",
+        "garnish": "Pineapple wedge",
+        "glass": "Tall glass",
+        "ice": "Ice cubes"
       },
       {
         "label": "Death & Co",
@@ -20595,18 +20638,37 @@
     ],
     "ingredients": [
       {
-        "name": "Rum, Light Or Aged",
-        "amount": "2 oz"
+        "amount": "2 cups",
+        "name": "Fresh pineapple chunks"
       },
       {
-        "name": "Pineapple Juice",
-        "amount": "1 oz"
+        "amount": "4 oz",
+        "name": "Fresh coconut milk, chilled"
+      },
+      {
+        "amount": "2 oz",
+        "name": "Dark rum, such as Brugal"
+      },
+      {
+        "amount": "2 oz",
+        "name": "Dominican-style white rum, such as Bermudez Ron Blanco or Fresh Pineapple Infused Rum"
+      },
+      {
+        "amount": "6",
+        "name": "Ice cubes"
+      },
+      {
+        "amount": "2 oz",
+        "name": "Heavy cream"
       }
     ],
-    "instructions": "Add all ingredients to a blender with 1 cup of ice. Blend on high until smooth. Pour into a Collins or hurricane glass (or a hollowed-out pineapple). Garnish with a pineapple wedge and an umbrella.",
+    "instructions": "Blend the pineapple chunks to a liquid slurry. Combine ½ cup of the pineapple liquid, coconut milk, both rums, and ice in a cocktail shaker. Add the cream and shake vigorously. Strain into a tall glass.",
     "note": "Based on a Cuban recipe for a nonalcoholic pineapple slushy (a pifia fria) popular in the early 1900s, this frozen beverage evolved to include coconut cream and rum. The Puerto Rican Hilton claims to have invented the recipe in 1954, but the first-known mention of what we call the pifia colada came from the New York Times in 1950 and attributed the drink to a bar in Cuba. Immortalized in Warren Zevon’s song “Werewolves of London” (“I saw a werewolf drinking a pifia colada at Trader Vic’s . . .”) in 1978 and then again in 1979, with the No.",
     "family": "Other",
-    "quality": "verified"
+    "quality": "verified",
+    "garnish": "Pineapple wedge",
+    "glass": "Tall glass",
+    "ice": "Ice cubes"
   },
   {
     "id": "pina-margarita",
@@ -27256,27 +27318,42 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "freshly squeezed strained lemon juice",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Freshly squeezed strained lemon juice"
           },
           {
-            "name": "freshly squeezed strained lime juice",
-            "amount": "1 ounce"
+            "amount": "1 oz",
+            "name": "Freshly squeezed strained lime juice"
           },
           {
-            "name": "sugar or Simple Syrup Dash of orange flower water",
-            "amount": "2 teaspoons"
+            "amount": "2 tsp",
+            "name": "Sugar or Simple Syrup"
           },
           {
-            "name": "amber rum, such as Old New Orleans Amber or Bacardi Amber",
-            "amount": "4 ounces"
+            "amount": "1 dash",
+            "name": "Orange flower water"
+          },
+          {
+            "amount": "4 oz",
+            "name": "Amber rum, such as Old New Orleans Amber or Bacardi Amber"
+          },
+          {
+            "amount": "4 oz",
+            "name": "Club soda"
+          },
+          {
+            "amount": "as needed",
+            "name": "Ice cubes"
           }
         ],
-        "instructions": "",
+        "instructions": "Combine the juices, sugar, and orange flower water in a Collins or highball glass and stir well. Add the rum and stir, top with club soda, stir once more, add ice, and serve immediately.",
         "note": "The orange flower water adds an unexpected floral hint to the final drink. Traditionally, the Collins is garnished with a maraschino cherry. This drink is sometimes called a Pedro Collins. Another variant is prepared with a mix of rum and rye whiskey and called a John Collins.",
         "creator": "",
         "image": "assets/recipes/ryan-tom-collins-classic.webp",
-        "usable": false
+        "usable": true,
+        "page": "33-34",
+        "glass": "Collins or highball glass",
+        "ice": "Ice cubes"
       },
       {
         "label": "Death & Co",
@@ -29173,43 +29250,55 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "white rum, such as Bacardi Light",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "White rum, such as Bacardi Light"
           },
           {
-            "name": "amber rum, such as Appleton Estate Special Gold",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Amber rum, such as Appleton Estate Special Gold"
           },
           {
-            "name": "dark rum, such as Mount Gay",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Dark rum, such as Mount Gay"
           },
           {
-            "name": "maraschino liqueur",
-            "amount": "1 ounce"
+            "amount": "1 oz",
+            "name": "Maraschino liqueur"
           },
           {
-            "name": "pineapple juice",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Pineapple juice"
           },
           {
-            "name": "freshly squeezed strained lime juice",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Freshly squeezed strained lime juice"
           },
           {
-            "name": "freshly squeezed strained lemon juice",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Freshly squeezed strained lemon juice"
           },
           {
-            "name": "passion fruit syrup",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Passion fruit syrup"
+          },
+          {
+            "amount": "to shake",
+            "name": "Crushed ice"
+          },
+          {
+            "amount": "1 spoonful",
+            "name": "151-proof dark rum, such as Bacardi"
           }
         ],
-        "instructions": "",
+        "instructions": "Shake all ingredients except the 151-proof rum and garnishes with a scoop of crushed ice. Strain into a highball glass. Slowly float a spoonful of 151-proof rum over the back of a spoon.",
         "note": "various rums. It first appeared in late 1934, invented by Donn Beach at his Hollywood Don the Beachcomber restaurant. It was popularized on the East coast soon afterwards at the 1939 New York World's Fair.",
         "creator": "",
         "image": "assets/recipes/ryan-zombie.webp",
-        "usable": true
+        "usable": true,
+        "page": "31-32",
+        "garnish": "Pineapple wedge and fresh mint sprig",
+        "glass": "Highball glass",
+        "ice": "Crushed ice"
       },
       {
         "label": "Cocktails from Movies",
