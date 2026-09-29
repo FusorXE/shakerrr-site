@@ -1141,7 +1141,7 @@ async function action(name, el, e) {
   }
   if (name === "family-preset") {
     const t = FAMILY_TEMPLATES[el.dataset.familyName];
-    $("[data-family-control]").forEach(
+    document.querySelectorAll("[data-family-control]").forEach(
       (x) => (x.value = t[x.dataset.familyControl]),
     );
     updateFamily();
