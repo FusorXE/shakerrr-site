@@ -3771,8 +3771,9 @@
           "path": "assets/recipes/ryan-zombie.webp",
           "source": "Essential Cocktails 2021",
           "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
+          "available": true,
+          "status": "exact-book",
+          "page": "31"
         }
       ]
     },
