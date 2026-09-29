@@ -41,14 +41,14 @@
     "Book": 32,
     "Tropical": 43
   },
-  "recipesWithInstructions": 354,
-  "recipesWithMultipleUsableVersions": 12,
-  "usableVersions": 313,
+  "recipesWithInstructions": 372,
+  "recipesWithMultipleUsableVersions": 15,
+  "usableVersions": 414,
   "referencedImageRecipes": 301,
-  "note": "Reconstruction baseline is being source-verified against the books in the Shakerrr ChatGPT Project. Count is not a target; exact authorized images are tracked separately until committed.",
-  "verifiedRecipes": 299,
-  "limitedRecipes": 99,
-  "committedImageRecipes": 1,
-  "exactBookImages": 1,
-  "imageCoveragePercent": 0.3
+  "note": "All canonical recipe records are now source-verified at the record level. Remaining work is incomplete alternate source versions, missing methods on some otherwise-valid records, and exact book-image extraction/commit coverage.",
+  "verifiedRecipes": 398,
+  "limitedRecipes": 0,
+  "committedImageRecipes": 7,
+  "exactBookImages": 7,
+  "imageCoveragePercent": 1.8
 }
