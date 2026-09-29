@@ -4,99 +4,35 @@
   "byRecipe": {
     "tis-the-seasontini": {
       "name": "'Tis the Seasontini",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-tis-the-seasontini.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "7-7": {
       "name": "7 & 7",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-7-7.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "a-dark-art": {
       "name": "A Dark Art",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-a-dark-art.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "a-promise-s-ghost": {
       "name": "A Promise's Ghost",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-a-promise-s-ghost.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "absinthe-frappe": {
       "name": "Absinthe Frappé",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-absinthe-frappe.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "absolut-bitch": {
       "name": "Absolut Bitch",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-absolut-bitch.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "admiral-cocktail": {
       "name": "Admiral Cocktail",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-admiral-cocktail.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "adonis": {
       "name": "Adonis",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-adonis.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "agave-ginger-hot-toddy": {
       "name": "Agave Ginger Hot Toddy",
@@ -120,111 +56,39 @@
     },
     "airmail": {
       "name": "Airmail",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-airmail.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "all-purpose-margarita": {
       "name": "All-Purpose Margarita",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-all-purpose-margarita.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "alternative-aviation": {
       "name": "Alternative Aviation",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-alternative-aviation.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "american-trilogy": {
       "name": "American Trilogy",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-american-trilogy.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "americano": {
       "name": "Americano",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-americano.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "americano-perfecto": {
       "name": "Americano Perfecto",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-americano-perfecto.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "angel-s-kiss": {
       "name": "Angel's Kiss",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-angel-s-kiss.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "angostura-colada": {
       "name": "Angostura Colada",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-angostura-colada.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "aperol-spritz": {
       "name": "Aperol Spritz",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-aperol-spritz.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "apricot-mulled-wine": {
       "name": "Apricot Mulled Wine",
@@ -248,15 +112,7 @@
     },
     "archangel": {
       "name": "Archangel",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-archangel.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "autumn-punch": {
       "name": "Autumn Punch",
@@ -280,39 +136,15 @@
     },
     "aviation": {
       "name": "Aviation",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-aviation.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "bamboo": {
       "name": "Bamboo",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-bamboo.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "banana-punch": {
       "name": "Banana Punch",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-banana-punch.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "banana-rum-punch": {
       "name": "Banana Rum Punch",
@@ -336,99 +168,35 @@
     },
     "barber-of-seville": {
       "name": "Barber of Seville",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-barber-of-seville.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "be-my-wine": {
       "name": "Be My Wine",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-be-my-wine.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "bee-s-knees": {
       "name": "Bee's Knees",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-bee-s-knees.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "benton-s-old-fashioned": {
       "name": "Benton's Old-Fashioned",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-benton-s-old-fashioned.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "bicicletta": {
       "name": "Bicicletta",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-bicicletta.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "bijou": {
       "name": "Bijou",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-bijou.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "bitter-intentions": {
       "name": "Bitter Intentions",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-bitter-intentions.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "bitter-mai-tai": {
       "name": "Bitter Mai Tai",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-bitter-mai-tai.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "bitter-tom": {
       "name": "Bitter Tom",
@@ -453,39 +221,15 @@
     },
     "black-velvet": {
       "name": "Black Velvet",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-black-velvet.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "blood-and-sand": {
       "name": "Blood and Sand",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-blood-and-sand.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "blood-lust-diamonds": {
       "name": "Blood, Lust & Diamonds",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-blood-lust-diamonds.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "bloody-maria": {
       "name": "Bloody Maria",
@@ -509,214 +253,71 @@
     },
     "bloody-mary": {
       "name": "Bloody Mary",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-bloody-mary.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/movie-bloody-mary.webp",
-          "source": "Cocktails from Movies",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "boo-radley": {
       "name": "Boo Radley",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-boo-radley.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "boulevardier": {
       "name": "Boulevardier",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-boulevardier.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "bramble": {
       "name": "Bramble",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-bramble.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "brancolada": {
       "name": "Brancolada",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-brancolada.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "brooklyn": {
       "name": "Brooklyn",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-brooklyn.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "brown-derby": {
       "name": "Brown Derby",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-brown-derby.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "bull-shot": {
       "name": "Bull Shot",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-bull-shot.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "buttermaker": {
       "name": "Buttermaker",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-buttermaker.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "caipirinha": {
       "name": "Caipirinha",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-caipirinha.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "campari-radler": {
       "name": "Campari Radler",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-campari-radler.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "cards-on-the-table": {
       "name": "Cards on the Table",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-cards-on-the-table.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "chacmool-hibol": {
       "name": "Chacmool Hibol",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-chacmool-hibol.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "champagne-cocktail": {
       "name": "Champagne Cocktail",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-champagne-cocktail.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "charles-dickens-s-punch": {
       "name": "Charles Dickens's Punch",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-charles-dickens-s-punch.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "chartreuse-swizzle": {
       "name": "Chartreuse Swizzle",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-chartreuse-swizzle.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "chicago-cocktail": {
       "name": "Chicago Cocktail",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-chicago-cocktail.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "christmas-eve-chocolate": {
       "name": "Christmas Eve Chocolate",
@@ -740,63 +341,23 @@
     },
     "christmas-mojito": {
       "name": "Christmas Mojito",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-christmas-mojito.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "classic-rum-punch": {
       "name": "Classic Rum Punch",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-classic-rum-punch.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "clover-club": {
       "name": "Clover Club",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-clover-club.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "coconut-creamsicle": {
       "name": "Coconut Creamsicle",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-coconut-creamsicle.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "coconut-basil-cream": {
       "name": "Coconut-Basil Cream",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-coconut-basil-cream.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "coffee-cocktail": {
       "name": "Coffee Cocktail",
@@ -820,22 +381,7 @@
     },
     "corpse-reviver-no-2": {
       "name": "Corpse Reviver No. 2",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-corpse-reviver-no-2.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/movie-corpse-reviver-no-2.webp",
-          "source": "Cocktails from Movies",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "cosmopolitan": {
       "name": "Cosmopolitan",
@@ -934,111 +480,39 @@
     },
     "daniel-webster-s-punch": {
       "name": "Daniel Webster's Punch",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-daniel-webster-s-punch.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "dark-n-stormy": {
       "name": "Dark ’n’ Stormy",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-dark-n-stormy.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "de-la-louisiane": {
       "name": "De La Louisiane",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-de-la-louisiane.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "death-in-the-afternoon": {
       "name": "Death in the Afternoon",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-death-in-the-afternoon.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "death-to-el-gusano": {
       "name": "Death To El Gusano",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-death-to-el-gusano.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "dirty-martini": {
       "name": "Dirty Martini",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-dirty-martini.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "division-bell": {
       "name": "Division Bell",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-division-bell.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "dorothy-s-delight": {
       "name": "Dorothy's Delight",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-dorothy-s-delight.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "earl-grey-paloma": {
       "name": "Earl Grey Paloma",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-earl-grey-paloma.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "easy-paloma": {
       "name": "Easy Paloma",
@@ -1082,15 +556,7 @@
     },
     "el-ardido": {
       "name": "El Ardido",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-el-ardido.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "el-diablo": {
       "name": "El Diablo",
@@ -1129,171 +595,59 @@
     },
     "elote-margarita": {
       "name": "Elote Margarita",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-elote-margarita.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "elotero": {
       "name": "Elotero",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-elotero.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "espresso-martini": {
       "name": "Espresso Martini",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-espresso-martini.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "espresso-mezcaltini": {
       "name": "Espresso Mezcaltini",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-espresso-mezcaltini.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "everybody-s-girl": {
       "name": "Everybody's Girl",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-everybody-s-girl.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "exit-music": {
       "name": "Exit Music",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-exit-music.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "ferrari-named-desire": {
       "name": "Ferrari Named Desire",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-ferrari-named-desire.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "filibuster": {
       "name": "Filibuster",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-filibuster.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "fitty-fitty-martini": {
       "name": "Fitty-Fitty Martini",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-fitty-fitty-martini.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "flannel-shirt": {
       "name": "Flannel Shirt",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-flannel-shirt.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "flatiron-martini": {
       "name": "Flatiron Martini",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-flatiron-martini.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "florodora": {
       "name": "Florodora",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-florodora.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "french-75": {
       "name": "French 75",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-french-75.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "french-negroni": {
       "name": "French Negroni",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-french-negroni.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "frozen-mezcal-hot-chocolate": {
       "name": "Frozen Mezcal Hot Chocolate",
@@ -1317,274 +671,91 @@
     },
     "frozen-negroni": {
       "name": "Frozen Negroni",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-frozen-negroni.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "garibaldi": {
       "name": "Garibaldi",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-garibaldi.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "gentleman-caller": {
       "name": "Gentleman Caller",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-gentleman-caller.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "gentleman-s-manhattan": {
       "name": "Gentleman's Manhattan",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-gentleman-s-manhattan.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "gibson": {
       "name": "Gibson",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-gibson.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/movie-gibson.webp",
-          "source": "Cocktails from Movies",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "gimlet": {
       "name": "Gimlet",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-gimlet.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "gin-and-juice": {
       "name": "Gin and Juice",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-gin-and-juice.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "gin-and-tonic": {
       "name": "Gin and Tonic",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-gin-and-tonic.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "gin-blossom": {
       "name": "Gin Blossom",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-gin-blossom.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "gin-daisy-old-and-new": {
       "name": "Gin Daisy (Old and New)",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-gin-daisy-old-and-new.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "gin-fizz": {
       "name": "Gin Fizz",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-gin-fizz.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "gin-rickey": {
       "name": "Gin Rickey",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-gin-rickey.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "gin-sour": {
       "name": "Gin Sour",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-gin-sour.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "glasgow-mule": {
       "name": "Glasgow Mule",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-glasgow-mule.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "go-to": {
       "name": "Go-To",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-go-to.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "grasshopper": {
       "name": "Grasshopper",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-grasshopper.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "haze-for-days": {
       "name": "Haze for Days",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-haze-for-days.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "heart-shaped-box": {
       "name": "Heart-Shaped Box",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-heart-shaped-box.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "heirloom-tomato-highball": {
       "name": "Heirloom Tomato Highball",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-heirloom-tomato-highball.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "hemingway-daiquiri": {
       "name": "Hemingway Daiquiri",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-hemingway-daiquiri.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "hibiscus-punch-royale": {
       "name": "Hibiscus Punch Royale",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-hibiscus-punch-royale.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "hop-over": {
       "name": "Hop Over",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-hop-over.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "hot-buttered-faux-rum": {
       "name": "Hot Buttered Faux Rum",
@@ -1608,279 +779,95 @@
     },
     "hot-buttered-rum": {
       "name": "Hot Buttered Rum",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-hot-buttered-rum.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "improved-whiskey-cocktail": {
       "name": "Improved Whiskey Cocktail",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-improved-whiskey-cocktail.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "innuendo": {
       "name": "Innuendo",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-innuendo.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "italian-buck": {
       "name": "Italian Buck",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-italian-buck.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "its-a-bittersweet-life": {
       "name": "It’s A Bittersweet Life",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-its-a-bittersweet-life.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "jalapeno-rosemary-syrup": {
       "name": "Jalapeño-Rosemary Syrup",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-jalapeno-rosemary-syrup.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "joggling-board": {
       "name": "Joggling Board",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-joggling-board.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "jungle-bird": {
       "name": "Jungle Bird",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-jungle-bird.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "kentucky-buck": {
       "name": "Kentucky Buck",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-kentucky-buck.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "kitchen-sink": {
       "name": "Kitchen Sink",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-kitchen-sink.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "knight-takes-bishop": {
       "name": "Knight Takes Bishop",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-knight-takes-bishop.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "la-bomba-daiquiri": {
       "name": "La Bomba Daiquiri",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-la-bomba-daiquiri.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "la-otra-palabra": {
       "name": "La Otra Palabra",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-la-otra-palabra.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "la-parka": {
       "name": "La Parka",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-la-parka.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "la-penca": {
       "name": "La Penca",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-la-penca.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "lady-day": {
       "name": "Lady Day",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-lady-day.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "last-word": {
       "name": "Last Word",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-last-word.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "latin-trifecta": {
       "name": "Latin Trifecta",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-latin-trifecta.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "lawyers-guns-money": {
       "name": "Lawyers, Guns & Money",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-lawyers-guns-money.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "lefty-s-fizz": {
       "name": "Lefty's Fizz",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-lefty-s-fizz.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "lemon-drop": {
       "name": "Lemon Drop",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-lemon-drop.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "long-island-bar-gimlet": {
       "name": "Long Island Bar Gimlet",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-long-island-bar-gimlet.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "long-island-iced-tea": {
       "name": "Long Island Iced Tea",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-long-island-iced-tea.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mai-tai": {
       "name": "Mai Tai",
@@ -1959,51 +946,19 @@
     },
     "manhattan-dry": {
       "name": "Manhattan Dry",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-manhattan-dry.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "manhattan-perfect": {
       "name": "Manhattan Perfect",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-manhattan-perfect.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "manhattan-sour": {
       "name": "Manhattan Sour",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-manhattan-sour.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "maple-nettle-hot-toddy": {
       "name": "Maple Nettle Hot Toddy",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-maple-nettle-hot-toddy.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "maraschino-muddle": {
       "name": "Maraschino Muddle",
@@ -2047,185 +1002,59 @@
     },
     "margarita-bitter-orange": {
       "name": "Margarita Bitter Orange",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-margarita-bitter-orange.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "margarita-cadillac": {
       "name": "Margarita Cadillac",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-margarita-cadillac.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "margarita-frozen": {
       "name": "Margarita Frozen",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-margarita-frozen.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "margarita-hibiscus": {
       "name": "Margarita Hibiscus",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-margarita-hibiscus.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "margarita-smoky-chili": {
       "name": "Margarita Smoky Chili",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-margarita-smoky-chili.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "margarita-spritz-strawberry": {
       "name": "Margarita Spritz Strawberry",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-margarita-spritz-strawberry.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "margarita-tamarind": {
       "name": "Margarita Tamarind",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-margarita-tamarind.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "martinez": {
       "name": "Martinez",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-martinez.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "martini": {
       "name": "Martini",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-martini.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/ryan-martini.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mexican-firing-squad": {
       "name": "Mexican Firing Squad",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-mexican-firing-squad.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/hs-mexican-firing-squad.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mexican-tricycle": {
       "name": "Mexican Tricycle",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-mexican-tricycle.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mezcal-con-pepino": {
       "name": "Mezcal Con Pepino",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-mezcal-con-pepino.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mezcal-floater": {
       "name": "Mezcal Floater",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-mezcal-floater.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mezcal-mule": {
       "name": "Mezcal Mule",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-mezcal-mule.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mezcal-negroni": {
       "name": "Mezcal Negroni",
@@ -2249,106 +1078,35 @@
     },
     "mezcal-paloma": {
       "name": "Mezcal Paloma",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-mezcal-paloma.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mezcal-sipping-broth": {
       "name": "Mezcal Sipping Broth",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-mezcal-sipping-broth.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mezcal-rita": {
       "name": "Mezcal-Rita",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-mezcal-rita.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "michelada": {
       "name": "Michelada",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-michelada.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "millionaire-cocktail": {
       "name": "Millionaire Cocktail",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-millionaire-cocktail.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mimosa": {
       "name": "Mimosa",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-mimosa.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mint-julep": {
       "name": "Mint Julep",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-mint-julep.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/ryan-mint-julep.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "miss-ruda": {
       "name": "Miss Ruda",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-miss-ruda.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mojito": {
       "name": "Mojito",
@@ -2432,219 +1190,75 @@
     },
     "moscow-mule": {
       "name": "Moscow Mule",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-moscow-mule.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mott-and-mulberry": {
       "name": "Mott and Mulberry",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-mott-and-mulberry.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "mountain-man": {
       "name": "Mountain Man",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-mountain-man.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "myrtle-bank-rum-punch": {
       "name": "Myrtle Bank Rum Punch",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-myrtle-bank-rum-punch.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "maquina-verde": {
       "name": "Máquina Verde",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-maquina-verde.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "natoma-st": {
       "name": "Natoma St.",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-natoma-st.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "negroni": {
       "name": "Negroni",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-negroni.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "negroni-sbagliato": {
       "name": "Negroni Sbagliato",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-negroni-sbagliato.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "negroni-sour": {
       "name": "Negroni Sour",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-negroni-sour.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "negroni-tequila": {
       "name": "Negroni Tequila",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-negroni-tequila.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "new-york-sour": {
       "name": "New York Sour",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-new-york-sour.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "oaxaca-express": {
       "name": "Oaxaca Express",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-oaxaca-express.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "oaxaca-old-fashioned": {
       "name": "Oaxaca Old-Fashioned",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-oaxaca-old-fashioned.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "oaxacan-dream": {
       "name": "Oaxacan Dream",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-oaxacan-dream.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "oaxacan-old-fashioned": {
       "name": "Oaxacan Old-Fashioned",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-oaxacan-old-fashioned.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "old-hickory": {
       "name": "Old Hickory",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-old-hickory.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "old-pal": {
       "name": "Old Pal",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-old-pal.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "old-timer": {
       "name": "Old Timer",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-old-timer.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "old-fashioned": {
       "name": "Old-Fashioned",
@@ -2668,39 +1282,15 @@
     },
     "one-way-to-oaxaca": {
       "name": "One Way To Oaxaca",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-one-way-to-oaxaca.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "original-french-75": {
       "name": "Original French 75",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-original-french-75.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "oxford-comma": {
       "name": "Oxford Comma",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-oxford-comma.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "padang-swizzle": {
       "name": "Padang Swizzle",
@@ -2725,159 +1315,55 @@
     },
     "painkiller": {
       "name": "Painkiller",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-painkiller.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "paloma": {
       "name": "Paloma",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-paloma.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "paper-moon": {
       "name": "Paper Moon",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-paper-moon.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "paper-plane": {
       "name": "Paper Plane",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-paper-plane.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "parish-hall-punch": {
       "name": "Parish Hall Punch",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-parish-hall-punch.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "pear-pressure": {
       "name": "Pear Pressure",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-pear-pressure.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "pegu-club": {
       "name": "Pegu Club",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-pegu-club.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "penicillin": {
       "name": "Penicillin",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-penicillin.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "philadelphia-fish-house-punch": {
       "name": "Philadelphia Fish House Punch",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-philadelphia-fish-house-punch.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "picosito": {
       "name": "Picosito",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-picosito.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "pimms-cup": {
       "name": "Pimm’s Cup",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-pimms-cup.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "pink-lady": {
       "name": "Pink Lady",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-pink-lady.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "pisco-sour": {
       "name": "Pisco Sour",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-pisco-sour.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "pina-colada": {
       "name": "Piña Colada",
@@ -2916,51 +1402,19 @@
     },
     "pina-margarita": {
       "name": "Piña Margarita",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-pina-margarita.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "pina-verde": {
       "name": "Piña Verde",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-pina-verde.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "planters-punch": {
       "name": "Planter’s Punch",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-planters-punch.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "planters-punch-rum": {
       "name": "Planter’s Punch Rum",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-planters-punch-rum.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "pomegranate-margarita": {
       "name": "Pomegranate Margarita",
@@ -3004,111 +1458,39 @@
     },
     "pompelmo-sour": {
       "name": "Pompelmo Sour",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-pompelmo-sour.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "poppas-pride": {
       "name": "Poppa’s Pride",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-poppas-pride.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "possession": {
       "name": "Possession*",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-possession.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "purple-rain": {
       "name": "Purple Rain",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-purple-rain.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "ramos-gin-fizz": {
       "name": "Ramos Gin Fizz",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-ramos-gin-fizz.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "red-hook": {
       "name": "Red Hook",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-red-hook.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "red-ice-cube": {
       "name": "Red Ice Cube",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-red-ice-cube.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "remember-the-maine": {
       "name": "Remember the Maine",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-remember-the-maine.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "revolver": {
       "name": "Revolver",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-revolver.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "rhythm-and-soul": {
       "name": "Rhythm and Soul",
@@ -3133,348 +1515,111 @@
     },
     "rob-roy": {
       "name": "Rob Roy",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-rob-roy.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "rome-with-a-view": {
       "name": "Rome with a View",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-rome-with-a-view.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "room-with-a-view": {
       "name": "Room with a View",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-room-with-a-view.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "rose-water-sour": {
       "name": "Rose Water Sour",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-rose-water-sour.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "rosemary-cranberry-holiday-margarita": {
       "name": "Rosemary-Cranberry Holiday Margarita",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-rosemary-cranberry-holiday-margarita.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "royal-pimms-cup": {
       "name": "Royal Pimm’s Cup",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-royal-pimms-cup.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "rusty-nail": {
       "name": "Rusty Nail",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-rusty-nail.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "sakura-martini": {
       "name": "Sakura Martini",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-sakura-martini.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/movie-sakura-martini.webp",
-          "source": "Cocktails from Movies",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "santa-domingo": {
       "name": "Santa Domingo",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-santa-domingo.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "sazerac": {
       "name": "Sazerac",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-sazerac.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/movie-sazerac.webp",
-          "source": "Cocktails from Movies",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "scorpion-bowl": {
       "name": "Scorpion Bowl",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-scorpion-bowl.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "scotch-and-salt": {
       "name": "Scotch and Salt",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-scotch-and-salt.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "screwdriver": {
       "name": "Screwdriver",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-screwdriver.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "second-serve": {
       "name": "Second Serve",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-second-serve.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "serrano-salt": {
       "name": "Serrano Salt",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-serrano-salt.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "sex-on-the-beach": {
       "name": "Sex on the Beach",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-sex-on-the-beach.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "sherry-cobbler": {
       "name": "Sherry Cobbler",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-sherry-cobbler.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "sherry-flip": {
       "name": "Sherry Flip",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-sherry-flip.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "show-me-state": {
       "name": "Show Me State",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-show-me-state.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "sidecar": {
       "name": "Sidecar",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-sidecar.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/movie-sidecar.webp",
-          "source": "Cocktails from Movies",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "singapore-sling": {
       "name": "Singapore Sling",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-singapore-sling.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "sloe-gin-fizz": {
       "name": "Sloe Gin Fizz",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-sloe-gin-fizz.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "smoky-ginger-margarita": {
       "name": "Smoky Ginger Margarita",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-smoky-ginger-margarita.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "southside": {
       "name": "Southside",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-southside.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "speed-of-delight": {
       "name": "Speed Of Delight",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-speed-of-delight.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "spicy-paloma": {
       "name": "Spicy Paloma",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-spicy-paloma.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "stone-fence": {
       "name": "Stone Fence",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-stone-fence.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "summer-herb-margarita": {
       "name": "Summer Herb Margarita",
@@ -3498,267 +1643,91 @@
     },
     "sunday-morning-coming-down": {
       "name": "Sunday Morning Coming Down",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-sunday-morning-coming-down.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "sunset-strip": {
       "name": "Sunset Strip",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-sunset-strip.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "suppressor-1": {
       "name": "Suppressor #1",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-suppressor-1.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "sweet-lips": {
       "name": "Sweet Lips*",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-sweet-lips.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "tamarind-syrup": {
       "name": "Tamarind Syrup",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-tamarind-syrup.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "tequila-manhattan": {
       "name": "Tequila Manhattan",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-tequila-manhattan.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "tequila-sunrise": {
       "name": "Tequila Sunrise",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-tequila-sunrise.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "the-bronx": {
       "name": "The Bronx",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-the-bronx.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "the-dirty-spy": {
       "name": "The Dirty Spy",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-the-dirty-spy.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "the-fleur-du-mal": {
       "name": "The Fleur du Mal",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-the-fleur-du-mal.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "the-godfather": {
       "name": "The Godfather",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-the-godfather.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "the-hardest-walk": {
       "name": "The Hardest Walk",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-the-hardest-walk.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "the-high-roller": {
       "name": "The High Roller",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-the-high-roller.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "the-moontower": {
       "name": "The Moontower",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-the-moontower.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "the-slammer": {
       "name": "The Slammer",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-the-slammer.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "the-smoking-gun": {
       "name": "The Smoking Gun",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-the-smoking-gun.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "there-will-be-blood-orange": {
       "name": "There Will Be Blood (Orange)",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-there-will-be-blood-orange.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "thunder-punch": {
       "name": "Thunder Punch",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-thunder-punch.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "time-in-tulum": {
       "name": "Time In Tulum",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-time-in-tulum.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "ti-punch": {
       "name": "Ti’ Punch",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-ti-punch.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "tokyo-drift": {
       "name": "Tokyo Drift",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-tokyo-drift.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "tom-jerry": {
       "name": "Tom & Jerry",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-tom-jerry.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "tom-collins": {
       "name": "Tom Collins",
@@ -3782,233 +1751,75 @@
     },
     "tommys-margarita": {
       "name": "Tommy’s Margarita",
-      "candidates": [
-        {
-          "path": "assets/recipes/ryan-tommys-margarita.webp",
-          "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "trident": {
       "name": "Trident",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-trident.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "true-romance": {
       "name": "True Romance",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-true-romance.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "turmeric-ginger-honey-syrup": {
       "name": "Turmeric-Ginger Honey Syrup",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-turmeric-ginger-honey-syrup.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "tuxedo": {
       "name": "Tuxedo",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-tuxedo.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "under-the-volcano": {
       "name": "Under The Volcano",
-      "candidates": [
-        {
-          "path": "assets/recipes/hs-under-the-volcano.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "uxmal-city": {
       "name": "Uxmal City",
-      "candidates": [
-        {
-          "path": "assets/recipes/agave-uxmal-city.webp",
-          "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "vesper": {
       "name": "Vesper",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-vesper.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "vieux-carre": {
       "name": "Vieux Carré",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-vieux-carre.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "vodka-blush": {
       "name": "Vodka Blush",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-vodka-blush.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "weathered-axe": {
       "name": "Weathered Axe",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-weathered-axe.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "when-you-re-a-jet": {
       "name": "When You're a Jet",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-when-you-re-a-jet.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "whiskey-danger": {
       "name": "Whiskey Danger",
-      "candidates": [
-        {
-          "path": "assets/recipes/movie-whiskey-danger.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "whiskey-smash": {
       "name": "Whiskey Smash",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-whiskey-smash.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "whiskey-sour": {
       "name": "Whiskey Sour",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-whiskey-sour.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/movie-whiskey-sour.webp",
-          "source": "Cocktails from Movies",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "white-negroni": {
       "name": "White Negroni",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-white-negroni.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "white-negroni-sbagliato": {
       "name": "White Negroni Sbagliato",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-white-negroni-sbagliato.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "white-russian": {
       "name": "White Russian",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-white-russian.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/movie-white-russian.webp",
-          "source": "Cocktails from Movies",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "zombie": {
       "name": "Zombie",
@@ -4032,15 +1843,7 @@
     },
     "queens-park-swizzle": {
       "name": "Queen’s Park Swizzle",
-      "candidates": [
-        {
-          "path": "assets/recipes/ess-queen-s-park-swizzle.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        }
-      ]
+      "candidates": []
     },
     "special-daiquiri-no-1": {
       "name": "Special Daiquiri No. 1",
@@ -4218,7 +2021,7 @@
           "page": 219,
           "width": 1200,
           "height": 1499,
-          "sha256": "c719f3c451e7a2ff68de7ca254bd62ba2fbfb99c3da8ba88f9b3b927bb5758d6"
+          "sha256": "47e07bd649c107d97991c1f3d5d58c46e95d31926e8aa0c9f8a471178bc68fc5"
         }
       ]
     },

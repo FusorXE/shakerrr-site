@@ -1,0 +1,2210 @@
+[
+  {
+    "id": "tis-the-seasontini",
+    "path": "assets/recipes/movie-tis-the-seasontini.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "7-7",
+    "path": "assets/recipes/movie-7-7.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "a-dark-art",
+    "path": "assets/recipes/movie-a-dark-art.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "a-promise-s-ghost",
+    "path": "assets/recipes/movie-a-promise-s-ghost.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "absinthe-frappe",
+    "path": "assets/recipes/ess-absinthe-frappe.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "absolut-bitch",
+    "path": "assets/recipes/movie-absolut-bitch.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "admiral-cocktail",
+    "path": "assets/recipes/movie-admiral-cocktail.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "adonis",
+    "path": "assets/recipes/ess-adonis.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "airmail",
+    "path": "assets/recipes/ess-airmail.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "all-purpose-margarita",
+    "path": "assets/recipes/agave-all-purpose-margarita.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "alternative-aviation",
+    "path": "assets/recipes/movie-alternative-aviation.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "american-trilogy",
+    "path": "assets/recipes/ess-american-trilogy.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "americano",
+    "path": "assets/recipes/ess-americano.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "americano-perfecto",
+    "path": "assets/recipes/ess-americano-perfecto.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "angel-s-kiss",
+    "path": "assets/recipes/movie-angel-s-kiss.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "angostura-colada",
+    "path": "assets/recipes/ess-angostura-colada.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "aperol-spritz",
+    "path": "assets/recipes/ess-aperol-spritz.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "archangel",
+    "path": "assets/recipes/ess-archangel.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "aviation",
+    "path": "assets/recipes/ess-aviation.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "bamboo",
+    "path": "assets/recipes/ess-bamboo.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "banana-punch",
+    "path": "assets/recipes/movie-banana-punch.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "barber-of-seville",
+    "path": "assets/recipes/ess-barber-of-seville.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "be-my-wine",
+    "path": "assets/recipes/movie-be-my-wine.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "bee-s-knees",
+    "path": "assets/recipes/ess-bee-s-knees.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "benton-s-old-fashioned",
+    "path": "assets/recipes/ess-benton-s-old-fashioned.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "bicicletta",
+    "path": "assets/recipes/ess-bicicletta.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "bijou",
+    "path": "assets/recipes/ess-bijou.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "bitter-intentions",
+    "path": "assets/recipes/ess-bitter-intentions.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "bitter-mai-tai",
+    "path": "assets/recipes/ess-bitter-mai-tai.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "black-velvet",
+    "path": "assets/recipes/ess-black-velvet.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "blood-and-sand",
+    "path": "assets/recipes/ess-blood-and-sand.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "blood-lust-diamonds",
+    "path": "assets/recipes/movie-blood-lust-diamonds.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "bloody-mary",
+    "path": "assets/recipes/ess-bloody-mary.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "bloody-mary",
+    "path": "assets/recipes/movie-bloody-mary.webp",
+    "source": "Cocktails from Movies",
+    "scope": "version",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "boo-radley",
+    "path": "assets/recipes/ess-boo-radley.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "boulevardier",
+    "path": "assets/recipes/ess-boulevardier.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "bramble",
+    "path": "assets/recipes/ess-bramble.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "brancolada",
+    "path": "assets/recipes/ess-brancolada.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "brooklyn",
+    "path": "assets/recipes/ess-brooklyn.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "brown-derby",
+    "path": "assets/recipes/ess-brown-derby.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "bull-shot",
+    "path": "assets/recipes/movie-bull-shot.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "buttermaker",
+    "path": "assets/recipes/movie-buttermaker.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "caipirinha",
+    "path": "assets/recipes/ess-caipirinha.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "campari-radler",
+    "path": "assets/recipes/ess-campari-radler.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "cards-on-the-table",
+    "path": "assets/recipes/movie-cards-on-the-table.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "chacmool-hibol",
+    "path": "assets/recipes/agave-chacmool-hibol.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "champagne-cocktail",
+    "path": "assets/recipes/ess-champagne-cocktail.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "charles-dickens-s-punch",
+    "path": "assets/recipes/ess-charles-dickens-s-punch.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "chartreuse-swizzle",
+    "path": "assets/recipes/ess-chartreuse-swizzle.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "chicago-cocktail",
+    "path": "assets/recipes/movie-chicago-cocktail.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "christmas-mojito",
+    "path": "assets/recipes/ryan-christmas-mojito.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "classic-rum-punch",
+    "path": "assets/recipes/ryan-classic-rum-punch.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "clover-club",
+    "path": "assets/recipes/ess-clover-club.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "coconut-creamsicle",
+    "path": "assets/recipes/agave-coconut-creamsicle.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "coconut-basil-cream",
+    "path": "assets/recipes/agave-coconut-basil-cream.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "corpse-reviver-no-2",
+    "path": "assets/recipes/ess-corpse-reviver-no-2.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "corpse-reviver-no-2",
+    "path": "assets/recipes/movie-corpse-reviver-no-2.webp",
+    "source": "Cocktails from Movies",
+    "scope": "version",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "daniel-webster-s-punch",
+    "path": "assets/recipes/ess-daniel-webster-s-punch.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "dark-n-stormy",
+    "path": "assets/recipes/ess-dark-n-stormy.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "de-la-louisiane",
+    "path": "assets/recipes/ess-de-la-louisiane.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "death-in-the-afternoon",
+    "path": "assets/recipes/ess-death-in-the-afternoon.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "death-to-el-gusano",
+    "path": "assets/recipes/hs-death-to-el-gusano.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "dirty-martini",
+    "path": "assets/recipes/movie-dirty-martini.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "division-bell",
+    "path": "assets/recipes/hs-division-bell.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "dorothy-s-delight",
+    "path": "assets/recipes/ess-dorothy-s-delight.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "earl-grey-paloma",
+    "path": "assets/recipes/agave-earl-grey-paloma.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "el-ardido",
+    "path": "assets/recipes/agave-el-ardido.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "elote-margarita",
+    "path": "assets/recipes/agave-elote-margarita.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "elotero",
+    "path": "assets/recipes/agave-elotero.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "espresso-martini",
+    "path": "assets/recipes/movie-espresso-martini.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "espresso-mezcaltini",
+    "path": "assets/recipes/agave-espresso-mezcaltini.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "everybody-s-girl",
+    "path": "assets/recipes/movie-everybody-s-girl.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "exit-music",
+    "path": "assets/recipes/hs-exit-music.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "ferrari-named-desire",
+    "path": "assets/recipes/movie-ferrari-named-desire.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "filibuster",
+    "path": "assets/recipes/ess-filibuster.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "fitty-fitty-martini",
+    "path": "assets/recipes/ess-fitty-fitty-martini.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "flannel-shirt",
+    "path": "assets/recipes/ess-flannel-shirt.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "flatiron-martini",
+    "path": "assets/recipes/ess-flatiron-martini.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "florodora",
+    "path": "assets/recipes/ess-florodora.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "french-75",
+    "path": "assets/recipes/ess-french-75.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "french-negroni",
+    "path": "assets/recipes/movie-french-negroni.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "frozen-negroni",
+    "path": "assets/recipes/ess-frozen-negroni.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "garibaldi",
+    "path": "assets/recipes/ess-garibaldi.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "gentleman-caller",
+    "path": "assets/recipes/movie-gentleman-caller.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "gentleman-s-manhattan",
+    "path": "assets/recipes/movie-gentleman-s-manhattan.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "gibson",
+    "path": "assets/recipes/ess-gibson.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "gibson",
+    "path": "assets/recipes/movie-gibson.webp",
+    "source": "Cocktails from Movies",
+    "scope": "version",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "gimlet",
+    "path": "assets/recipes/ess-gimlet.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "gin-and-juice",
+    "path": "assets/recipes/ess-gin-and-juice.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "gin-and-tonic",
+    "path": "assets/recipes/ess-gin-and-tonic.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "gin-blossom",
+    "path": "assets/recipes/ess-gin-blossom.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "gin-daisy-old-and-new",
+    "path": "assets/recipes/ess-gin-daisy-old-and-new.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "gin-fizz",
+    "path": "assets/recipes/ess-gin-fizz.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "gin-rickey",
+    "path": "assets/recipes/ess-gin-rickey.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "gin-sour",
+    "path": "assets/recipes/ess-gin-sour.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "glasgow-mule",
+    "path": "assets/recipes/ess-glasgow-mule.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "go-to",
+    "path": "assets/recipes/ess-go-to.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "grasshopper",
+    "path": "assets/recipes/movie-grasshopper.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "haze-for-days",
+    "path": "assets/recipes/movie-haze-for-days.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "heart-shaped-box",
+    "path": "assets/recipes/ess-heart-shaped-box.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "heirloom-tomato-highball",
+    "path": "assets/recipes/agave-heirloom-tomato-highball.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "hemingway-daiquiri",
+    "path": "assets/recipes/ess-hemingway-daiquiri.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "hibiscus-punch-royale",
+    "path": "assets/recipes/ess-hibiscus-punch-royale.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "hop-over",
+    "path": "assets/recipes/ess-hop-over.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "hot-buttered-rum",
+    "path": "assets/recipes/movie-hot-buttered-rum.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "improved-whiskey-cocktail",
+    "path": "assets/recipes/ess-improved-whiskey-cocktail.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "innuendo",
+    "path": "assets/recipes/movie-innuendo.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "italian-buck",
+    "path": "assets/recipes/ess-italian-buck.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "its-a-bittersweet-life",
+    "path": "assets/recipes/agave-its-a-bittersweet-life.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "jalapeno-rosemary-syrup",
+    "path": "assets/recipes/agave-jalapeno-rosemary-syrup.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "joggling-board",
+    "path": "assets/recipes/ess-joggling-board.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "jungle-bird",
+    "path": "assets/recipes/ess-jungle-bird.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "kentucky-buck",
+    "path": "assets/recipes/ess-kentucky-buck.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "kitchen-sink",
+    "path": "assets/recipes/movie-kitchen-sink.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "knight-takes-bishop",
+    "path": "assets/recipes/movie-knight-takes-bishop.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "la-bomba-daiquiri",
+    "path": "assets/recipes/ess-la-bomba-daiquiri.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "la-otra-palabra",
+    "path": "assets/recipes/hs-la-otra-palabra.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "la-parka",
+    "path": "assets/recipes/hs-la-parka.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "la-penca",
+    "path": "assets/recipes/agave-la-penca.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "lady-day",
+    "path": "assets/recipes/movie-lady-day.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "last-word",
+    "path": "assets/recipes/ess-last-word.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "latin-trifecta",
+    "path": "assets/recipes/ess-latin-trifecta.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "lawyers-guns-money",
+    "path": "assets/recipes/movie-lawyers-guns-money.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "lefty-s-fizz",
+    "path": "assets/recipes/ess-lefty-s-fizz.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "lemon-drop",
+    "path": "assets/recipes/movie-lemon-drop.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "long-island-bar-gimlet",
+    "path": "assets/recipes/ess-long-island-bar-gimlet.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "long-island-iced-tea",
+    "path": "assets/recipes/movie-long-island-iced-tea.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "manhattan-dry",
+    "path": "assets/recipes/ryan-manhattan-dry.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "manhattan-perfect",
+    "path": "assets/recipes/ryan-manhattan-perfect.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "manhattan-sour",
+    "path": "assets/recipes/movie-manhattan-sour.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "maple-nettle-hot-toddy",
+    "path": "assets/recipes/agave-maple-nettle-hot-toddy.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "margarita-bitter-orange",
+    "path": "assets/recipes/ryan-margarita-bitter-orange.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "margarita-cadillac",
+    "path": "assets/recipes/ryan-margarita-cadillac.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "margarita-frozen",
+    "path": "assets/recipes/ryan-margarita-frozen.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "margarita-hibiscus",
+    "path": "assets/recipes/ryan-margarita-hibiscus.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "margarita-smoky-chili",
+    "path": "assets/recipes/ryan-margarita-smoky-chili.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "margarita-spritz-strawberry",
+    "path": "assets/recipes/ryan-margarita-spritz-strawberry.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "margarita-tamarind",
+    "path": "assets/recipes/ryan-margarita-tamarind.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "martinez",
+    "path": "assets/recipes/ess-martinez.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "martini",
+    "path": "assets/recipes/ess-martini.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "martini",
+    "path": "assets/recipes/ryan-martini.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "version",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mexican-firing-squad",
+    "path": "assets/recipes/ess-mexican-firing-squad.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mexican-firing-squad",
+    "path": "assets/recipes/hs-mexican-firing-squad.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "version",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mexican-tricycle",
+    "path": "assets/recipes/ess-mexican-tricycle.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mezcal-con-pepino",
+    "path": "assets/recipes/hs-mezcal-con-pepino.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mezcal-floater",
+    "path": "assets/recipes/hs-mezcal-floater.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mezcal-mule",
+    "path": "assets/recipes/hs-mezcal-mule.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mezcal-paloma",
+    "path": "assets/recipes/agave-mezcal-paloma.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mezcal-sipping-broth",
+    "path": "assets/recipes/agave-mezcal-sipping-broth.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mezcal-rita",
+    "path": "assets/recipes/agave-mezcal-rita.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "michelada",
+    "path": "assets/recipes/ess-michelada.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "millionaire-cocktail",
+    "path": "assets/recipes/ess-millionaire-cocktail.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mimosa",
+    "path": "assets/recipes/movie-mimosa.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mint-julep",
+    "path": "assets/recipes/ess-mint-julep.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mint-julep",
+    "path": "assets/recipes/ryan-mint-julep.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "version",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "miss-ruda",
+    "path": "assets/recipes/agave-miss-ruda.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "moscow-mule",
+    "path": "assets/recipes/ess-moscow-mule.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mott-and-mulberry",
+    "path": "assets/recipes/ess-mott-and-mulberry.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "mountain-man",
+    "path": "assets/recipes/ess-mountain-man.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "myrtle-bank-rum-punch",
+    "path": "assets/recipes/ryan-myrtle-bank-rum-punch.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "maquina-verde",
+    "path": "assets/recipes/agave-maquina-verde.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "natoma-st",
+    "path": "assets/recipes/ess-natoma-st.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "negroni",
+    "path": "assets/recipes/ess-negroni.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "negroni-sbagliato",
+    "path": "assets/recipes/ess-negroni-sbagliato.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "negroni-sour",
+    "path": "assets/recipes/ryan-negroni-sour.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "negroni-tequila",
+    "path": "assets/recipes/ryan-negroni-tequila.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "new-york-sour",
+    "path": "assets/recipes/ess-new-york-sour.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "oaxaca-express",
+    "path": "assets/recipes/agave-oaxaca-express.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "oaxaca-old-fashioned",
+    "path": "assets/recipes/ess-oaxaca-old-fashioned.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "oaxacan-dream",
+    "path": "assets/recipes/hs-oaxacan-dream.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "oaxacan-old-fashioned",
+    "path": "assets/recipes/hs-oaxacan-old-fashioned.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "old-hickory",
+    "path": "assets/recipes/ess-old-hickory.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "old-pal",
+    "path": "assets/recipes/ess-old-pal.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "old-timer",
+    "path": "assets/recipes/movie-old-timer.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "one-way-to-oaxaca",
+    "path": "assets/recipes/agave-one-way-to-oaxaca.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "original-french-75",
+    "path": "assets/recipes/movie-original-french-75.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "oxford-comma",
+    "path": "assets/recipes/ess-oxford-comma.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "painkiller",
+    "path": "assets/recipes/ess-painkiller.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "paloma",
+    "path": "assets/recipes/ess-paloma.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "paper-moon",
+    "path": "assets/recipes/movie-paper-moon.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "paper-plane",
+    "path": "assets/recipes/ess-paper-plane.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "parish-hall-punch",
+    "path": "assets/recipes/ess-parish-hall-punch.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "pear-pressure",
+    "path": "assets/recipes/movie-pear-pressure.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "pegu-club",
+    "path": "assets/recipes/ess-pegu-club.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "penicillin",
+    "path": "assets/recipes/ess-penicillin.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "philadelphia-fish-house-punch",
+    "path": "assets/recipes/ess-philadelphia-fish-house-punch.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "picosito",
+    "path": "assets/recipes/agave-picosito.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "pimms-cup",
+    "path": "assets/recipes/ess-pimms-cup.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "pink-lady",
+    "path": "assets/recipes/movie-pink-lady.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "pisco-sour",
+    "path": "assets/recipes/ess-pisco-sour.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "pina-margarita",
+    "path": "assets/recipes/agave-pina-margarita.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "pina-verde",
+    "path": "assets/recipes/ess-pina-verde.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "planters-punch",
+    "path": "assets/recipes/ess-planters-punch.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "planters-punch-rum",
+    "path": "assets/recipes/ryan-planters-punch-rum.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "pompelmo-sour",
+    "path": "assets/recipes/ess-pompelmo-sour.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "poppas-pride",
+    "path": "assets/recipes/ess-poppas-pride.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "possession",
+    "path": "assets/recipes/hs-possession.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "purple-rain",
+    "path": "assets/recipes/movie-purple-rain.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "ramos-gin-fizz",
+    "path": "assets/recipes/ess-ramos-gin-fizz.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "red-hook",
+    "path": "assets/recipes/ess-red-hook.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "red-ice-cube",
+    "path": "assets/recipes/agave-red-ice-cube.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "remember-the-maine",
+    "path": "assets/recipes/ess-remember-the-maine.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "revolver",
+    "path": "assets/recipes/ess-revolver.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "rob-roy",
+    "path": "assets/recipes/ess-rob-roy.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "rome-with-a-view",
+    "path": "assets/recipes/ess-rome-with-a-view.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "room-with-a-view",
+    "path": "assets/recipes/movie-room-with-a-view.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "rose-water-sour",
+    "path": "assets/recipes/movie-rose-water-sour.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "rosemary-cranberry-holiday-margarita",
+    "path": "assets/recipes/agave-rosemary-cranberry-holiday-margarita.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "royal-pimms-cup",
+    "path": "assets/recipes/ess-royal-pimms-cup.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "rusty-nail",
+    "path": "assets/recipes/movie-rusty-nail.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sakura-martini",
+    "path": "assets/recipes/ess-sakura-martini.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sakura-martini",
+    "path": "assets/recipes/movie-sakura-martini.webp",
+    "source": "Cocktails from Movies",
+    "scope": "version",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "santa-domingo",
+    "path": "assets/recipes/hs-santa-domingo.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sazerac",
+    "path": "assets/recipes/ess-sazerac.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sazerac",
+    "path": "assets/recipes/movie-sazerac.webp",
+    "source": "Cocktails from Movies",
+    "scope": "version",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "scorpion-bowl",
+    "path": "assets/recipes/ess-scorpion-bowl.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "scotch-and-salt",
+    "path": "assets/recipes/movie-scotch-and-salt.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "screwdriver",
+    "path": "assets/recipes/movie-screwdriver.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "second-serve",
+    "path": "assets/recipes/ess-second-serve.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "serrano-salt",
+    "path": "assets/recipes/agave-serrano-salt.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sex-on-the-beach",
+    "path": "assets/recipes/movie-sex-on-the-beach.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sherry-cobbler",
+    "path": "assets/recipes/ess-sherry-cobbler.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sherry-flip",
+    "path": "assets/recipes/ess-sherry-flip.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "show-me-state",
+    "path": "assets/recipes/ess-show-me-state.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sidecar",
+    "path": "assets/recipes/ess-sidecar.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sidecar",
+    "path": "assets/recipes/movie-sidecar.webp",
+    "source": "Cocktails from Movies",
+    "scope": "version",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "singapore-sling",
+    "path": "assets/recipes/ess-singapore-sling.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sloe-gin-fizz",
+    "path": "assets/recipes/ess-sloe-gin-fizz.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "smoky-ginger-margarita",
+    "path": "assets/recipes/agave-smoky-ginger-margarita.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "southside",
+    "path": "assets/recipes/ess-southside.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "speed-of-delight",
+    "path": "assets/recipes/hs-speed-of-delight.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "spicy-paloma",
+    "path": "assets/recipes/agave-spicy-paloma.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "stone-fence",
+    "path": "assets/recipes/ess-stone-fence.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sunday-morning-coming-down",
+    "path": "assets/recipes/movie-sunday-morning-coming-down.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sunset-strip",
+    "path": "assets/recipes/movie-sunset-strip.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "suppressor-1",
+    "path": "assets/recipes/ess-suppressor-1.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "sweet-lips",
+    "path": "assets/recipes/hs-sweet-lips.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "tamarind-syrup",
+    "path": "assets/recipes/agave-tamarind-syrup.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "tequila-manhattan",
+    "path": "assets/recipes/agave-tequila-manhattan.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "tequila-sunrise",
+    "path": "assets/recipes/ryan-tequila-sunrise.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "the-bronx",
+    "path": "assets/recipes/movie-the-bronx.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "the-dirty-spy",
+    "path": "assets/recipes/movie-the-dirty-spy.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "the-fleur-du-mal",
+    "path": "assets/recipes/movie-the-fleur-du-mal.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "the-godfather",
+    "path": "assets/recipes/movie-the-godfather.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "the-hardest-walk",
+    "path": "assets/recipes/movie-the-hardest-walk.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "the-high-roller",
+    "path": "assets/recipes/movie-the-high-roller.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "the-moontower",
+    "path": "assets/recipes/movie-the-moontower.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "the-slammer",
+    "path": "assets/recipes/movie-the-slammer.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "the-smoking-gun",
+    "path": "assets/recipes/movie-the-smoking-gun.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "there-will-be-blood-orange",
+    "path": "assets/recipes/hs-there-will-be-blood-orange.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "thunder-punch",
+    "path": "assets/recipes/movie-thunder-punch.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "time-in-tulum",
+    "path": "assets/recipes/agave-time-in-tulum.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "ti-punch",
+    "path": "assets/recipes/ess-ti-punch.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "tokyo-drift",
+    "path": "assets/recipes/ess-tokyo-drift.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "tom-jerry",
+    "path": "assets/recipes/movie-tom-jerry.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "tommys-margarita",
+    "path": "assets/recipes/ryan-tommys-margarita.webp",
+    "source": "Essential Cocktails 2021",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "trident",
+    "path": "assets/recipes/ess-trident.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "true-romance",
+    "path": "assets/recipes/movie-true-romance.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "turmeric-ginger-honey-syrup",
+    "path": "assets/recipes/agave-turmeric-ginger-honey-syrup.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "tuxedo",
+    "path": "assets/recipes/ess-tuxedo.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "under-the-volcano",
+    "path": "assets/recipes/hs-under-the-volcano.webp",
+    "source": "Shakerrr Mezcal Library",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "uxmal-city",
+    "path": "assets/recipes/agave-uxmal-city.webp",
+    "source": "Agave Companion",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "vesper",
+    "path": "assets/recipes/ess-vesper.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "vieux-carre",
+    "path": "assets/recipes/ess-vieux-carre.webp",
+    "source": "Death & Co",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "vodka-blush",
+    "path": "assets/recipes/movie-vodka-blush.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "weathered-axe",
+    "path": "assets/recipes/ess-weathered-axe.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "when-you-re-a-jet",
+    "path": "assets/recipes/movie-when-you-re-a-jet.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "whiskey-danger",
+    "path": "assets/recipes/movie-whiskey-danger.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "whiskey-smash",
+    "path": "assets/recipes/ess-whiskey-smash.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "whiskey-sour",
+    "path": "assets/recipes/ess-whiskey-sour.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "whiskey-sour",
+    "path": "assets/recipes/movie-whiskey-sour.webp",
+    "source": "Cocktails from Movies",
+    "scope": "version",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "white-negroni",
+    "path": "assets/recipes/ess-white-negroni.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "white-negroni-sbagliato",
+    "path": "assets/recipes/ess-white-negroni-sbagliato.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "white-russian",
+    "path": "assets/recipes/ess-white-russian.webp",
+    "source": "Cocktails from Movies",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "white-russian",
+    "path": "assets/recipes/movie-white-russian.webp",
+    "source": "Cocktails from Movies",
+    "scope": "version",
+    "available": false,
+    "status": "referenced-not-committed"
+  },
+  {
+    "id": "queens-park-swizzle",
+    "path": "assets/recipes/ess-queen-s-park-swizzle.webp",
+    "source": "Essential Cocktail Book",
+    "scope": "base",
+    "available": false,
+    "status": "referenced-not-committed"
+  }
+]

@@ -40,7 +40,6 @@
         "instructions": "Shake all ingredients with ice until chilled. Strain into a cocktail glass.",
         "note": "Paired in the book with White Christmas (1954).",
         "creator": "",
-        "image": "assets/recipes/movie-tis-the-seasontini.webp",
         "usable": true,
         "garnish": "Dusting of cinnamon (optional)",
         "glass": "Cocktail glass",
@@ -117,7 +116,6 @@
         "instructions": "Shake all ingredients with ice until chilled. Pour into a rocks or Collins glass over crushed or pebble ice and top with additional ice.",
         "note": "“At the first cold sip on your fevered lip, you determine to live through the day.” So went the ode “Absinthe Frappé” from the 1904 musical It Happened in Nordland. This drink hails from a time when absinthe was a very popular aperitif (pre-1912 ban) and an acceptable morning pick-me-up. Simple, icy, aud strong, the frappé is a less fussy alternative to the pomp and circumstance of traditional absinthe service.",
         "creator": "",
-        "image": "assets/recipes/ess-absinthe-frappe.webp",
         "usable": true,
         "page": "32",
         "glass": "Rocks or Collins glass",
@@ -182,7 +180,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a chilled coupe or cocktail glass. Garnish with an orange peel.",
         "note": "A canonical nineteenth-century sherry aperitif, the Adonis was named after the 1884 Broadway burlesque show of the same name, which is often credited as the first-ever Broadway musical. While the production enjoyed its popularity, the Waldorf Astoria hotel created a cocktail in its honor; its brawny base of fino sherry, combined with orange bitters and sweet vermouth, sets it apart from its cousin, the leaner, drier Bamboo (page 45).",
         "creator": "Bitters, Preferably",
-        "image": "assets/recipes/ess-adonis.webp",
         "usable": true
       }
     ],
@@ -386,7 +383,6 @@
         "instructions": "Shake rum, lime juice, and honey syrup with ice until chilled. Strain over ice into a Collins glass, top with Champagne, and add a straw.",
         "note": "The first attempt at modern airmail, though not fully official on account of the plane breaking down, was documented in 1911. Fred Wiseman traveled ina plane he built himself from Petaluma, California, to Santa Rosa, California, with exactly three pieces of correspondence. The first instance of the Airmail cocktail was documented in Esquire magazine’s 1949 edition of Handbook for Hosts. It’s not certain why the drink is named for the modern delivery method, but it can be said that the Airmail is quite transportive, like a Caribbean version of a French 75 (page 86).",
         "creator": "1/2Ounces Gold Rum,",
-        "image": "assets/recipes/ess-airmail.webp",
         "usable": true,
         "page": "37",
         "garnish": "Lime or orange peel",
@@ -480,7 +476,6 @@
         "instructions": "Rim half of a rocks glass with salt and set aside. Shake the ingredients with ice to chill and dilute, and strain over fresh ice into the rimmed glass. Mangito Sonidero Margarita",
         "note": "This basic recipe is inspired by Julio Bermejo’s Tommy’s Margarita, which highlights the flavor of the tequila and celebrates agave as the star. Once mastered, it can serve as the base for all kinds of margaritas. Simple, classic, and delicious. Salt, for rim",
         "creator": "",
-        "image": "assets/recipes/agave-all-purpose-margarita.webp",
         "usable": true
       }
     ],
@@ -544,7 +539,6 @@
         "instructions": "Add sugar cube to a rocks glass and saturate with orange bitters. Gently muddle to make a granulated paste. Add rye, applejack, and ice (preferably an oversize cube). Garnish with a long, curly orange peel.",
         "note": "The Old-Fashioned (page 142) is indisputably the emblem of the Prohibition-era cocktail renaissance of the past fifteen years. In that time, it has seen loads of riffs and iterations—and an entire book devoted to it. Most often, bartenders tinker with the drink by swapping out the base spirit (whiskey) for something else, be it mezcal, aged rum, or another spirit, and leave the rest alone. However, when Richard Boccato and Michael Mcllroy worked together at Little Branch in New York City, they collaborated to tweak every element, taking the drink to a deeper, darker place. They split the rye with applejack, used a brown sugar cube for richnes",
         "creator": "Richard Boccato And Michael Mcilroy, New York, Ny",
-        "image": "assets/recipes/ess-american-trilogy.webp",
         "usable": true
       }
     ],
@@ -677,7 +671,6 @@
         "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Pour into a snifter and fill with crushed ice. Stir gently and garnish with an orange slice, pineapple leaves, freshly grated nutmeg, and an umbrella. ;",
         "note": "A new wave of coladas has begun to crop up that all swap the usual rum base for something with more complex spice or herbal flavors. Here, Zac Overman replaces most of the rum with Angostura bitters—and not just a few dashes but a whole 14 ounces of them. “Angostura bitters have everything yow’re looking for in a good tiki cocktail—layers and layers of flavor, warm exotic spices, high proof. I sort of look at it like a supercharged spiced rum,” Overman says. A bit of lime and overproof rum smooth out and balance the lip-curling bitters, while pineapple and cream of coconut maintain the drink’s tropical spirit.",
         "creator": "Zac Overman, L’'Oursin, Seattle, Wa",
-        "image": "assets/recipes/ess-angostura-colada.webp",
         "usable": true
       }
     ],
@@ -738,7 +731,6 @@
         "instructions": "Add Aperol, sparkling wine, and soda water to a Collins or wineglass. Add ice and stir gently. Garnish with an orange or lemon slice.",
         "note": "The spritz construct of sparkling wine, bitter liqueur, and bubbly water is incredibly versatile. But Aperol, the sunset-colored Italian bitter liqueur from Padua, is the classic, providing the lightly sweet base for this afternoon cooler.",
         "creator": "Wine, Preferably",
-        "image": "assets/recipes/ess-aperol-spritz.webp",
         "usable": true
       }
     ],
@@ -1091,7 +1083,6 @@
         "instructions": "Add all ingredients to a cocktail NOTE The Aviation can be shaker. Fill shaker with ice and a tricky cocktail to balance shake until chilled.",
         "note": "The comings and goings of classic drinks ride on the availability of ingredients as much as on the wings of fashion. After its 1916 debut in Hugo Ensslin’s Recipes for Mixed Drinks, this pale violet concoction was lost for almost half a century: first, the cocktail bible of the era, the Savoy Cocktail Book, inexplicably dropped the recipe in the 1930s. Then, créme de violette, its hallmark ingredient, was discontinued altogether in the 1960s. In 2007, however, Rothman & Winter re-created the liqueur, making the original Aviation recipe possible again, to the delight of a new generation of bartenders who have since championed this previously f",
         "creator": "De Violette,",
-        "image": "assets/recipes/ess-aviation.webp",
         "usable": true
       },
       {
@@ -1189,7 +1180,6 @@
         "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "Of the stirred aperitif drinks of the nineteenth century that involve sherry, two are riffed on again and again, and their names ofter clues to their respective styles: the Bamboo is lean and tough, and the brawnier Adonis (page 34), a sort of classical beefcake. Both were conceived around the same time but in different countries. The Bamboo was one of Japan’s original cocktails, created by Louis Eppinger, a German bartender (and contemporary of Jerry Thomas) at the Grand Hotel in Yokohama.",
         "creator": "",
-        "image": "assets/recipes/ess-bamboo.webp",
         "usable": true,
         "page": "45",
         "garnish": "Lemon twist",
@@ -1384,7 +1374,6 @@
         "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a rocks glass or julep tin and top with crushed ice. Garnish With crushed Marcona almonds and fine orange zest.",
         "note": "Named for the nineteenth-century Rossini opera, the Barber of Seville is what Will Elliott calls an inverted julep or a sherry swizzle witha rye accent. In a true case of necessity serving as the mother of invention, Elliott created this by playing around with the only bottles he had at home one night. When he mixed rye, sherry, Cappelletti, and some orgeat, he was surprised by the fact that the drink tasted like something you’d get ina bakery. “There was a hint of salinity from the manzanilla, a cereal taste from the rye, and a hint of orange flower water, as used in Italian baked goods, from the orgeat,” he says.",
         "creator": "Will Elliott, Maison Premiere And Sauvage, Brooklyn, Ny",
-        "image": "assets/recipes/ess-barber-of-seville.webp",
         "usable": true
       }
     ],
@@ -1979,7 +1968,6 @@
         "instructions": "Combine the molten fat with chilled. Strain into a rocks glass 750 ml bourbon in a large over ice (preferably a large cube). nonreactive container and stir.",
         "note": "This love child of breakfast and the classic old-fashioned came into being when bartender Don Lee lost his mind for the epic smoky bacon from Benton’s in Madisonville, Tennessee. Using a method called fat-washing (a means of infusing spirits with cooking fat), bourbon became Lee’s vehicle to get that flavor into a drink. Riffing on the flavors of an American breakfast, he created an old-fashioned with rich maple syrup and an orange garnish designed to emulate a sip of OJ.",
         "creator": "Don Lee, New York, Ny",
-        "image": "assets/recipes/ess-benton-s-old-fashioned.webp",
         "usable": true
       }
     ],
@@ -2040,7 +2028,6 @@
         "instructions": "Add Campari and white wine toa wineglass. Add ice and top with soda. Stir gently and garnish with an orange or lemon wheel.",
         "note": "Italian—was named after the elderly men who swerved all over the road while riding home after a few afternoon drinks at the café. In traditional aperitivo style, the cocktail mixes two of Italy’s favorite early evening refreshments. Campari adds delightfully bitter complexity to dry Italian white wine, while a splash of soda water turns the combination into a refreshing spritz.",
         "creator": "Soda Water,",
-        "image": "assets/recipes/ess-bicicletta.webp",
         "usable": true
       }
     ],
@@ -2100,7 +2087,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir well. Strain into a chilled coupe or cocktail glass. Garnish with a brandied cherry.",
         "note": "This improbable cocktail—a blend of gin, sweet vermouth, and Chartreuse—was invented in the United States in the late nineteenth century. The invention of the drink is commonly attributed to bartender Harry Johnson, who included the recipe in his 1900s tome The Bartender’s Manual. Its name, which means “jewel” in French, is said to have been inspired by the gem-colored alcohols combined in the recipe. The original formula calls for either a cherry or an olive fora garnish, but history has come down on the correct side of this debate: today’s version uses a cherry.",
         "creator": "Brandied Cherry,",
-        "image": "assets/recipes/ess-bijou.webp",
         "usable": true
       }
     ],
@@ -2161,7 +2147,6 @@
         "instructions": "Pour soda water into a Collins glass without ice. Add Campari, lemon juice, and simple syrup to a cocktail shaker. Add ice and shake until cold. Strain into the prepared glass and fill with cracked ice. Top with vermouth and garnish with an orange slice.",
         "note": "The Bitter Intentions is bartender Bobby Heugel’s proof that beautiful things can happen when you embrace bitter in an atypical way. In this case, he uses Campari as if it were gin. In doing so, this Collins-meets-Americano points to the deceptiveness of a classic aperitivo. While Campari is widely used in drinks for its bitter properties, when combined with citrus its own citrusy side is revealed. Heugel calls on the liqueur’s sweet notes by matching it with the vanilla flavors of Carpano Antica vermouth,",
         "creator": "| Q,",
-        "image": "assets/recipes/ess-bitter-intentions.webp",
         "usable": true
       }
     ],
@@ -2226,7 +2211,6 @@
         "instructions": "Add all ingredients to a cocktail shaker. Add a small amount of ice and shake. Strain over crushed ice into a rocks glass. Top with more crushed ice and garnish with a mint sprig.",
         "note": "While bartending at the Brooklyn bar Dram, Jeremy Oertel threw a party with noted tiki bartender Brian Miller. For the occasion, he wanted to replicate a Mai Tai variation he’d come across that used spicy high-proof Angostura bitters in place of rum. But because bitters are a pricy ingredient to use in liberal quantities, he substituted Campari for the bitter component. “It’s bitter, but it also has a lot of great fruity flavors, especially grapefruit, so it plays well with the flavors you typically find in tiki cocktails,” Oertel says. Here, he uses Smith & Cross Jamaican rum fora heavy funkiness.",
         "creator": "Jeremy Oertel, Donna, Brooklyn, Ny",
-        "image": "assets/recipes/ess-bitter-mai-tai.webp",
         "usable": true
       }
     ],
@@ -2527,7 +2511,6 @@
         "instructions": "Add Guinness to a coupe, a flute, or a Collins glass. Top gently with Champagne.",
         "note": "A fancy man’s Black and Tan, this unlikely mourning drink is said to have originated at the Brooks’s Club on St. James’s Street in London on the occasion of the death of Queen Victoria’s husband, Prince Albert, in 1861. The gentleman’s club, a brotherhood of the city’s most distinguished lords, barons, and dukes, acknowledged the prince’s passing the only way they knew how: by having a drink. Apparently, Champagne did not seem appropriate, so it can be surmised that a dark beer was somber enough to foil the celebratory implication of bubbles.",
         "creator": "",
-        "image": "assets/recipes/ess-black-velvet.webp",
         "usable": true
       }
     ],
@@ -2676,7 +2659,6 @@
         "instructions": "Add all ingredients to a cocktail NOTE Not all cherry liqueurs are shaker. Add ice and shake. Strain created equal; your best bet for into a chilled coupe or cocktail",
         "note": "Valentino’s 1922 silent film of the same name (which was itself an adaption of a 1909 Spanish novel by Vicente Blasco Ibafiez) about the rise and fall of a bullfighter. This rather unexpected concoction of equal parts Scotch, sweet vermouth, cherry liqueur, and orange juice, shaken and strained, makes for one of the rare classic cocktails that calls for Scotch as a base. Be sure to use fresh- squeezed orange juice here; it gives the right jab of acidity in the context of two sweet liqueurs.",
         "creator": "1 Ounce Scotch,",
-        "image": "assets/recipes/ess-blood-and-sand.webp",
         "usable": true
       },
       {
@@ -2782,7 +2764,6 @@
         "instructions": "Stir all ingredients with ice until chilled. Strain into a coupe.",
         "note": "Paired in the book with Marathon Man (1976).",
         "creator": "",
-        "image": "assets/recipes/movie-blood-lust-diamonds.webp",
         "usable": true,
         "garnish": "1 Luxardo maraschino cherry",
         "glass": "Coupe",
@@ -2975,7 +2956,6 @@
         "instructions": "Add all ingredients to a mixing tin and add ice. Roll back and forth between mixing tins and strain into an ice-filled Collins or highball glass. Garnish with a celery stick, lime wedge, crispy bacon, shrimp, or any other outrageous items you can come up with.",
         "note": "Before there was brunch, there was the Bloody Mary. The drink boasts numerous mythologies, ranging from a start as a warm, nonalcoholic beverage loaded with raw oysters to one named in honor of a barmaid from Chicago’s Buckets of Blood. Whatever the case, the Bloody Mary eventually became a staple of Manhattan’s King Cole Bar at the St. Regis, where it was downed by New York’s toniest barflies. Swapping out vodka for alternate spirits creates the Red Snapper (gin), Bloody Maria (tequila), and Bloody Derby (bourbon), or go the way of the Michelada (page 124) and lighten the whole thing up with a fizzy beer.",
         "creator": "",
-        "image": "assets/recipes/ess-bloody-mary.webp",
         "usable": true
       },
       {
@@ -2986,7 +2966,6 @@
         "instructions": "",
         "note": "® hree college friends, Annie MacDuggan (Diane Keaton), Elise Elliot (Goldie Hawn), and Brenda Morelli (Bette Midler), reunite at the funeral of the fourth member of their club. Spurned by their first husbands, the women decide Re 18 get back at their ex-husbands and their new women. Each of the three women Is summarized as soon as they step onto the scene by their drink orders at their reunion brunch. MacDuggan, the anxious h",
         "creator": "",
-        "image": "assets/recipes/movie-bloody-mary.webp",
         "usable": false
       }
     ],
@@ -3232,7 +3211,6 @@
         "instructions": "Stir all ingredients with ice until chilled. Strain over ice into a rocks glass, or serve up in a chilled coupe or cocktail glass.",
         "note": "A true man-about-town and boulevardier in the literal sense of the word, Erskine Gwynne was an individual of epic reputation throughout Paris in the 1920s. In fact, he even rana magazine called Boulevardier for American ex-pats living in the city. Mention of this literary-influenced cocktail appears in the 1927 book Barflies and Cocktails by Harry MacElhone (owner of Harry’s New York Bar in Paris), which credits Gwynne as the drink’s creator. Depending on the audience, the Boulevardier can be seen asa bittersweet Manhattan variation or a whiskey Negroni. The beauty of the Boulevardier is its adaptability to both bitter and sweet, so depending",
         "creator": "",
-        "image": "assets/recipes/ess-boulevardier.webp",
         "usable": true,
         "page": "59",
         "garnish": "Orange peel",
@@ -3322,7 +3300,6 @@
         "instructions": "Shake gin, lemon juice, and simple syrup with ice until chilled. Strain over crushed ice into a rocks glass, then drizzle the crème de mûre over the top.",
         "note": "Dick Bradsell, one of the founding fathers of London’s modern cocktail scene, created this recipe in 1984 when he was working at Fred’s Club in Soho. It’s essentially a Gin Sour dressed up like a cobbler, but Bradsell considers it a sentimental play ona Singapore Sling (page 178) using entirely British products, with the blackberries and créme de mire (blackberry liqueur) lending a flavor “reminiscent of his childhood on the Isle of Wight.”",
         "creator": "Dick Bradsell",
-        "image": "assets/recipes/ess-bramble.webp",
         "usable": true,
         "page": "224",
         "garnish": "Blackberries and lemon slice",
@@ -3507,7 +3484,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a coupe.",
         "note": "Everyone knows that Manhattan might be the go-to for luxury and fashion, but if you want something that’s more cutting edge you have to go to Brooklyn. The same is true of the borough- designated cocktails. Although the Prohibition-era Brooklyn shares a similar flavor profile and composition to a Manhattan (page 114), the more esoteric additions of both Amer Picon (largely unavailable in the States) and maraschino liqueur have kept it from taking its place as a top-tier classic drink. But just as Brooklyn has been stealing the spotlight in terms of New York City bars of late, an enthusiasm for DIY Amer Picon has inspired arise in popularity f",
         "creator": "",
-        "image": "assets/recipes/ess-brooklyn.webp",
         "usable": true
       },
       {
@@ -3590,7 +3566,6 @@
         "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a chilled coupe. Garnish with a grapefruit peel.",
         "note": "Born on the posh Sunset Boulevard in West Hollywood, Los Angeles, the Brown Derby is a vestige of 1930s glitz and glamour. A heady mix of bourbon, grapefruit, and honey, it was created at the Vendéme Club—one of the first celebrity-driven restaurants to appear on the Sunset Strip—which was then owned by Hollywood Reporter founder and playboy Billy Wilkerson. The drink was named in honor of a nearby restaurant, the Brown Derby (best known as the birthplace of the Cobb salad), which was actually built in the shape of a rotund derby hat.",
         "creator": "",
-        "image": "assets/recipes/ess-brown-derby.webp",
         "usable": false
       },
       {
@@ -3696,7 +3671,6 @@
         "instructions": "Shake all ingredients with ice. Strain into an ice-filled tall glass.",
         "note": "Paired in the book with The Italian Job (1969).",
         "creator": "",
-        "image": "assets/recipes/movie-bull-shot.webp",
         "usable": true,
         "page": "62",
         "garnish": "1 celery stalk",
@@ -3864,7 +3838,6 @@
         "instructions": "1 LIME, QUARTERED 2 TEASPOONS SUGAR GARNISH LIME WHEEL 2 OUNCES CACHACA To a rocks glass, add lime wedges and sugar and muddle until well juiced. Add cachaga and ice. Stir to mix and garnish with a lime wheel.",
         "note": "A relative of the Daiquiri (page 74), this strong sweet-sour drink calls for cachaca, a Brazilian take on rum that’s distilled from fermented sugarcane juice. The Caipirinha, truly Brazil’s national drink, is a combination of lime juice, sugar, and cachaga, and it was thought to have originated to mask the taste of the crudely produced spirit. Until recently, cachaca was widely considered a peasants’ spirit, but as production techniques have improved,",
         "creator": "1 Lime, Quartered",
-        "image": "assets/recipes/ess-caipirinha.webp",
         "usable": true
       },
       {
@@ -3954,7 +3927,6 @@
         "instructions": "Add Campari and lemon juice to a chilled pint glass, and top with beer.",
         "note": "On its own, a radler—a combination of fruit soda and beer—is just about the most perfect thing you can drink on a hot summer day.",
         "creator": "Alex Day, Proprietors Llc",
-        "image": "assets/recipes/ess-campari-radler.webp",
         "usable": true
       }
     ],
@@ -4271,7 +4243,6 @@
         "instructions": "",
         "note": "c ourse and redeem the family name. In a movie number of charming elements, none is more oe 80 than Dean Martin’s Tom Elder, a ne er-do-well who makes his” living asa gambler, and never saw ‘a0 angle he wouldr’ t Kake all the way. If you find the mood for a Western, you'd be wise to g : against doctor’s orders, as he had recently had his left lung _ extracted due to complications from cancer. The Duke - needed Se to get throug",
         "creator": "",
-        "image": "assets/recipes/movie-cards-on-the-table.webp",
         "usable": true
       }
     ],
@@ -4401,7 +4372,6 @@
         "instructions": "Add the Versus Chocolate, vermouth, Xtabentún, and bitters to a mixing glass, add ice, and stir to chill. Strain the chilled ingredients into a highball glass filled with ice and top off with tonic water. Be sure to stir the ingredients with a bar spoon to integrate the spirits with the tonic water. Express an orange peel carefully around rim of the glass and then place it in the drink.",
         "note": "Kami Kenna Kami—a bartender, brand owner, consultant, and distiller—splits her time between Mexico and Peru. She designs beverages and beverage experiences to drive positive change in the producer communities of Latin America. Kami created the Chacmool Hibol in collaboration with In Situ bar in Oaxaca for a local bartender training program. Chacmool are pre-Columbian sculptures found throughout Mesoamerica. They are recognizable for their signature backward reclining posture and a vessel balance",
         "creator": "",
-        "image": "assets/recipes/agave-chacmool-hibol.webp",
         "usable": true
       }
     ],
@@ -4465,7 +4435,6 @@
         "instructions": "Add the sugar cube or sugar to _ used can dramatically alter the a flute. Add Angostura bitters drink. While Angostura is classic,",
         "note": "Swap Champagne for whiskey in the Old-Fashioned template, and you’ll get this pedigreed cocktail, which was first mentioned in Jerry Thomas’s 1862 How to Mix Drinks. Its low-alcohol and bubbly constitution make this recipe a good candidate for day drinking. The question as to whether you pony up for the real stuff or choose a down-market sparkling wine depends largely on your opinion of the sanctity of Champagne.",
         "creator": "Long, Curly",
-        "image": "assets/recipes/ess-champagne-cocktail.webp",
         "usable": true
       }
     ],
@@ -4599,7 +4568,6 @@
         "instructions": "Muddle the lemon peels with sugar in a heatproof vessel. Add rum and Cognac, carefully ignite a spoonful and use it to light the punch, and let it burn about 3 minutes. Cover to extinguish, remove the peels, add the reserved lemon juice and hot tea, then ladle over ice.",
         "note": "There are few things more Dickensian than a bowl of punch. A great lover of drink, Dickens wove spirits into his writing repeatedly and even conceived of his own punch: this cheek- warming mix of Cognac, rum, citrus, and sugar that is “cooked” by setting it on fire.",
         "creator": "3/4 Cup Sugar,",
-        "image": "assets/recipes/ess-charles-dickens-s-punch.webp",
         "usable": true,
         "page": "69",
         "garnish": "Lemon and orange slices; freshly grated nutmeg",
@@ -4678,7 +4646,6 @@
         "instructions": "Shake all ingredients with ice until chilled. Strain into a Collins or pint glass over ice.",
         "note": "A swizzle for the twenty-first century, this tall, frosty cocktail rejiggers the traditional Caribbean Rum Swizzle by basing the drink in green Chartreuse, a lime-colored herbal French liqueur. And though the cocktail is a seemingly odd combination of ingredients, Chartreuse’s aromatics pair seamlessly with the spiced falernum and sweet, tropical pineapple. Tangy lime and a pile of crushed ice balance the formula and turn it a springy pastel green. Marco Dionysos created the drink for a Green Chartreuse competition in 2003 and it has found a huge fan base with bartenders around the world. By his count, his Chartreuse Swizzle has made an appea",
         "creator": "Marco Dionysos, Smuggler's Cove, San Francisco, CA",
-        "image": "assets/recipes/ess-chartreuse-swizzle.webp",
         "usable": true,
         "page": "230",
         "garnish": "Lime wheels, pineapple spear, and pineapple leaf",
@@ -4921,7 +4888,6 @@
         "instructions": "Muddle lime juice, mint, and sugar in a pitcher. Blend the rums with coconut milk until combined, stir into the pitcher, and refrigerate for one hour. To serve, fill each glass halfway with the chilled mixture and top with soda water.",
         "note": "Who doesn't enjoy the refreshing minty flavor of a zesty mojito? This white Christmas version uses coconut milk for a creamier confection.",
         "creator": "",
-        "image": "assets/recipes/ryan-christmas-mojito.webp",
         "usable": true,
         "page": "27",
         "garnish": "Mint leaves and pomegranate arils"
@@ -5071,7 +5037,6 @@
         "instructions": "Stir lime juice, simple syrup, rum, and water with ice, then pour into chilled large highball glasses.",
         "note": "This rum punch recipe is going to make you feel like you are on vacation with every sip! No one is really sure where the first rum Throw your cares away, sit back, relax and enjoy this simple rum punch recipe!",
         "creator": "",
-        "image": "assets/recipes/ryan-classic-rum-punch.webp",
         "usable": true,
         "page": "58",
         "garnish": "Freshly grated nutmeg and optional citrus slice",
@@ -5154,7 +5119,6 @@
         "instructions": "Muddle the raspberries with simple syrup in a shaker. Add the remaining ingredients and dry shake. Add ice, shake again until chilled, and double strain into a chilled coupe or cocktail glass.",
         "note": "The Bellevue-Stratford in Philadelphia was the fashionable, see- and-be-seen hotel of the late 1800s. Like the Friars Club or the Algonquin Round Table of its era, the establishment hosted an all- male salon of lawyers and writers—the Clover Club—until World War I. The cocktail didn’t appear until later in the club’s history and it eventually fell out of fashion, most likely due to its perilous inclusion of egg white and feminine associations with raspberries. But like many of the pre-Prohibition stalwarts, the drink was rediscovered as part of the classic arsenal, and made immortal by Julie Reiner at her Brooklyn bar, Clover Club.",
         "creator": "1Y%2 Ounces Gin,",
-        "image": "assets/recipes/ess-clover-club.webp",
         "usable": true,
         "page": "70",
         "garnish": "Skewered raspberry",
@@ -5233,7 +5197,6 @@
         "instructions": "Add the tequila, coconut and almond cream liqueur, and Grand Marnier to a shaker with ice. Shake to chill and combine. Strain into a chilled coupe glass, and garnish with freshly grated orange zest.",
         "note": "This creamy cocktail evokes a childhood favorite with soft flavors of orange, vanilla, and caramel.",
         "creator": "",
-        "image": "assets/recipes/agave-coconut-creamsicle.webp",
         "usable": true
       }
     ],
@@ -5500,7 +5463,6 @@
         "instructions": "1 OUNCE GIN JOUNCE LILLET BLANC 1 OUNCE LEMON JUICE To a chilled coupe or cocktail glass, add a dash of absinthe. Roll around to coat and discard excess. Add remaining ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into the prepared glass. Garnish with a lemon peel.",
         "note": "Of the entire gruesomely named family of pre-Prohibition era drinks thought to be devoted to rousing oneself in the morning, version No. 2 remains the best known. A lighter-spirited relation to the cognac-heavy Sidecar (page 177), with gin and Lillet in equal proportions to Cointreau, this drink finishes fresh and citrusy, with a hint of herbal complexity from the absinthe. Such a cocktail is a reasonable choice for eye-opening activities if you heed the warning offered in the 1930 Savoy Cocktail Book: “Four of these taken in swift succession will un-revive the corpse again.”",
         "creator": "",
-        "image": "assets/recipes/ess-corpse-reviver-no-2.webp",
         "usable": true
       },
       {
@@ -5511,7 +5473,6 @@
         "instructions": "",
         "note": "enseless and unjust. Such passings are the stuff of tragedy. And, on occasion, brilliant comedy. When an angel rips Joe Pendleton ‘ewan Beatty) prematurely from this world, he an opportunity to go back. Inserted into the billionaire, Joe gets every ounce out of his second chance, purchasing the football team he previously played for, quarterbacking them to the Super Bowl, and falling in love with the righteous Betty Logan Uuli",
         "creator": "",
-        "image": "assets/recipes/movie-corpse-reviver-no-2.webp",
         "usable": false
       }
     ],
@@ -5574,7 +5535,6 @@
         "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "Before the “cosmo” became the must-have liquid accessory of Sarah Jessica Parker acolytes, there was the Cosmopolitan, created by bartender Toby Cecchini at the Odeon in New York City, in 1988. Adapted from a pink-hued mock-martini recipe that had been floating around Florida and San Francisco, Cecchini retooled the ingredient list with higher-quality mixers, choosing Citron vodka, Cointreau, lime juice, and cranberry juice. Despite common pop culture associations, the original Cosmopolitan is a rather dry cocktail, all the more so if you use natural, unsweetened cranberry juice in place of cranberry juice cocktail. The recipe can also be twe",
         "creator": "Toby Cecchini, Long Island Bar, Brooklyn, Ny",
-        "image": "assets/recipes/ess-cosmopolitan.webp",
         "usable": false
       },
       {
@@ -5825,7 +5785,6 @@
         "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a lime wheel. %",
         "note": "Thanks to spring break destinations like Fort Lauderdale and Key West, the word daiquiri carries the connotation of whirring machines spinning electric-colored drinks. But the true recipe is a minimalist classic. Although a U.S. engineer living in Cuba during the Spanish-American War usually gets credit for the recipe, it’s more likely that Cubans had been drinking something similar for some time. Famously associated with author Ernest Hemingway and the jet-set glamour of pre-embargo Cuba in the 1930s, the Daiquiri rose in popularity in the United States during World War II as Caribbean rum became much easier to procure than foreign whiskey.",
         "creator": "",
-        "image": "assets/recipes/ess-daiquiri.webp",
         "usable": false
       },
       {
@@ -6133,7 +6092,6 @@
         "instructions": "30 minutes. Fifteen minutes NOTE To make an ice ring, fill a Bundt pan halfway with water. Evenly place 5 strawberry halves, 5 pineapple slices, and 10 mint leaves in the water, then freeze overnight.",
         "note": "In his book Punch, David Wondrich attributes the myriad versions of this recipe to the fact that asking for a glass of Webster’s Punch was the nineteenth-century version of “stump the bartender.” No one really knew which version the famed Massachusetts senator actually preferred, so riffs abound. The original version of this recipe, adapted by Wondrich, comes from the Steward e” Barkeeper’s V2 CUP SUGAR 3/4 CUP COGNAC 1%/2 CUPS BORDEAUX, OR ANY FULL-BODIED",
         "creator": "1%/2 Cups Bordeaux,",
-        "image": "assets/recipes/ess-daniel-webster-s-punch.webp",
         "usable": true
       }
     ],
@@ -6358,7 +6316,6 @@
         "instructions": "Add rum and lime juice to a Collins glass. Add ice and top with ginger beer. Garnish with a lime wheel.",
         "note": "This simple mix of dark rum and spicy ginger beer, served long over ice, has roots in colonial Bermuda, where England’s Royal Navy opened a ginger beer plant in the late nineteenth century. The drink was traditionally made with a dark, heavy Demerara- style rum, which was part of the sailors’ daily rations. Today, most bartenders perk up the drink with a welcome dose of lime juice. Be aware that a number of years ago, Gosling Brothers bought the trademark to the Dark ’n’ Stormy name and recipe, so Gosling’s Black Seal rum is the official rum of record for this drink.",
         "creator": "4 Ounces Dry, Spicy",
-        "image": "assets/recipes/ess-dark-n-stormy.webp",
         "usable": true
       }
     ],
@@ -6418,7 +6375,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a chilled cocktail glass or coupe. Garnish with a brandied cherry.",
         "note": "This deep, boozy number goes by other names, including La Louisiane and Cocktail 4 la Louisiane. As its French-inflected name hints, it’s a New Orleans creation. In his authoritative 1937 book, Famous New Orleans Drinks and How to Mix ’Em, Stanley Clisby Arthur notes that it was Restaurant La Louisiane’s house cocktail, where it presumably paired well with the rich, sometimes fiery",
         "creator": "2 Ounces Rye,",
-        "image": "assets/recipes/ess-de-la-louisiane.webp",
         "usable": true
       }
     ],
@@ -6642,7 +6598,6 @@
         "instructions": "Shake all ingredients with ice and serve on the rocks.",
         "note": "(from Brandon Lloyd Burkart at Haddingtons in Austin, TX)*",
         "creator": "Brandon Lloyd Burkart, Haddingtons, Austin, TX",
-        "image": "assets/recipes/hs-death-to-el-gusano.webp",
         "usable": true,
         "garnish": "Lime wedge",
         "glass": "Rocks glass",
@@ -6792,7 +6747,6 @@
         "instructions": "shaker and serve up in a martini glass with a grapefruit twist. COCKTAIL TIME 165",
         "note": "(adapted from Phil Ward at Mayahuel in NYC)",
         "creator": "",
-        "image": "assets/recipes/hs-division-bell.webp",
         "usable": true
       }
     ],
@@ -7233,7 +7187,6 @@
         "instructions": "Combine all ingredients in a large container and rest for 24 hours at room temperature. Strain into a punch bowl, garnish, and ladle into cups over ice.",
         "note": "In her Dorothy’s Delight (named for her grandmother), Caitlin Laman riffs on a base of two quintessential punch ingredients—tea and brandy. She combines them with coffee liqueur and dry oloroso sherry fora rich, smoky, and slightly bitter drink that’s ideal for kicking off an evening. Be sure to drink the remainder of the oloroso as you are making the punch,” says Laman. 24 OUNCES BRANDY, 2 OUNCES COFFEE 10 OUNCES PREFERABLY TARIQUET LIQUEUR, PREFERABLY GRAPEFRUIT VS ARMAGNAC ST. GEORGE NOLA OLEO-SACCHARUM",
         "creator": "Caitlin Laman, Chicago, IL",
-        "image": "assets/recipes/ess-dorothy-s-delight.webp",
         "usable": true,
         "page": "234",
         "garnish": "Lemon wheels",
@@ -7315,7 +7268,6 @@
         "instructions": "Fill a highball glass with ice. Pour the tequila, simple syrup, and lime juice over the ice, then mix and top with grapefruit-flavored seltzer. Garnish with a lime wheel.",
         "note": "Bergamot and black tea create extra layers of citrus and fruity aromas.",
         "creator": "",
-        "image": "assets/recipes/agave-earl-grey-paloma.webp",
         "usable": true
       }
     ],
@@ -7661,7 +7613,6 @@
         "instructions": "Rim a highball glass with chamoy and tajin and set aside. Muddle the pineapple chunk and chili in the bottom of a shaker and add ice. Add the mezcal, pineapple juice, lime juice, and agave syrup. Shake to combine and chill, then strain over fresh ice.",
         "note": "Elvis Pinelo Elvis hails from Santa Cruz Etla Oaxaca, Mexico, but left Oaxaca from a very young age with his parents, who relocated to the Hudson Valley in New York. He can be found in his family owned restaurant La Cabanita in Poughkeepsie, New York, which boasts the most extensive collection of agave spirits in the region. El Ardido—which translates to burned, irritated, or even bold and daring—is in reference to the layers of spicy ingredients, especially chile de arbol, which is one of the h",
         "creator": "",
-        "image": "assets/recipes/agave-el-ardido.webp",
         "usable": true
       }
     ],
@@ -8063,7 +8014,6 @@
         "instructions": "Rim half of a rocks glass with smoked chili salt and set aside. Shake the ingredients with ice to chill and dilute. Strain over fresh ice into the rimmed glass.",
         "note": "The softly earthy and sweet flavors of corn from the Nixta corn liqueur are a natural match for the pungent flavors of mezcal. Elote and maguey flavors are deeply rooted in ancestral cuisine, making this a versatile cocktail to pair with traditional foods. Smoked chili salt, for rim",
         "creator": "",
-        "image": "assets/recipes/agave-elote-margarita.webp",
         "usable": true
       }
     ],
@@ -8125,7 +8075,6 @@
         "instructions": "Rim a glass with sal de gusano and fill with ice. Pour the ingredients over the ice and stir to combine.",
         "note": "This drink highlights the sweetness of fresh corn, balanced by pungent and spicy sal de gusano. The result is a creamy corn-flavored drink, similar to a chilled atole. To make corn milk, blend and strain fresh sweet corn and/or grate corn cobs to collect the milky juice. Substituting other plant-based or dairy milks for the corn milk is fine, although some preservatives used in nut milks may cause some visible separation, and the drink will require stirring every so often. Sal de gusano, for rim",
         "creator": "",
-        "image": "assets/recipes/agave-elotero.webp",
         "usable": true
       }
     ],
@@ -8187,7 +8136,6 @@
         "instructions": "Add the mezcal, coffee liqueur, and espresso to a shaker with ice. Shake to chill and combine. Strain into a chilled coupe glass, and garnish with espresso beans. Frozen Mezcal Hot Chocolate",
         "note": "The espresso martini gets an upgrade from its already exalted status by replacing the neutral vodka with flavorful mezcal. This is hands down one of the tastiest mezcal cocktails that works well as dessert or a pregaming drink.",
         "creator": "",
-        "image": "assets/recipes/agave-espresso-mezcaltini.webp",
         "usable": true
       }
     ],
@@ -8260,7 +8208,6 @@
         "instructions": "",
         "note": "(from Liberty. Bar in Seattle)*",
         "creator": "",
-        "image": "assets/recipes/hs-exit-music.webp",
         "usable": true
       }
     ],
@@ -8465,7 +8412,6 @@
         "instructions": "Shake all ingredients except the bitters with ice. Strain into a rocks glass filled with ice, top with the bitters, and garnish.",
         "note": "Paired in the book with Ferris Bueller's Day Off (1986).",
         "creator": "",
-        "image": "assets/recipes/movie-ferrari-named-desire.webp",
         "usable": true,
         "garnish": "1 sprig of mint",
         "glass": "Rocks glass",
@@ -8544,7 +8490,6 @@
         "instructions": "Dry shake all ingredients. Add ice and shake well, then strain into a chilled coupe or cocktail glass.",
         "note": "San Francisco bartender Erik Adkins starts with the basic Whiskey Sour (page 198) blueprint for this autumn-inspired drink. Instead of using simple syrup, he substitutes Grade B maple syrup to create a deep, frothy cocktail topped with spicy Angostura bitters. The Filibuster throws a bit of heat thanks to its strong rye backbone; Adkins recommends using a lower-proof rye in order to preserve the foamy egg white. As for the name? “I found it in the horse racing pages,” says Adkins. “Years ago, (drinks writer] Simon Difford joked that if you needed a name for a cocktail, check out the racing pages. I liked Filibuster because it sounded like it",
         "creator": "Erik Adkins, Slanted Door, San Francisco, CA",
-        "image": "assets/recipes/ess-filibuster.webp",
         "usable": true,
         "page": "237",
         "garnish": "Angostura bitters dashed around the perimeter and drawn into a garland",
@@ -8614,7 +8559,6 @@
         "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "The martini spent the better part of the 1980s and 1990s as a stripped-down, mostly gin (or, gasp, vodka) version of itself. For some reason, it was cool to request just a whisper of vermouth. In an effort to reintroduce America to the joys of dry vermouth and orange bitters, Audrey Saunders created the sophisticated Fitty-Fitty cocktail at her New York City bar, Pegu Club. She calls the drink a true study in calibration, taking into account not only the botanical profile of the gin, but the vermouth, too: When she has Noilly Prat vermouth on hand, Saunders likes to match it with more assertive Tanqueray gin. However, if she’s using the more",
         "creator": "Audrey Saunders, Pegu Club, New York, NY",
-        "image": "assets/recipes/ess-fitty-fitty-martini.webp",
         "usable": true,
         "page": "238",
         "garnish": "Lemon twist",
@@ -8851,7 +8795,6 @@
         "instructions": "Shake all ingredients with ice until chilled. Strain into a rocks glass over ice.",
         "note": "Bartender Jeffrey Morgenthaler created the Flannel Shirt using classic fall flavors—apple, earth, spice, and smoke—to imitate a mulled cider. The fleecy, bone-warming drink has a bold backbone of Scotch and a supporting cast of apple cider, St. Elizabeth Allspice Dram, and bittersweet Amaro Averna. Morgenthaler says, “It reminds me of a hot drink that you’d have on Thanksgiving morning—only served cold.”",
         "creator": "Jeffrey Morgenthaler, Clyde Common, Portland, OR",
-        "image": "assets/recipes/ess-flannel-shirt.webp",
         "usable": true,
         "page": "241",
         "garnish": "Orange peel",
@@ -9281,7 +9224,6 @@
         "instructions": "Add Cognac, lemon juice, and simple syrup to a cocktail shaker. Add ice and shake until chilled. Strain into a coupe or a flute and top with champagne or sparkling wine. Garnish with a long, curly lemon peel.",
         "note": "History says that this Champagne cocktail originated at Harry’s New York bar in Paris in the early 1900s, but it was co-opted and made legendary shortly thereafter by Arnaud’s French 75 bar in New Orleans. The original recipe calls for Cognac combined with Champagne, lemon juice, and sugar, but somewhere along the line, it became fashionable to make the drink with gin instead. But Arnaud’s stays the course with Cognac, which gives the cocktail more depth and a little bit of spice, making it a great bubbly drink for the fall and winter. The livelier gin version (a gin sour royale, really) is best in warm weather.",
         "creator": "Long, Curly",
-        "image": "assets/recipes/ess-french-75.webp",
         "usable": true
       },
       {
@@ -9605,7 +9547,6 @@
         "instructions": "Blend all ingredients with about 6 ounces of ice, adding more ice if necessary, until smooth. Pour into a plastic cup or rocks glass.",
         "note": "Jeffrey Morgenthaler’s Frozen Negroni began as a Negroni sno-cone he used to serve at backyard dinners. He has tinkered with the ratios a little over time, but doesn’t stray too far from tradition: Campari, gin, and sweet vermouth, along with simple syrup and lots of ice. When slushifying cocktails, Morgenthaler tends to add some fruit juice to the equation. “It adds body and dilutes with flavor rather than just water,” he says. “Consider the cocktail and pick the juice accordingly.” He recommends trying grapefruit juice in a martini and pomegranate juice ina Manhattan, and suggests plastic Solo cups as the most appropriate",
         "creator": "Jeffrey Morgenthaler, Clyde Common, Portland, OR",
-        "image": "assets/recipes/ess-frozen-negroni.webp",
         "usable": true,
         "page": "245",
         "garnish": "Orange slice",
@@ -9910,7 +9851,6 @@
         "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "This cocktail is a good example of how powerful a garnish can be. Here, a tiny pearlescent onion transforms a bitters-less martini into an entirely new drink: the Gibson. The usual historical squabbles exist about the drink’s origins and namesake (in short: at San Francisco’s Bohemian Club in the 1890s for Walter D. K. Gibson, or for illustrator Charles Dana Gibson, among many others), but no one can seem to pinpoint when or why a pickled onion made it into the recipe, as the earliest versions did not call for it. By the mid-twentieth century, though, the Gibson—onion included—appeared to represent a challenge to the martini in terms of cultu",
         "creator": "",
-        "image": "assets/recipes/ess-gibson.webp",
         "usable": true,
         "garnish": "Cocktail onion",
         "glass": "Coupe or cocktail glass",
@@ -9924,7 +9864,6 @@
         "instructions": "",
         "note": "eclared the “best movie ever made about sports, by Roger Ebert, Downhill Racer succeeds thanks in part to a screenplay by James Salter, the American writer whose clean- as-a-bone prose won him a sizable following in the late 20th century. The movie, featuring Robert Redford as a driven world-class skier, features all considerable poise in the face of danger, and who is consumed by existential drift away from it. The Gibson was",
         "creator": "",
-        "image": "assets/recipes/movie-gibson.webp",
         "usable": false
       }
     ],
@@ -9982,7 +9921,6 @@
         "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a chilled coupe or cocktail glass or over ice into a rocks glass, if you prefer.",
         "note": "Leave it up to the Royal Navy to devise a health plan that involved gin. The story goes that the gimlet was created in the mid-nineteenth century to encourage sailors to consume their rations of scurvy-preventing lime juice. The name? Possibly a reference to Thomas Desmond Gimlette, a naval medical officer who served during that era. Essentially a Gin Sour (page 102) with lime juice, the drink went on to become a country-club favorite thanks to its just-offthe-court refreshing side. 3/4 OUNCE SIMPLE SYRUP (PAGE 332)",
         "creator": "",
-        "image": "assets/recipes/ess-gimlet.webp",
         "usable": false
       },
       {
@@ -10152,7 +10090,6 @@
         "instructions": "Build all ingredients in an ice-filled double rocks or Collins glass and stir to combine.",
         "note": "At Wassail, New York City’s fantastic Lower East Side cider bar, cider cocktails are a mainstay. Former bartender Jade Sotack came up with several seasonal iterations of what she calls Gin and Juice. For this springtime version, a play on a Gin and Tonic (page 95), Sotack combines a concentrated tonic syrup and just % ounce of gin to provide the base flavors, then top the whole thing off with a sidra (cider) from Spain’s Asturias for a funkier version of the classic refresher—but any high-acid cider will work here. This drink takes ona completely different personality depending on which gin you use. Sotack is partial to both Tanqueray and Hay",
         "creator": "Jade Sotack, New York, NY",
-        "image": "assets/recipes/ess-gin-and-juice.webp",
         "usable": true,
         "page": "246",
         "garnish": "Lemon peel",
@@ -10224,7 +10161,6 @@
         "instructions": "Add gin, orange liqueur, and lemon juice to a cocktail shaker. Add ice and shake until chilled. Strain over ice into a rocks or Collins glass and top up with soda water. Garnish with a lemon wheel. To make the new-school Gin Daisy, add 14 ounces gin, % ounce lemon juice, 4 ounce grenadine (page 333), and ‘4 ounce simple syrup",
         "note": "As with many of the classics, there are actually two genres of Gin Daisy, with a historical dividing line somewhere around the turn of the twentieth century. The basic daisy formula, as designed in the 1870s, is more or less a sour kicked up with a few dashes of orange liqueur. Later, the daisy got a makeover: the gin ratio was knocked down, simple syrup was added for texture, and grenadine was swapped in for the orange liqueur. Both renditions are simple, quaftable drinks that deserve more play. Follow this recipe for the true old-school version, or try her fruitier sister, below.",
         "creator": "Soda Water, To Top",
-        "image": "assets/recipes/ess-gin-daisy-old-and-new.webp",
         "usable": true
       }
     ],
@@ -10292,7 +10228,6 @@
         "instructions": "Add gin, lemon juice, simple syrup, and orange bitters to a cocktail shaker. Add ice and shake until chilled. Strain into a fizz or highball glass. Top with soda water.",
         "note": "widely adapted in the cocktail canon, but it’s the levity of a simple gin version that’s made it most famous. The herbal, citrusy character of the base spirit shows well alongside the sweet-sour combo of citrus and simple syrup, all lightened by soda water. Kissing cousin to the Tom Collins (page 189), this fizz recipe leans slightly heavier on the gin for a more assertive kick. Note that the fizz is not served over ice; it’s meant to be slurped quickly and efficiently without the addition of extra dilution.",
         "creator": "Soda Water,",
-        "image": "assets/recipes/ess-gin-fizz.webp",
         "usable": true
       }
     ],
@@ -10356,7 +10291,6 @@
         "instructions": "Build gin and lime juice in a Collins glass. Add ice and top with soda water.",
         "note": "The Rickey, a variation on the classic fizz, traces its origins to a whiskey-based drink created by Joe Rickey, a lobbyist from Missouri who moved to the nation’s capital in the late nineteenth century. Once in Washington, D.C., Rickey became a regular at Shoomaker’s Saloon and started many of his days there, ordering what he called his “mornin’s mornin’”: two ounces of whiskey, long, with soda water over ice. The drink was a hit and soon found nationwide popularity, so much so that Rickey eventually got into the drinks business himself, selling soda water. This version replaces whiskey with gin and adds lime juice, which has arguably become",
         "creator": "2 Ounces Gin,",
-        "image": "assets/recipes/ess-gin-rickey.webp",
         "usable": true,
         "page": "101",
         "garnish": "Lime wheel",
@@ -10423,7 +10357,6 @@
         "instructions": "Shake all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "A direct descendant of punch, the basic sour forms the template for a host of modern drinks. First mentions of the sour, made from a base spirit, citrus, sugar, and water and served neat in a small bar glass, can be traced to the mid-nineteenth century. This version strikes a dry and citrusy balance between gin and lemon juice.",
         "creator": "",
-        "image": "assets/recipes/ess-gin-sour.webp",
         "usable": true,
         "page": "102",
         "garnish": "Lemon peel",
@@ -10557,7 +10490,6 @@
         "instructions": "Build all ingredients in a large mule mug or Collins glass. Add crushed ice and stir.",
         "note": "Named for its Scotch foundation, the Glasgow Mule is Brooklyn bartender Damon Boelte’s take on the simple mule formula: spirit, citrus, ginger beer. It’s a neat example of how swapping out a base spirit can completely change the intention and balance of a cocktail. The intensity of the Scotch requires a little extra reinforcement, so Boelte built upon it with fresh lemon, versatile St-Germain elderflower liqueur, and spicy Fever Tree ginger beer, plus a dash of aromatic Angostura bitters to complete this tart",
         "creator": "Damon Boelte, Grand Army Bar, Brooklyn, NY",
-        "image": "assets/recipes/ess-glasgow-mule.webp",
         "usable": true,
         "page": "250",
         "garnish": "Lemon wheel and candied ginger on a pick",
@@ -10645,7 +10577,6 @@
         "instructions": "Build gin, St-Germain, and lime juice in a Collins glass. Add ice, cucumber, and mint, cap with a small mixing tin and shake briefly, then top with ginger beer.",
         "note": "“Ginger beer has been called ketchup,” says Rob Krueger, meaning that it’s a dependably crowd-pleasing ingredient in the cocktail world. But that doesn’t make it any less delicious. Here, Krueger puts it alongside gin, cucumber, mint, and St-Germain— the original bartender’s ketchup. Variations on this drink have long been Krueger’s answer to requests for a refreshing gin or vodka drink that’s not too sweet or might have cucumber, etc. He mentioned this to a guest one night, to which she responded, “Oh, so it’s your go-to?” inspiring the cocktail’s name.",
         "creator": "Rob Krueger, Extra Fancy, Brooklyn, NY",
-        "image": "assets/recipes/ess-go-to.webp",
         "usable": true,
         "page": "252",
         "garnish": "Mint sprig and cucumber wheels",
@@ -10983,7 +10914,6 @@
         "instructions": "Muddle raspberries and cucumber in a mixing tin. Add Pimm's, gin, lime juice, and lemongrass syrup. Shake and double strain into a tall Collins glass, then top with bitter lemon soda.",
         "note": "Whereas the traditional Pimm’s Cup (page 152) is made with fruit- forward, low-proof Pimm’s No. 1, Freddy Schwenk punches up this heady, modern variation with lemongrass, bitter lemon soda, and some extra gin for good measure, cutting the sweetness of the drink with a squeeze of lime. Even though the cocktail’s color evokes Valentine’s Day, its name was actually inspired by a Nirvana song.",
         "creator": "Freddy Schwenk, Chauhan Ale and Masala House, Nashville, TN",
-        "image": "assets/recipes/ess-heart-shaped-box.webp",
         "usable": true,
         "page": "255",
         "garnish": "Fresh raspberries on a bamboo skewer",
@@ -11179,7 +11109,6 @@
         "instructions": "Dip the rim of a highball glass in sherry vinegar, then in salt and pepper. Fill with ice. Add the tomato purée, tequila, and lime juice, top with seltzer, and garnish with fresh basil.",
         "note": "This refreshing highball version of a Bloody Maria is a flavorful way to quench your thirst on a hot summer day. It is best prepared during the height of tomato season, when they are ripe and plentiful. Feel free to get creative with rims, mixers, and garnishes. Consider adding chopped fresh or powdered dried herbs, citrus zest, or other seasonings to the salt rim to customize the flavors. Use balsamic vinegar for a sweet and savory accent, or make it spicy by muddling fresh chilies in the botto",
         "creator": "",
-        "image": "assets/recipes/agave-heirloom-tomato-highball.webp",
         "usable": true,
         "garnish": "Fresh basil",
         "glass": "Highball glass",
@@ -11262,7 +11191,6 @@
         "instructions": "Shake all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "With his prodigious constitution for drinking (and writing about it), Ernest Hemingway shows up frequently in cocktail mythology, and in none perhaps more famously than in connection to this drink. La Floridita, a Havana bar where the author was a regular in the 1920s, served Hemingway these doctored-up daiquiris, made unique by the addition of maraschino liqueur and notable for the lack of simple syrup (thought to be because Hemingway was diabetic). He could reportedly pack away tens of these at a time, ordering doubles—or what would come to be known as the “Papa",
         "creator": "Maraschino Liqueur,",
-        "image": "assets/recipes/ess-hemingway-daiquiri.webp",
         "usable": true,
         "page": "105",
         "garnish": "Lime wheel",
@@ -11499,7 +11427,6 @@
         "instructions": "Combine everything except the cava and chill for 2 hours. About 20 minutes before serving, add the chilled mixture to a punch bowl filled with cracked ice, top with cava, and stir gently.",
         "note": "A riff on Smuggler’s Cove’s ever-popular Hibiscus Rum Punch (the bar sells a hundred of these drinks a week)—which is itself a riff on the Caribbean classic Spiced Hibiscus Punch—this large-format holiday recipe from Martin Cate combines aged rum and fresh lime with tart hibiscus syrup. Add a hefty pour of chilled cava and preserved Jamaican hibiscus flowers, and you’ve got a prime party starter based on looks alone.",
         "creator": "Martin Cate, Smuggler's Cove and Whitechapel, San Francisco, CA",
-        "image": "assets/recipes/ess-hibiscus-punch-royale.webp",
         "usable": true,
         "page": "256",
         "garnish": "Hibiscus flowers in syrup, lime wheels, and mint sprigs",
@@ -11641,7 +11568,6 @@
         "instructions": "Combine all ingredients in a pint glass over cracked ice and top with beer. Garnish with lemon wheels.",
         "note": "When bartender Tom Richter was looking to create a new beer cocktail, he built on the classic radler template starting witha hoppy IPA as the bitter, aromatic foundation. “I just kept adding components that I thought would fill out the balance,” he says.",
         "creator": "Tom Richter, Dear Irving, New York, Ny",
-        "image": "assets/recipes/ess-hop-over.webp",
         "usable": true
       }
     ],
@@ -11818,7 +11744,6 @@
         "instructions": "Muddle the butter, add the vanilla extract. Add the hot water, combine, and garnish",
         "note": "(Henry Travers), sidle up to the bar in Pottersville, the sordid bizarro version of bucolic Bedford Falls, George isn’t feeling too cheery and he orders a double bourbon. But the delighted Clarence, announcing that he is 292 years old, can’t make up his mind: “I was just thinking of a flaming rum punch. No, it’s not cold enough for that. Not nearly cold enough. Wait a minute—|’ve got it!",
         "creator": "",
-        "image": "assets/recipes/movie-hot-buttered-rum.webp",
         "usable": true
       }
     ],
@@ -12150,7 +12075,6 @@
         "instructions": "In a rocks glass, muddle the sugar with maraschino liqueur, both bitters, and absinthe. Add whiskey and ice, preferably one large cube, and stir until well chilled.",
         "note": "A little liquorous history helps answer the question the name of this cocktail begs to ask: improved on what? Long before American bartenders had access to European liqueurs, their resources were essentially limited to spirits, sugar, and bitters. A surprising number of drinks, including the old-fashioned, were created from these three simple ingredients. The next wave of “improved” cocktails featured a lemon peel rubbed around the rim of a glass and the addition of a sweet liqueur. The Improved Whiskey Cocktail, the most enduring of them all, serves as a window into a moment in cocktail history when drinks were progressing in complexity.",
         "creator": "1Sugar Cube,",
-        "image": "assets/recipes/ess-improved-whiskey-cocktail.webp",
         "usable": true,
         "page": "107",
         "garnish": "Lemon peel",
@@ -12314,7 +12238,6 @@
         "instructions": "Place the cocktail shaker filled with ice and shake vigorously. Strain",
         "note": "he success of The Naked Gun 2 7 is largely thanks to Leslie Neilsen’s unparalleled ability to deliver devastatingly hilarious lines in a perfect deadpan. After a plot against renewable energy is discovered, Frank Drebin (Nielsen) accidentally stumbles on the case after ruining his only chance at rekindling his romance with Jane Spencer (Priscilla Presley). With plot twists involving identical scientists, death by lion, and a b",
         "creator": "",
-        "image": "assets/recipes/movie-innuendo.webp",
         "usable": true
       }
     ],
@@ -12450,7 +12373,6 @@
         "instructions": "Shake Cynar, Amaro Montenegro, and lime juice with ice until chilled. Strain into a Collins glass over ice, top with ginger beer, and add more ice if needed.",
         "note": "The essential ingredient in a buck is ginger ale or ginger beer. From there, just add a spirit, some citrus, and perhaps a dash of bitters. In the case of Jamie Boudreau’s Italian Buck, the additions are, appropriately, all Italian. The Seattle bartender mixes Italian artichoke-based Cynar with the Bolognese Amaro Montenegro and fresh lime juice for a sprightly, bittersweet long cocktail for all seasons.",
         "creator": "Jamie Boudreau, Canon, Seattle, WA",
-        "image": "assets/recipes/ess-italian-buck.webp",
         "usable": true,
         "page": "260",
         "garnish": "Lime wheels",
@@ -12521,7 +12443,6 @@
         "instructions": "Combine the ingredients in a glass and enjoy as a shot.",
         "note": "This combination is as delicious as it is easy to whip together. Enjoy this drink as an aperitif or digestif.",
         "creator": "",
-        "image": "assets/recipes/agave-its-a-bittersweet-life.webp",
         "usable": true
       }
     ],
@@ -12832,7 +12753,6 @@
         "instructions": "In a cocktail shaker, muddle strawberry with simple syrup. Add bourbon, lemon juice, bitters, and ice and shake until chilled. Double strain into a Collins glass over ice and top with ginger beer. Garnish with a lemon wheel.",
         "note": "Named for Kentucky’s state spirit—bourbon, of course—and with the addition of muddled strawberry and fresh lemon, Erick Castro’s Southern rendition of a traditional buck couldn’t be better suited toa long, lazy afternoon.",
         "creator": "Erick Castro, Polite Provisions, San Diego, Ca",
-        "image": "assets/recipes/ess-kentucky-buck.webp",
         "usable": true
       }
     ],
@@ -13181,7 +13101,6 @@
         "instructions": "Shake the cocktail ingredients with ice until chilled. Strain over ice into the container of your choice.",
         "note": "Paired in the book with Wayne's World (1992).",
         "creator": "",
-        "image": "assets/recipes/movie-kitchen-sink.webp",
         "usable": true,
         "garnish": "Anything and everything you want",
         "ice": "Ice",
@@ -13362,7 +13281,6 @@
         "instructions": "Shake all ingredients with ice. Strain, discard the ice, return the cocktail to the shaker, and dry shake for 20 seconds. Strain into a rocks glass filled with ice.",
         "note": "Paired in the book with Three Days of the Condor (1975).",
         "creator": "",
-        "image": "assets/recipes/movie-knight-takes-bishop.webp",
         "usable": true,
         "garnish": "1 sprig of tarragon",
         "glass": "Rocks glass",
@@ -13445,7 +13363,6 @@
         "instructions": "POMEGRANATE MOLASSES 2 OUNCES WHITE RUM Ina cocktail shaker, muddle raspberries with simple syrup. Add remaining ingredients and ice, and shake until chilled. Double strain into a chilled coupe or cocktail glass. Garnish with a lime and raspberry skewer.",
         "note": "Joaquin Sim6’s riff on the Daiquiri (page 74) derives its name from the word for “bomb” in Spanish, but it also winks at the French word grenade, meaning “pomegranate”—an ingredient that plays an important role in this drink. Here, pomegranate molasses lends a complex tanginess that gives depth to tart fresh raspberries and vibrant lime juice. “This cocktail is an awesome way to prove that ‘fruity’ and ‘sweet’ are not synonymous,” says Simo.",
         "creator": "Joaquin Simo, Pouring Ribbons, New York, Ny",
-        "image": "assets/recipes/ess-la-bomba-daiquiri.webp",
         "usable": true
       }
     ],
@@ -13576,7 +13493,6 @@
         "instructions": "",
         "note": "(“The Other Word,” from L.A. bartender Eric Alperin)*",
         "creator": "",
-        "image": "assets/recipes/hs-la-otra-palabra.webp",
         "usable": true
       }
     ],
@@ -13644,7 +13560,6 @@
         "instructions": "Shake the ingredients with ice and serve on the rocks. Rim the glass with chipotle salt.",
         "note": "The source gives a cilantro syrup made from cilantro, pineapple juice, jalapeño, and sugar, and a chipotle-salt rim made from two parts salt to one part chipotle powder.",
         "creator": "Gilbert Marquez, Los Angeles",
-        "image": "assets/recipes/hs-la-parka.webp",
         "usable": true,
         "garnish": "Lime wedge",
         "glass": "Rocks glass",
@@ -13725,7 +13640,6 @@
         "instructions": "Add the raicilla, pineapple juice, lime juice, banana liqueur, and simple syrup to a shaker with ice. Shake to chill and combine, strain over 4 to 6 cubes of fresh ice into a rocks glass, and garnish with a pineapple leaf. Serve with a straw.",
         "note": "Andre Levon Andre is the bar director of Bar Clavel in Baltimore, Maryland. His cocktail came to him in a dream one night when he was visiting a town just outside of Tuito, Jalisco. The flavors are meant to emphasize the overripe fruit characteristic of the raicilla that originates from the Sierra Madre Occidental. Andre uses panela sugar for his simple syrup, which can be purchased at specialty food stores.",
         "creator": "",
-        "image": "assets/recipes/agave-la-penca.webp",
         "usable": true
       }
     ],
@@ -13876,7 +13790,6 @@
         "instructions": "Stir the whiskey and wine with ice until chilled. Strain into a rocks glass filled with ice and top with club soda.",
         "note": "Paired in the book with Lady Sings the Blues (1972).",
         "creator": "",
-        "image": "assets/recipes/movie-lady-day.webp",
         "usable": true,
         "page": "70",
         "glass": "Rocks glass",
@@ -13951,7 +13864,6 @@
         "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a brandied cherry.",
         "note": "Detroit seemingly played a very minor role in contributing to Prohibition-era drinks, but the Last Word exists entirely thanks to the Motor City. Equal parts four ingredients, it was first served at the Detroit Athletic Club, most likely mixed with bathtub gin during America’s dark days of temperance. Ted Saucier, author of the 1951 cocktail manual Bottoms Up!, attributes the invention to vaudeville monologist Frank Fogarty, whose wit often earned him the last laugh. The cocktail was revived in the early aughts when bartender Murray Stenson, formerly of Seattle’s Zig Zag Café, came across the recipe while researching old bar manuals. It quick",
         "creator": "Brandied Cherry,",
-        "image": "assets/recipes/ess-last-word.webp",
         "usable": true
       },
       {
@@ -14049,7 +13961,6 @@
         "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "Drawing on ingredients from romance language-speaking countries, the Latin Trifecta honors Mexico, Italy, and Spain with the strong and savory trio of tequila, Cynar, and sherry. About his creation, Jamie Boudreau says, “Tequila and sherry have always been great friends; adding the bittersweet complexity of an amaro elevates the pairing.” Indeed, the three form a perfect trio.",
         "creator": "Jamie Boudreau, Canon, Seattle, WA",
-        "image": "assets/recipes/ess-latin-trifecta.webp",
         "usable": true,
         "page": "268",
         "garnish": "Flamed orange peel",
@@ -14136,7 +14047,6 @@
         "instructions": "Shake all ingredients with ice. Strain into an ice-filled rocks glass.",
         "note": "Paired in the book with The Firm (1993).",
         "creator": "",
-        "image": "assets/recipes/movie-lawyers-guns-money.webp",
         "usable": true,
         "page": "149",
         "garnish": "Orange twist and a dusting of spicy chocolate mixture",
@@ -14236,7 +14146,6 @@
         "instructions": "Add soda water to a rocks glass. Dry shake the remaining ingredients, add ice and shake until chilled, then strain over the soda water.",
         "note": "A menu staple at San Francisco’s ABV, this drink was inspired by a single mezcal and named for the man who makes it: Del Maguey’s Santo Domingo Albarradas, and mezcalero Espiridion “Lefty” Morales Luis. The smoky, single-village bottling reminded bartender Ryan Fitzgerald of maraschino liqueur, and using that as a launchpad he called on the flavors of a Hemingway Daiquiri (page 105), in which maraschino also plays an important role. The mezcal gets mixed with sweet-and-sour grapefruit shrub, lime juice, dry curacao, and egg white. Served down over soda water, the fluffed-up fizz is equal parts sour, smoky, and smooth. 2 OUNCES 2 OUNCE DRY 1EG",
         "creator": "Ryan Fitzgerald, ABV, San Francisco, CA",
-        "image": "assets/recipes/ess-lefty-s-fizz.webp",
         "usable": true,
         "page": "270",
         "garnish": "Grapefruit peel",
@@ -14315,7 +14224,6 @@
         "instructions": "shaker filled with i icq",
         "note": "arry Stoner Wack Lemmon) cannot find his bottom. He is a heavy - drinking nihilist who, when the apparel company where he is an executive begins to fall , seriously ponders whether he should torch a warehouse for the insurance money. In his isolation, Stoner continually responds to the complexity of the modern world in a manner infantile approach i is not enviable, but in Lemmon’s hands it becomes relatable, an impressive bit",
         "creator": "",
-        "image": "assets/recipes/movie-lemon-drop.webp",
         "usable": true
       }
     ],
@@ -14781,7 +14689,6 @@
         "instructions": "Shake all ingredients with ice until chilled. Strain over ice into a rocks glass.",
         "note": "Eschewing the traditional Rose’s Lime Cordial, Brooklyn bartender Toby Cecchini doubles down on the lime in his super-tangy gimlet, using both a house-made ginger-infused lime cordial and an extra dose of fresh lime juice. The cordial requires time and resolve, but",
         "creator": "Toby Cecchini, Long Island Bar, Brooklyn, NY",
-        "image": "assets/recipes/ess-long-island-bar-gimlet.webp",
         "usable": true,
         "page": "273",
         "garnish": "2 lime wheels",
@@ -14915,7 +14822,6 @@
         "instructions": "Add all ingredients to a cocktail | NOTE Using good orgeat is key shaker. Add ice and shake until to any decent mai tai. Small chilled. Strain over crushed | Hand Foods’ version is first-rate.",
         "note": "The credit for this iconic 1940s drink—whose name is a nod to the Tahitian word maita’i, which means “good”—is usually given to venerable Los Angeles tiki bar Trader Vic’s. Buoyed by the rise of tiki culture and some big celebrity endorsements (think Elvis in Blue Hawaii), this rum-based drink became cemented in the public imagination as a tropical must-have. But don’t look to this drink for kitsch factor alone: when done up right—without orange juice or syrupy prefab mai tai mix—this is one of the greats. This version— a recipe interpreted by modern-day tiki bartender Brian Miller—is based on Trader Vic’s 1944 original.",
         "creator": "'/2Ounce Aged Rum,",
-        "image": "assets/recipes/ess-mai-tai.webp",
         "usable": true
       },
       {
@@ -15090,7 +14996,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir well, Strain into a chilled coupe or cocktail glass. Garnish with a brandied cherry or three.",
         "note": "Two cocktails every American knows by name are undoubtedly the crystal-clear martini and its dark and deep ally, the Manhattan. The heady duo rely ona solid spirituous base, amplified by vermouth (dry for the martini, sweet for the Manhattan), and are recognized by their signature garnishes: olives for the former, and a brandied cherry for the latter. Over the course of the twentieth century, the martini largely pulled back on the vermouth, becoming even more bracing, but the Manhattan has remained resolute in its ratio.",
         "creator": "Brandied Cherries,",
-        "image": "assets/recipes/ess-manhattan.webp",
         "usable": true
       },
       {
@@ -15166,7 +15071,6 @@
         "instructions": "Place the cocktail — stir. Strain into acocktail",
         "note": "Movie source needs source re-extraction; hidden from production until verified.",
         "creator": "",
-        "image": "assets/recipes/movie-manhattan.webp",
         "usable": false
       }
     ],
@@ -15236,7 +15140,6 @@
         "instructions": "Fill a 1-quart pitcher with ice and add the whiskey, dry vermouth, and bitters. Stir vigorously until the outside of the pitcher is thoroughly beaded with sweat and is extremely cold to the touch. Strain into the cocktail glasses, then twist the lemon over each drink and drop it in. Serve immediately. Lemon or Orange T wists Twists are 1- to 2-inch-long oval or rectangular slivers of lemon or other citrus rind that are twisted over a cocktail, releasing their essential oils into the drink. To make them, start by cutting off the “polar” nubs at each end of the fruit. Then place the fruit on one flat end and use a paring knife to gently cut off a slice of the rind, starting at the top and working your way downward. Try not to get too much of the bitter white pith. Alternatively, you can use a vegetable peeler. Hold the fruit firmly in the palm of your hand. Starting at one end and cutting straight toward the other end, carefully and steadily remove a slice of the rind.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-manhattan-dry.webp",
         "usable": true
       }
     ],
@@ -15307,7 +15210,6 @@
         "instructions": "Fill a 1-quart pitcher with ice and add the whiskey, dry vermouth, sweet vermouth, and bitters. Stir vigorously until the outside of the pitcher is thoroughly beaded with sweat and is extremely cold to the touch. Strain the drink into the cocktail glasses, twist the lemon over the drink, and drop it in. Serve immediately.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-manhattan-perfect.webp",
         "usable": true
       }
     ],
@@ -15445,7 +15347,6 @@
         "instructions": "",
         "note": "This toddy celebrates the natural ingredients found in the northeastern part of the American continent: nettles and maple. Hot water Dried nettle leaves",
         "creator": "",
-        "image": "assets/recipes/agave-maple-nettle-hot-toddy.webp",
         "usable": true
       }
     ],
@@ -15630,7 +15531,6 @@
         "instructions": "Add ice and shake until chilled. Strain into prepared glass, over ice if desired. Garnish with a lime wheel.",
         "note": "The true margarita—a blend of tequila, fresh lime juice, orange liqueur, and sugar—is a potent, well-built classic. It was once believed to be a south-of-the-border twist on the popular daisy (a legend bolstered by linguistics: margarita is “daisy” in Spanish); over the years, credit for its invention has also been claimed bya Tijuana restaurateur and an Acapulco socialite. In December 1953 it was named Esquire’s cocktail of the month, and it has hardly flagged in popularity since. Whatever its original provenance, this version is a sure bet: a hybrid of the old-school and the modern classic Tommy’s Margarita that pairs an agave-based sweeten",
         "creator": "Liqueur, Preferably",
-        "image": "assets/recipes/ess-margarita.webp",
         "usable": true
       },
       {
@@ -15678,7 +15578,6 @@
         "instructions": "shaker and serve on the rocks with salt on the rim. Garnish with a lime wedge. Simple. Easy. Perfect.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/hs-margarita.webp",
         "usable": true
       }
     ],
@@ -15747,7 +15646,6 @@
         "instructions": "Add the tequila, bitters, lemon juice, and egg white to a cocktail shaker. Dry shake (without ice) for 20 seconds, then add ½ cup of ice and shake again. Double strain into a coupe glass and garnish with an orange twist to serve.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-margarita-bitter-orange.webp",
         "usable": true
       }
     ],
@@ -15810,7 +15708,6 @@
         "instructions": "Moisten the rim of a double rocks glass with water or lime juice and, holding it upside down, dip the rim into a flat dish filled with table or kosher salt, if using. Place the tequila, Grand Marnier, and lime juice in a cocktail shaker filled with ice. Shake and strain the drink into the glass filled with ice cubes and serve.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-margarita-cadillac.webp",
         "usable": true
       }
     ],
@@ -15873,7 +15770,6 @@
         "instructions": "Optionally salt the rim of a margarita glass. Blend the remaining ingredients until slushy, adding more ice if needed. Pour into the prepared glass.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-margarita-frozen.webp",
         "usable": true,
         "page": "48",
         "garnish": "Lime wheels or wedges; salt rim optional",
@@ -15947,7 +15843,6 @@
         "instructions": "First, prepare a margarita glass by chilling it in the freezer, or filling it with ice cubes and allowing it to stand (before tossing out the ice cubes prior to pouring in the drink). Place all the Ingredients: in a cocktail shaker filled with ice and shake well. Strain into the chilled glass.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-margarita-hibiscus.webp",
         "usable": true
       }
     ],
@@ -16015,7 +15910,6 @@
         "instructions": "Place all the ingredients, except the garnish, in a cocktail shaker filled with ice and shake well. Strain into a martini or double rocks glass over ice. Garnish with a lime wheel to serve.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-margarita-smoky-chili.webp",
         "usable": true
       }
     ],
@@ -16086,7 +15980,6 @@
         "instructions": "Salt the rim of a coupe. Shake all ingredients except Champagne with ice, strain into the prepared glass, and top with Champagne.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-margarita-spritz-strawberry.webp",
         "usable": true,
         "page": "45",
         "garnish": "Salt rim",
@@ -16164,7 +16057,6 @@
         "instructions": "Rim a double rocks glass with Tajín or chili powder. Shake the remaining ingredients with ice and strain into the prepared glass over ice.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-margarita-tamarind.webp",
         "usable": true,
         "page": "52",
         "garnish": "Tajín seasoning or chili powder rim",
@@ -16233,7 +16125,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a chilled coupe or cocktail glass. Garnish with an orange peel.",
         "note": "Is the Martinez a predecessor to the martini? This is yet another lineage cocktail historians love to bicker over. One camp is certain that the Martinez is the parent, and the other is sure that the two were contemporaries. Traditionally made with Old Tom Gin (a sweeter style), sweet vermouth, and maraschino liqueur, the drink does skew a bit saccharine when compared with a dry martini. These same historians also debate the origin of the Martinez: some credit a bar in the city of Martinez, California; others say Jerry Thomas made it for a traveler headed there. Either way, the first known published recipe can be found in The Modern Bartender’",
         "creator": "Maraschino Liqueur,",
-        "image": "assets/recipes/ess-martinez.webp",
         "usable": false
       },
       {
@@ -16326,7 +16217,6 @@
         "instructions": "Add all ingredients to a mixing NOTE Should you prefer a drier glass. Add ice and stir until | martini, try a 4:1 ratio of gin to chilled. Strain into a chilled",
         "note": "Considering all of the sleuthing done by cocktail historians, it’s remarkable that no one has turned up a solid story for the birth of the martini. Certain facts, however, have been established: the martini postdated the Manhattan and probably evolved from a mix of sweet vermouth and sweet gin as drier versions of those alcohols became popular at the turn of the twentieth century. Over time, the bitters fell out of fashion, as did vermouth, and the ratio of the drink tilted strongly to gin. The cocktail revival has righted some of these wrong turns, but there now exists a world of permutations regarding the ratio of vermouth to gin, garnishin",
         "creator": "Vermouth,",
-        "image": "assets/recipes/ess-martini.webp",
         "usable": true
       },
       {
@@ -16358,7 +16248,6 @@
         "instructions": "Combine all of the ingredients in a blender and pulse until well mixed. Pour into a chilled martini glass.",
         "note": "Daiquiri Mulata The drink was originally made with Barcadi Elixer, a liqueur made by infusing plum is rum. This recipe was darkened up a bit by using two types of rum.",
         "creator": "",
-        "image": "assets/recipes/ryan-martini.webp",
         "usable": true
       }
     ],
@@ -16646,7 +16535,6 @@
         "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a rocks glass over ice. Garnish with a lime wheel.",
         "note": "A discovery of cocktail writer, historian, and wanderlust Charles H. Baker Jr., the Mexican Firing Squad is recorded in his 1939 The Gentleman’s Companion, Volume II: Being an Exotic Drinking Book or Around the World with Jigger, Beaker and Flask. He’d encountered the Firing Squad at La Cucaracha Bar, a Prohibition-era favorite, in Mexico City, on one of his Latin American journeys. A dry formula, the Firing Squad is almost a Rickey (a fizz sans sugar) with the addition of grenadine to sweeten it only slightly and give the drink its nice rosy hue. Fora longer, cooling drink, pour it into a highball glass and top with a little soda.",
         "creator": "",
-        "image": "assets/recipes/ess-mexican-firing-squad.webp",
         "usable": true
       },
       {
@@ -16698,7 +16586,6 @@
         "instructions": "add all the ingredients above into a shaker and serve on the rocks. If you add the optional sparkling water, pour it into the glass after you have poured the drink, and stir with a bar spoon. Garnish with lime wedge.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/hs-mexican-firing-squad.webp",
         "usable": true
       }
     ],
@@ -16824,7 +16711,6 @@
         "instructions": "",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/hs-mezcal-con-pepino.webp",
         "usable": true
       }
     ],
@@ -16888,7 +16774,6 @@
         "instructions": "",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/hs-mezcal-floater.webp",
         "usable": true
       }
     ],
@@ -17016,7 +16901,6 @@
         "instructions": "",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/hs-mezcal-mule.webp",
         "usable": true
       }
     ],
@@ -17166,7 +17050,6 @@
         "instructions": "Rim half of a highball glass with citrus salt and fill with ice. Pour the mezcal and mixer over the ice, and garnish with lime.",
         "note": "Using mezcal instead of tequila adds a touch of smokiness and extra richness to the classic flavors. Citrus salt, for rim",
         "creator": "",
-        "image": "assets/recipes/agave-mezcal-paloma.webp",
         "usable": true
       }
     ],
@@ -17220,7 +17103,6 @@
         "instructions": "Add the mezcal to the hot bone broth. Squeeze in the lemon juice and top with the onion and herbs.",
         "note": "Sipping broth is made even more soul-warming by spiking it with a little mezcal.",
         "creator": "",
-        "image": "assets/recipes/agave-mezcal-sipping-broth.webp",
         "usable": true
       }
     ],
@@ -17282,7 +17164,6 @@
         "instructions": "Rim half of a rocks glass with salt and set aside. Shake the tequila, mezcal, sherry, and lime juice with ice to chill and dilute. Strain over fresh ice into the rimmed glass, and garnish with an orchid or other beautiful edible flower.",
         "note": "Using a combination of tequila and mezcal creates a balanced agave flavor, while the sherry adds depth and richness to match the intensity of the mezcal. Salt, for rim",
         "creator": "",
-        "image": "assets/recipes/agave-mezcal-rita.webp",
         "usable": true
       }
     ],
@@ -17477,7 +17358,6 @@
         "instructions": "Shake all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "The Millionaire is the John Jacob Jingleheimer Schmidt of Prohibition-era drinks. Unsurprisingly, Roaring Twenties bartenders had an affinity for the name, bestowing it upon recipes so distinct from one another that not even the base spirit was consistent. The only through line was that the ingredients were perceived as somewhat flashy at the time. This rendition was inspired by a recipe that appeared in 1938’s The How and When cocktail book by Hyman Gale and Gerald F. Marco. Here, the proportions have been updated ever so slightly and a little lemon juice added at the recommendation of Jason Kosmas and Dushan Zaric of New York City’s Employe",
         "creator": "2 Ounces Bourbon,",
-        "image": "assets/recipes/ess-millionaire-cocktail.webp",
         "usable": true,
         "page": "127",
         "garnish": "Freshly grated nutmeg",
@@ -17548,7 +17428,6 @@
         "instructions": "Pour in bourbon, and mound more ice into the top of the glass. Spank a mint bouquet by clapping it between your hands to release the oils, and garnish.",
         "note": "The Mint Julep is one of the more powerful cocktails to be associated with contemporary day drinking—an association that, of course, owes much to the Kentucky Derby, where 120,000 juleps are said to be sold every year. Race and hats not withstanding, this all-American drink actually dates back to the eighteenth century. The exact origins and recipe have no doubt inspired countless dissertations, but, in short, it most likely originated in Virginia in the late 1700s, when it was considered an aristocratic drink. (Who else could afford silver tins and a coveted block of ice used simply for crushing?) Bourbon became the preferred spirit only aft",
         "creator": "Bourbon, Preferably",
-        "image": "assets/recipes/ess-mint-julep.webp",
         "usable": false
       },
       {
@@ -17572,7 +17451,6 @@
         "instructions": "Place two mint sprigs and ½ ounce simple syrup in each rocks glass or julep cup and muddle well. Fill with crushed ice, add bourbon, and stir until the vessel frosts.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-mint-julep.webp",
         "usable": true,
         "page": "75",
         "garnish": "Remaining mint",
@@ -17679,7 +17557,6 @@
         "instructions": "Add the Lillet, mezcal espadín, chartreuse, ruda mezcal, citric acid solution, and bitters to a mixing glass. Fill the glass with ice and stir until well chilled. Strain into a chilled rocks glass and add one Red Ice Cube. Express a lemon peel and roll it carefully along the rim of the glass, and then place in the glass. Garnish with a piece of ruda or another small green herb.",
         "note": "Carmen López Torres Carmen López Torres, who grew up in Mexico City and studied food chemistry there, consults with agave spirits companies and is always looking for new ways to use classic spirits. The Miss Ruda is a riff on a white negroni and was a fun mixology challenge for Carmen because the selection of amaros and aperitivos in Mexico is limited. You can find mezcal infused with ruda, a bitter herb, from the brand Mezcalillera. Otherwise, you can infuse espadín mezcal with ruda and still g",
         "creator": "",
-        "image": "assets/recipes/agave-miss-ruda.webp",
         "usable": true
       }
     ],
@@ -17756,7 +17633,6 @@
         "instructions": "In a Collins glass, add mint sprigs and sugar. Muddle by pressing lightly with a muddler to release oils. Drop in lime quarters and muddle to release juice. Add rum, stir, and add ice. Top with soda water. Garnish with a mint sprig and a lime slice.",
         "note": "A descendant of the Draque—an old Cuban concoction of unrefined rum, cane sugar, and lime juice—the mojito was most likely invented when more delicate white rums entered the market in the mid- to late nineteenth century. The first printed references for the version of the recipe we recognize today date to the 1930s. Theories about the drink’s moniker abound: some refer to mojo, the Cuban lime seasoning, while another points to a play on mojado, the Spanish term for “wet.” Thanks to the diaspora of Miami club culture, the mojito enjoyed a surge of popularity in United States in the early 1990s, solidifying its post among classic cocktails. Alt",
         "creator": "1 Lime, Quartered",
-        "image": "assets/recipes/ess-mojito.webp",
         "usable": false
       },
       {
@@ -18203,7 +18079,6 @@
         "instructions": "Add vodka and lime juice to a copper mule mug or Collins or highball glass. Top with crushed or cracked ice. Top with ginger beer and swizzle with a swizzle stick or barspoon gently to mix. Garnish with a lime wheel. 5",
         "note": "Best known for its signature icy copper mug, the Moscow Mule is just about the best thing you can drink on a hot summer day. A member of the buck family of ginger beer-based cocktails, this vodka buck is said to have been created in the early 1940s in the midst of an alcohol-fueled meeting between John G. Martin, an executive at the company that bottled the then-unknown Smirnoff, and Jack Morgan, owner of the Cock ’n’ Bull bar in Hollywood anda ginger beer producer. At the same time, the two met Sophie Berezinski, a Russian immigrant who’d just landed in the States, hoping to unload the mugs that her father made in his factory, the Moscow Cop",
         "creator": "Beer, Preferably",
-        "image": "assets/recipes/ess-moscow-mule.webp",
         "usable": true
       },
       {
@@ -18292,7 +18167,6 @@
         "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain over a large ice cube into a rocks glass. Garnish with a piece or two of candied ginger.",
         "note": "In this kicked-up Whiskey Sour (the original appears on page 193), Natasha David calls for maple syrup as the sweetener. “It adds an entirely different flavor than regular simple syrup or even a rich sugar like Demerara.” David forgoes fresh peaches in lieu of Giffard’s Péche de Vigne to accentuate the roundness of the maple syrup and the spicy ginger. “A lot of other fruit liqueurs can taste artificial,” she says. “But I find that Giffard is always a very true expression of each fruit.”",
         "creator": "Natasha David, Nitecap, New York, Ny",
-        "image": "assets/recipes/ess-mountain-man.webp",
         "usable": true
       }
     ],
@@ -18367,7 +18241,6 @@
         "instructions": "Shake rum, lime juice, sugar, and grenadine with ice. Strain into a highball glass filled with crushed ice, top with club soda, then float maraschino liqueur over the back of a spoon.",
         "note": "maraschino liqueur.",
         "creator": "",
-        "image": "assets/recipes/ryan-myrtle-bank-rum-punch.webp",
         "usable": true,
         "page": "59",
         "glass": "Highball glass",
@@ -18462,7 +18335,6 @@
         "instructions": "Combine the mezcal, chartreuse, cucumber juice, lime juice, Coconut-Basil Cream, and chili serrano juice in a shaker with ice. Shake hard, strain into a highball glass over fresh ice, and garnish with a cucumber slice dipped in Serrano Salt.",
         "note": "José María Dondé Rangel Mexico City native José María is the founder of @panoramamezcal on Instagram and the beverage director at Claro Restaurant in Brooklyn, New York, a Michelin-starred destination that celebrates the culinary heritage of Oaxaca and carries an impressive selection of hard-to-find mezcal. In addition to tending bar in Brooklyn, he is known for pop-up bartender events across the eastern US, particularly in Miami and Washington, DC. For this multilayered herbaceous cocktail, Jos",
         "creator": "",
-        "image": "assets/recipes/agave-maquina-verde.webp",
         "usable": true
       }
     ],
@@ -18607,7 +18479,6 @@
         "instructions": "Add all ingredients to a mixing glass with ice and stir. Strain into a rocks glass with one large ice cube. Garnish with a lemon peel.",
         "note": "“My manager ata not-to-be-named restaurant I worked at years ago asked for something Negroni-like that wouldn’t knock him on his ass—something he could continue to drink all shift long,” says bartender Caitlin Laman. Her response: a low-proof riff on a Negroni (page 135) consisting of sherry and bitter-yet-rich Gran Classico, balanced out with dry vermouth. Laman describes this as a “refreshing, herbal, bitter, sherry-driven cocktail that you can drink all night long.” Amen.",
         "creator": "Caitlin Laman, Chicago, Il",
-        "image": "assets/recipes/ess-natoma-st.webp",
         "usable": true
       }
     ],
@@ -18778,7 +18649,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. If on the rocks, strain over ice into a rocks glass. If up, strain into a chilled coupe or cocktail glass. Garnish with an orange peel.",
         "note": "Like all good stories, the one about the Negroni involves rakish Italian nobility. Most accounts credit the recipe to one Count Negroni, a swashbuckling proto-boho who reportedly spent time as a rodeo cowboy in the United States. Compounding his wild ways, legend has it that back at a bar in Italy in 1919, he asked for a something like an Americano but boozier. Swap gin for soda water, and presto: the Negroni. Navigating a tightrope between bitter and sweet, this powerful drink—a study in balance—has evolved into one of the cornerstones of the classic cocktail revival.",
         "creator": "",
-        "image": "assets/recipes/ess-negroni.webp",
         "usable": true
       },
       {
@@ -18861,7 +18731,6 @@
         "instructions": "Build Campari and sweet vermouth over ice in a rocks or lowball glass. Top with prosecco and stir gently.",
         "note": "This twist on the Negroni allegedly came to be when a Milanese bartender reached for a bottle of prosecco rather than gin when making the classic drink—the sbagliato addendum translates to mean “incorrect” or “mistaken.” But, in fact, the buoyantly bitter Italian aperitivo drink is anything but incorrect. If the sbagliato is wrong, you don’t want to be right.",
         "creator": "Sparkling Wine),",
-        "image": "assets/recipes/ess-negroni-sbagliato.webp",
         "usable": true,
         "page": "136",
         "garnish": "Orange peel",
@@ -18936,7 +18805,6 @@
         "instructions": "First, chill a coupe glass by leaving it in the freezer or filling it with ice cubes, tossing them out once the glass is cold. Place the tequila, Campari, vermouth, agave nectar, lemon juice, and egg white in a cocktail shaker. Dry shake (without ice) for 20 seconds, then add ice and shake again. Strain into the coupe glass and garnish with a thyme sprig to serve.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-negroni-sour.webp",
         "usable": true
       }
     ],
@@ -19004,7 +18872,6 @@
         "instructions": "Fill a chilled double rocks glass with ice cubes. Add the Campari, tequila, and vermouth. Stir well. Garnish with a twist of orange peel to serve.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-negroni-tequila.webp",
         "usable": true
       }
     ],
@@ -19252,7 +19119,6 @@
         "instructions": "Rim a rocks glass with tajin and set aside. Add the jalapeño to a shaker and muddle, then add the mezcal, cucumber puree, lime juice, and agave syrup, plus ice. Shake for 5 to 7 seconds. Double strain and serve.",
         "note": "Alex Valencia Alex is celebrated as one of the top Mexican mixologists of our time, and this drink is a cult favorite at La Contenta and La Contenta Oeste, the restaurants he co-owns in New York City. Alex created this cocktail back in 2009 before mezcal went mainstream and initially called it the Mexican Connection. “Back then, the mezcal in New York City was only exported from Oaxaca, so I changed the name to Oaxaca Express, like a little taste from Oaxaca, Mexico,” he says. Tajin, for rimming",
         "creator": "",
-        "image": "assets/recipes/agave-oaxaca-express.webp",
         "usable": true
       }
     ],
@@ -19325,7 +19191,6 @@
         "instructions": "Combine all ingredients in an old-fashioned glass with one large ice cube and stir until chilled.",
         "note": "Philip Ward devised this smoky take on the Old-Fashioned nearly a decade ago, back when he was behind the bar at NYC’s Death & Co. “I was just starting to play with mezcal in cocktails and noticed that adding a bit of mezcal to tequila drinks was like putting your tequila on steroids. More body, more smoke, more everything you ever dreamed tequila could be,” he says. To balance the big flavor of mezcal, Ward uses agave nectar because it’s a little richer than simple syrup. And while his go-to bitters are Angostura, he’ll often swap them for molé bitters to bring a little extra Mexican flavor.",
         "creator": "Philip Ward, Mayahuel, New York, NY",
-        "image": "assets/recipes/ess-oaxaca-old-fashioned.webp",
         "usable": true,
         "page": "282",
         "garnish": "Flamed orange peel",
@@ -19405,7 +19270,6 @@
         "instructions": "",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/hs-oaxacan-dream.webp",
         "usable": true
       }
     ],
@@ -19473,7 +19337,6 @@
         "instructions": "",
         "note": "(from Steve Olson, renowned spirits professional)",
         "creator": "",
-        "image": "assets/recipes/hs-oaxacan-old-fashioned.webp",
         "usable": true
       }
     ],
@@ -19533,7 +19396,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain over ice into a rocks glass. Garnish with an orange peel.",
         "note": "“I like to pay homage to the lesser known New Orleans cocktails,” says Maxwell Britten. He adapted his Old Hickory— a reference to President Andrew Jackson’s nickname—from Stanley Clisby Arthur’s 1937 Famous New Orleans Drinks and How to Mix ’Em. Britten’s version includes the addition of Peychaud’s bitters, another nod to the drink’s New Orleans roots. Because Old Hickory is a vermouth-based, low-proof cocktail, Britten likes to suggest it as an unorthodox but compatible companion",
         "creator": "Maxwell Britten, Brooklyn, Ny",
-        "image": "assets/recipes/ess-old-hickory.webp",
         "usable": true
       }
     ],
@@ -19596,7 +19458,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a lemon peel.",
         "note": "Certain names come up again and again as the creators of long- beloved drinks—like ghosts sitting at the bar lending guidance and inspiration to today’s best bartenders. One such person is Harry MacElhone, an Irish chap who became the proprietor of Harry’s Bar in Paris in the 1920s. Just as MacElhone credited his “old pal” William “Sparrow” Robinson, the sports editor for the New York Herald in Paris, as the impetus for this drink, numerous bartenders would credit their “old pal” MacElhone for many of theirs. The Old Pal is essentially a Boulevardier (page 59), another MacElhone drink, but drier thanks to dry vermouth in place of sweet vermou",
         "creator": "",
-        "image": "assets/recipes/ess-old-pal.webp",
         "usable": true
       },
       {
@@ -19679,7 +19540,6 @@
         "instructions": "In a double rocks glass, muddle the sugar cube or sugar with Angostura bitters and a small splash of warm water until dissolved. If using simple syrup, swirl with bitters in a double rocks glass. Add whiskey and ice (preferably an oversize cube) and stir well. Garnish with an orange peel.",
         "note": "A simple mix of spirits, sugar, bitters, and water, the old-fashioned made its appearance in 1806 as the first printed recipe for a cocktail (“cock tail”), but it wasn’t named until later that century after more ostentatious new-fangled cocktails entered the canon. In fact, during Prohibition, the old-fashioned nearly lost its humble footing when the recipe veered into odd territory, adding fruit and cherries to distract from the available crude spirits. After repeal, the imposter version stuck until the recent cocktail revival brought the original recipe back from the brink of extinction.",
         "creator": "Sugar Cube,",
-        "image": "assets/recipes/ess-old-fashioned.webp",
         "usable": false
       },
       {
@@ -19803,7 +19663,6 @@
         "instructions": "Add all ingredients to a shaker. Add ice and shake well. Once cold, strain over fresh ice in a rocks glass.",
         "note": "Julio Xoxocotla Mexico-born Julio is a partner and head bartender at the Wild Son and Bar Lula in New York City. The phrase that inspired this fruity, lightly smoked, spicy and herbal cocktail is “ El dinero, el amor, y las guayabas no se pueden ocultar ”—in English, “Money, love, and guavas cannot be hidden.”",
         "creator": "",
-        "image": "assets/recipes/agave-one-way-to-oaxaca.webp",
         "usable": true
       }
     ],
@@ -19963,7 +19822,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a lemon peel. \\",
         "note": "On a mission to create a new gin drink for Brooklyn bar Dram, bartender Jeremy Oertel took inspiration from a bizarre source: one of his favorite drinks from the New York tequila bar Mayahuel. “I wanted to find a way to combine the flavors of a shaken cocktail—called the Loop Tonic—into a stirred cocktail,” says Oertel. “I liked the way that celery and green Chartreuse go together, so I maintained those flavors and added maraschino for a hint of sweetness.” He didn’t have a name for it, so he turned it over to Dram’s owner, Tom Chadwick, who went back to his office to print menus. “My guess is, Tom was probably listing the ingredients and use",
         "creator": "Jeremy Oertel, Donna, Brooklyn, Ny",
-        "image": "assets/recipes/ess-oxford-comma.webp",
         "usable": true
       }
     ],
@@ -20119,7 +19977,6 @@
         "instructions": "Add all ingredients to a cocktail shaker and dry shake. Pour into a tiki mug and top with crushed ice. Garnish generously with grated nutmeg, a mint sprig, and an umbrella, if desired.",
         "note": "their boozy layers of rum and absurd garnishes. But this one emphasizes the soothing powers of being transported toa tropical island via a single Virgin Islands rum that’s mellowed by waves of pineapple juice, orange juice, and coconut cream. The origin of the Painkiller is disputed (though credit is often given to Daphne Henderson of the Soggy Dollar Bar on the British Virgin Island Jost Van Dyke), but what’s not argued is who owns the cocktail: Pusser’s Rum, which trademarked the name in the 1990S.",
         "creator": "Nutmeg, Mint Sprig,",
-        "image": "assets/recipes/ess-painkiller.webp",
         "usable": true
       }
     ],
@@ -20187,7 +20044,6 @@
         "instructions": "Add first four (five if using bitters) ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a Collins glass over ice. Top with soda water. Garnish with a grapefruit wheel.",
         "note": "A peaceful name for an easygoing Collins, la paloma means “the dove” in Spanish. Fizzy and cooling, the Paloma is like the sweet- tart love child of a margarita and a Greyhound. Although not much is known about the drink’s provenance, it is undeniable that it’s wildly popular—perhaps even more so than the margarita—in its home country, Mexico. Technically a cooler, the simplest version of a Paloma is nothing more than a tall, salt-rimmed glass of tequila, lime juice, and grapefruit-flavored soda like Fresca or Squirt. Here, the soda is swapped for fresh grapefruit, simple syrup, and soda water to allow for more control over the sweetness, plu",
         "creator": "Soda Water,",
-        "image": "assets/recipes/ess-paloma.webp",
         "usable": true
       }
     ],
@@ -20260,7 +20116,6 @@
         "instructions": "Filter the cold-brewed coffee into an ice-filled mixing glass. Add Scotch, Dubonnet Rouge, and absinthe and stir gently for 3 seconds. Strain into an ice-filled Collins glass, add sparkling mineral water, and stir.",
         "note": "Paired in the book with Paper Moon (1973).",
         "creator": "",
-        "image": "assets/recipes/movie-paper-moon.webp",
         "usable": true,
         "page": "77",
         "glass": "Collins glass",
@@ -20342,7 +20197,6 @@
         "instructions": "Combine all ingredients in a cocktail shaker three-quarters filled with ice. Shake until chilled. Strain into a coupe.",
         "note": "During his time behind the stick at NYC’s infamous Milk & Honey, bartender Sam Ross created several drinks that have become keystones of the cocktail revolution; the Paper Plane is one. Ross claims that that he devised it while listening to British rapper MIA’s song of the same name, but it’s inconceivable that he could have whipped up a cocktai! this balanced, with such boisterous ingredients, with any sort of diversion. The drink combines four ingredients in equal measure, which at first glance seems like the easy way out, but somehow, each element is bolder than the last.",
         "creator": "Sam Ross, Attaboy, New York, Ny",
-        "image": "assets/recipes/ess-paper-plane.webp",
         "usable": true
       }
     ],
@@ -20422,7 +20276,6 @@
         "instructions": "FEVER TREE Peel grapefruits, taking care to avoid as much bitter white pith as possible. Ina large bowl, combine sugar with grapefruit peels, then lightly muddle and let sit for 20 minutes to allow oils to infuse with sugar. After 20 minutes, add gin, sherry, cider, ginger beer, and seltzer. Stir to combine. Add ginger and grapefruit slices to the bowl to garnish. To serve, ladle into punch cups over ice.",
         "note": "",
         "creator": "Damon Boelte, Grand Army Bar, Brooklyn, Ny",
-        "image": "assets/recipes/ess-parish-hall-punch.webp",
         "usable": true
       }
     ],
@@ -20649,7 +20502,6 @@
         "instructions": "Add all ingredients to a cocktail NOTE The Pegu Club is an shaker. Add ice and shake until extremely dry cocktail. To add chilled. Strain into a chilled",
         "note": "As Britain colonized its way across continental Asia in the nineteenth century, residents set up outposts for their empire’s wayward explorers in an effort to provide a civilized gathering place after a long day of conquering. Each of these boys’ clubs had its own rituals and drinking rites. The Pegu Club, located in Yangon, Myanmar, found itself at the center of British social life in the 1920s. Its members, citizens of a bygone political era, knew the city as Rangoon, Burma, and this drink was their house cocktail. The Pegu Club eventually found its way into 1927’s Barflies and Cocktails by Harry MacElhone, the owner of Harry’s New York Bar",
         "creator": "Curacao, Preferably",
-        "image": "assets/recipes/ess-pegu-club.webp",
         "usable": true
       }
     ],
@@ -20835,7 +20687,6 @@
         "instructions": "Combine blended Scotch with NOTE To make honey-ginger honey-ginger syrup and lemon syrup, combine 1 cup honey with juice in a cocktail shaker three-",
         "note": "Sam Ross’s creation of the Penicillin cocktail as one of modern drinking’s first cult faves was nearly as groundbreaking as the discovery of penicillin as one of modern medicine’s first antibiotics. The Penicillin has been made in bars around the world since Ross first served it at New York’s venerated Milk & Honey in 2007. The soothing tonic of honey, lemon, and ginger is bolstered by two layers of Scotch, a pleasant cure for whatever ails you.",
         "creator": "Sam Ross, Attaboy, New York, Ny",
-        "image": "assets/recipes/ess-penicillin.webp",
         "usable": true
       }
     ],
@@ -20903,7 +20754,6 @@
         "instructions": "In a large bowl, add sugar and lemon peels and rub together to release citrus oils into sugar. Allow to infuse for 30 minutes. Add warm tea (or water) and stir to dissolve sugar. Add rum, Cognac, lemon juice, and peach brandy and stir to mix. Adda block of ice to chill, and add",
         "note": "Philadelphia Fish House Punch was born from a group of rebellious (and most likely overheated) colonial Americans—fishermen, politicians, and Philadelphians of the like—who founded a pre- Revolution social club called the Schuylkill Fishing Company of Pennsylvania. Its constituents actually declared the assemblage a sovereign state and called themselves “citizens.” They still do today. Heady and heavy-handed, this punch is made for lazy summer afternoons (or—when heated and mulled—lazy winter weekends), so refrain from following a punch bow] up with any sort of plans, angling or otherwise.",
         "creator": "(Or Water), Warm",
-        "image": "assets/recipes/ess-philadelphia-fish-house-punch.webp",
         "usable": true
       }
     ],
@@ -21075,7 +20925,6 @@
         "instructions": "Rim a glass with sal de gusano. Shake the mezcal, tequila, brandy, honey syrup, lemon juice, cane syrup, and pineapple liqueur with ice. Strain into the rimmed glass.",
         "note": "Elaine Romero Elaine, head bartender at The Cabinet in New York City, likes to tell stories about the spirits she serves, whether poured neat or crafted into cocktails such as her Picosito. This cocktail combines agave with tropical flavors of mango brandy and pineapple liqueur. What started as a hobby is now a passion. Elaine has quickly become one of the nation’s top agave bartenders. Sal de gusano, for rimming the glass",
         "creator": "Elaine Romero, The Cabinet, New York City",
-        "image": "assets/recipes/agave-picosito.webp",
         "usable": true,
         "garnish": "Rosemary sprig",
         "page": "264"
@@ -21485,7 +21334,6 @@
         "instructions": "Dry shake without ice for 10 seconds. Add ice and shake vigorously until chilled. Strain into a coupe.",
         "note": "Paired in the book with Grease (1978).",
         "creator": "",
-        "image": "assets/recipes/movie-pink-lady.webp",
         "usable": true,
         "garnish": "1 Luxardo maraschino cherry",
         "glass": "Coupe",
@@ -21656,7 +21504,6 @@
         "instructions": "Add all ingredients to a cocktail shaker and dry shake. Add ice to the shaker and shake well. Strain into a chilled coupe or cocktail glass. Garnish with a few drops of Angostura bitters.",
         "note": "Made with pisco, lemon juice, simple syrup, and egg white, this frothy spur off the sour family tree has roots in both America and Peru. The story goes that American-born Victor Morris moved to Peru in the early twentieth century to work on the railroads but ended up opening a bar instead. He supposedly fashioned an antecedent of what’s known as the Pisco Sour, bringing Peru’s local liquor to bear on a sour template.",
         "creator": "",
-        "image": "assets/recipes/ess-pisco-sour.webp",
         "usable": true
       },
       {
@@ -21859,7 +21706,6 @@
         "instructions": "Add all ingredients to a blender with 1 cup of ice. Blend on high until smooth. Pour into a Collins or hurricane glass (or a hollowed-out pineapple). Garnish with a pineapple wedge and an umbrella.",
         "note": "Based on a Cuban recipe for a nonalcoholic pineapple slushy (a pifia fria) popular in the early 1900s, this frozen beverage evolved to include coconut cream and rum. The Puerto Rican Hilton claims to have invented the recipe in 1954, but the first-known mention of what we call the pifia colada came from the New York Times in 1950 and attributed the drink to a bar in Cuba. Immortalized in Warren Zevon’s song “Werewolves of London” (“I saw a werewolf drinking a pifia colada at Trader Vic’s . . .”) in 1978 and then again in 1979, with the No.",
         "creator": "2 Ounces Rum,",
-        "image": "assets/recipes/ess-pina-colada.webp",
         "usable": false
       },
       {
@@ -22018,7 +21864,6 @@
         "instructions": "Rim half of a rocks glass with chili salt and set aside. Shake the tequila, pineapple juice, lime juice, and simple syrup with ice to chill and dilute. Strain over fresh ice into the rimmed glass, and garnish with a caramelized pineapple skewer.",
         "note": "Pineapple is a natural complement to anything agave-based. While it’s nice to use fresh juices, this is one recipe where using store-bought pineapple juice works just as well. Chili salt, for rim",
         "creator": "",
-        "image": "assets/recipes/agave-pina-margarita.webp",
         "usable": true
       }
     ],
@@ -22086,7 +21931,6 @@
         "instructions": "Add all ingredients to a blender NOTE Start with just a little ice and add ice (5 or 6 regular-size and add more as you blend until cubes, cracked). Blend until",
         "note": "Playfully dubbed the “Green-Yuh Colada” by the staff at Polite Provisions, the Pitta Verde was originally inspired by Erick Castro’s unorthodox addition of a green Chartreuse float to his pina coladas years ago. His aim was to create a rich drink with herbaceous flavor. When rum—and then later gin—didn’t cut it, Castro ditched the spirit altogether and upped the liqueur to pick up the slack. “At 55 percent ABV, this allowed the liqueur to stretch out its wings and really claim ownership of the cocktail,” he says. Pineapple juice and lime add a fruity kick, while the pitta colada staple, Coco Lopez, keeps it tethered to the original.",
         "creator": "Erick Castro, Polite Provisions, San Diego, Ca",
-        "image": "assets/recipes/ess-pina-verde.webp",
         "usable": true
       }
     ],
@@ -22268,7 +22112,6 @@
         "instructions": "Combine the rum, lime juice, simple syrup, and grenadine in a cocktail shaker with the ice cubes. Shake vigorously and taste. Add more simple syrup if needed. Strain into a highball glass. Garnish with the cherry and slice of orange. Serve immediately.",
         "note": "Planter's punch is an IBA Official Cocktail made of Jamaican rum, fresh lime juice, and sugar cane juice. The cocktail has been said to have originated at the Planters Hotel in Charleston, South Carolina, but actually originated in Jamaica.",
         "creator": "",
-        "image": "assets/recipes/ryan-planters-punch-rum.webp",
         "usable": true
       }
     ],
@@ -22604,7 +22447,6 @@
         "instructions": "Add all ingredients to a cocktail shaker. Dry shake. Add ice and shake until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a grapefruit peel.",
         "note": "Equal parts grapefruit sour and lemon milk shake, Sarah Boisjoli’s Pompelmo Sour from New York’s Estela uses a grapefruit oleo- saccharum to create a deep citrusy base. This old-school method of infusing sugar with citrus oils was initially used for making punches in the nineteenth century, but bartenders today are using it in many applications. “There’s a higher extraction of flavor and a lower amount of dilution when we use a syrup like this versus simple syrup and grapefruit juice,” says Boisjoli.",
         "creator": "Sarah Boisjoli, New York, Ny",
-        "image": "assets/recipes/ess-pompelmo-sour.webp",
         "usable": true
       }
     ],
@@ -22736,7 +22578,6 @@
         "instructions": "Add bourbon, ginger juice, NOTE Zimmerman uses 3 parts lemon wedges, and mint toa | ginger juice to 1 part sugar for his",
         "note": "A composite of a buck anda Whiskey Smash (page 197), this ginger- laced bourbon drink is one of Brooklyn bartender Jay Zimmerman’s signatures. Instead of muddling the lemon wedges and mint leaves, he shakes the hell out of them along with a mix of bourbon and ginger juice and tops the drink with soda and Angostura bitters.",
         "creator": "Jay Zimmerman, Ba’Sik, Brooklyn, Ny",
-        "image": "assets/recipes/ess-poppas-pride.webp",
         "usable": true
       }
     ],
@@ -22942,7 +22783,6 @@
         "instructions": "Shake all ingredients with ice and serve on the rocks in a glass with salt on half the rim.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/hs-possession.webp",
         "usable": true,
         "garnish": "Skewered Luxardo maraschino cherry",
         "glass": "Rocks glass",
@@ -23286,7 +23126,6 @@
         "instructions": "In a Collins or hurricane glass, gently muddle mint sprig with simple syrup to release oils. Add lime juice, rum, and crushed ice. Swizzle with a straw or swizzle stick to mix. Add more crushed ice and dash Angostura bitters over the top. Garnish with a mint sprig.",
         "note": "With few ingredients, this drink gets its unique signature from the swizzle technique, which calls for agitating the drink with a swizzle stick (see page 25). Created in Trinidad, the rum-based, bitters- topped drink is named for a famous cricket field in the country’s capital, Port of Spain. However, its traditional dark and muggy Demerara rum base hails from neighboring Guyana, which had amore established rum industry than Trinidad when this drink was created in the early twentieth century.",
         "creator": "",
-        "image": "assets/recipes/ess-queen-s-park-swizzle.webp",
         "usable": true
       }
     ],
@@ -23422,7 +23261,6 @@
         "instructions": "Add all ingredients except soda water to a cocktail shaker. Shake for a full minute without ice. Add ice and shake until well chilled. Strain into a snifter or a Collins glass and top with soda. Garnish with a lime peel.",
         "note": "Walk into any cocktail bar and order a Ramos Gin Fizz and you’ll either be greeted with an eye roll ora delighted bartender eager to shake the hell out of one of the most laborious classics. With a texture somewhere between a Gin Fizz (page 98) and a milk shake, the Ramos was born in New Orleans at Henry Ramos’s Imperial Cabinet Saloon in 1888. Ramos wanted the drink to be so foamy and cloudlike that he actually employed a chain of “shaker men” to, one by one, have a go at emulsifying the drink. A perfectly flufty Ramos Gin Fizz can certainly be made without deploying several dozen shaker men.",
         "creator": "",
-        "image": "assets/recipes/ess-ramos-gin-fizz.webp",
         "usable": true
       }
     ],
@@ -23712,7 +23550,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir. Strain into a coupe or cocktail glass.",
         "note": "This boozy cross between the Brooklyn (page 60) and the Manhattan (page 114) is the handiwork of former Milk & Honey bartender Vincenzo Errico. The drink, created in 2003, builds on the Manhattan and the Brooklyn’s classic whiskey base, doses it with the subtly bitter, cherry-scented Italian vermouth Punt e Mes, and sweetens it up with the addition of maraschino liqueur. While there are a number of modern drinks that have played off the classic compositions of both the Manhattan and the Brooklyn, Errico’s is one of the more enduring modern riffs.",
         "creator": "Maraschino Liqueur,",
-        "image": "assets/recipes/ess-red-hook.webp",
         "usable": true
       }
     ],
@@ -23828,7 +23665,6 @@
         "instructions": "PREFERABLY LUXARDO 2 TEASPOONS CHERRY HEERING Toa chilled coupe or cocktail glass, add a dash of absinthe. Roll] around to coat and discard excess. Add remaining ingredients to a mixing glass. Add ice and stir well. Strain into the prepared glass. Garnish with’a brandied cherry.",
         "note": "First described by spirits writer Charles H. Baker in his 1939 classic The Gentleman’s Companion, or Around the World with Jigger, Beaker and Flask, this rye-based drink is part Sazerac, part Manhattan, and part grandiose backstory. The Maine, a U.S. naval ship, was sitting off the coast of Havana in 1898 in a bout of saber-rattling with Spain, which controlled Cuba at the time. When the ship mysteriously exploded and sank (some blame a coal fire), warmongering journalists used the phrase “Remember the Maine, to Hell with Spain” as a rallying cry that would jump-start the Spanish-American War, which led to Cuba’s independence. Baker, however,",
         "creator": "Brandied Cherry,",
-        "image": "assets/recipes/ess-remember-the-maine.webp",
         "usable": true
       }
     ],
@@ -23892,7 +23728,6 @@
         "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "When Bulleit Bourbon first launched in 2004, it went off like a shot through the bartender cadre. Jon Santer was an early gunslinger, favoring the bourbon for its dry profile and perfectly high ABV. A big fan of St. George Spirits NOLA Coffee Liqueur, too, Santer found the Bulleit to be its perfect match in this dark drink. To finish it off, he flames an orange peel over the glass— both fora theatrical effect he loves at the bar, as well as for the smoky nose it gives the cocktail.",
         "creator": "Jon Santer, Prizefighter, Emeryville, CA",
-        "image": "assets/recipes/ess-revolver.webp",
         "usable": true,
         "page": "304",
         "garnish": "Flamed orange peel",
@@ -24172,7 +24007,6 @@
         "instructions": "Add all ingredients toa mixing | NOTE A Rob Roy mixed with | | Carpano Antica sweet vermouth",
         "note": "The Waldorf Astoria hotel’s proximity to Broadway theaters provided great cocktail name fodder at the turn of the twentieth century. While some call to mind the theatergoing clientele, others harken back to the plays themselves. The altruistic, kilt-wearing Scotsman protagonist Rob Roy inspired bartenders to swap the rye or bourbon in a Manhattan (page 114) for Scotch whisky. While the eponymous drink references a true renegade, it’s actually a touch leaner and meeker than its Manhattan counterpart. Since the Scotch gets fortified with sweet vermouth and bitters, a blended version will more than suffice here.",
         "creator": "2 Ounces Scotch,",
-        "image": "assets/recipes/ess-rob-roy.webp",
         "usable": false
       },
       {
@@ -24279,7 +24113,6 @@
         "instructions": "Shake all ingredients except soda water with ice. Strain into an ice-filled Collins glass and top with soda water.",
         "note": "Paired in the book with Roman Holiday (1953).",
         "creator": "",
-        "image": "assets/recipes/movie-room-with-a-view.webp",
         "usable": true,
         "page": "22",
         "garnish": "Orange wheel and lime twist",
@@ -24364,7 +24197,6 @@
         "instructions": "Rim half of a rocks glass with citrus salt and set aside. Shake the tequila, cranberry juice, lime juice, and simple syrup with ice to chill and dilute. Strain over fresh ice into the rimmed glass, and garnish with a freshly torched rosemary sprig and a few cranberries. Summer Herb Margarita Easy Paloma",
         "note": "This tart and herbaceous drink has wintry flavors that make it a great choice for holiday celebrations. If using sweetened cranberry juice cocktail, omit the simple syrup and add an extra ounce of cranberry juice cocktail. Citrus salt, for rim",
         "creator": "",
-        "image": "assets/recipes/agave-rosemary-cranberry-holiday-margarita.webp",
         "usable": true
       }
     ],
@@ -24432,7 +24264,6 @@
         "instructions": "Combine all ingredients in a 14-ounce Collins glass. Add ice and stir gently.",
         "note": "The book's Pimm's Mix combines gin, Campari, sweet vermouth, dry vermouth, Dubonnet, and Punt e Mes.",
         "creator": "Erik Adkins, Slanted Door, San Francisco, CA",
-        "image": "assets/recipes/ess-royal-pimms-cup.webp",
         "usable": true,
         "page": "310",
         "garnish": "Cucumber, lemon peel, mint sprig, and seasonal berries",
@@ -24726,7 +24557,6 @@
         "instructions": "Combine ingredients in",
         "note": "he best pairings are a study in contrast, when two seemingly opposing elements come together and prove to be perfectly complementary, as in this film based on the Neil Simon play of the same name. The sprightly Jack Lemmon and the hangdog Walter Matthau appear to be at odds, but in The Odd Couple their considerable talent and impeccable timing are enough to lend great weight to those superficialities.",
         "creator": "",
-        "image": "assets/recipes/movie-rusty-nail.webp",
         "usable": true
       }
     ],
@@ -24794,7 +24624,6 @@
         "instructions": "Combine all ingredients in a mixing glass. Add ice and stir until chilled. Strain into a coupe.",
         "note": "In Bar Goto’s house martini, a salted cherry blossom is a brilliant and astoundingly beautiful replacement for the hint of saltiness that an olive typically brings. Here, the Martini formula is inverted, with gin acting as an accent to a dry, vinous sake base, combined with maraschino’s subtle floral notes and sweetness. Owner Kenta Goto sources the cherry blossoms through a Japanese importer, but you can buy them on Amazon, too.",
         "creator": "Kenta Goto, Bar Goto, New York, NY",
-        "image": "assets/recipes/ess-sakura-martini.webp",
         "usable": true,
         "garnish": "Salted cherry blossom",
         "glass": "Coupe",
@@ -24808,7 +24637,6 @@
         "instructions": "",
         "note": "he personal and national implications of the Korean War are brought to life in this Harry Brubaker (William Holden) is called back to active duty, leaving his life as a lawyer, father, and husband to Nancy (Grace Kelly). Brubaker is immediately back flying dangerous missions, having to eject into the sea during one. On shore leave to spend a few days In Tokyo with his wife and kids, Brubaker finds strength in Nancy, who knows",
         "creator": "",
-        "image": "assets/recipes/movie-sakura-martini.webp",
         "usable": false
       }
     ],
@@ -24879,7 +24707,6 @@
         "instructions": "",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/hs-santa-domingo.webp",
         "usable": true
       }
     ],
@@ -25011,7 +24838,6 @@
         "instructions": "Blend all ingredients quickly with 1 cup crushed ice. Pour into a Scorpion bowl or divide among tiki mugs, then add several large ice cubes.",
         "note": "The Scorpion, like many tiki cocktails, has gone through countless iterations, from a gin-and-wine-laced punch to this contemporary version of Trader Vic’s 1946 recipe. It’s difficult to know where the original recipe ends and the contemporary one begins, especially when so much rum is involved. But it is thought that, while in Hawaii, Vic first tried the punch from which the Scorpion was modeled, which mostly likely contained okolehao, an indigenous spirit distilled from the Polynesian ti plant. Orgeat, a syrup made from almonds, is a constant ingredient in most interpretations and is key to the balance of dark rum and fruit.",
         "creator": "Cinnamon, Cinnamon",
-        "image": "assets/recipes/ess-scorpion-bowl.webp",
         "usable": true,
         "page": "170",
         "garnish": "Freshly grated cinnamon, cinnamon sticks, grapefruit peel, orchids, and/or a flaming lime shell",
@@ -25091,7 +24917,6 @@
         "instructions": "Place the smoked salt garnish with a strip of",
         "note": "- LOVE WITH THE PROPER STRANGER 1963 his is the movie that made Steve McQueen and every woman wants to be with. His transformation from star to icon occurred because of the personal growth McQueen’s Rocky Papasano undergoes in the film: he changes from a self- centered man coasting on his talent and good looks to a caring, responsible individual who is more interested in loving Angie Rossini (Natalie Wood), a Macy's salesclerk",
         "creator": "",
-        "image": "assets/recipes/movie-scotch-and-salt.webp",
         "usable": true
       }
     ],
@@ -25168,7 +24993,6 @@
         "instructions": "Shake all ingredients except soda water with ice. Strain into an ice-filled Collins glass and top with soda water.",
         "note": "As a lower-alcohol, softer-hitting drink, Second Serve, Dan Greenbaum’s combination of floral Amaro Montenegro (one of the lighter amari) and salty fino sherry, is a friendly Spain vs. Italy matchup in the form of a savory Collins. “The idea was to make a drink that you could have a few of and not get too drunk,” says Greenbaum.",
         "creator": "Dan Greenbaum, Attaboy, New York, NY",
-        "image": "assets/recipes/ess-second-serve.webp",
         "usable": true,
         "page": "314",
         "garnish": "Orange slice",
@@ -25317,7 +25141,6 @@
         "instructions": "Build in a collins glass filled with ice by adding",
         "note": "first male sex symbol with his title role in The Sheikh. Based on Edith Maude Hull’s desert romance novel, the trope of a swarthy Arab man abducting a white woman became firmly established in the popular culture mind-set of the day, introducing the idea that in Arab cultures women were completely, and happily, subservient. Valentino was Italian, however, which was fitting since at the time the only way the starlet could end up",
         "creator": "",
-        "image": "assets/recipes/movie-sex-on-the-beach.webp",
         "usable": true
       }
     ],
@@ -25538,7 +25361,6 @@
         "instructions": "Add sherry and ice and shake. Strain into a Collins glass | filled with crushed ice. Garnish |",
         "note": "By most accounts, the Sherry Cobbler is an American-born cocktail, thought to have originated sometime in the 1820s or early 1830s. But like most nineteenth-century drinks, its origins are foggy. Its great launching pad to international renown came courtesy of Charles Dickens and his Life and Adventures of Martin Chuzglewit (1843-44). In a scene now famous among cocktail dorks, Chuzzlewit, reacting to his first Sherry Cobbler, sums up the nineteenth-century sentiment around the drink: “Martin took the glass with an astonished look; applied his lips to the reed; and cast up his eyes once in ecstasy. He paused no more until the goblet was drain",
         "creator": "Sherry, Preferably",
-        "image": "assets/recipes/ess-sherry-cobbler.webp",
         "usable": true
       }
     ],
@@ -25735,7 +25557,6 @@
         "instructions": "Rim a coupe or cocktail glass with sugar, if desired (see page 29). Add all ingredients toa cocktail shaker. Add ice and shake until chilled. Strain into the prepared glass. Garnish with an orange peel.",
         "note": "drinks, probably because the proper ratio of Cognac to Cointreau to lemon is nearly impossible to get right—one flavor almost always sticks out more than the others. And yet, when that sweet spot is found, there’s nothing better than a sidecar. Although its birthplace is unknown (London? Paris?), the inspiration for the cocktail almost certainly comes from the Brandy Crusta, a Cognac-based variation on the old-fashioned created in New Orleans in the mid-nineteenth century. It can also be considered a Cognac sour in which simple syrup is replaced with Cointreau. Today, sidecars tend to be served with a quirky sugared rim that’s most likely a b",
         "creator": "",
-        "image": "assets/recipes/ess-sidecar.webp",
         "usable": true
       },
       {
@@ -25775,7 +25596,6 @@
         "instructions": "",
         "note": "___ othing says true gangster movie like 30s Eliot Ness (Kevin Costner) works to take down Capone's liquor regime. Faced with cops on the take, gang ties, and bribed juries, Ness and his crew begin to clear out Capone's liquor stashes, earning them the name “The Untouchables.” After many run-ins with the Untouchables, Capone is jailed on charges of tax evasion, and the Untouchables go their separate ways with the end of Prohib",
         "creator": "",
-        "image": "assets/recipes/movie-sidecar.webp",
         "usable": false
       }
     ],
@@ -26180,7 +26000,6 @@
         "instructions": "Shake all ingredients except soda water with ice until chilled. Strain over ice into a Collins glass and top with soda water.",
         "note": "As one of the oldest drink formulas in existence, the basic sling was originally composed simply of spirits, water, and a sweetener. More a tiki-fied punch than a sling, the Singapore Sling was created at the Raffles Hotel in 1915 in balmy Singapore. At that time, it was most likely nothing more than gin, citrus, soda water, and cherry brandy. Over the years, though, it went through a number of hyperbolically sweet phases, some including prebottled mixers and canned juices. Today, the Singapore Sling has been dialed back to its drier incarnation using fresh lime juice and cherry brandy. 1/2 OUNCES GIN, V4 OUNCE GRENADINE 2 OUNCES LONDON DRY (",
         "creator": "1/2 Ounces Gin,",
-        "image": "assets/recipes/ess-singapore-sling.webp",
         "usable": true,
         "page": "178",
         "garnish": "Brandied cherry, pineapple wedge, and mint sprig",
@@ -26312,7 +26131,6 @@
         "instructions": "Add soda water to a coupe or fizz glass. Add sloe gin, gin, lemon juice, simple syrup, and egg white, if desired, to a cocktail shaker and dry shake. Add ice and shake until well chilled. Strain into the prepared glass on top of the soda and observe the fluffy foam.",
         "note": "absurdly named collegiate classics as the Alabama Slammer and the Sloe Comfortable Screw. However, the purple stuff that spilled across American campuses in the 1980s and 1990s was merely a fruitier imposter of the proper British-style sloe gin. Luckily, the classic SGF is enjoying a renaissance in the United States with the return of true sloe gin—a mixture of English blackthorn sloe berries (a more petite relative of the plum) macerated in gin. This version of the Sloe Gin Fizz is slightly unorthodox in its use of a blend of regular gin and sloe gin, plus the (optional) addition of an egg white for a bit of fluffy oomph.",
         "creator": "Gin, Preferably",
-        "image": "assets/recipes/ess-sloe-gin-fizz.webp",
         "usable": true
       }
     ],
@@ -26466,7 +26284,6 @@
         "instructions": "Shake the mezcal, ginger liqueur, lime juice, and simple syrup with ice to chill and dilute. Strain over fresh ice into a rocks glass, and garnish with a beautiful edible flower. Pomegranate Margarita",
         "note": "The flavors of this lightly sweet cocktail are subtle, yet richly layered. Ginger and the smoky lapsang souchong tea echo the natural flavors of mezcal.",
         "creator": "",
-        "image": "assets/recipes/agave-smoky-ginger-margarita.webp",
         "usable": true
       }
     ],
@@ -26672,7 +26489,6 @@
         "instructions": "Gently muddle mint leaves with simple syrup in a shaker. Add the remaining ingredients and ice, shake until chilled, and double strain into a chilled coupe or cocktail glass.",
         "note": "Depending on how you look at the glass, the Southside lands somewhere between a Gin Mojito sans soda water and a Gimlet (page 92) with mint. Though New York’s 21 Club lays claim to the recipe as part of its Prohibition-era menu, some cocktail historians place its conception some forty years earlier at the Southside Sportsmen’s Club, a private establishment on Long Island where tony Manhattanites went to hunt, fish, and drink Mint Juleps—the drink that probably inspired this iteration. The clubby association stuck, and the drink became standard issue for the pearls and nine-iron set, but its light, breezy personality makes ita good conversatio",
         "creator": "",
-        "image": "assets/recipes/ess-southside.webp",
         "usable": true,
         "page": "182",
         "garnish": "Mint sprig",
@@ -26845,7 +26661,6 @@
         "instructions": "",
         "note": "(from Mezon Tapas Bar in Danbury, CT)",
         "creator": "",
-        "image": "assets/recipes/hs-speed-of-delight.webp",
         "usable": true
       }
     ],
@@ -26907,7 +26722,6 @@
         "instructions": "Rim half of a highball glass with salt. Add cut chili to the glass and muddle. Fill the glass with ice. Pour the tequila and grapefruit mixer over the ice. Garnish with a lime wedge.",
         "note": "Add a touch of spice by muddling hot green chilies, such as jalapeños or serranos. Salt, for rim",
         "creator": "",
-        "image": "assets/recipes/agave-spicy-paloma.webp",
         "usable": true
       }
     ],
@@ -26967,7 +26781,6 @@
         "instructions": "Build all ingredients in a rocks glass over ice.",
         "note": "Before raiding Fort Ticonderoga at the beginning of the Revolutionary War in 1775, Ethan Allen and the Green Mountain Boys went drinking at the Remington Tavern in Castleton, where they knocked back a mixture of rum and hard cider. Finding only a few dozing guards at the fort, Allen stormed the officers’ quarters and demanded they surrender “in the name of the Great Jehovah and the Continental Congress.” The English didn’t offer Allen much resistance, and Fort Ticonderoga was successfully seized, perhaps thanks to the blood-warming Stone Fence. In Allen’s day, rum and hard cider surely were the backbone of this drink, but as time went on, whi",
         "creator": "2 Ounces Dark Rum,",
-        "image": "assets/recipes/ess-stone-fence.webp",
         "usable": true,
         "page": "185",
         "garnish": "Mint sprig or freshly grated nutmeg",
@@ -27241,7 +27054,6 @@
         "instructions": "",
         "note": "eparting slightly from the facts of history in + the name of heightening romantic tension for the screen, Sarah Bernhardt plays Queen Elizabeth |, dramatizing how the queen's her junior, resulted in his meteoric rise, before he admiration for the ambitious Earl of Essex, 34 years turned on the queen and was executed for treason in 1601. The so-called Essex Rebellion was spurred by the loss of his monopoly on the import of swee",
         "creator": "",
-        "image": "assets/recipes/movie-sunday-morning-coming-down.webp",
         "usable": true
       }
     ],
@@ -27313,7 +27125,6 @@
         "instructions": "Build all ingredients over crushed ice in a julep cup.",
         "note": "As Ticonderoga Club’s Paul Calvert says about drinking Suppressors, “You’re between two places, and you just want to hold the line... . That feeling could last all night.” Fatigued by the trend toward high-alcohol drinks, Calvert and his partner, Greg Best, Atlanta bar legends, went after an entirely different genre of cocktail, setting guidelines for themselves to make drinks “that have delicacy and nuance—the higher-proof shit can’t be in there,” says Calvert. The perfect version of this is Best’s O.G. Suppressor #1, which draws on the most basic building block of low-proof cocktails: fortified wines. Vermouth mixes with the savoriness of s",
         "creator": "Greg Best, Ticonderoga Club, Atlanta, GA",
-        "image": "assets/recipes/ess-suppressor-1.webp",
         "usable": true,
         "page": "319",
         "garnish": "Orange peel and mint sprig",
@@ -27393,7 +27204,6 @@
         "instructions": "",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/hs-sweet-lips.webp",
         "usable": true
       }
     ],
@@ -27676,7 +27486,6 @@
         "instructions": "Fill a mixing glass or other vessel with ice and add the tequila, sweet vermouth, and bitters. Stir to chill and combine. Strain into a chilled glass. Squeeze the orange peel oils over the top of the liquid, run the orange peel along the rim of the glass, and then sink the peel into the drink. Mezcal Negroni",
         "note": "A robust, agave-forward añejo tequila is an easy and successful substitute for rye whiskey in this classic cocktail.",
         "creator": "",
-        "image": "assets/recipes/agave-tequila-manhattan.webp",
         "usable": true
       }
     ],
@@ -27815,7 +27624,6 @@
         "instructions": "Shake all ingredients with ice until chilled. Double strain into a cocktail glass.",
         "note": "Paired in the book with The Warriors (1979).",
         "creator": "",
-        "image": "assets/recipes/movie-the-bronx.webp",
         "usable": true,
         "page": "101",
         "garnish": "Orange twist; Luxardo maraschino cherry optional",
@@ -28061,7 +27869,6 @@
         "instructions": "Place the cocktail stir gently.",
         "note": "ario Puzo’s 1969 novel was a best seller before Francis Ford Coppola’s film adaptation elevated it into one of the all-time great family sagas, cast with a Who's Who of now-legendary actors, including Robert Duvall, Al Pacino, Diane Keaton, and, of course, Marlon Brando. This all too real look at the mafia not only has money and murder, but all the waiting, biding time, and family travails that made the story of the Corleones",
         "creator": "",
-        "image": "assets/recipes/movie-the-godfather.webp",
         "usable": true
       }
     ],
@@ -28204,7 +28011,6 @@
         "instructions": "Stir all ingredients with ice until chilled. Strain into a double rocks glass.",
         "note": "Paired in the book with Witness (1985).",
         "creator": "",
-        "image": "assets/recipes/movie-the-hardest-walk.webp",
         "usable": true,
         "garnish": "1 orange twist",
         "glass": "Double rocks glass",
@@ -28282,7 +28088,6 @@
         "instructions": "Salt the rim of a rocks glass. Shake tequila, Grand Marnier, and lime juice with ice. Fill the rocks glass with ice, strain in the cocktail, then carefully add the split of Champagne.",
         "note": "Paired in the book with The Carpetbaggers (1964).",
         "creator": "",
-        "image": "assets/recipes/movie-the-high-roller.webp",
         "usable": true,
         "page": "46",
         "garnish": "Lime wedge",
@@ -28668,7 +28473,6 @@
         "instructions": "Combine all ingredients",
         "note": "hat could be funny about a German-run World War II prisoner of war camp? How about Robert Strauss’s “Animal, who Is — infatuated with Betty Grable? Upon learning that Grable has married a musician, Animal drunkenly woos and dances with one of his fellow prisoners, _who dons a wig so Animal can lament losing his screen idol romance. Director Billy Wilder infuses Stalag 17 with dark comedy and high-stakes drama that portray sold",
         "creator": "",
-        "image": "assets/recipes/movie-the-slammer.webp",
         "usable": true
       }
     ],
@@ -28811,7 +28615,6 @@
         "instructions": "",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/hs-there-will-be-blood-orange.webp",
         "usable": true
       }
     ],
@@ -28885,7 +28688,6 @@
         "instructions": "Place the mezcal, curaçao, Tamarind Syrup, lime juice, Agave Syrup, and salt into a Boston shaker. Give it a medium shake to chill, but don’t overdilute the drink. Fill a glass with fresh ice, add a splash of soda water, and pour the contents of the shaker over top. If you find the drink is too tart, add more agave. If it is too sweet for your taste, omit the agave syrup.",
         "note": "Bryant J. Orozco Bryant is a Los Angeles native and a proud descendant of Sonoran, Nayarita, and Zacatecano ancestry. A lifelong interest in learning about his heritage became intertwined with his career as a bartender and then as a curator of Mexican wine and spirits. When not pouring over books and spirits, he is traveling off the beaten path in Mexico. “This drink was created during the pandemic, when I had to create cocktails that were easy to make in a to-go format. The name pokes fun at th",
         "creator": "",
-        "image": "assets/recipes/agave-time-in-tulum.webp",
         "usable": true
       }
     ],
@@ -29014,7 +28816,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a lemon peel. .",
         "note": "“There are so many Manhattan variations, but I hadn’t seen one done with Japanese whisky yet,” says bartender Brad Farran, who devised this drink in 2011 while working at Brooklyn’s Clover Club, just as those Japanese imports were beginning to get attention in the States. With this blueprint in mind, Farran substituted the subtly complex Yamazaki for American whiskey, and added spicy Cardamaro to layer a sherry-like note over the vermouth and saftron-infused Strega fora pop of flavor. “I have always loved the challenge of reinventing, updating, or attempting to improve upon a classic,” says Farran. “However, I also try whenever doing so not t",
         "creator": "Brad Farran, Bull Durham Beer Co., Durham, Nc",
-        "image": "assets/recipes/ess-tokyo-drift.webp",
         "usable": true
       }
     ],
@@ -29087,7 +28888,6 @@
         "instructions": "Place the cocktail",
         "note": "he paradox at the center of this story Is simple: Yossarian (Alan Arkin) doesn’t want to fly more missions over Italy because he keeps getting shot at and eventually he will be shot down. So he claims insanity but the doc insists Yossarian is sane because only a crazy person would want to fly. such dangerous missions. That's the catch-22. And there is the added irony that shooting the film took longer than planned, keeping Art",
         "creator": "",
-        "image": "assets/recipes/movie-tom-jerry.webp",
         "usable": true
       }
     ],
@@ -29171,7 +28971,6 @@
         "instructions": "Shake gin, lemon juice, and simple syrup with ice until chilled. Strain over ice into a Collins glass and top with soda water.",
         "note": "The American side of the story goes that the Tom Collins evolved from the “The Great Tom Collins Hoax” of 1874, in which pranksters would tell a friend they had run into one “Tom Collins” at a bar around the corner and that he’d said some slanderous things about said friend. Said friend would then leave to hunt down “Tom Collins” at the bar around the corner, sparking a goose chase of perhaps not-so-epic proportions. But there’s also the British side, which (more likely) suggests that the Tom Collins was the creation of London bartender John Collins, who dreamed up an eponymous gin punch in the latter half of the nineteenth century, and, when",
         "creator": "Soda Water, Totop",
-        "image": "assets/recipes/ess-tom-collins.webp",
         "usable": true,
         "garnish": "Brandied cherry and orange wheel",
         "glass": "Collins glass",
@@ -29257,7 +29056,6 @@
         "instructions": "",
         "note": "os Angeles is many things. Edenic paradise and desert wasteland. The land of opportunity = and the end of the road. Equal parts elegant and seedy. No work has ever been as effective at illustrating this dichotomy as Chinatown, which is able to make city planning board meetings suspenseful, the invasive voyeurism of JJ. Gittes Vack Nicholson) charming, and the patriarchal bearing of Noah Cross Uohn Huston) positively terrifying",
         "creator": "",
-        "image": "assets/recipes/movie-tom-collins.webp",
         "usable": false
       }
     ],
@@ -29413,7 +29211,6 @@
         "instructions": "Salt the rim of a double rocks glass. Shake tequila, agave nectar, and lime juice with ice and strain into the prepared glass over ice.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-tommys-margarita.webp",
         "usable": true,
         "page": "49",
         "garnish": "Salt rim",
@@ -29485,7 +29282,6 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir well. Strain into a chilled coupe or cocktail glass. Garnish with a lemon peel.",
         "note": "The Trident is a nautically inspired interpretation of the Negroni (page 135), created in 2000 by Robert Hess, a cocktail enthusiast from Seattle. In his endeavor to reinterpret the classic, Hess reappointed the Negroni’s trifecta of ingredients—strong, bitter, sweet—with distant cousins of the same flavor profiles, each hailing from a seafaring country. Aquavit is swapped in for gin, Cynar for Campari, and sherry for sweet vermouth, with a dash of peach bitters on top. The Trident has become a Seattle staple, enjoying an extended reign at the Zig Zag Café, one of the city’s best-known cocktail joints.",
         "creator": "Robert Hess, Seattle, Wa",
-        "image": "assets/recipes/ess-trident.webp",
         "usable": true
       }
     ],
@@ -29549,7 +29345,6 @@
         "instructions": "Stir all ingredients with ice until well chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "There are a dozen or so sherry and gin drinks that start to pop up during the twilight years of the nineteenth century and repeat themselves with very slight variations throughout the beginning of the twentieth. Of them all, the Tuxedo, a Martini (page 121) variation that trades sherry for dry vermouth, is the best and most well known. The drink’s name refers to the Tuxedo Park, a sort of early experiment in country club living established in 1886 in Orange County, New York, about 40 miles north of New York City. Tuxedo Park was the birthplace of not only the first complete sewage system in America but also the tail-less suit, which was calle",
         "creator": "2 Ounces Gin,",
-        "image": "assets/recipes/ess-tuxedo.webp",
         "usable": true,
         "page": "190",
         "garnish": "Orange peel",
@@ -29618,7 +29413,6 @@
         "instructions": "",
         "note": "(from Los Americanos in NYC)*",
         "creator": "",
-        "image": "assets/recipes/hs-under-the-volcano.webp",
         "usable": true
       }
     ],
@@ -29700,7 +29494,6 @@
         "instructions": "Add the mezcal, agave nectar, simple syrup, chili liqueur, blood orange puree, lime juice, and allspice dram to a shaker with ice. Shake to chill and combine, then strain over fresh ice into a rocks glass. Garnish with a lime chili wheel and spritz with absinthe.",
         "note": "Edgar Hernandez Edgar is the head bartender at Freemans Restaurant in New York City. The name of this nutty, spicy, and citrusy cocktail is in reference to an ancient Mayan city located in the Eastern peninsula in the state of Yucatán, known for its intricate architecture, which includes a 100-foot-tall pyramid.",
         "creator": "",
-        "image": "assets/recipes/agave-uxmal-city.webp",
         "usable": true
       }
     ],
@@ -29844,7 +29637,6 @@
         "instructions": "Stir all ingredients with ice until well chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "James Bond may not have invented the martini, but he was the first bar-goer on record to order the drink in Ian Fleming’s first Bond novel, 1953’s Casino Royale. In it, the protagonist calls for a strong formula of vodka, gin, and Kina Lillet, “shaken, not stirred,” and names the drink for Vesper Lynd, his first and potentially only true love in the series. While Bond fans know his infallibility, cocktail historians have called into question his specification of Kina Lillet—a quinine-infused white wine aperitif whose distillery also produced vermouth—suspecting that he may have intended to use vermouth all along.",
         "creator": "",
-        "image": "assets/recipes/ess-vesper.webp",
         "usable": true,
         "page": "193",
         "garnish": "Lemon peel",
@@ -29940,7 +29732,6 @@
         "instructions": "Add all ingredients toa mixing glass. Add ice and stir until chilled. Strain over ice into a rocks glass. Garnish with an orange ora lemon peel.",
         "note": "New Orleans does strong and stirred better than most American cities do. From the Hurricane to the Sazerac, Pat O’Brien’s to the Napoleon House, much of the Big Easy’s cocktail history insists upon specific coordinates of conception. Stanley Clisby Arthur, author of Famous New Orleans Drinks and How to Mix Em, attributed this drink’s original recipe to the Hotel Monteleone, located in the Vieux Carré (French Quarter). Today, the cocktail remains a New Orleans classic and can be enjoyed at its original post at the Monteleone’s Carousel Bar, which turns around slowly as life in the peculiar precinct passes by on Royal Street.",
         "creator": "",
-        "image": "assets/recipes/ess-vieux-carre.webp",
         "usable": false
       },
       {
@@ -30296,7 +30087,6 @@
         "instructions": "Shake all ingredients with ice until chilled. Strain into a rocks glass over ice.",
         "note": "Though it may seem like a breezy summer cocktail, with the inclusion of citrusy Combier and herbal-sweet Cocchi Americano, the Weathered Axe easily transitions into a cold-weather drink with the swap of a garnish. This staple at Chicago’s Scofflaw is traditionally served witha bouquet of fresh, cooling mint that’s hit with a spritz of absinthe, but come January, the evergreen aromatics of rosemary transform the Axe into a savory winter drink.",
         "creator": "Danny Shapiro, Scofflaw, Chicago, IL",
-        "image": "assets/recipes/ess-weathered-axe.webp",
         "usable": true,
         "page": "324",
         "garnish": "Mint sprig, or rosemary in season, plus a spritz of absinthe",
@@ -30453,7 +30243,6 @@
         "instructions": "Stir all ingredients with ice until chilled. Strain into a cocktail glass, express the lime peel over the drink, twist, and garnish.",
         "note": "Paired in the book with Top Gun (1986).",
         "creator": "",
-        "image": "assets/recipes/movie-when-you-re-a-jet.webp",
         "usable": true,
         "page": "125",
         "garnish": "1 strip lime peel",
@@ -30527,7 +30316,6 @@
         "instructions": "Place the whiskey and filled with ice, stir, and",
         "note": "nce again, lom Clancy's Jack Ryan (Harrison Ford) finds himself at the center of political turmoil. After Jack discovers the money given to the CIA for advisory missions in Colombia is used to fuel illegal operations against the cartels, he joins in the hunt for the new American connection to the scandal alongside black-ops commander John Clark (Willem Dafoe). Ryan discovers the US plans to set up a new cartel head who would c",
         "creator": "",
-        "image": "assets/recipes/movie-whiskey-danger.webp",
         "usable": true
       }
     ],
@@ -30595,7 +30383,6 @@
         "instructions": "In a Collins or rocks glass, gently muddle mint with simple syrup. Add lemon wheels and muddle to release juice. Add crushed ice or small ice cubes, pour in the whiskey, and swizzle gently.",
         "note": "The layman’s Mint Julep, the Whiskey Smash comes with all the flavor of its more famous relative but without the associated frippery (such as tin cups, Derby hats, and more). Jerry Thomas, a nineteenth-century New York bartender, “father of American mixology,” and author of the seminal The Bartender’s Guide, called it “the Julep ona small plan.” A few slices of muddled lemon and a fistful of mint help lift and brighten the flavors, making this potent number dangerously easy to toss back.",
         "creator": "",
-        "image": "assets/recipes/ess-whiskey-smash.webp",
         "usable": true,
         "page": "197",
         "garnish": "Mint sprig and lemon wheel",
@@ -30674,7 +30461,6 @@
         "instructions": "Dry shake all ingredients. Add ice and shake well. Strain into a chilled coupe or cocktail glass, or over ice into a rocks glass.",
         "note": "The template for this iconic sour—whiskey, lemon juice, and sugar, shaken over ice—has laid the foundation for many cocktails due to its structural, unadorned simplicity. Most bartenders will kick the drink up with the dramatic flourish of an herbal or fruit liqueur, which gives nice complexity, but the Whiskey Sour isn’t begging for all that adornment. Merely adding an egg white (creating what’s known as a Boston Sour) can take the concoction to a new flufted- up, ethereal place. For a more vibrant route, top with a red wine float to transform it into the New York Sour (page 138), a variation that popped up in the late 1800s.",
         "creator": "",
-        "image": "assets/recipes/ess-whiskey-sour.webp",
         "usable": true,
         "page": "198"
       },
@@ -30706,7 +30492,6 @@
         "instructions": "",
         "note": "ased on the Tom Clancy novel of the same name, after a terrorist attack in London B® injures Jack Ryan (Harrison Ford) and puts a target on his family (a rather poor decision by the bad guys, honestly), Ryan finds himself caught up in a plot by the Provisional Irish Republican Army.",
         "creator": "",
-        "image": "assets/recipes/movie-whiskey-sour.webp",
         "usable": false
       }
     ],
@@ -30828,7 +30613,6 @@
         "instructions": "Stir all ingredients with ice until chilled. Strain over ice into a rocks glass, or serve up in a chilled coupe or cocktail glass.",
         "note": "It took more than a hundred years for Suze, a fragrant gentian- based French aperitif, to finally make its way to the United States. For years, bartenders were forced to covertly bring it back from trips to Paris in their suitcases. But now that it’s been here fora few years, it’s become a bit of a bartenders’ darling for its light but bitter edge. Suze is often used as a substitute for potent bitters, such as Campari or amaro, to create less assertive, more aromatic drinks. This version of a Negroni (page 135), adapted from London bartender Wayne Collins’s riff, turns the original on its head by substituting floral Lillet for sweet vermouth",
         "creator": "Wayne Collins, London",
-        "image": "assets/recipes/ess-white-negroni.webp",
         "usable": true,
         "page": "327",
         "garnish": "Lemon peel",
@@ -30894,7 +30678,6 @@
         "instructions": "Build all ingredients over a large ice cube in a double old-fashioned or Collins glass.",
         "note": "Legend has it that the Negroni Sbagliato (page 136), a Negroni that subs sparkling wine for gin, was the happy mistake of a Milanese bartender. But as everyone now knows, a great way to improve on any great drink is to spritz it. There’s no mistake here, as herbal Suze meets bianco vermouth in Toby Cecchini’s sbagliato version of the modern classic White Negroni (page 327).",
         "creator": "Toby Cecchini, Long Island Bar, Brooklyn, NY",
-        "image": "assets/recipes/ess-white-negroni-sbagliato.webp",
         "usable": true,
         "page": "328",
         "garnish": "Long cucumber slice and orange peel",
@@ -30960,7 +30743,6 @@
         "instructions": "Add heavy cream and amaretto to a shaker. Add the coil of a Hawthorne strainer and dry shake for 10 seconds or so, to aerate but not whip into stiffness. Add remaining ingredients to another cocktail shaker with ice and shake until chilled. Strain into a coupe or rocks glass.",
         "note": "Called simply “the Russian,” the earliest incarnation of this drink (c. 1930) lacked its now-signature coffee liqueur; not until its heyday in the 1960s did a version with Kahlua rise to prominence. For more recent generations, the drink achieved cult status not for its flavor, but due to its supporting role in The Big Lebowski, as the signature of Jeff Bridges’ character the Dude. This recipe, from famed New York bartender Toby Cecchini, calls for not one but two coffee liqueurs, and kicks it up even further by whipping the cream that is typically stirred in, and floating it atop the drink.",
         "creator": "Toby Cecchini, Long Island Bar, Brooklyn, Ny",
-        "image": "assets/recipes/ess-white-russian.webp",
         "usable": false
       },
       {
@@ -30988,7 +30770,6 @@
         "instructions": "Place the vodka, coffee",
         "note": "heartthrob to king of Hollywood became official with the release of Reds. Using the capital he acquired with the unexpected success of Heaven Can Wait, Beatty poured himself into a of the 1960s: examining the life of journalist John the right time resulted in a renowned chronicle of Reed, whose facility for being in the right place at the Russian Revolution, len Days That Shook the World. In lesser hands, the Reed-as-saint sto",
         "creator": "",
-        "image": "assets/recipes/movie-white-russian.webp",
         "usable": true
       }
     ],
@@ -31246,7 +31027,6 @@
         "instructions": "Add all ingredients to a cocktail NOTE To make Don’s Mix, shaker. Shake with a few ice cubes. | combine 2 parts grapefruit juice Strain into a tiki mug over crushed with 1 part cinnamon syrup",
         "note": "Largely considered the founder of tiki cocktail culture, Donn Beach, better known as Don the Beachcomber, opened his eponymous bar in Hollywood in 1934 and created a canon of drinks built upon the base of fresh juices, exotic fruits, complex syrups, and lots and lots of rum. The Zombie is a prime example of his typical concoction: strong and rather mysterious (it contains two different proprietary mixes). Bar lore says the original was so potent that Beach limited his customers to no more than two Zombies in one sitting. This recipe is Beach’s original from 1934, as translated by Jeff “Beachbum Berry” in his book Sippin’ Safari.",
         "creator": "",
-        "image": "assets/recipes/ess-zombie.webp",
         "usable": true
       },
       {

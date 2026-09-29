@@ -1,8 +1,20 @@
 {
-  "version": 1,
-  "generated": "2026-09-28",
+  "version": 2,
+  "generated": "2026-09-29",
   "rawRecords": 606,
   "canonicalRecipes": 398,
+  "verifiedRecipes": 398,
+  "recipesWithInstructions": 371,
+  "usableVersions": 414,
+  "recipesWithMultipleUsableVersions": 15,
+  "committedImageRecipes": 48,
+  "exactBookImages": 52,
+  "exactBookImageRecipes": 48,
+  "otherVerifiedImages": 0,
+  "missingImageRecipes": 350,
+  "imageCoveragePercent": 12.1,
+  "staleImageReferences": 0,
+  "movieCocktails": 43,
   "countries": [
     "Argentina",
     "Australia",
@@ -31,24 +43,6 @@
     "United Kingdom",
     "United States"
   ],
-  "categories": {
-    "Movies": 31,
-    "Classic": 70,
-    "Mezcal": 70,
-    "International": 35,
-    "Modern": 53,
-    "Death & Co": 64,
-    "Book": 32,
-    "Tropical": 43
-  },
-  "recipesWithInstructions": 372,
-  "recipesWithMultipleUsableVersions": 15,
-  "usableVersions": 414,
-  "referencedImageRecipes": 301,
-  "note": "All canonical recipe records are now source-verified at the record level. Remaining work is incomplete alternate source versions, missing methods on some otherwise-valid records, and exact book-image extraction/commit coverage.",
-  "verifiedRecipes": 398,
-  "limitedRecipes": 0,
-  "committedImageRecipes": 7,
-  "exactBookImages": 7,
-  "imageCoveragePercent": 1.8
+  "regions": [],
+  "collections": 10
 }

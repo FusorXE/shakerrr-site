@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
+const r=read('data/recipes.json'),m=read('data/image-manifest.json'),old=read('data/catalog-meta.json');
+const candidates=Object.values(m.byRecipe).flatMap(x=>x.candidates);
+const valid=c=>c.available&&fs.existsSync(c.path)&&fs.statSync(c.path).size>0;
+const covered=r.filter(x=>m.byRecipe[x.id]?.candidates.some(valid));
+const collections={};for(const x of r)for(const c of x.collections||[])collections[c]=(collections[c]||0)+1;
+const versions=r.flatMap(x=>x.versions.filter(v=>v.usable));
+const meta={version:2,generated:new Date().toISOString().slice(0,10),rawRecords:old.rawRecords,canonicalRecipes:r.length,verifiedRecipes:r.filter(x=>x.quality==='verified'||x.quality?.status==='verified').length,recipesWithInstructions:r.filter(x=>x.instructions?.trim().length>20).length,usableVersions:versions.length,recipesWithMultipleUsableVersions:r.filter(x=>x.versions.filter(v=>v.usable).length>1).length,committedImageRecipes:covered.length,exactBookImages:candidates.filter(x=>valid(x)&&x.status==='exact-book').length,exactBookImageRecipes:covered.filter(x=>m.byRecipe[x.id].candidates.some(c=>valid(c)&&c.status==='exact-book')).length,otherVerifiedImages:candidates.filter(x=>valid(x)&&x.status!=='exact-book').length,missingImageRecipes:r.length-covered.length,imageCoveragePercent:+(100*covered.length/r.length).toFixed(1),staleImageReferences:candidates.filter(x=>!valid(x)).length,movieCocktails:r.filter(x=>x.movie).length,countries:[...new Set(r.map(x=>x.country).filter(Boolean))].sort(),regions:[...new Set(r.map(x=>x.region).filter(Boolean))].sort(),collections:Object.keys(collections).length};
+fs.writeFileSync('data/catalog-meta.json',JSON.stringify(meta,null,2)+'\n');fs.writeFileSync('data/collections.json',JSON.stringify(collections,null,2)+'\n');console.log(JSON.stringify(meta,null,2));
