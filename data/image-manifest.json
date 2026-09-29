@@ -806,8 +806,9 @@
           "path": "assets/recipes/ryan-daiquiri-classic.webp",
           "source": "Essential Cocktails 2021",
           "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
+          "available": true,
+          "status": "exact-book",
+          "page": "17"
         }
       ]
     },
@@ -818,8 +819,9 @@
           "path": "assets/recipes/ryan-daiquiri-mulata.webp",
           "source": "Essential Cocktails 2021",
           "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "available": true,
+          "status": "exact-book",
+          "page": "13"
         }
       ]
     },
@@ -2184,8 +2186,9 @@
           "path": "assets/recipes/ryan-mojito-classic.webp",
           "source": "Essential Cocktails 2021",
           "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
+          "available": true,
+          "status": "exact-book",
+          "page": "20"
         }
       ]
     },
