@@ -6621,7 +6621,7 @@
     "name": "Death To El Gusano",
     "category": "Mezcal",
     "country": "Mexico",
-    "method": "Build",
+    "method": "Shake",
     "tags": [
       "book",
       "mezcal"
@@ -6633,27 +6633,30 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "mezcal joven",
-            "amount": "2.0 oz."
+            "amount": "2 oz",
+            "name": "Mezcal joven"
           },
           {
-            "name": "St. Elizabeth’s Allspice Dram",
-            "amount": "25 oz."
+            "amount": "0.25 oz",
+            "name": "St. Elizabeth Allspice Dram"
           },
           {
-            "name": "fresh lime juice",
-            "amount": ".5 oz."
+            "amount": "0.5 oz",
+            "name": "Fresh lime juice"
           },
           {
-            "name": "agave nectar",
-            "amount": ".25 oz."
+            "amount": "0.25 oz",
+            "name": "Agave nectar"
           }
         ],
-        "instructions": "",
+        "instructions": "Shake all ingredients with ice and serve on the rocks.",
         "note": "(from Brandon Lloyd Burkart at Haddingtons in Austin, TX)*",
-        "creator": "",
+        "creator": "Brandon Lloyd Burkart, Haddingtons, Austin, TX",
         "image": "assets/recipes/hs-death-to-el-gusano.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "Lime wedge",
+        "glass": "Rocks glass",
+        "page": "158"
       }
     ],
     "image": null,
@@ -6663,26 +6666,28 @@
     ],
     "ingredients": [
       {
-        "name": "mezcal joven",
-        "amount": "2.0 oz."
+        "amount": "2 oz",
+        "name": "Mezcal joven"
       },
       {
-        "name": "St. Elizabeth’s Allspice Dram",
-        "amount": "25 oz."
+        "amount": "0.25 oz",
+        "name": "St. Elizabeth Allspice Dram"
       },
       {
-        "name": "fresh lime juice",
-        "amount": ".5 oz."
+        "amount": "0.5 oz",
+        "name": "Fresh lime juice"
       },
       {
-        "name": "agave nectar",
-        "amount": ".25 oz."
+        "amount": "0.25 oz",
+        "name": "Agave nectar"
       }
     ],
-    "instructions": "",
+    "instructions": "Shake all ingredients with ice and serve on the rocks.",
     "note": "(from Brandon Lloyd Burkart at Haddingtons in Austin, TX)*",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Lime wedge",
+    "glass": "Rocks glass"
   },
   {
     "id": "derby-daiquiri",
@@ -7711,7 +7716,7 @@
     "name": "El Conde De San Dionisio",
     "category": "Mezcal",
     "country": "Mexico",
-    "method": "Build",
+    "method": "Not specified",
     "tags": [
       "book",
       "mezcal"
@@ -7723,23 +7728,28 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "mezcal joven",
-            "amount": "1.5 oz."
+            "amount": "1.5 oz",
+            "name": "Mezcal joven"
           },
           {
-            "name": "Dolin Blanc",
-            "amount": "1.0 oz."
+            "amount": "1 oz",
+            "name": "Dolin Blanc"
           },
           {
-            "name": "Yellow Chartreuse",
-            "amount": "5 oz."
+            "amount": "0.5 oz",
+            "name": "Yellow Chartreuse"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Celery bitters"
           }
         ],
-        "instructions": "",
+        "instructions": "The source lists the formula but does not specify a preparation method.",
         "note": "(from Florian Minier at Haddingtons in Austin, TX)",
-        "creator": "",
+        "creator": "Florian Minier, Haddingtons, Austin, TX",
         "image": null,
-        "usable": false
+        "usable": true,
+        "page": "174"
       }
     ],
     "image": null,
@@ -7749,22 +7759,26 @@
     ],
     "ingredients": [
       {
-        "name": "mezcal joven",
-        "amount": "1.5 oz."
+        "amount": "1.5 oz",
+        "name": "Mezcal joven"
       },
       {
-        "name": "Dolin Blanc",
-        "amount": "1.0 oz."
+        "amount": "1 oz",
+        "name": "Dolin Blanc"
       },
       {
-        "name": "Yellow Chartreuse",
-        "amount": "5 oz."
+        "amount": "0.5 oz",
+        "name": "Yellow Chartreuse"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Celery bitters"
       }
     ],
-    "instructions": "",
+    "instructions": "The source lists the formula but does not specify a preparation method.",
     "note": "(from Florian Minier at Haddingtons in Austin, TX)",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified"
   },
   {
     "id": "el-diablo",
@@ -7846,7 +7860,7 @@
     "name": "El Embarcadero",
     "category": "Mezcal",
     "country": "Mexico",
-    "method": "Build",
+    "method": "Shake",
     "tags": [
       "book",
       "mezcal"
@@ -7858,35 +7872,39 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "silver tequila",
-            "amount": "2.0 oz."
+            "amount": "2 oz",
+            "name": "Silver tequila"
           },
           {
-            "name": "mezcal joven",
-            "amount": "5 oz."
+            "amount": "0.5 oz",
+            "name": "Mezcal joven"
           },
           {
-            "name": "Carpano Antica",
-            "amount": "75 oz."
+            "amount": "0.75 oz",
+            "name": "Carpano Antica Formula"
           },
           {
-            "name": "fresh lemon juice",
-            "amount": "75 oz."
+            "amount": "0.75 oz",
+            "name": "Fresh lemon juice"
           },
           {
-            "name": "pineapple juice",
-            "amount": "1.0 oz."
+            "amount": "1 oz",
+            "name": "Pineapple juice"
           },
           {
-            "name": "agave nectar",
-            "amount": ".75 oz."
+            "amount": "0.75 oz",
+            "name": "Agave nectar"
           }
         ],
-        "instructions": "",
+        "instructions": "Shake all ingredients with ice and serve on the rocks. Express a large grapefruit peel over the drink and place it down the side of the glass.",
         "note": "(from The Bar Downstairs at Andaz Hotel NYC)",
-        "creator": "",
+        "creator": "The Bar Downstairs at Andaz Hotel, New York City",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Large grapefruit peel",
+        "glass": "Rocks glass",
+        "ice": "Ice",
+        "page": "176"
       }
     ],
     "image": null,
@@ -7896,34 +7914,37 @@
     ],
     "ingredients": [
       {
-        "name": "silver tequila",
-        "amount": "2.0 oz."
+        "amount": "2 oz",
+        "name": "Silver tequila"
       },
       {
-        "name": "mezcal joven",
-        "amount": "5 oz."
+        "amount": "0.5 oz",
+        "name": "Mezcal joven"
       },
       {
-        "name": "Carpano Antica",
-        "amount": "75 oz."
+        "amount": "0.75 oz",
+        "name": "Carpano Antica Formula"
       },
       {
-        "name": "fresh lemon juice",
-        "amount": "75 oz."
+        "amount": "0.75 oz",
+        "name": "Fresh lemon juice"
       },
       {
-        "name": "pineapple juice",
-        "amount": "1.0 oz."
+        "amount": "1 oz",
+        "name": "Pineapple juice"
       },
       {
-        "name": "agave nectar",
-        "amount": ".75 oz."
+        "amount": "0.75 oz",
+        "name": "Agave nectar"
       }
     ],
-    "instructions": "",
+    "instructions": "Shake all ingredients with ice and serve on the rocks. Express a large grapefruit peel over the drink and place it down the side of the glass.",
     "note": "(from The Bar Downstairs at Andaz Hotel NYC)",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Large grapefruit peel",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "el-presidente",
@@ -11142,23 +11163,39 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "tomato puree, about half a medium-to-large heirloom tomato with skin removed",
-            "amount": "2 oz"
+            "amount": "for rim",
+            "name": "Sherry vinegar"
           },
           {
-            "name": "Tapatío blanco tequila",
-            "amount": "2 oz"
+            "amount": "for rim",
+            "name": "Salt and pepper"
           },
           {
-            "name": "lime juice",
-            "amount": "1 ounce"
+            "amount": "2 oz",
+            "name": "Tomato purée, about half a medium-to-large heirloom tomato with skin removed"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Tapatío blanco tequila"
+          },
+          {
+            "amount": "1 oz",
+            "name": "Lime juice"
+          },
+          {
+            "amount": "to top",
+            "name": "Seltzer"
           }
         ],
-        "instructions": "",
+        "instructions": "Dip the rim of a highball glass in sherry vinegar, then in salt and pepper. Fill with ice. Add the tomato purée, tequila, and lime juice, top with seltzer, and garnish with fresh basil.",
         "note": "This refreshing highball version of a Bloody Maria is a flavorful way to quench your thirst on a hot summer day. It is best prepared during the height of tomato season, when they are ripe and plentiful. Feel free to get creative with rims, mixers, and garnishes. Consider adding chopped fresh or powdered dried herbs, citrus zest, or other seasonings to the salt rim to customize the flavors. Use balsamic vinegar for a sweet and savory accent, or make it spicy by muddling fresh chilies in the botto",
         "creator": "",
         "image": "assets/recipes/agave-heirloom-tomato-highball.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "Fresh basil",
+        "glass": "Highball glass",
+        "ice": "Ice",
+        "page": "254"
       }
     ],
     "image": null,
@@ -11168,22 +11205,37 @@
     ],
     "ingredients": [
       {
-        "name": "tomato puree, about half a medium-to-large heirloom tomato with skin removed",
-        "amount": "2 oz"
+        "amount": "for rim",
+        "name": "Sherry vinegar"
       },
       {
-        "name": "Tapatío blanco tequila",
-        "amount": "2 oz"
+        "amount": "for rim",
+        "name": "Salt and pepper"
       },
       {
-        "name": "lime juice",
-        "amount": "1 ounce"
+        "amount": "2 oz",
+        "name": "Tomato purée, about half a medium-to-large heirloom tomato with skin removed"
+      },
+      {
+        "amount": "2 oz",
+        "name": "Tapatío blanco tequila"
+      },
+      {
+        "amount": "1 oz",
+        "name": "Lime juice"
+      },
+      {
+        "amount": "to top",
+        "name": "Seltzer"
       }
     ],
-    "instructions": "",
+    "instructions": "Dip the rim of a highball glass in sherry vinegar, then in salt and pepper. Fill with ice. Add the tomato purée, tequila, and lime juice, top with seltzer, and garnish with fresh basil.",
     "note": "This refreshing highball version of a Bloody Maria is a flavorful way to quench your thirst on a hot summer day. It is best prepared during the height of tomato season, when they are ripe and plentiful. Feel free to get creative with rims, mixers, and garnishes. Consider adding chopped fresh or powdered dried herbs, citrus zest, or other seasonings to the salt rim to customize the flavors. Use balsamic vinegar for a sweet and savory accent, or make it spicy by muddling fresh chilies in the botto",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Highball",
+    "quality": "verified",
+    "garnish": "Fresh basil",
+    "glass": "Highball glass",
+    "ice": "Ice"
   },
   {
     "id": "hemingway-daiquiri",
@@ -13172,7 +13224,7 @@
     "name": "Kiwi Margarita",
     "category": "Mezcal",
     "country": "Mexico",
-    "method": "Build",
+    "method": "Muddle + Shake",
     "tags": [
       "book",
       "mezcal"
@@ -13184,27 +13236,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "mezcal joven",
-            "amount": "2.0 oz."
+            "amount": "2 oz",
+            "name": "Mezcal joven"
           },
           {
-            "name": "Cointreau",
-            "amount": "5 oz."
+            "amount": "0.5 oz",
+            "name": "Cointreau"
           },
           {
-            "name": "fresh lime juice",
-            "amount": ".75 oz."
+            "amount": "0.75 oz",
+            "name": "Fresh lime juice"
           },
           {
-            "name": "agave nectar",
-            "amount": ".5 oz."
+            "amount": "0.5 oz",
+            "name": "Agave nectar"
+          },
+          {
+            "amount": "0.5",
+            "name": "Kiwi, scooped from the skin"
           }
         ],
-        "instructions": "",
+        "instructions": "Muddle the kiwi in a shaker until thoroughly crushed. Add the remaining ingredients and ice, shake, strain, and serve on the rocks.",
         "note": "(from Dale Degroff)",
-        "creator": "",
+        "creator": "Dale DeGroff",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Lime wedge",
+        "glass": "Rocks glass",
+        "ice": "Ice",
+        "page": "176"
       }
     ],
     "image": null,
@@ -13214,26 +13274,33 @@
     ],
     "ingredients": [
       {
-        "name": "mezcal joven",
-        "amount": "2.0 oz."
+        "amount": "2 oz",
+        "name": "Mezcal joven"
       },
       {
-        "name": "Cointreau",
-        "amount": "5 oz."
+        "amount": "0.5 oz",
+        "name": "Cointreau"
       },
       {
-        "name": "fresh lime juice",
-        "amount": ".75 oz."
+        "amount": "0.75 oz",
+        "name": "Fresh lime juice"
       },
       {
-        "name": "agave nectar",
-        "amount": ".5 oz."
+        "amount": "0.5 oz",
+        "name": "Agave nectar"
+      },
+      {
+        "amount": "0.5",
+        "name": "Kiwi, scooped from the skin"
       }
     ],
-    "instructions": "",
+    "instructions": "Muddle the kiwi in a shaker until thoroughly crushed. Add the remaining ingredients and ice, shake, strain, and serve on the rocks.",
     "note": "(from Dale Degroff)",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Lime wedge",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "knight-takes-bishop",
@@ -13538,47 +13605,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "mezcal joven",
-            "amount": "2.0 oz."
+            "amount": "2 oz",
+            "name": "Mezcal joven"
           },
           {
-            "name": "cilantro syrup",
-            "amount": ".75 oz."
+            "amount": "0.75 oz",
+            "name": "Cilantro syrup"
           },
           {
-            "name": "fresh lime juice",
-            "amount": "1.0 oz."
+            "amount": "1 oz",
+            "name": "Fresh lime juice"
           },
           {
-            "name": "mezcal espadin",
-            "amount": "5 oz"
-          },
-          {
-            "name": "mezcal tobala",
-            "amount": "5 oz"
-          },
-          {
-            "name": "mezcal madrecuixe",
-            "amount": ".5 oz"
-          },
-          {
-            "name": "mezcal tequilana (blue weber)",
-            "amount": "5 oz"
-          },
-          {
-            "name": "Peychaud’s Bitters",
-            "amount": "2 dashes"
-          },
-          {
-            "name": "Angostura Bitters",
-            "amount": "2 dashes"
+            "amount": "2-3 dashes",
+            "name": "Orange bitters"
           }
         ],
-        "instructions": "Strain the juice through a fine strainer. Now take that and mix with equal parts sugar in a saucepan and bring toa quick boil to melt the sugar. Let cool. Now you have cilantro syrup. Combine above ingredients in a shaker and serve on the rocks. To make the chipotle salt, simply take two parts salt and one part chipotle powder and combine. Yes, a lot of effort to make a cocktail, but it will blow you away. Garnish with a lime wedge. FOUR AGAVE SAZERAC (Casey Robison, Barrio Mexican Kitchen and Bar, Seattle) Speaking of boozy cocktails, it does not get any boozier! Think of this as a create-your-own ensemble where you choose the brands. Put it all ina shaker with ice and stir for thirty seconds. Serve up in a martini glass and enjoy. 162 CHAPTER SIXTEEN you can store in the freezer for months. Take one bunch cilantro, three — —",
-        "note": "(from Gilbert Marquez, Los Angeles mixologist)",
-        "creator": "",
+        "instructions": "Shake the ingredients with ice and serve on the rocks. Rim the glass with chipotle salt.",
+        "note": "The source gives a cilantro syrup made from cilantro, pineapple juice, jalapeño, and sugar, and a chipotle-salt rim made from two parts salt to one part chipotle powder.",
+        "creator": "Gilbert Marquez, Los Angeles",
         "image": "assets/recipes/hs-la-parka.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "Lime wedge",
+        "glass": "Rocks glass",
+        "ice": "Ice",
+        "page": "162"
       }
     ],
     "image": null,
@@ -13588,46 +13639,29 @@
     ],
     "ingredients": [
       {
-        "name": "mezcal joven",
-        "amount": "2.0 oz."
+        "amount": "2 oz",
+        "name": "Mezcal joven"
       },
       {
-        "name": "cilantro syrup",
-        "amount": ".75 oz."
+        "amount": "0.75 oz",
+        "name": "Cilantro syrup"
       },
       {
-        "name": "fresh lime juice",
-        "amount": "1.0 oz."
+        "amount": "1 oz",
+        "name": "Fresh lime juice"
       },
       {
-        "name": "mezcal espadin",
-        "amount": "5 oz"
-      },
-      {
-        "name": "mezcal tobala",
-        "amount": "5 oz"
-      },
-      {
-        "name": "mezcal madrecuixe",
-        "amount": ".5 oz"
-      },
-      {
-        "name": "mezcal tequilana (blue weber)",
-        "amount": "5 oz"
-      },
-      {
-        "name": "Peychaud’s Bitters",
-        "amount": "2 dashes"
-      },
-      {
-        "name": "Angostura Bitters",
-        "amount": "2 dashes"
+        "amount": "2-3 dashes",
+        "name": "Orange bitters"
       }
     ],
-    "instructions": "Strain the juice through a fine strainer. Now take that and mix with equal parts sugar in a saucepan and bring toa quick boil to melt the sugar. Let cool. Now you have cilantro syrup. Combine above ingredients in a shaker and serve on the rocks. To make the chipotle salt, simply take two parts salt and one part chipotle powder and combine. Yes, a lot of effort to make a cocktail, but it will blow you away. Garnish with a lime wedge. FOUR AGAVE SAZERAC (Casey Robison, Barrio Mexican Kitchen and Bar, Seattle) Speaking of boozy cocktails, it does not get any boozier! Think of this as a create-your-own ensemble where you choose the brands. Put it all ina shaker with ice and stir for thirty seconds. Serve up in a martini glass and enjoy. 162 CHAPTER SIXTEEN you can store in the freezer for months. Take one bunch cilantro, three — —",
+    "instructions": "Shake the ingredients with ice and serve on the rocks. Rim the glass with chipotle salt.",
     "note": "(from Gilbert Marquez, Los Angeles mixologist)",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Lime wedge",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "la-penca",
@@ -17177,7 +17211,7 @@
     "name": "Mezcalrita",
     "category": "Mezcal",
     "country": "Mexico",
-    "method": "Build",
+    "method": "Shake",
     "tags": [
       "book",
       "mezcal"
@@ -17189,27 +17223,27 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "mezcal joven",
-            "amount": "1 oz."
+            "amount": "1 oz",
+            "name": "Mezcal joven"
           },
           {
-            "name": "Liquor 43 (a.k.a. Cuarenta y Tres)",
-            "amount": ".9 oz."
+            "amount": "0.9 oz",
+            "name": "Licor 43 (Cuarenta y Tres)"
           },
           {
-            "name": "Honey Lemon Syrup (2 oz. honey, 2 oz. hot water,",
-            "amount": "1.5 oz."
-          },
-          {
-            "name": "fresh lemon juice)",
-            "amount": "2 oz."
+            "amount": "1.5 oz",
+            "name": "Honey Lemon Syrup"
           }
         ],
-        "instructions": "",
-        "note": "(from Mezon Tapas Bar in Danbury, CT)",
-        "creator": "",
+        "instructions": "Shake the ingredients with ice and serve on the rocks. Salt half of the rim.",
+        "note": "Honey Lemon Syrup in the source: 2 oz honey, 2 oz hot water, and 2 oz fresh lemon juice.",
+        "creator": "Mezon Tapas Bar, Danbury, CT",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Sea salt on half the rim",
+        "glass": "Rocks glass",
+        "ice": "Ice",
+        "page": "169"
       }
     ],
     "image": null,
@@ -17219,26 +17253,25 @@
     ],
     "ingredients": [
       {
-        "name": "mezcal joven",
-        "amount": "1 oz."
+        "amount": "1 oz",
+        "name": "Mezcal joven"
       },
       {
-        "name": "Liquor 43 (a.k.a. Cuarenta y Tres)",
-        "amount": ".9 oz."
+        "amount": "0.9 oz",
+        "name": "Licor 43 (Cuarenta y Tres)"
       },
       {
-        "name": "Honey Lemon Syrup (2 oz. honey, 2 oz. hot water,",
-        "amount": "1.5 oz."
-      },
-      {
-        "name": "fresh lemon juice)",
-        "amount": "2 oz."
+        "amount": "1.5 oz",
+        "name": "Honey Lemon Syrup"
       }
     ],
-    "instructions": "",
+    "instructions": "Shake the ingredients with ice and serve on the rocks. Salt half of the rim.",
     "note": "(from Mezon Tapas Bar in Danbury, CT)",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Sea salt on half the rim",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "milano-torino",
@@ -20835,39 +20868,45 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "1 ⁄ 5 ounces Rey Campero Espadín mezcal",
-            "amount": "1"
+            "amount": "for rim",
+            "name": "Sal de gusano"
           },
           {
-            "name": "jalapeño-infused tequila",
-            "amount": "½ ounce"
+            "amount": "1 1/5 oz",
+            "name": "Rey Campero Espadín mezcal"
           },
           {
-            "name": "Rhine Hall Mango Brandy",
-            "amount": "½ ounce"
+            "amount": "0.5 oz",
+            "name": "Jalapeño-infused tequila"
           },
           {
-            "name": "Turmeric-Ginger Honey Syrup (see page 275 )",
-            "amount": "¾ ounce"
+            "amount": "0.5 oz",
+            "name": "Rhine Hall Mango Brandy"
           },
           {
-            "name": "fresh lemon juice",
-            "amount": "¾ ounce"
+            "amount": "0.75 oz",
+            "name": "Turmeric-Ginger Honey Syrup"
           },
           {
-            "name": "cane syrup",
-            "amount": "¼ ounce"
+            "amount": "0.75 oz",
+            "name": "Fresh lemon juice"
           },
           {
-            "name": "bar spoons Giffard Caribbean Pineapple liqueur",
-            "amount": "2"
+            "amount": "0.25 oz",
+            "name": "Cane syrup"
+          },
+          {
+            "amount": "2 barspoons",
+            "name": "Giffard Caribbean Pineapple liqueur"
           }
         ],
-        "instructions": "Rim a glass with sal de gusano and set aside. Add the mezcal, tequila, brandy, Turmeric-Ginger Honey Syrup, lemon juice, cane syrup, and pineapple liqueur to a shaker with ice. Shake to combine and chill. Strain into the salt-rimmed glass and garnish with a rosemary sprig.",
+        "instructions": "Rim a glass with sal de gusano. Shake the mezcal, tequila, brandy, honey syrup, lemon juice, cane syrup, and pineapple liqueur with ice. Strain into the rimmed glass.",
         "note": "Elaine Romero Elaine, head bartender at The Cabinet in New York City, likes to tell stories about the spirits she serves, whether poured neat or crafted into cocktails such as her Picosito. This cocktail combines agave with tropical flavors of mango brandy and pineapple liqueur. What started as a hobby is now a passion. Elaine has quickly become one of the nation’s top agave bartenders. Sal de gusano, for rimming the glass",
-        "creator": "",
+        "creator": "Elaine Romero, The Cabinet, New York City",
         "image": "assets/recipes/agave-picosito.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "Rosemary sprig",
+        "page": "264"
       }
     ],
     "image": null,
@@ -20877,38 +20916,43 @@
     ],
     "ingredients": [
       {
-        "name": "1 ⁄ 5 ounces Rey Campero Espadín mezcal",
-        "amount": "1"
+        "amount": "for rim",
+        "name": "Sal de gusano"
       },
       {
-        "name": "jalapeño-infused tequila",
-        "amount": "½ ounce"
+        "amount": "1 1/5 oz",
+        "name": "Rey Campero Espadín mezcal"
       },
       {
-        "name": "Rhine Hall Mango Brandy",
-        "amount": "½ ounce"
+        "amount": "0.5 oz",
+        "name": "Jalapeño-infused tequila"
       },
       {
-        "name": "Turmeric-Ginger Honey Syrup (see page 275 )",
-        "amount": "¾ ounce"
+        "amount": "0.5 oz",
+        "name": "Rhine Hall Mango Brandy"
       },
       {
-        "name": "fresh lemon juice",
-        "amount": "¾ ounce"
+        "amount": "0.75 oz",
+        "name": "Turmeric-Ginger Honey Syrup"
       },
       {
-        "name": "cane syrup",
-        "amount": "¼ ounce"
+        "amount": "0.75 oz",
+        "name": "Fresh lemon juice"
       },
       {
-        "name": "bar spoons Giffard Caribbean Pineapple liqueur",
-        "amount": "2"
+        "amount": "0.25 oz",
+        "name": "Cane syrup"
+      },
+      {
+        "amount": "2 barspoons",
+        "name": "Giffard Caribbean Pineapple liqueur"
       }
     ],
-    "instructions": "Rim a glass with sal de gusano and set aside. Add the mezcal, tequila, brandy, Turmeric-Ginger Honey Syrup, lemon juice, cane syrup, and pineapple liqueur to a shaker with ice. Shake to combine and chill. Strain into the salt-rimmed glass and garnish with a rosemary sprig.",
+    "instructions": "Rim a glass with sal de gusano. Shake the mezcal, tequila, brandy, honey syrup, lemon juice, cane syrup, and pineapple liqueur with ice. Strain into the rimmed glass.",
     "note": "Elaine Romero Elaine, head bartender at The Cabinet in New York City, likes to tell stories about the spirits she serves, whether poured neat or crafted into cocktails such as her Picosito. This cocktail combines agave with tropical flavors of mango brandy and pineapple liqueur. What started as a hobby is now a passion. Elaine has quickly become one of the nation’s top agave bartenders. Sal de gusano, for rimming the glass",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Rosemary sprig"
   },
   {
     "id": "pimms-tropicale",
@@ -22060,7 +22104,7 @@
     "name": "Poblano Escobar",
     "category": "Mezcal",
     "country": "Mexico",
-    "method": "Build",
+    "method": "Muddle + Build",
     "tags": [
       "book",
       "mezcal"
@@ -22072,23 +22116,39 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "mezcal joven",
-            "amount": "2.0 oz."
+            "amount": "2 oz",
+            "name": "Mezcal joven"
           },
           {
-            "name": "Royal Combier",
-            "amount": "75 oz."
+            "amount": "0.75 oz",
+            "name": "Royal Combier"
           },
           {
-            "name": "fresh lime juice",
-            "amount": "1.0 oz."
+            "amount": "1 oz",
+            "name": "Fresh lime juice"
+          },
+          {
+            "amount": "splash",
+            "name": "Agave nectar"
+          },
+          {
+            "amount": "4 chunks",
+            "name": "Fresh pineapple"
+          },
+          {
+            "amount": "2-3 small rings",
+            "name": "Poblano pepper, about 1/4-inch thick"
           }
         ],
-        "instructions": "Muddle poblano with lime juice and Royal Combier. Add pineapple, cumin and agave and muddle again. Add mezcal and serve on the rocks. Garnish with a slice of poblano.",
-        "note": "(from Julian Cox at Rivera in Los Angeles)",
-        "creator": "",
+        "instructions": "Muddle the poblano with lime juice and Royal Combier. Add pineapple and agave and muddle again. Add mezcal and serve on the rocks.",
+        "note": "The source text mentions cumin in the preparation but does not provide a cumin quantity in the ingredient list, so no amount is invented here.",
+        "creator": "Julian Cox, Rivera, Los Angeles",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Slice of poblano",
+        "glass": "Rocks glass",
+        "ice": "Ice",
+        "page": "178"
       }
     ],
     "image": null,
@@ -22098,22 +22158,37 @@
     ],
     "ingredients": [
       {
-        "name": "mezcal joven",
-        "amount": "2.0 oz."
+        "amount": "2 oz",
+        "name": "Mezcal joven"
       },
       {
-        "name": "Royal Combier",
-        "amount": "75 oz."
+        "amount": "0.75 oz",
+        "name": "Royal Combier"
       },
       {
-        "name": "fresh lime juice",
-        "amount": "1.0 oz."
+        "amount": "1 oz",
+        "name": "Fresh lime juice"
+      },
+      {
+        "amount": "splash",
+        "name": "Agave nectar"
+      },
+      {
+        "amount": "4 chunks",
+        "name": "Fresh pineapple"
+      },
+      {
+        "amount": "2-3 small rings",
+        "name": "Poblano pepper, about 1/4-inch thick"
       }
     ],
-    "instructions": "Muddle poblano with lime juice and Royal Combier. Add pineapple, cumin and agave and muddle again. Add mezcal and serve on the rocks. Garnish with a slice of poblano.",
+    "instructions": "Muddle the poblano with lime juice and Royal Combier. Add pineapple and agave and muddle again. Add mezcal and serve on the rocks.",
     "note": "(from Julian Cox at Rivera in Los Angeles)",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Slice of poblano",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "pomegranate-margarita",
@@ -22627,7 +22702,7 @@
     "name": "Possession*",
     "category": "Mezcal",
     "country": "Mexico",
-    "method": "Build",
+    "method": "Shake",
     "tags": [
       "book",
       "mezcal"
@@ -22639,27 +22714,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "mezcal joven",
-            "amount": "1.0 oz."
+            "amount": "1 oz",
+            "name": "Mezcal joven"
           },
           {
-            "name": "fresh lime juice",
-            "amount": "1.0 oz."
+            "amount": "1 oz",
+            "name": "Fresh lime juice"
           },
           {
-            "name": "Luxardo Maraschino Liqueur",
-            "amount": "75 oz."
+            "amount": "0.75 oz",
+            "name": "Luxardo Maraschino Liqueur"
           },
           {
-            "name": "Green Chartreuse",
-            "amount": "5 oz."
+            "amount": "0.5 oz",
+            "name": "Green Chartreuse"
           }
         ],
-        "instructions": "",
+        "instructions": "Shake all ingredients with ice and serve on the rocks in a glass with salt on half the rim.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/hs-possession.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "Skewered Luxardo maraschino cherry",
+        "glass": "Rocks glass",
+        "ice": "Ice",
+        "page": "154"
       }
     ],
     "image": null,
@@ -22669,26 +22748,29 @@
     ],
     "ingredients": [
       {
-        "name": "mezcal joven",
-        "amount": "1.0 oz."
+        "amount": "1 oz",
+        "name": "Mezcal joven"
       },
       {
-        "name": "fresh lime juice",
-        "amount": "1.0 oz."
+        "amount": "1 oz",
+        "name": "Fresh lime juice"
       },
       {
-        "name": "Luxardo Maraschino Liqueur",
-        "amount": "75 oz."
+        "amount": "0.75 oz",
+        "name": "Luxardo Maraschino Liqueur"
       },
       {
-        "name": "Green Chartreuse",
-        "amount": "5 oz."
+        "amount": "0.5 oz",
+        "name": "Green Chartreuse"
       }
     ],
-    "instructions": "",
+    "instructions": "Shake all ingredients with ice and serve on the rocks in a glass with salt on half the rim.",
     "note": "",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Skewered Luxardo maraschino cherry",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "preakness",
@@ -27821,7 +27903,7 @@
     "name": "The Lulu",
     "category": "Mezcal",
     "country": "Mexico",
-    "method": "Build",
+    "method": "Muddle + Shake",
     "tags": [
       "book",
       "mezcal"
@@ -27833,27 +27915,43 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "mezcal anejo",
-            "amount": "2.0 oz."
+            "amount": "2 oz",
+            "name": "Mezcal añejo"
           },
           {
-            "name": "jalapeno simple syrup",
-            "amount": "75 oz."
+            "amount": "0.75 oz",
+            "name": "Jalapeño simple syrup"
           },
           {
-            "name": "fresh lime juice",
-            "amount": "1.0 oz."
+            "amount": "1 oz",
+            "name": "Fresh lime juice"
           },
           {
-            "name": "passion fruit puree",
-            "amount": "5 oz."
+            "amount": "0.5 oz",
+            "name": "Passion fruit purée"
+          },
+          {
+            "amount": "1",
+            "name": "Strawberry"
+          },
+          {
+            "amount": "1",
+            "name": "Raspberry"
+          },
+          {
+            "amount": "1",
+            "name": "Blackberry"
           }
         ],
-        "instructions": "",
+        "instructions": "Muddle the fruit with the lime juice in a shaker. Add the remaining ingredients and ice, shake, and serve on the rocks.",
         "note": "(from NYC bartender Lulu Martinez)*",
-        "creator": "",
+        "creator": "Lulu Martinez, New York City",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Strawberry slice on the rim",
+        "glass": "Rocks glass",
+        "ice": "Ice",
+        "page": "174"
       }
     ],
     "image": null,
@@ -27863,33 +27961,48 @@
     ],
     "ingredients": [
       {
-        "name": "mezcal anejo",
-        "amount": "2.0 oz."
+        "amount": "2 oz",
+        "name": "Mezcal añejo"
       },
       {
-        "name": "jalapeno simple syrup",
-        "amount": "75 oz."
+        "amount": "0.75 oz",
+        "name": "Jalapeño simple syrup"
       },
       {
-        "name": "fresh lime juice",
-        "amount": "1.0 oz."
+        "amount": "1 oz",
+        "name": "Fresh lime juice"
       },
       {
-        "name": "passion fruit puree",
-        "amount": "5 oz."
+        "amount": "0.5 oz",
+        "name": "Passion fruit purée"
+      },
+      {
+        "amount": "1",
+        "name": "Strawberry"
+      },
+      {
+        "amount": "1",
+        "name": "Raspberry"
+      },
+      {
+        "amount": "1",
+        "name": "Blackberry"
       }
     ],
-    "instructions": "",
+    "instructions": "Muddle the fruit with the lime juice in a shaker. Add the remaining ingredients and ice, shake, and serve on the rocks.",
     "note": "(from NYC bartender Lulu Martinez)*",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Strawberry slice on the rim",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "the-minty-mezcal",
     "name": "The Minty Mezcal",
     "category": "Mezcal",
     "country": "Mexico",
-    "method": "Shake",
+    "method": "Muddle + Build",
     "tags": [
       "book",
       "mezcal"
@@ -27901,43 +28014,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Mezcal joven",
-            "amount": "1.5 oz."
+            "amount": "1.5 oz",
+            "name": "Mezcal joven"
           },
           {
-            "name": "fresh lime juice",
-            "amount": "5 oz."
+            "amount": "0.5 oz",
+            "name": "Fresh lime juice"
           },
           {
-            "name": "mezcal joven",
-            "amount": "2 oz."
+            "amount": "1 oz",
+            "name": "Thinned agave nectar"
           },
           {
-            "name": "jalapeno simple syrup",
-            "amount": "5 oz."
+            "amount": "4 slices",
+            "name": "Cucumber"
           },
           {
-            "name": "thinned agave nectar",
-            "amount": "5 oz."
-          },
-          {
-            "name": "fresh lime juice",
-            "amount": "1 oz."
-          },
-          {
-            "name": "cilantro (2-3 inch stalks)",
-            "amount": "3 sprigs"
-          },
-          {
-            "name": "Peychaud bitters",
-            "amount": "3 dashes"
+            "amount": "leaves from 3 sprigs",
+            "name": "Mint"
           }
         ],
-        "instructions": "Muddle the lime, mint leaves, cucumber and agave. Add the-mezcal and serve over ice in a rocks glass. Simple, easy and summer fresh! Garnish with a mint sprig. LARKSPUR MEZCAL MARGARITA (from Larkspur Restaurant in Vail, CO) 3 cucumber slices The only thing a bit time consuming is the jalapeno simple syrup. To do this, use simple syrup (equal parts water and sugar; for example one cup water and one cup sugar brought nearly to a boil to dissolve the sugar). Then, cut up one large jalapeno and plop it in. Let sit for one or two days (tasting regularly) and then strain out the jalapeno and seeds. You should taste it regularly during the infusing process to monitor the heat—you want it spicy but not overpow- ering. Keep it in the fridge and it is good for months. To make “thinned agave nectar? just put equal parts agave nectar and water in a cup and heat in the microwave to homogenize the mixture. Heat and stir and it will be done. With that, muddle the cilantro, cucumber, lime, agave and simple syrup. Add in the mezcal and bitters and put it all in a shaker. Serve on the rocks with or without salt on the rim. You will find the result to be magical. Garnish with a cilantro sprig.",
+        "instructions": "Muddle the lime juice, mint leaves, cucumber, and thinned agave nectar. Add the mezcal and serve over ice in a rocks glass.",
         "note": "",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Mint sprig",
+        "glass": "Rocks glass",
+        "ice": "Ice",
+        "page": "168"
       }
     ],
     "image": null,
@@ -27947,42 +28052,33 @@
     ],
     "ingredients": [
       {
-        "name": "Mezcal joven",
-        "amount": "1.5 oz."
+        "amount": "1.5 oz",
+        "name": "Mezcal joven"
       },
       {
-        "name": "fresh lime juice",
-        "amount": "5 oz."
+        "amount": "0.5 oz",
+        "name": "Fresh lime juice"
       },
       {
-        "name": "mezcal joven",
-        "amount": "2 oz."
+        "amount": "1 oz",
+        "name": "Thinned agave nectar"
       },
       {
-        "name": "jalapeno simple syrup",
-        "amount": "5 oz."
+        "amount": "4 slices",
+        "name": "Cucumber"
       },
       {
-        "name": "thinned agave nectar",
-        "amount": "5 oz."
-      },
-      {
-        "name": "fresh lime juice",
-        "amount": "1 oz."
-      },
-      {
-        "name": "cilantro (2-3 inch stalks)",
-        "amount": "3 sprigs"
-      },
-      {
-        "name": "Peychaud bitters",
-        "amount": "3 dashes"
+        "amount": "leaves from 3 sprigs",
+        "name": "Mint"
       }
     ],
-    "instructions": "Muddle the lime, mint leaves, cucumber and agave. Add the-mezcal and serve over ice in a rocks glass. Simple, easy and summer fresh! Garnish with a mint sprig. LARKSPUR MEZCAL MARGARITA (from Larkspur Restaurant in Vail, CO) 3 cucumber slices The only thing a bit time consuming is the jalapeno simple syrup. To do this, use simple syrup (equal parts water and sugar; for example one cup water and one cup sugar brought nearly to a boil to dissolve the sugar). Then, cut up one large jalapeno and plop it in. Let sit for one or two days (tasting regularly) and then strain out the jalapeno and seeds. You should taste it regularly during the infusing process to monitor the heat—you want it spicy but not overpow- ering. Keep it in the fridge and it is good for months. To make “thinned agave nectar? just put equal parts agave nectar and water in a cup and heat in the microwave to homogenize the mixture. Heat and stir and it will be done. With that, muddle the cilantro, cucumber, lime, agave and simple syrup. Add in the mezcal and bitters and put it all in a shaker. Serve on the rocks with or without salt on the rim. You will find the result to be magical. Garnish with a cilantro sprig.",
+    "instructions": "Muddle the lime juice, mint leaves, cucumber, and thinned agave nectar. Add the mezcal and serve over ice in a rocks glass.",
     "note": "",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Mint sprig",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "the-misfit",
@@ -28182,7 +28278,7 @@
     "name": "The Whoa Mama",
     "category": "Mezcal",
     "country": "Mexico",
-    "method": "Build",
+    "method": "Shake + Build",
     "tags": [
       "book",
       "mezcal"
@@ -28194,27 +28290,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "mezcal joven",
-            "amount": "1.5 oz."
+            "amount": "1.5 oz",
+            "name": "Mezcal joven"
           },
           {
-            "name": "Pom molasses",
-            "amount": "5 oz."
+            "amount": "0.5 oz",
+            "name": "Pomegranate molasses"
           },
           {
-            "name": "fresh lime juice",
-            "amount": "1.0 oz."
+            "amount": "1 oz",
+            "name": "Fresh lime juice"
           },
           {
-            "name": "Ginger beer",
-            "amount": "1.5 oz."
+            "amount": "1.5 oz",
+            "name": "Ginger beer"
           }
         ],
-        "instructions": "",
+        "instructions": "Shake the mezcal, lime juice, and pomegranate molasses with ice and serve on the rocks. Add the ginger beer and stir with a bar spoon.",
         "note": "(from the Backyard Bartender)",
-        "creator": "",
+        "creator": "The Backyard Bartender",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Lime wedge",
+        "glass": "Rocks glass",
+        "ice": "Ice",
+        "page": "178"
       }
     ],
     "image": null,
@@ -28224,26 +28324,29 @@
     ],
     "ingredients": [
       {
-        "name": "mezcal joven",
-        "amount": "1.5 oz."
+        "amount": "1.5 oz",
+        "name": "Mezcal joven"
       },
       {
-        "name": "Pom molasses",
-        "amount": "5 oz."
+        "amount": "0.5 oz",
+        "name": "Pomegranate molasses"
       },
       {
-        "name": "fresh lime juice",
-        "amount": "1.0 oz."
+        "amount": "1 oz",
+        "name": "Fresh lime juice"
       },
       {
-        "name": "Ginger beer",
-        "amount": "1.5 oz."
+        "amount": "1.5 oz",
+        "name": "Ginger beer"
       }
     ],
-    "instructions": "",
+    "instructions": "Shake the mezcal, lime juice, and pomegranate molasses with ice and serve on the rocks. Add the ginger beer and stir with a bar spoon.",
     "note": "(from the Backyard Bartender)",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Lime wedge",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "there-will-be-blood-orange",
