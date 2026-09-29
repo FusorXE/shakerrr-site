@@ -3367,7 +3367,7 @@
     "name": "Bronze Swizzle",
     "category": "Tropical",
     "country": null,
-    "method": "Blend",
+    "method": "Flash blend",
     "tags": [
       "book",
       "tropical"
@@ -3379,47 +3379,47 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "bitters with layers of dill, grapefruit, and juniper. The result isn’t quite",
-            "amount": "to taste"
+            "amount": "5 drops",
+            "name": "Salt solution"
           },
           {
-            "name": "salt solution (see here)",
-            "amount": "5 drops"
+            "amount": "2 dashes",
+            "name": "Angostura aromatic bitters"
           },
           {
-            "name": "Angostura aromatic bitters",
-            "amount": "2 dashes"
+            "amount": "0.5 oz",
+            "name": "Strained lime juice"
           },
           {
-            "name": "strained lime juice",
-            "amount": "½ oz"
+            "amount": "0.5 tsp",
+            "name": "Demerara syrup"
           },
           {
-            "name": "Demerara syrup",
-            "amount": "½ tsp"
+            "amount": "0.5 oz",
+            "name": "Lime punch syrup"
           },
           {
-            "name": "lime punch syrup (see here)",
-            "amount": "½ oz"
+            "amount": "0.5 oz",
+            "name": "Falernum"
           },
           {
-            "name": "falernum (see below)",
-            "amount": "½ oz"
+            "amount": "1 oz",
+            "name": "Letherbee Bësk Liqueur"
           },
           {
-            "name": "Letherbee Bësk Liqueur",
-            "amount": "1 oz"
-          },
-          {
-            "name": "La Favorite Rhum Agricole Vieux or Clément VSOP Rhum Agricole Vieux",
-            "amount": "1½ oz"
+            "amount": "1.5 oz",
+            "name": "La Favorite Rhum Agricole Vieux or Clément VSOP Rhum Agricole Vieux"
           }
         ],
-        "instructions": "Combine all the ingredients in a mixing tin with 8 ounces of crushed ice. Flash blend for 5 seconds and pour unstrained into a chilled Collins glass (15 ounces) or metal swizzle cup with 8 ounces of crushed ice. • Dust with grated nutmeg and cassia cinnamon.",
+        "instructions": "Combine all ingredients with 8 oz crushed ice in a mixing tin. Flash blend for 5 seconds and pour unstrained into a chilled Collins glass or metal swizzle cup with another 8 oz crushed ice.",
         "note": "waves of lime, delivered by falernum, punch syrup, and fresh juice. Wormwood comes courtesy of the Bësk liqueur, a potable wormwood bitters with layers of dill, grapefruit, and juniper. The result isn’t quite green, but it’s a potent flavor combination that brings freshness to the swizzle style. 5 drops salt solution (see here) 2 dashes Angostura aromatic bitters",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Grated nutmeg, grated cassia cinnamon, long cinnamon stick, and channeled lime twist",
+        "glass": "Collins glass or metal swizzle cup",
+        "ice": "Crushed ice",
+        "page": "305-306"
       }
     ],
     "image": null,
@@ -3429,46 +3429,45 @@
     ],
     "ingredients": [
       {
-        "name": "bitters with layers of dill, grapefruit, and juniper. The result isn’t quite",
-        "amount": "to taste"
+        "amount": "5 drops",
+        "name": "Salt solution"
       },
       {
-        "name": "salt solution (see here)",
-        "amount": "5 drops"
+        "amount": "2 dashes",
+        "name": "Angostura aromatic bitters"
       },
       {
-        "name": "Angostura aromatic bitters",
-        "amount": "2 dashes"
+        "amount": "0.5 oz",
+        "name": "Strained lime juice"
       },
       {
-        "name": "strained lime juice",
-        "amount": "½ oz"
+        "amount": "0.5 tsp",
+        "name": "Demerara syrup"
       },
       {
-        "name": "Demerara syrup",
-        "amount": "½ tsp"
+        "amount": "0.5 oz",
+        "name": "Lime punch syrup"
       },
       {
-        "name": "lime punch syrup (see here)",
-        "amount": "½ oz"
+        "amount": "0.5 oz",
+        "name": "Falernum"
       },
       {
-        "name": "falernum (see below)",
-        "amount": "½ oz"
+        "amount": "1 oz",
+        "name": "Letherbee Bësk Liqueur"
       },
       {
-        "name": "Letherbee Bësk Liqueur",
-        "amount": "1 oz"
-      },
-      {
-        "name": "La Favorite Rhum Agricole Vieux or Clément VSOP Rhum Agricole Vieux",
-        "amount": "1½ oz"
+        "amount": "1.5 oz",
+        "name": "La Favorite Rhum Agricole Vieux or Clément VSOP Rhum Agricole Vieux"
       }
     ],
-    "instructions": "Combine all the ingredients in a mixing tin with 8 ounces of crushed ice. Flash blend for 5 seconds and pour unstrained into a chilled Collins glass (15 ounces) or metal swizzle cup with 8 ounces of crushed ice. • Dust with grated nutmeg and cassia cinnamon.",
+    "instructions": "Combine all ingredients with 8 oz crushed ice in a mixing tin. Flash blend for 5 seconds and pour unstrained into a chilled Collins glass or metal swizzle cup with another 8 oz crushed ice.",
     "note": "waves of lime, delivered by falernum, punch syrup, and fresh juice. Wormwood comes courtesy of the Bësk liqueur, a potable wormwood bitters with layers of dill, grapefruit, and juniper. The result isn’t quite green, but it’s a potent flavor combination that brings freshness to the swizzle style. 5 drops salt solution (see here) 2 dashes Angostura aromatic bitters",
     "family": "Swizzle",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Grated nutmeg, grated cassia cinnamon, long cinnamon stick, and channeled lime twist",
+    "glass": "Collins glass or metal swizzle cup",
+    "ice": "Crushed ice"
   },
   {
     "id": "brooklyn",
@@ -6233,7 +6232,7 @@
     "name": "Dark Star",
     "category": "Tropical",
     "country": null,
-    "method": "Blend",
+    "method": "Frozen blend",
     "tags": [
       "book",
       "tropical"
@@ -6245,47 +6244,43 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "salt solution (see here)",
-            "amount": "5 drops"
+            "amount": "5 drops",
+            "name": "Salt solution"
           },
           {
-            "name": "Dave Arnold’s chocolate bitters (see here)",
-            "amount": "3 dashes"
+            "amount": "3 dashes",
+            "name": "Dave Arnold's chocolate bitters"
           },
           {
-            "name": "sugar mix (see here)",
-            "amount": "1 tbsp"
+            "amount": "1 tbsp",
+            "name": "Sugar mix"
           },
           {
-            "name": "strained lime juice",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Strained lime juice"
           },
           {
-            "name": "Tempus Fugit Crème de Cacao",
-            "amount": "½ oz"
+            "amount": "0.5 oz",
+            "name": "Tempus Fugit Crème de Cacao"
           },
           {
-            "name": "cacao nib-infused rum (see below)",
-            "amount": "1½ oz"
+            "amount": "1.5 oz",
+            "name": "Cacao nib-infused rum"
           },
           {
-            "name": "xanthan gum",
-            "amount": "¼ tsp"
-          },
-          {
-            "name": "ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add",
-            "amount": "to taste"
-          },
-          {
-            "name": "grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10",
-            "amount": "170"
+            "amount": "0.25 tsp",
+            "name": "Xanthan gum"
           }
         ],
-        "instructions": "Combine all the ingredients, except the xanthan gum, in a blender. Dry blend (without ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add 170 grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10 ounces).",
+        "instructions": "Blend all ingredients except xanthan gum without ice. Once the sugar is dissolved, slowly add the xanthan gum while blending. Add 170 g crushed ice while continuing to blend, then pour into a chilled 10 oz coupe.",
         "note": "Chocolate and citrus Chocolate and citrus are an exquisite juxtaposition beloved in confectionery but somehow underutilized in the cocktail canon. Among the few examples of such drinks are the Floridita, the 20th Century, and the Tortuga (see the Yacht Rock, here). Our approach layers several chocolate flavors: crème de cacao delivers the sweet vanilla tones often associated with chocolate, while Dave",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Grated dark chocolate",
+        "glass": "Large coupe",
+        "ice": "170 g crushed ice",
+        "page": "135-136"
       }
     ],
     "image": null,
@@ -6295,46 +6290,41 @@
     ],
     "ingredients": [
       {
-        "name": "salt solution (see here)",
-        "amount": "5 drops"
+        "amount": "5 drops",
+        "name": "Salt solution"
       },
       {
-        "name": "Dave Arnold’s chocolate bitters (see here)",
-        "amount": "3 dashes"
+        "amount": "3 dashes",
+        "name": "Dave Arnold's chocolate bitters"
       },
       {
-        "name": "sugar mix (see here)",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "name": "Sugar mix"
       },
       {
-        "name": "strained lime juice",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Strained lime juice"
       },
       {
-        "name": "Tempus Fugit Crème de Cacao",
-        "amount": "½ oz"
+        "amount": "0.5 oz",
+        "name": "Tempus Fugit Crème de Cacao"
       },
       {
-        "name": "cacao nib-infused rum (see below)",
-        "amount": "1½ oz"
+        "amount": "1.5 oz",
+        "name": "Cacao nib-infused rum"
       },
       {
-        "name": "xanthan gum",
-        "amount": "¼ tsp"
-      },
-      {
-        "name": "ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add",
-        "amount": "to taste"
-      },
-      {
-        "name": "grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10",
-        "amount": "170"
+        "amount": "0.25 tsp",
+        "name": "Xanthan gum"
       }
     ],
-    "instructions": "Combine all the ingredients, except the xanthan gum, in a blender. Dry blend (without ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add 170 grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10 ounces).",
+    "instructions": "Blend all ingredients except xanthan gum without ice. Once the sugar is dissolved, slowly add the xanthan gum while blending. Add 170 g crushed ice while continuing to blend, then pour into a chilled 10 oz coupe.",
     "note": "Chocolate and citrus Chocolate and citrus are an exquisite juxtaposition beloved in confectionery but somehow underutilized in the cocktail canon. Among the few examples of such drinks are the Floridita, the 20th Century, and the Tortuga (see the Yacht Rock, here). Our approach layers several chocolate flavors: crème de cacao delivers the sweet vanilla tones often associated with chocolate, while Dave",
-    "family": "Highball",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Grated dark chocolate",
+    "glass": "Large coupe",
+    "ice": "170 g crushed ice"
   },
   {
     "id": "dark-n-stormy",
@@ -9664,7 +9654,7 @@
     "name": "Frozen Strawberry Daiquiri",
     "category": "Tropical",
     "country": null,
-    "method": "Frozen",
+    "method": "Frozen blend",
     "tags": [
       "book",
       "tropical"
@@ -9676,43 +9666,39 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "salt solution (see here)",
-            "amount": "5 drops"
+            "amount": "5 drops",
+            "name": "Salt solution"
           },
           {
-            "name": "grams frozen strawberries (about 2 large or 3 small, stems removed)",
-            "amount": "60"
+            "amount": "60 g",
+            "name": "Frozen strawberries, stems removed"
           },
           {
-            "name": "sugar mix (see here)",
-            "amount": "1 tbsp"
+            "amount": "1 tbsp",
+            "name": "Sugar mix"
           },
           {
-            "name": "strained lime juice",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Strained lime juice"
           },
           {
-            "name": "Uruapan Charanda Blanco Rum",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Uruapan Charanda Blanco Rum"
           },
           {
-            "name": "xanthan gum",
-            "amount": "¼ tsp"
-          },
-          {
-            "name": "ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add",
-            "amount": "to taste"
-          },
-          {
-            "name": "grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10",
-            "amount": "170"
+            "amount": "0.25 tsp",
+            "name": "Xanthan gum"
           }
         ],
-        "instructions": "Combine all the ingredients, except the xanthan gum, in a blender. Dry blend (without ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add 170 grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10 ounces). •",
+        "instructions": "Blend all ingredients except xanthan gum without ice. Once the sugar is dissolved, slowly add the xanthan gum while blending. Add 170 g crushed ice while continuing to blend, then pour into a chilled 10 oz coupe.",
         "note": "final tip: To cement the drink’s frosty texture, even fresh strawberries should be frozen for at least 8 hours. 5 drops salt solution (see here) 60 grams frozen strawberries (about 2 large or 3 small, stems removed) 1 tablespoon sugar mix (see here) ¾ ounce strained lime juice 2 ounces Uruapan Charanda Blanco Rum",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Sliced or whole strawberry",
+        "glass": "Large coupe",
+        "ice": "170 g crushed ice",
+        "page": "131-134"
       }
     ],
     "image": null,
@@ -9722,42 +9708,37 @@
     ],
     "ingredients": [
       {
-        "name": "salt solution (see here)",
-        "amount": "5 drops"
+        "amount": "5 drops",
+        "name": "Salt solution"
       },
       {
-        "name": "grams frozen strawberries (about 2 large or 3 small, stems removed)",
-        "amount": "60"
+        "amount": "60 g",
+        "name": "Frozen strawberries, stems removed"
       },
       {
-        "name": "sugar mix (see here)",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "name": "Sugar mix"
       },
       {
-        "name": "strained lime juice",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Strained lime juice"
       },
       {
-        "name": "Uruapan Charanda Blanco Rum",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Uruapan Charanda Blanco Rum"
       },
       {
-        "name": "xanthan gum",
-        "amount": "¼ tsp"
-      },
-      {
-        "name": "ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add",
-        "amount": "to taste"
-      },
-      {
-        "name": "grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10",
-        "amount": "170"
+        "amount": "0.25 tsp",
+        "name": "Xanthan gum"
       }
     ],
-    "instructions": "Combine all the ingredients, except the xanthan gum, in a blender. Dry blend (without ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add 170 grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10 ounces). •",
+    "instructions": "Blend all ingredients except xanthan gum without ice. Once the sugar is dissolved, slowly add the xanthan gum while blending. Add 170 g crushed ice while continuing to blend, then pour into a chilled 10 oz coupe.",
     "note": "final tip: To cement the drink’s frosty texture, even fresh strawberries should be frozen for at least 8 hours. 5 drops salt solution (see here) 60 grams frozen strawberries (about 2 large or 3 small, stems removed) 1 tablespoon sugar mix (see here) ¾ ounce strained lime juice 2 ounces Uruapan Charanda Blanco Rum",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Sliced or whole strawberry",
+    "glass": "Large coupe",
+    "ice": "170 g crushed ice"
   },
   {
     "id": "full-fathom-five",
@@ -11383,7 +11364,7 @@
     "name": "Hibiscus Pacific",
     "category": "Tropical",
     "country": null,
-    "method": "Blend",
+    "method": "Frozen blend",
     "tags": [
       "book",
       "mezcal",
@@ -11396,43 +11377,39 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "salt solution (see here)",
-            "amount": "5 drops"
+            "amount": "5 drops",
+            "name": "Salt solution"
           },
           {
-            "name": "sugar mix (see here)",
-            "amount": "1½ tbsp"
+            "amount": "1.5 tbsp",
+            "name": "Sugar mix"
           },
           {
-            "name": "strained lime juice",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Strained lime juice"
           },
           {
-            "name": "Del Maguey Crema de Mezcal",
-            "amount": "½ oz"
+            "amount": "0.5 oz",
+            "name": "Del Maguey Crema de Mezcal"
           },
           {
-            "name": "hibiscus-infused Pueblo Viejo Reposado Tequila (see here)",
-            "amount": "1½ oz"
+            "amount": "1.5 oz",
+            "name": "Hibiscus-infused Pueblo Viejo Reposado Tequila"
           },
           {
-            "name": "xanthan gum",
-            "amount": "¼ tsp"
-          },
-          {
-            "name": "ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add",
-            "amount": "to taste"
-          },
-          {
-            "name": "grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10",
-            "amount": "170"
+            "amount": "0.25 tsp",
+            "name": "Xanthan gum"
           }
         ],
-        "instructions": "In a classic Margarita, orange liqueur offers an additional hit of citrus. But this drink brings the acidity of hibiscus directly into an infused Tequila. With that power at the helm, an extra citrus bump is not necessary, so we’re free to explore new flavors in the liqueur slot. We opted for Del Maguey Crema de Mezcal, a blend of mezcal from San Luis del Rio and miel de",
+        "instructions": "Blend all ingredients except xanthan gum without ice. Once the sugar is dissolved, slowly add the xanthan gum while blending. Add 170 g crushed ice while continuing to blend, then pour into a chilled 10 oz coupe.",
         "note": "Margarita fresca In areas of the Mexican diaspora, aguas frescas are a ubiquitous refreshment that offer a palette of fruit flavors. One of the most intriguing is agua de jamaica, derived from the roselle variety of hibiscus. Even a dried hibiscus flower has an abundance of acidity, with a tartness akin to cranberry or citrus once it is infused. It’s used extensively in Caribbean cuisine, where its English name is so",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Lime wedge",
+        "glass": "Large coupe",
+        "ice": "170 g crushed ice",
+        "page": "138-139"
       }
     ],
     "image": null,
@@ -11442,42 +11419,37 @@
     ],
     "ingredients": [
       {
-        "name": "salt solution (see here)",
-        "amount": "5 drops"
+        "amount": "5 drops",
+        "name": "Salt solution"
       },
       {
-        "name": "sugar mix (see here)",
-        "amount": "1½ tbsp"
+        "amount": "1.5 tbsp",
+        "name": "Sugar mix"
       },
       {
-        "name": "strained lime juice",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Strained lime juice"
       },
       {
-        "name": "Del Maguey Crema de Mezcal",
-        "amount": "½ oz"
+        "amount": "0.5 oz",
+        "name": "Del Maguey Crema de Mezcal"
       },
       {
-        "name": "hibiscus-infused Pueblo Viejo Reposado Tequila (see here)",
-        "amount": "1½ oz"
+        "amount": "1.5 oz",
+        "name": "Hibiscus-infused Pueblo Viejo Reposado Tequila"
       },
       {
-        "name": "xanthan gum",
-        "amount": "¼ tsp"
-      },
-      {
-        "name": "ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add",
-        "amount": "to taste"
-      },
-      {
-        "name": "grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10",
-        "amount": "170"
+        "amount": "0.25 tsp",
+        "name": "Xanthan gum"
       }
     ],
-    "instructions": "In a classic Margarita, orange liqueur offers an additional hit of citrus. But this drink brings the acidity of hibiscus directly into an infused Tequila. With that power at the helm, an extra citrus bump is not necessary, so we’re free to explore new flavors in the liqueur slot. We opted for Del Maguey Crema de Mezcal, a blend of mezcal from San Luis del Rio and miel de",
+    "instructions": "Blend all ingredients except xanthan gum without ice. Once the sugar is dissolved, slowly add the xanthan gum while blending. Add 170 g crushed ice while continuing to blend, then pour into a chilled 10 oz coupe.",
     "note": "Margarita fresca In areas of the Mexican diaspora, aguas frescas are a ubiquitous refreshment that offer a palette of fruit flavors. One of the most intriguing is agua de jamaica, derived from the roselle variety of hibiscus. Even a dried hibiscus flower has an abundance of acidity, with a tartness akin to cranberry or citrus once it is infused. It’s used extensively in Caribbean cuisine, where its English name is so",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Lime wedge",
+    "glass": "Large coupe",
+    "ice": "170 g crushed ice"
   },
   {
     "id": "hibiscus-punch-royale",
@@ -21345,39 +21317,41 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "sprays Vieux Pontarlier Absinthe",
-            "amount": "2"
+            "amount": "2 sprays",
+            "name": "Vieux Pontarlier Absinthe"
           },
           {
-            "name": "salt solution (see here)",
-            "amount": "5 drops"
+            "amount": "5 drops",
+            "name": "Salt solution"
           },
           {
-            "name": "dash makrut lime leaf tincture (see herb tincture, here)",
-            "amount": "1"
+            "amount": "1 dash",
+            "name": "Makrut lime leaf tincture"
           },
           {
-            "name": "strained lemon juice",
-            "amount": "¼ oz"
+            "amount": "0.25 oz",
+            "name": "Strained lemon juice"
           },
           {
-            "name": "strained lime juice",
-            "amount": "½ oz"
+            "amount": "0.5 oz",
+            "name": "Strained lime juice"
           },
           {
-            "name": "pineapple gum syrup (see here)",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Pineapple gum syrup"
           },
           {
-            "name": "Macchu Pisco",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Macchu Pisco"
           }
         ],
-        "instructions": "¾ ounce pineapple gum syrup (see here) 2 ounces Macchu Pisco • Rinse a chilled coupe (6 ounces) with 2 sprays of Vieux Pontarlier Absinthe from an atomizer. Combine all the ingredients in a shaker with 1 medium ice cube and 2 small ice cubes. Shake and strain into the coupe glass. OceanofPDF.com",
+        "instructions": "Rinse a chilled 6 oz coupe with 2 sprays of Vieux Pontarlier Absinthe. Shake the remaining ingredients with 1 medium ice cube and 2 small ice cubes, then strain into the coupe.",
         "note": "the amounts of the numbing elements are minute enough not to distract from the drink’s pineapple focal point. 2 sprays Vieux Pontarlier Absinthe 5 drops salt solution (see here) 1 dash makrut lime leaf tincture (see herb tincture, here) ¼ ounce strained lemon juice ½ ounce strained lime juice",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Coupe",
+        "page": "262"
       }
     ],
     "image": null,
@@ -21387,38 +21361,39 @@
     ],
     "ingredients": [
       {
-        "name": "sprays Vieux Pontarlier Absinthe",
-        "amount": "2"
+        "amount": "2 sprays",
+        "name": "Vieux Pontarlier Absinthe"
       },
       {
-        "name": "salt solution (see here)",
-        "amount": "5 drops"
+        "amount": "5 drops",
+        "name": "Salt solution"
       },
       {
-        "name": "dash makrut lime leaf tincture (see herb tincture, here)",
-        "amount": "1"
+        "amount": "1 dash",
+        "name": "Makrut lime leaf tincture"
       },
       {
-        "name": "strained lemon juice",
-        "amount": "¼ oz"
+        "amount": "0.25 oz",
+        "name": "Strained lemon juice"
       },
       {
-        "name": "strained lime juice",
-        "amount": "½ oz"
+        "amount": "0.5 oz",
+        "name": "Strained lime juice"
       },
       {
-        "name": "pineapple gum syrup (see here)",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Pineapple gum syrup"
       },
       {
-        "name": "Macchu Pisco",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Macchu Pisco"
       }
     ],
-    "instructions": "¾ ounce pineapple gum syrup (see here) 2 ounces Macchu Pisco • Rinse a chilled coupe (6 ounces) with 2 sprays of Vieux Pontarlier Absinthe from an atomizer. Combine all the ingredients in a shaker with 1 medium ice cube and 2 small ice cubes. Shake and strain into the coupe glass. OceanofPDF.com",
+    "instructions": "Rinse a chilled 6 oz coupe with 2 sprays of Vieux Pontarlier Absinthe. Shake the remaining ingredients with 1 medium ice cube and 2 small ice cubes, then strain into the coupe.",
     "note": "the amounts of the numbing elements are minute enough not to distract from the drink’s pineapple focal point. 2 sprays Vieux Pontarlier Absinthe 5 drops salt solution (see here) 1 dash makrut lime leaf tincture (see herb tincture, here) ¼ ounce strained lemon juice ½ ounce strained lime juice",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "pisco-sour",
@@ -21921,7 +21896,7 @@
     "name": "PKNY",
     "category": "Tropical",
     "country": null,
-    "method": "Blend",
+    "method": "Flash blend",
     "tags": [
       "book",
       "tropical"
@@ -21933,43 +21908,47 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "salt solution (see here)",
-            "amount": "5 drops"
+            "amount": "5 drops",
+            "name": "Salt solution"
           },
           {
-            "name": "Angostura aromatic bitters",
-            "amount": "3 dashes"
+            "amount": "3 dashes",
+            "name": "Angostura aromatic bitters"
           },
           {
-            "name": "orange juice, acid adjusted to lime (see below)",
-            "amount": "½ oz"
+            "amount": "0.5 oz",
+            "name": "Orange juice, acid adjusted to lime"
           },
           {
-            "name": "strained pineapple juice",
-            "amount": "1½ oz"
+            "amount": "1.5 oz",
+            "name": "Strained pineapple juice"
           },
           {
-            "name": "coconut mix (see here)",
-            "amount": "1½ oz"
+            "amount": "1.5 oz",
+            "name": "Coconut mix"
           },
           {
-            "name": "Smith & Cross Traditional Jamaica Rum",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Smith & Cross Traditional Jamaica Rum"
           },
           {
-            "name": "Coruba Rum",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Coruba Rum"
           },
           {
-            "name": "Hamilton Demerara 151 Rum",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Hamilton Demerara 151 Rum"
           }
         ],
-        "instructions": "Combine all the ingredients in a mixing tin with 8 ounces of crushed ice. Flash blend for 5 seconds and pour unstrained into a chilled snifter (22 ounces) with 8 ounces of crushed ice and 3 small ice cubes. • Dust with grated nutmeg and cassia cinnamon.",
+        "instructions": "Combine all ingredients with 8 oz crushed ice in a mixing tin. Flash blend for 5 seconds and pour unstrained into a chilled 22 oz snifter with another 8 oz crushed ice and 3 small ice cubes.",
         "note": "ultimately closing in July 2013. In honor of PKNY’s contributions to the advancement of tropical beverages, we’ve flipped the script and redubbed our recipe accordingly (although we should note it’s not the same formula that was served there). 5 drops salt solution (see here) 3 dashes Angostura aromatic bitters ½ ounce orange juice, acid adjusted to lime (see below)",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Grated nutmeg, grated cassia cinnamon, orange slice, and cinnamon stick",
+        "glass": "Snifter",
+        "ice": "Crushed ice plus 3 small ice cubes",
+        "page": "231-234"
       }
     ],
     "image": null,
@@ -21979,42 +21958,45 @@
     ],
     "ingredients": [
       {
-        "name": "salt solution (see here)",
-        "amount": "5 drops"
+        "amount": "5 drops",
+        "name": "Salt solution"
       },
       {
-        "name": "Angostura aromatic bitters",
-        "amount": "3 dashes"
+        "amount": "3 dashes",
+        "name": "Angostura aromatic bitters"
       },
       {
-        "name": "orange juice, acid adjusted to lime (see below)",
-        "amount": "½ oz"
+        "amount": "0.5 oz",
+        "name": "Orange juice, acid adjusted to lime"
       },
       {
-        "name": "strained pineapple juice",
-        "amount": "1½ oz"
+        "amount": "1.5 oz",
+        "name": "Strained pineapple juice"
       },
       {
-        "name": "coconut mix (see here)",
-        "amount": "1½ oz"
+        "amount": "1.5 oz",
+        "name": "Coconut mix"
       },
       {
-        "name": "Smith & Cross Traditional Jamaica Rum",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Smith & Cross Traditional Jamaica Rum"
       },
       {
-        "name": "Coruba Rum",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Coruba Rum"
       },
       {
-        "name": "Hamilton Demerara 151 Rum",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Hamilton Demerara 151 Rum"
       }
     ],
-    "instructions": "Combine all the ingredients in a mixing tin with 8 ounces of crushed ice. Flash blend for 5 seconds and pour unstrained into a chilled snifter (22 ounces) with 8 ounces of crushed ice and 3 small ice cubes. • Dust with grated nutmeg and cassia cinnamon.",
+    "instructions": "Combine all ingredients with 8 oz crushed ice in a mixing tin. Flash blend for 5 seconds and pour unstrained into a chilled 22 oz snifter with another 8 oz crushed ice and 3 small ice cubes.",
     "note": "ultimately closing in July 2013. In honor of PKNY’s contributions to the advancement of tropical beverages, we’ve flipped the script and redubbed our recipe accordingly (although we should note it’s not the same formula that was served there). 5 drops salt solution (see here) 3 dashes Angostura aromatic bitters ½ ounce orange juice, acid adjusted to lime (see below)",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified",
+    "garnish": "Grated nutmeg, grated cassia cinnamon, orange slice, and cinnamon stick",
+    "glass": "Snifter",
+    "ice": "Crushed ice plus 3 small ice cubes"
   },
   {
     "id": "planters-punch-rum",
@@ -24226,7 +24208,7 @@
     "name": "Rum and Tonic",
     "category": "Tropical",
     "country": null,
-    "method": "Stir",
+    "method": "Build",
     "tags": [
       "book",
       "tropical"
@@ -24238,35 +24220,43 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "salt solution (see here)",
-            "amount": "5 drops"
+            "amount": "5 drops",
+            "name": "Salt solution"
           },
           {
-            "name": "Bittermens Boston Bittahs",
-            "amount": "12 drops"
+            "amount": "12 drops",
+            "name": "Bittermens Boston Bittahs"
           },
           {
-            "name": "Tomr’s Tonic syrup",
-            "amount": "½ oz"
+            "amount": "0.375 oz",
+            "name": "Strained lime juice"
           },
           {
-            "name": "Luxardo Maraschino",
-            "amount": "½ tsp"
+            "amount": "0.5 oz",
+            "name": "Tomr's Tonic syrup"
           },
           {
-            "name": "Mount Gay Black Barrel Rum (freezer temperature)",
-            "amount": "2 oz"
+            "amount": "0.5 tsp",
+            "name": "Luxardo Maraschino"
           },
           {
-            "name": "Soda water",
-            "amount": "to taste"
+            "amount": "2 oz",
+            "name": "Mount Gay Black Barrel Rum, freezer temperature"
+          },
+          {
+            "amount": "to top",
+            "name": "Soda water"
           }
         ],
-        "instructions": "Fill a chilled highball glass (12 ounces) with small ice cubes. Add the rum, then add the soda until the glass is ¾ full. • Pour the contents of the shaker into the glass while holding the glass at a 45- degree angle. Top with soda until the glass is full.",
+        "instructions": "Whisk the salt solution, bitters, lime juice, tonic syrup, and maraschino until uniform. Fill a chilled highball glass with small ice cubes, add the rum and soda until three-quarters full, pour in the prepared mixture at a 45-degree angle, top with soda, and agitate once with a bar spoon.",
         "note": "What the Wray and Ting is to Jamaica perhaps finds an analogue with the Rum and Tonic in Barbados. It’s important in sailing culture and serves as the official drink of Barbados Sailing Week. Nowadays there are an endless multitude of fancy Gin and Tonic interpretations, but not enough love is given to the rum version. Here’s a delicious variation using the highball technique we’ve outlined, involving Tomr’s Tonic sy",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Orange slice and channeled lime twist",
+        "glass": "Highball glass",
+        "ice": "Small ice cubes",
+        "page": "121-122"
       }
     ],
     "image": null,
@@ -24276,34 +24266,41 @@
     ],
     "ingredients": [
       {
-        "name": "salt solution (see here)",
-        "amount": "5 drops"
+        "amount": "5 drops",
+        "name": "Salt solution"
       },
       {
-        "name": "Bittermens Boston Bittahs",
-        "amount": "12 drops"
+        "amount": "12 drops",
+        "name": "Bittermens Boston Bittahs"
       },
       {
-        "name": "Tomr’s Tonic syrup",
-        "amount": "½ oz"
+        "amount": "0.375 oz",
+        "name": "Strained lime juice"
       },
       {
-        "name": "Luxardo Maraschino",
-        "amount": "½ tsp"
+        "amount": "0.5 oz",
+        "name": "Tomr's Tonic syrup"
       },
       {
-        "name": "Mount Gay Black Barrel Rum (freezer temperature)",
-        "amount": "2 oz"
+        "amount": "0.5 tsp",
+        "name": "Luxardo Maraschino"
       },
       {
-        "name": "Soda water",
-        "amount": "to taste"
+        "amount": "2 oz",
+        "name": "Mount Gay Black Barrel Rum, freezer temperature"
+      },
+      {
+        "amount": "to top",
+        "name": "Soda water"
       }
     ],
-    "instructions": "Fill a chilled highball glass (12 ounces) with small ice cubes. Add the rum, then add the soda until the glass is ¾ full. • Pour the contents of the shaker into the glass while holding the glass at a 45- degree angle. Top with soda until the glass is full.",
+    "instructions": "Whisk the salt solution, bitters, lime juice, tonic syrup, and maraschino until uniform. Fill a chilled highball glass with small ice cubes, add the rum and soda until three-quarters full, pour in the prepared mixture at a 45-degree angle, top with soda, and agitate once with a bar spoon.",
     "note": "What the Wray and Ting is to Jamaica perhaps finds an analogue with the Rum and Tonic in Barbados. It’s important in sailing culture and serves as the official drink of Barbados Sailing Week. Nowadays there are an endless multitude of fancy Gin and Tonic interpretations, but not enough love is given to the rum version. Here’s a delicious variation using the highball technique we’ve outlined, involving Tomr’s Tonic sy",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Orange slice and channeled lime twist",
+    "glass": "Highball glass",
+    "ice": "Small ice cubes"
   },
   {
     "id": "rum-swizzle",
@@ -30644,7 +30641,7 @@
     "name": "Yacht Rock",
     "category": "Tropical",
     "country": null,
-    "method": "Blend",
+    "method": "Flash blend",
     "tags": [
       "book",
       "tropical"
@@ -30656,47 +30653,51 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "salt solution (see here)",
-            "amount": "5 drops"
+            "amount": "5 drops",
+            "name": "Salt solution"
           },
           {
-            "name": "Dave Arnold’s chocolate bitters (see here)",
-            "amount": "3 dashes"
+            "amount": "3 dashes",
+            "name": "Dave Arnold's chocolate bitters"
           },
           {
-            "name": "sugar mix (see here)",
-            "amount": "1 tbsp"
+            "amount": "0.5 oz",
+            "name": "Strained lime juice"
           },
           {
-            "name": "strained lime juice",
-            "amount": "¾ oz"
+            "amount": "0.5 oz",
+            "name": "Strained orange juice"
           },
           {
-            "name": "Tempus Fugit Crème de Cacao",
-            "amount": "½ oz"
+            "amount": "0.5 oz",
+            "name": "Tempus Fugit Crème de Cacao"
           },
           {
-            "name": "cacao nib-infused rum (see below)",
-            "amount": "1½ oz"
+            "amount": "0.5 oz",
+            "name": "Comoz Blanc Vermouth de Chambéry"
           },
           {
-            "name": "xanthan gum",
-            "amount": "¼ tsp"
+            "amount": "0.75 oz",
+            "name": "Campari"
           },
           {
-            "name": "ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add",
-            "amount": "to taste"
+            "amount": "0.75 oz",
+            "name": "Smith & Cross Traditional Jamaica Rum"
           },
           {
-            "name": "grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10",
-            "amount": "170"
+            "amount": "0.75 oz",
+            "name": "Coruba Rum"
           }
         ],
-        "instructions": "Combine all the ingredients, except the xanthan gum, in a blender. Dry blend (without ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add 170 grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10 ounces).",
+        "instructions": "Combine all ingredients with 8 oz crushed ice in a mixing tin. Flash blend for 5 seconds and pour unstrained into a 16 oz double Old Fashioned glass with another 8 oz crushed ice.",
         "note": "Our approach layers several chocolate flavors: crème de cacao delivers the sweet vanilla tones often associated with chocolate, while Dave Arnold’s essential bitters provide a backbone of the spicier side of chocolate, and the infused rum showcases the rich aroma of high-quality cacao. The choice of Mount Gay Black Barrel emphasizes caramelized fruit notes, which bolster the fruitiness of the nibs. Together, the ingr",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Lime boat with orange-peel sails and grated dark chocolate",
+        "glass": "Double Old Fashioned glass",
+        "ice": "Crushed ice",
+        "page": "344-345"
       }
     ],
     "image": null,
@@ -30706,46 +30707,49 @@
     ],
     "ingredients": [
       {
-        "name": "salt solution (see here)",
-        "amount": "5 drops"
+        "amount": "5 drops",
+        "name": "Salt solution"
       },
       {
-        "name": "Dave Arnold’s chocolate bitters (see here)",
-        "amount": "3 dashes"
+        "amount": "3 dashes",
+        "name": "Dave Arnold's chocolate bitters"
       },
       {
-        "name": "sugar mix (see here)",
-        "amount": "1 tbsp"
+        "amount": "0.5 oz",
+        "name": "Strained lime juice"
       },
       {
-        "name": "strained lime juice",
-        "amount": "¾ oz"
+        "amount": "0.5 oz",
+        "name": "Strained orange juice"
       },
       {
-        "name": "Tempus Fugit Crème de Cacao",
-        "amount": "½ oz"
+        "amount": "0.5 oz",
+        "name": "Tempus Fugit Crème de Cacao"
       },
       {
-        "name": "cacao nib-infused rum (see below)",
-        "amount": "1½ oz"
+        "amount": "0.5 oz",
+        "name": "Comoz Blanc Vermouth de Chambéry"
       },
       {
-        "name": "xanthan gum",
-        "amount": "¼ tsp"
+        "amount": "0.75 oz",
+        "name": "Campari"
       },
       {
-        "name": "ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add",
-        "amount": "to taste"
+        "amount": "0.75 oz",
+        "name": "Smith & Cross Traditional Jamaica Rum"
       },
       {
-        "name": "grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10",
-        "amount": "170"
+        "amount": "0.75 oz",
+        "name": "Coruba Rum"
       }
     ],
-    "instructions": "Combine all the ingredients, except the xanthan gum, in a blender. Dry blend (without ice). Once the sugar is fully dissolved, slowly add the gum while continuing to blend. Add 170 grams of crushed ice while continuing to blend. Pour into a large, chilled coupe (10 ounces).",
+    "instructions": "Combine all ingredients with 8 oz crushed ice in a mixing tin. Flash blend for 5 seconds and pour unstrained into a 16 oz double Old Fashioned glass with another 8 oz crushed ice.",
     "note": "Our approach layers several chocolate flavors: crème de cacao delivers the sweet vanilla tones often associated with chocolate, while Dave Arnold’s essential bitters provide a backbone of the spicier side of chocolate, and the infused rum showcases the rich aroma of high-quality cacao. The choice of Mount Gay Black Barrel emphasizes caramelized fruit notes, which bolster the fruitiness of the nibs. Together, the ingr",
-    "family": "Highball",
-    "quality": "limited"
+    "family": "Tropical",
+    "quality": "verified",
+    "garnish": "Lime boat with orange-peel sails and grated dark chocolate",
+    "glass": "Double Old Fashioned glass",
+    "ice": "Crushed ice"
   },
   {
     "id": "zombie",
