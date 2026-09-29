@@ -4816,7 +4816,7 @@
     "name": "Classic Rum Punch",
     "category": "Book",
     "country": null,
-    "method": "Shake",
+    "method": "Build",
     "tags": [
       "book"
     ],
@@ -4827,23 +4827,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "freshly squeezed strained lime juice",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Freshly Squeezed Strained Lime Juice"
           },
           {
-            "name": "Simple Syrup",
-            "amount": "4 ounces"
+            "amount": "4 oz",
+            "name": "Simple Syrup"
           },
           {
-            "name": "Barbadian-style dark rum, such as Mount Gay",
-            "amount": "6 ounces"
+            "amount": "6 oz",
+            "name": "Barbadian-Style Dark Rum, such as Mount Gay"
+          },
+          {
+            "amount": "8 oz",
+            "name": "Water"
           }
         ],
-        "instructions": "Mix the lime juice, simple syrup, rum, and water in a cocktail shaker with ice cubes. Stir well, then pour into a chilled, large highball glasses and top with a sprinkling of fresh nutmeg. Garnish with citrus slice, if desired. Serve immediately.",
+        "instructions": "Stir lime juice, simple syrup, rum, and water with ice, then pour into chilled large highball glasses.",
         "note": "This rum punch recipe is going to make you feel like you are on vacation with every sip! No one is really sure where the first rum Throw your cares away, sit back, relax and enjoy this simple rum punch recipe!",
         "creator": "",
         "image": "assets/recipes/ryan-classic-rum-punch.webp",
-        "usable": false
+        "usable": true,
+        "page": "58",
+        "garnish": "Freshly grated nutmeg and optional citrus slice",
+        "glass": "Large highball glasses",
+        "ice": "Ice cubes"
       }
     ],
     "image": null,
@@ -4853,22 +4861,29 @@
     ],
     "ingredients": [
       {
-        "name": "freshly squeezed strained lime juice",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Freshly Squeezed Strained Lime Juice"
       },
       {
-        "name": "Simple Syrup",
-        "amount": "4 ounces"
+        "amount": "4 oz",
+        "name": "Simple Syrup"
       },
       {
-        "name": "Barbadian-style dark rum, such as Mount Gay",
-        "amount": "6 ounces"
+        "amount": "6 oz",
+        "name": "Barbadian-Style Dark Rum, such as Mount Gay"
+      },
+      {
+        "amount": "8 oz",
+        "name": "Water"
       }
     ],
-    "instructions": "Mix the lime juice, simple syrup, rum, and water in a cocktail shaker with ice cubes. Stir well, then pour into a chilled, large highball glasses and top with a sprinkling of fresh nutmeg. Garnish with citrus slice, if desired. Serve immediately.",
+    "instructions": "Stir lime juice, simple syrup, rum, and water with ice, then pour into chilled large highball glasses.",
     "note": "This rum punch recipe is going to make you feel like you are on vacation with every sip! No one is really sure where the first rum Throw your cares away, sit back, relax and enjoy this simple rum punch recipe!",
-    "family": "Sour",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified",
+    "garnish": "Freshly grated nutmeg and optional citrus slice",
+    "glass": "Large highball glasses",
+    "ice": "Ice cubes"
   },
   {
     "id": "clover-club",
@@ -14682,7 +14697,7 @@
     "name": "Margarita Frozen",
     "category": "Book",
     "country": null,
-    "method": "Build",
+    "method": "Blend",
     "tags": [
       "book"
     ],
@@ -14693,27 +14708,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "freshly squeezed lime juice, plus extra for the rim",
-            "amount": "8 fluid ounces"
+            "amount": "8 fl oz",
+            "name": "Freshly Squeezed Lime Juice, plus extra for rim"
           },
           {
-            "name": "blanco tequila",
-            "amount": "8 fluid ounces"
+            "amount": "8 fl oz",
+            "name": "Blanco Tequila"
           },
           {
-            "name": "triple sec (preferably Cointreau)",
-            "amount": "4 fluid ounces"
+            "amount": "4 fl oz",
+            "name": "Triple Sec, preferably Cointreau"
           },
           {
-            "name": "of ice salt, for the rim (optional) lime wheels or wedges, to garnish",
-            "amount": "4 cups"
+            "amount": "4 cups",
+            "name": "Ice"
           }
         ],
-        "instructions": "Moisten the rim of a classic margarita glass with water or lime juice and, holding it upside down, dip the rim into a flat dish filled with table or kosher salt, if using. Place all the remaining ingredients, except the garnish, in a blender. Blend until slushy throughout and add more ice if necessary (if the consistency is more liquid than slush). Pour the drink into the prepared glass and garnish with lime wheels or wedges.",
+        "instructions": "Optionally salt the rim of a margarita glass. Blend the remaining ingredients until slushy, adding more ice if needed. Pour into the prepared glass.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-margarita-frozen.webp",
-        "usable": false
+        "usable": true,
+        "page": "48",
+        "garnish": "Lime wheels or wedges; salt rim optional",
+        "glass": "Margarita glass",
+        "ice": "Blended ice"
       }
     ],
     "image": null,
@@ -14723,26 +14742,29 @@
     ],
     "ingredients": [
       {
-        "name": "freshly squeezed lime juice, plus extra for the rim",
-        "amount": "8 fluid ounces"
+        "amount": "8 fl oz",
+        "name": "Freshly Squeezed Lime Juice, plus extra for rim"
       },
       {
-        "name": "blanco tequila",
-        "amount": "8 fluid ounces"
+        "amount": "8 fl oz",
+        "name": "Blanco Tequila"
       },
       {
-        "name": "triple sec (preferably Cointreau)",
-        "amount": "4 fluid ounces"
+        "amount": "4 fl oz",
+        "name": "Triple Sec, preferably Cointreau"
       },
       {
-        "name": "of ice salt, for the rim (optional) lime wheels or wedges, to garnish",
-        "amount": "4 cups"
+        "amount": "4 cups",
+        "name": "Ice"
       }
     ],
-    "instructions": "Moisten the rim of a classic margarita glass with water or lime juice and, holding it upside down, dip the rim into a flat dish filled with table or kosher salt, if using. Place all the remaining ingredients, except the garnish, in a blender. Blend until slushy throughout and add more ice if necessary (if the consistency is more liquid than slush). Pour the drink into the prepared glass and garnish with lime wheels or wedges.",
+    "instructions": "Optionally salt the rim of a margarita glass. Blend the remaining ingredients until slushy, adding more ice if needed. Pour into the prepared glass.",
     "note": "",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Lime wheels or wedges; salt rim optional",
+    "glass": "Margarita glass",
+    "ice": "Blended ice"
   },
   {
     "id": "margarita-hibiscus",
@@ -14895,27 +14917,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "freshly squeezed lime juice, plus extra for the rim",
-            "amount": "2 fluid ounces"
+            "amount": "2 fl oz",
+            "name": "Freshly Squeezed Lime Juice, plus extra for rim"
           },
           {
-            "name": "Blanco tequila",
-            "amount": "3 fluid ounces"
+            "amount": "3 fl oz",
+            "name": "Blanco Tequila"
           },
           {
-            "name": "fresh strawberry purée",
-            "amount": "2 fluid ounces"
+            "amount": "2 fl oz",
+            "name": "Fresh Strawberry Purée"
           },
           {
-            "name": "agave nectar Champagne, to top up salt, for the rim",
-            "amount": "2 teaspoons"
+            "amount": "2 tsp",
+            "name": "Agave Nectar"
+          },
+          {
+            "amount": "to top",
+            "name": "Champagne"
           }
         ],
-        "instructions": "Moisten the rim of a coupe glass with water or lime juice. Holding the glass upside down, dip the rim into a flat dish filled with table or kosher salt. Place all the remaining ingredients, except the Champagne, in a cocktail shaker filled with ice and shake well. Strain into the prepared glass and top up with Champagne to serve.",
+        "instructions": "Salt the rim of a coupe. Shake all ingredients except Champagne with ice, strain into the prepared glass, and top with Champagne.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-margarita-spritz-strawberry.webp",
-        "usable": false
+        "usable": true,
+        "page": "45",
+        "garnish": "Salt rim",
+        "glass": "Coupe",
+        "ice": "Shaken with ice"
       }
     ],
     "image": null,
@@ -14925,26 +14955,33 @@
     ],
     "ingredients": [
       {
-        "name": "freshly squeezed lime juice, plus extra for the rim",
-        "amount": "2 fluid ounces"
+        "amount": "2 fl oz",
+        "name": "Freshly Squeezed Lime Juice, plus extra for rim"
       },
       {
-        "name": "Blanco tequila",
-        "amount": "3 fluid ounces"
+        "amount": "3 fl oz",
+        "name": "Blanco Tequila"
       },
       {
-        "name": "fresh strawberry purée",
-        "amount": "2 fluid ounces"
+        "amount": "2 fl oz",
+        "name": "Fresh Strawberry Purée"
       },
       {
-        "name": "agave nectar Champagne, to top up salt, for the rim",
-        "amount": "2 teaspoons"
+        "amount": "2 tsp",
+        "name": "Agave Nectar"
+      },
+      {
+        "amount": "to top",
+        "name": "Champagne"
       }
     ],
-    "instructions": "Moisten the rim of a coupe glass with water or lime juice. Holding the glass upside down, dip the rim into a flat dish filled with table or kosher salt. Place all the remaining ingredients, except the Champagne, in a cocktail shaker filled with ice and shake well. Strain into the prepared glass and top up with Champagne to serve.",
+    "instructions": "Salt the rim of a coupe. Shake all ingredients except Champagne with ice, strain into the prepared glass, and top with Champagne.",
     "note": "",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Salt rim",
+    "glass": "Coupe",
+    "ice": "Shaken with ice"
   },
   {
     "id": "margarita-tamarind",
@@ -14962,27 +14999,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "freshly squeezed lime juice, plus extra for the rim",
-            "amount": "½ fluid ounce"
+            "amount": "½ fl oz",
+            "name": "Freshly Squeezed Lime Juice, plus extra for rim"
           },
           {
-            "name": "blanco tequila",
-            "amount": "4 fluid ounces"
+            "amount": "4 fl oz",
+            "name": "Blanco Tequila"
           },
           {
-            "name": "tamarind paste",
-            "amount": "1 ½ fluid ounces"
+            "amount": "1½ fl oz",
+            "name": "Tamarind Paste"
           },
           {
-            "name": "Simple Syrup Tajin seasoning with lime, or chili powder, for the rim",
-            "amount": "1 ½ fluid ounces"
+            "amount": "1½ fl oz",
+            "name": "Simple Syrup"
           }
         ],
-        "instructions": "Moisten the rim of a double rocks glass with water or lime juice and, holding it upside down, dip the rim into a flat dish filled with Tajin seasoning or chili powder. Place the remaining Ingredients: in a cocktail shaker filled with ice. Shake and strain the drink into the prepared glass filled with ice cubes and serve.",
+        "instructions": "Rim a double rocks glass with Tajín or chili powder. Shake the remaining ingredients with ice and strain into the prepared glass over ice.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-margarita-tamarind.webp",
-        "usable": false
+        "usable": true,
+        "page": "52",
+        "garnish": "Tajín seasoning or chili powder rim",
+        "glass": "Double rocks glass",
+        "ice": "Ice cubes"
       }
     ],
     "image": null,
@@ -14992,26 +15033,29 @@
     ],
     "ingredients": [
       {
-        "name": "freshly squeezed lime juice, plus extra for the rim",
-        "amount": "½ fluid ounce"
+        "amount": "½ fl oz",
+        "name": "Freshly Squeezed Lime Juice, plus extra for rim"
       },
       {
-        "name": "blanco tequila",
-        "amount": "4 fluid ounces"
+        "amount": "4 fl oz",
+        "name": "Blanco Tequila"
       },
       {
-        "name": "tamarind paste",
-        "amount": "1 ½ fluid ounces"
+        "amount": "1½ fl oz",
+        "name": "Tamarind Paste"
       },
       {
-        "name": "Simple Syrup Tajin seasoning with lime, or chili powder, for the rim",
-        "amount": "1 ½ fluid ounces"
+        "amount": "1½ fl oz",
+        "name": "Simple Syrup"
       }
     ],
-    "instructions": "Moisten the rim of a double rocks glass with water or lime juice and, holding it upside down, dip the rim into a flat dish filled with Tajin seasoning or chili powder. Place the remaining Ingredients: in a cocktail shaker filled with ice. Shake and strain the drink into the prepared glass filled with ice cubes and serve.",
+    "instructions": "Rim a double rocks glass with Tajín or chili powder. Shake the remaining ingredients with ice and strain into the prepared glass over ice.",
     "note": "",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Tajín seasoning or chili powder rim",
+    "glass": "Double rocks glass",
+    "ice": "Ice cubes"
   },
   {
     "id": "martinez",
@@ -16508,7 +16552,7 @@
     "name": "Mojito",
     "category": "Classic",
     "country": "Cuba",
-    "method": "Built",
+    "method": "Build",
     "tags": [
       "book",
       "classic",
@@ -16545,23 +16589,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "leaves fresh spearmint, plus 1 sprig for garnish",
-            "amount": "16"
+            "amount": "16 leaves",
+            "name": "Fresh Spearmint, plus 1 sprig for garnish"
           },
           {
-            "name": "freshly squeezed strained lime juice",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Freshly Squeezed Strained Lime Juice"
           },
           {
-            "name": "Simple Syrup",
-            "amount": "1 ounce"
+            "amount": "1 oz",
+            "name": "Simple Syrup"
+          },
+          {
+            "amount": "4 oz",
+            "name": "White Rum, such as Bacardi Light"
+          },
+          {
+            "amount": "to top",
+            "name": "Club Soda"
           }
         ],
-        "instructions": "",
+        "instructions": "Muddle the spearmint leaves, lime juice, and simple syrup in a highball glass. Add rum and ice, top with club soda, and stir.",
         "note": "Mojito is a traditional Cuban highball. The cocktail often consists of five ingredients: white rum, sugar, lime juice, soda water, and mint. Its combination of sweetness, citrus, and herbaceous mint flavors is intended to complement the rum, and has made the mojito a popular summer drink. Now it’s served at bars around the world in infinite varieties.",
         "creator": "",
         "image": "assets/recipes/ryan-mojito-classic.webp",
-        "usable": false
+        "usable": true,
+        "page": "20-21",
+        "garnish": "Spearmint sprig and a straw",
+        "glass": "Highball glass",
+        "ice": "Ice cubes"
       },
       {
         "label": "Tropical Standard",
@@ -16593,22 +16649,33 @@
     ],
     "ingredients": [
       {
-        "name": "Sprigs Mint",
-        "amount": "2"
+        "amount": "16 leaves",
+        "name": "Fresh Spearmint, plus 1 sprig for garnish"
       },
       {
-        "name": "Sugar",
-        "amount": "2TEASPOONS"
+        "amount": "2 oz",
+        "name": "Freshly Squeezed Strained Lime Juice"
       },
       {
-        "name": "Lime, Quartered — 2 Ounces Light Rum",
-        "amount": "1"
+        "amount": "1 oz",
+        "name": "Simple Syrup"
+      },
+      {
+        "amount": "4 oz",
+        "name": "White Rum, such as Bacardi Light"
+      },
+      {
+        "amount": "to top",
+        "name": "Club Soda"
       }
     ],
-    "instructions": "In a Collins glass, add mint sprigs and sugar. Muddle by pressing lightly with a muddler to release oils. Drop in lime quarters and muddle to release juice. Add rum, stir, and add ice. Top with soda water. Garnish with a mint sprig and a lime slice.",
+    "instructions": "Muddle the spearmint leaves, lime juice, and simple syrup in a highball glass. Add rum and ice, top with club soda, and stir.",
     "note": "A descendant of the Draque—an old Cuban concoction of unrefined rum, cane sugar, and lime juice—the mojito was most likely invented when more delicate white rums entered the market in the mid- to late nineteenth century. The first printed references for the version of the recipe we recognize today date to the 1930s. Theories about the drink’s moniker abound: some refer to mojo, the Cuban lime seasoning, while another points to a play on mojado, the Spanish term for “wet.” Thanks to the diaspora of Miami club culture, the mojito enjoyed a surge of popularity in United States in the early 1990s, solidifying its post among classic cocktails. Alt",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Highball",
+    "quality": "verified",
+    "garnish": "Spearmint sprig and a straw",
+    "glass": "Highball glass",
+    "ice": "Ice cubes"
   },
   {
     "id": "mojito-a-mi-manera",
@@ -16626,27 +16693,43 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "leaves fresh spearmint, plus 1 sprig for garnish",
-            "amount": "8"
+            "amount": "8 leaves",
+            "name": "Fresh Spearmint, plus 1 sprig for garnish"
           },
           {
-            "name": "leaves fresh peppermint",
-            "amount": "8"
+            "amount": "8 leaves",
+            "name": "Fresh Peppermint"
           },
           {
-            "name": "freshly squeezed strained lime juice",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Freshly Squeezed Strained Lime Juice"
           },
           {
-            "name": "Ginger Syrup",
-            "amount": "4 teaspoons"
+            "amount": "4 tsp",
+            "name": "Ginger Syrup"
+          },
+          {
+            "amount": "4 oz",
+            "name": "White Rum, such as Mount Gay Eclipse Silver"
+          },
+          {
+            "amount": "to top",
+            "name": "Club Soda"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Mint Bitters"
           }
         ],
-        "instructions": "Muddle the mint leaves, lime juice, and ginger syrup in a highball glass.",
+        "instructions": "Muddle the mint leaves, lime juice, and ginger syrup in a highball glass. Add rum and ice, top with club soda and mint bitters, and stir.",
         "note": "This recipe uses ginger syrup, a mix of peppermint and spearmint, and a dash of mint bitters.",
         "creator": "",
         "image": "assets/recipes/ryan-mojito-a-mi-manera.webp",
-        "usable": false
+        "usable": true,
+        "page": "22-23",
+        "garnish": "Spearmint sprig and a straw",
+        "glass": "Highball glass",
+        "ice": "Ice cubes"
       }
     ],
     "image": null,
@@ -16656,33 +16739,48 @@
     ],
     "ingredients": [
       {
-        "name": "leaves fresh spearmint, plus 1 sprig for garnish",
-        "amount": "8"
+        "amount": "8 leaves",
+        "name": "Fresh Spearmint, plus 1 sprig for garnish"
       },
       {
-        "name": "leaves fresh peppermint",
-        "amount": "8"
+        "amount": "8 leaves",
+        "name": "Fresh Peppermint"
       },
       {
-        "name": "freshly squeezed strained lime juice",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Freshly Squeezed Strained Lime Juice"
       },
       {
-        "name": "Ginger Syrup",
-        "amount": "4 teaspoons"
+        "amount": "4 tsp",
+        "name": "Ginger Syrup"
+      },
+      {
+        "amount": "4 oz",
+        "name": "White Rum, such as Mount Gay Eclipse Silver"
+      },
+      {
+        "amount": "to top",
+        "name": "Club Soda"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Mint Bitters"
       }
     ],
-    "instructions": "Muddle the mint leaves, lime juice, and ginger syrup in a highball glass.",
+    "instructions": "Muddle the mint leaves, lime juice, and ginger syrup in a highball glass. Add rum and ice, top with club soda and mint bitters, and stir.",
     "note": "This recipe uses ginger syrup, a mix of peppermint and spearmint, and a dash of mint bitters.",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Spearmint sprig and a straw",
+    "glass": "Highball glass",
+    "ice": "Ice cubes"
   },
   {
     "id": "mojito-basic",
     "name": "Mojito Basic",
     "category": "Book",
     "country": null,
-    "method": "Stir",
+    "method": "Build",
     "tags": [
       "book"
     ],
@@ -16693,31 +16791,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "white rum",
-            "amount": "8 ounces"
+            "amount": "8 oz",
+            "name": "White Rum"
           },
           {
-            "name": "seltzer",
-            "amount": "24 ounces"
+            "amount": "24 oz",
+            "name": "Seltzer"
           },
           {
-            "name": "fresh mint sprigs",
-            "amount": "12"
+            "amount": "12 sprigs",
+            "name": "Fresh Mint"
           },
           {
-            "name": "simple syrup",
-            "amount": "4 ounces"
+            "amount": "4 oz",
+            "name": "Simple Syrup"
           },
           {
-            "name": "fresh lime juice (4 limes) Ice for serving",
-            "amount": "4 ounces"
+            "amount": "4 oz",
+            "name": "Fresh Lime Juice"
           }
         ],
-        "instructions": "In each of the highball glasses, place 2 mint sprigs, 1 ounce syrup, and 1 ounce lime juice. Muddle the ingredients together. Add ice and 2 ounces rum to each glass and stir to blend.",
+        "instructions": "Divide mint, syrup, and lime juice among four highball glasses and muddle. Add ice and 2 ounces rum to each glass, stir, then fill with seltzer.",
         "note": "The mojito was the original drink of the Cuban working class. A cooling, thirst-quenching mojito was a great way to end the day.",
         "creator": "",
         "image": "assets/recipes/ryan-mojito-basic.webp",
-        "usable": false
+        "usable": true,
+        "page": "24-25",
+        "garnish": "Remaining mint",
+        "glass": "Highball glasses",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -16727,30 +16829,33 @@
     ],
     "ingredients": [
       {
-        "name": "white rum",
-        "amount": "8 ounces"
+        "amount": "8 oz",
+        "name": "White Rum"
       },
       {
-        "name": "seltzer",
-        "amount": "24 ounces"
+        "amount": "24 oz",
+        "name": "Seltzer"
       },
       {
-        "name": "fresh mint sprigs",
-        "amount": "12"
+        "amount": "12 sprigs",
+        "name": "Fresh Mint"
       },
       {
-        "name": "simple syrup",
-        "amount": "4 ounces"
+        "amount": "4 oz",
+        "name": "Simple Syrup"
       },
       {
-        "name": "fresh lime juice (4 limes) Ice for serving",
-        "amount": "4 ounces"
+        "amount": "4 oz",
+        "name": "Fresh Lime Juice"
       }
     ],
-    "instructions": "In each of the highball glasses, place 2 mint sprigs, 1 ounce syrup, and 1 ounce lime juice. Muddle the ingredients together. Add ice and 2 ounces rum to each glass and stir to blend.",
+    "instructions": "Divide mint, syrup, and lime juice among four highball glasses and muddle. Add ice and 2 ounces rum to each glass, stir, then fill with seltzer.",
     "note": "The mojito was the original drink of the Cuban working class. A cooling, thirst-quenching mojito was a great way to end the day.",
-    "family": "Sour",
-    "quality": "limited"
+    "family": "Highball",
+    "quality": "verified",
+    "garnish": "Remaining mint",
+    "glass": "Highball glasses",
+    "ice": "Ice"
   },
   {
     "id": "mojito-tequila",
@@ -17059,23 +17164,38 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Jamaican-style dark rum, such as Appleton or Myers’s",
-            "amount": "4 ounces"
+            "amount": "4 oz",
+            "name": "Jamaican-Style Dark Rum, such as Appleton or Myers's"
           },
           {
-            "name": "freshly squeezed strained lime juice",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Freshly Squeezed Strained Lime Juice"
           },
           {
-            "name": "superfine sugar",
-            "amount": "2 teaspoons"
+            "amount": "2 tsp",
+            "name": "Superfine Sugar"
+          },
+          {
+            "amount": "1 oz",
+            "name": "Grenadine"
+          },
+          {
+            "amount": "to top",
+            "name": "Club Soda"
+          },
+          {
+            "amount": "1 tsp float",
+            "name": "Maraschino Liqueur"
           }
         ],
-        "instructions": "Combine the rum, lime juice, sugar, and grenadine in a cocktail shaker with ice cubes. Shake vigorously. Strain into a highball glass filled with crushed ice. Top with club soda and float a slick of maraschino liqueur on the top by slowly pouring a teaspoon of the liqueur over the back of a spoon into the glass. Serve immediately.",
+        "instructions": "Shake rum, lime juice, sugar, and grenadine with ice. Strain into a highball glass filled with crushed ice, top with club soda, then float maraschino liqueur over the back of a spoon.",
         "note": "maraschino liqueur.",
         "creator": "",
         "image": "assets/recipes/ryan-myrtle-bank-rum-punch.webp",
-        "usable": false
+        "usable": true,
+        "page": "59",
+        "glass": "Highball glass",
+        "ice": "Crushed ice"
       }
     ],
     "image": null,
@@ -17085,22 +17205,36 @@
     ],
     "ingredients": [
       {
-        "name": "Jamaican-style dark rum, such as Appleton or Myers’s",
-        "amount": "4 ounces"
+        "amount": "4 oz",
+        "name": "Jamaican-Style Dark Rum, such as Appleton or Myers's"
       },
       {
-        "name": "freshly squeezed strained lime juice",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Freshly Squeezed Strained Lime Juice"
       },
       {
-        "name": "superfine sugar",
-        "amount": "2 teaspoons"
+        "amount": "2 tsp",
+        "name": "Superfine Sugar"
+      },
+      {
+        "amount": "1 oz",
+        "name": "Grenadine"
+      },
+      {
+        "amount": "to top",
+        "name": "Club Soda"
+      },
+      {
+        "amount": "1 tsp float",
+        "name": "Maraschino Liqueur"
       }
     ],
-    "instructions": "Combine the rum, lime juice, sugar, and grenadine in a cocktail shaker with ice cubes. Shake vigorously. Strain into a highball glass filled with crushed ice. Top with club soda and float a slick of maraschino liqueur on the top by slowly pouring a teaspoon of the liqueur over the back of a spoon into the glass. Serve immediately.",
+    "instructions": "Shake rum, lime juice, sugar, and grenadine with ice. Strain into a highball glass filled with crushed ice, top with club soda, then float maraschino liqueur over the back of a spoon.",
     "note": "maraschino liqueur.",
-    "family": "Highball",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified",
+    "glass": "Highball glass",
+    "ice": "Crushed ice"
   },
   {
     "id": "maquina-verde",
@@ -20949,31 +21083,39 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "simple syrup",
-            "amount": "1 ounce"
+            "amount": "1 oz",
+            "name": "Simple Syrup"
           },
           {
-            "name": "fresh mint leaves(torn)",
-            "amount": "20"
+            "amount": "20 leaves",
+            "name": "Fresh Mint, torn"
           },
           {
-            "name": "lime wedges (seeded, sliced) Ice",
-            "amount": "4"
+            "amount": "4 wedges",
+            "name": "Lime, seeded and sliced"
           },
           {
-            "name": "pomegranate juice",
-            "amount": "4 ounces"
+            "amount": "4 oz",
+            "name": "Pomegranate Juice"
           },
           {
-            "name": "lemonade Club soda Pomegranate arils for garnish Mint for garnish",
-            "amount": "4 ounces"
+            "amount": "4 oz",
+            "name": "Lemonade"
+          },
+          {
+            "amount": "to top",
+            "name": "Club Soda"
           }
         ],
-        "instructions": "",
+        "instructions": "Muddle simple syrup with torn mint and lime in a highball glass. Fill with ice, add pomegranate juice and lemonade, stir well, and top with club soda.",
         "note": "Muddle and mix this merry mojito and bring a little holiday cheer to family and friends this Christmas.",
         "creator": "",
         "image": "assets/recipes/ryan-pomegranate-mojito.webp",
-        "usable": false
+        "usable": true,
+        "page": "28-29",
+        "garnish": "Pomegranate arils and fresh mint",
+        "glass": "Highball glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -20983,30 +21125,37 @@
     ],
     "ingredients": [
       {
-        "name": "simple syrup",
-        "amount": "1 ounce"
+        "amount": "1 oz",
+        "name": "Simple Syrup"
       },
       {
-        "name": "fresh mint leaves(torn)",
-        "amount": "20"
+        "amount": "20 leaves",
+        "name": "Fresh Mint, torn"
       },
       {
-        "name": "lime wedges (seeded, sliced) Ice",
-        "amount": "4"
+        "amount": "4 wedges",
+        "name": "Lime, seeded and sliced"
       },
       {
-        "name": "pomegranate juice",
-        "amount": "4 ounces"
+        "amount": "4 oz",
+        "name": "Pomegranate Juice"
       },
       {
-        "name": "lemonade Club soda Pomegranate arils for garnish Mint for garnish",
-        "amount": "4 ounces"
+        "amount": "4 oz",
+        "name": "Lemonade"
+      },
+      {
+        "amount": "to top",
+        "name": "Club Soda"
       }
     ],
-    "instructions": "",
+    "instructions": "Muddle simple syrup with torn mint and lime in a highball glass. Fill with ice, add pomegranate juice and lemonade, stir well, and top with club soda.",
     "note": "Muddle and mix this merry mojito and bring a little holiday cheer to family and friends this Christmas.",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Pomegranate arils and fresh mint",
+    "glass": "Highball glass",
+    "ice": "Ice"
   },
   {
     "id": "pompelmo-sour",
@@ -27306,23 +27455,27 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "freshly squeezed lime juice, plus extra for the rim",
-            "amount": "2 fluid ounces"
+            "amount": "2 fl oz",
+            "name": "Freshly Squeezed Lime Juice, plus extra for rim"
           },
           {
-            "name": "100% agave blanco tequila",
-            "amount": "4 fluid ounces"
+            "amount": "4 fl oz",
+            "name": "100% Agave Blanco Tequila"
           },
           {
-            "name": "agave nectar salt, for the rim",
-            "amount": "1 fluid ounce"
+            "amount": "1 fl oz",
+            "name": "Agave Nectar"
           }
         ],
-        "instructions": "Moisten the rim of a double rocks glass with water or lime juice and, holding it upside down, dip the rim into a flat dish filled with table or kosher salt. Place the tequila, agave nectar, and lime juice in a cocktail shaker filled with ice. Shake and strain the drink into the prepared glass filled with ice cubes and serve.",
+        "instructions": "Salt the rim of a double rocks glass. Shake tequila, agave nectar, and lime juice with ice and strain into the prepared glass over ice.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-tommys-margarita.webp",
-        "usable": false
+        "usable": true,
+        "page": "49",
+        "garnish": "Salt rim",
+        "glass": "Double rocks glass",
+        "ice": "Ice cubes"
       }
     ],
     "image": null,
@@ -27332,22 +27485,25 @@
     ],
     "ingredients": [
       {
-        "name": "freshly squeezed lime juice, plus extra for the rim",
-        "amount": "2 fluid ounces"
+        "amount": "2 fl oz",
+        "name": "Freshly Squeezed Lime Juice, plus extra for rim"
       },
       {
-        "name": "100% agave blanco tequila",
-        "amount": "4 fluid ounces"
+        "amount": "4 fl oz",
+        "name": "100% Agave Blanco Tequila"
       },
       {
-        "name": "agave nectar salt, for the rim",
-        "amount": "1 fluid ounce"
+        "amount": "1 fl oz",
+        "name": "Agave Nectar"
       }
     ],
-    "instructions": "Moisten the rim of a double rocks glass with water or lime juice and, holding it upside down, dip the rim into a flat dish filled with table or kosher salt. Place the tequila, agave nectar, and lime juice in a cocktail shaker filled with ice. Shake and strain the drink into the prepared glass filled with ice cubes and serve.",
+    "instructions": "Salt the rim of a double rocks glass. Shake tequila, agave nectar, and lime juice with ice and strain into the prepared glass over ice.",
     "note": "",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Salt rim",
+    "glass": "Double rocks glass",
+    "ice": "Ice cubes"
   },
   {
     "id": "trident",
