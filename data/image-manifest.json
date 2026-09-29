@@ -102,11 +102,19 @@
       "name": "Agave Ginger Hot Toddy",
       "candidates": [
         {
-          "path": "assets/recipes/agave-agave-ginger-hot-toddy.webp",
+          "id": "agave-ginger-hot-toddy",
+          "book": "01",
           "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "printedPage": 251,
+          "embeddedPath": "OEBPS/images/251-1.jpg",
+          "evidence": "Exact caption: Agave Ginger Hot Toddy",
+          "path": "assets/recipes/agave-ginger-hot-toddy-01.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 251,
+          "width": 910,
+          "height": 1190,
+          "sha256": "d7e50897d27f86b9520a0089af74104986522cdab2e564c35fe52f6bea6ada34"
         }
       ]
     },
@@ -426,11 +434,20 @@
       "name": "Bitter Tom",
       "candidates": [
         {
-          "path": "assets/recipes/ess-bitter-tom.webp",
+          "id": "bitter-tom",
+          "book": "02",
           "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 234,
+          "printedPage": 220,
+          "mode": "render",
+          "evidence": "Full-page cocktail photograph facing the named recipe; visually reviewed spread.",
+          "path": "assets/recipes/bitter-tom-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 220,
+          "width": 817,
+          "height": 1234,
+          "sha256": "bf413408c9c2379e7ea49027ccda47015257c94014a998ab933f39a5cde6df3b"
         }
       ]
     },
@@ -857,6 +874,21 @@
           "width": 410,
           "height": 305,
           "sha256": "2496036ee3820cf02986f84065c8e8e79a8b610a54f1f4d8c16986b6d77952eb"
+        },
+        {
+          "id": "daiquiri",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 76,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/daiquiri-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 76,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "dfe992a1d736aced6601e2297d41c6afc74acae68c412e03b6b276f0b106d54f"
         }
       ]
     },
@@ -1012,11 +1044,19 @@
       "name": "Easy Paloma",
       "candidates": [
         {
-          "path": "assets/recipes/agave-easy-paloma.webp",
+          "id": "easy-paloma",
+          "book": "01",
           "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "printedPage": 240,
+          "embeddedPath": "OEBPS/images/240-1.jpg",
+          "evidence": "Exact caption: Easy Paloma",
+          "path": "assets/recipes/easy-paloma-01.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 240,
+          "width": 679,
+          "height": 916,
+          "sha256": "30eb5f6787cefcac0d877c886a008a3bcbd44b5238f7c503a02ad57591f21b85"
         }
       ]
     },
@@ -1069,6 +1109,21 @@
           "width": 418,
           "height": 546,
           "sha256": "547b25401722044052ede7b29c45581bbecd07ddf1abbf16d4b9a60007dfc7d6"
+        },
+        {
+          "id": "el-diablo",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 109,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/el-diablo-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 109,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "6e1754d9d8b0fdf000bade066240fedd31defa1cb90e93663a5c01e805f323d7"
         }
       ]
     },
@@ -1244,11 +1299,19 @@
       "name": "Frozen Mezcal Hot Chocolate",
       "candidates": [
         {
-          "path": "assets/recipes/agave-frozen-mezcal-hot-chocolate.webp",
+          "id": "frozen-mezcal-hot-chocolate",
+          "book": "01",
           "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "printedPage": 248,
+          "embeddedPath": "OEBPS/images/248-1.jpg",
+          "evidence": "Exact caption: Frozen Mezcal Hot Chocolate",
+          "path": "assets/recipes/frozen-mezcal-hot-chocolate-01.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 248,
+          "width": 910,
+          "height": 1190,
+          "sha256": "139994abffec6af47e010c1c635f8c3087b3ca012a0ab3bd705930686f1e8fbe"
         }
       ]
     },
@@ -1836,6 +1899,21 @@
           "width": 964,
           "height": 1233,
           "sha256": "013b48c67cf8224b3c024956d89a368e364116003201cb3a4cd71c52751792ff"
+        },
+        {
+          "id": "mai-tai",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 97,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/mai-tai-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 97,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "a0b2173a4da2d61766b03a0dd0b9a54c11afac9d34693646b809190b643937ec"
         }
       ]
     },
@@ -1843,11 +1921,19 @@
       "name": "Mangito Sonidero Margarita",
       "candidates": [
         {
-          "path": "assets/recipes/agave-mangito-sonidero-margarita.webp",
+          "id": "mangito-sonidero-margarita",
+          "book": "01",
           "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "printedPage": 232,
+          "embeddedPath": "OEBPS/images/232-1.jpg",
+          "evidence": "Exact caption: Mangito Sonidero Margarita",
+          "path": "assets/recipes/mangito-sonidero-margarita-01.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 232,
+          "width": 910,
+          "height": 1190,
+          "sha256": "f3bf4de061db114195ff60d00a5843d392b61365cca6969bc46ee153447bdce2"
         }
       ]
     },
@@ -2145,11 +2231,19 @@
       "name": "Mezcal Negroni",
       "candidates": [
         {
-          "path": "assets/recipes/agave-mezcal-negroni.webp",
+          "id": "mezcal-negroni",
+          "book": "01",
           "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "printedPage": 244,
+          "embeddedPath": "OEBPS/images/244-1.jpg",
+          "evidence": "Exact caption: Mezcal Negroni",
+          "path": "assets/recipes/mezcal-negroni-01.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 244,
+          "width": 679,
+          "height": 801,
+          "sha256": "dd9712128f8570de576fcfe8a19b2053818c37432b2f577ab60efc2d754efa0f"
         }
       ]
     },
@@ -2612,11 +2706,20 @@
       "name": "Padang Swizzle",
       "candidates": [
         {
-          "path": "assets/recipes/ess-padang-swizzle.webp",
+          "id": "padang-swizzle",
+          "book": "02",
           "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 302,
+          "printedPage": 288,
+          "mode": "render",
+          "evidence": "Full-page cocktail photograph facing the named recipe; visually reviewed spread.",
+          "path": "assets/recipes/padang-swizzle-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 288,
+          "width": 817,
+          "height": 1234,
+          "sha256": "40860e3762c465a87678a1e36c325765a08b1c335a943d0250a3a14463a8f1ca"
         }
       ]
     },
@@ -2793,6 +2896,21 @@
           "width": 416,
           "height": 548,
           "sha256": "d4173916ec6ae1f266297d00a279f173cd1b7bad95bb74f2103438d523e334be"
+        },
+        {
+          "id": "pina-colada",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 144,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/pina-colada-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 144,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "ed0a38faf43150563af43b25f3eabcf017e9b54870f9e592935564140f5b4c02"
         }
       ]
     },
@@ -2848,11 +2966,19 @@
       "name": "Pomegranate Margarita",
       "candidates": [
         {
-          "path": "assets/recipes/agave-pomegranate-margarita.webp",
+          "id": "pomegranate-margarita",
+          "book": "01",
           "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "printedPage": 236,
+          "embeddedPath": "OEBPS/images/236-1.jpg",
+          "evidence": "Exact caption: Pomegranate Margarita",
+          "path": "assets/recipes/pomegranate-margarita-01.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 236,
+          "width": 910,
+          "height": 996,
+          "sha256": "326f0b58fd486254dc33a2a0e602ac046f654902651daae6e61350c42984a543"
         }
       ]
     },
@@ -2988,11 +3114,20 @@
       "name": "Rhythm and Soul",
       "candidates": [
         {
-          "path": "assets/recipes/ess-rhythm-and-soul.webp",
+          "id": "rhythm-and-soul",
+          "book": "02",
           "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 320,
+          "printedPage": 306,
+          "mode": "render",
+          "evidence": "Full-page cocktail photograph facing the named recipe; visually reviewed spread.",
+          "path": "assets/recipes/rhythm-and-soul-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 306,
+          "width": 817,
+          "height": 1234,
+          "sha256": "e732fbfc7ed9f42b89a268b39a82ddb7132d4d461d8622e8e1df43c409e6e7d4"
         }
       ]
     },
@@ -3345,11 +3480,19 @@
       "name": "Summer Herb Margarita",
       "candidates": [
         {
-          "path": "assets/recipes/agave-summer-herb-margarita.webp",
+          "id": "summer-herb-margarita",
+          "book": "01",
           "source": "Agave Companion",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "printedPage": 239,
+          "embeddedPath": "OEBPS/images/239-1.jpg",
+          "evidence": "Exact caption: Summer Herb Margarita",
+          "path": "assets/recipes/summer-herb-margarita-01.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 239,
+          "width": 679,
+          "height": 799,
+          "sha256": "22920fbb678711aa9ceeaae315f71f8f07f1060a6f8a5f7c1f4c76e1f6fc4c81"
         }
       ]
     },
@@ -3896,6 +4039,253 @@
           "scope": "base",
           "available": false,
           "status": "referenced-not-committed"
+        }
+      ]
+    },
+    "special-daiquiri-no-1": {
+      "name": "Special Daiquiri No. 1",
+      "candidates": [
+        {
+          "id": "special-daiquiri-no-1",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 59,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/special-daiquiri-no-1-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 59,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "ca7d079a7d6cbce433ed10e4db237ac7eace5ed23a370b89e84fd0d34a81988e"
+        }
+      ]
+    },
+    "winter-in-l-a": {
+      "name": "Winter in L.A.",
+      "candidates": [
+        {
+          "id": "winter-in-l-a",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 67,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/winter-in-l-a-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 67,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "678f724286135a38f078d9fa67291280606cf9647dcafc5a7dbab5ebf5f16930"
+        }
+      ]
+    },
+    "heroes-and-villains": {
+      "name": "Heroes and Villains",
+      "candidates": [
+        {
+          "id": "heroes-and-villains",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 91,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/heroes-and-villains-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 91,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "1d6dfd153b6d5acc71d28f7722aae1b83a3651163f8294b31b0222602a7d99f0"
+        }
+      ]
+    },
+    "hibiscus-pacific": {
+      "name": "Hibiscus Pacific",
+      "candidates": [
+        {
+          "id": "hibiscus-pacific",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 137,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/hibiscus-pacific-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 137,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "01ee99750e81167d26cad1e68950005ad7e40cb328389ed744bdbda0c4443eaf"
+        }
+      ]
+    },
+    "manta-ray": {
+      "name": "Manta Ray",
+      "candidates": [
+        {
+          "id": "manta-ray",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 156,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/manta-ray-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 156,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "85cc5cfb2471e229d6101edc432d214baf0da910bb4798134c0038d66d32876a"
+        }
+      ]
+    },
+    "violet-chachki": {
+      "name": "Violet Chachki",
+      "candidates": [
+        {
+          "id": "violet-chachki",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 174,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/violet-chachki-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 174,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "2f2b828eabb709568bff7bcd4e7057bb52ee8a34f0c006e21315db59f283fb0a"
+        }
+      ]
+    },
+    "bay-of-pigs": {
+      "name": "Bay of Pigs",
+      "candidates": [
+        {
+          "id": "bay-of-pigs",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 177,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/bay-of-pigs-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 177,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "f0f31aa23584ebdef5e91366350ad0f24bd829477a422ec37c74e98eed1e2f25"
+        }
+      ]
+    },
+    "beachcomber-negroni": {
+      "name": "Beachcomber Negroni",
+      "candidates": [
+        {
+          "id": "beachcomber-negroni",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 199,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/beachcomber-negroni-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 199,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "6e1d80f59e73881951b37e864f701a89d27a138b20ccf2120452eef5d0999c54"
+        }
+      ]
+    },
+    "kiruna-cooler": {
+      "name": "Kiruna Cooler",
+      "candidates": [
+        {
+          "id": "kiruna-cooler",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 219,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/kiruna-cooler-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 219,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "c719f3c451e7a2ff68de7ca254bd62ba2fbfb99c3da8ba88f9b3b927bb5758d6"
+        }
+      ]
+    },
+    "pineapple-princess": {
+      "name": "Pineapple Princess",
+      "candidates": [
+        {
+          "id": "pineapple-princess",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 256,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/pineapple-princess-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 256,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "a1eaee0909122ca8f5d625847322f7f1e48f71ed3325dd65993d73946c50f9c3"
+        }
+      ]
+    },
+    "navy-grog": {
+      "name": "Navy Grog",
+      "candidates": [
+        {
+          "id": "navy-grog",
+          "book": "03",
+          "source": "Tropical Standard",
+          "pdfPage": 271,
+          "mode": "embedded-largest",
+          "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked.",
+          "path": "assets/recipes/navy-grog-03.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 271,
+          "width": 1200,
+          "height": 1499,
+          "sha256": "6866257fef9d63b340e24243c5194fd0e5568bd1441b21f09a7b2fec0173afc6"
+        }
+      ]
+    },
+    "naked-and-famous": {
+      "name": "Naked And Famous",
+      "candidates": [
+        {
+          "id": "naked-and-famous",
+          "book": "06",
+          "source": "Death & Co",
+          "pdfPage": 209,
+          "printedPage": 185,
+          "mode": "render",
+          "crop": [
+            0.563,
+            0.095,
+            0.935,
+            0.907
+          ],
+          "evidence": "Cocktail photograph explicitly captioned Naked and Famous on same recipe page.",
+          "path": "assets/recipes/naked-and-famous-06.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 185,
+          "width": 572,
+          "height": 1375,
+          "sha256": "0891b47ed71ab92b2736ceda1b4f579280e13a876db49c48b1fa88a818ec7a27"
         }
       ]
     }
