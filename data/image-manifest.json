@@ -20,7 +20,25 @@
     },
     "absinthe-frappe": {
       "name": "Absinthe Frappé",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "absinthe-frappe",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 47,
+          "printedPage": 33,
+          "recipePdfPage": 46,
+          "mode": "render",
+          "evidence": "Exact named recipe on facing page: ABSINTHE  FRAPPE ",
+          "path": "assets/recipes/absinthe-frappe-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 33,
+          "width": 817,
+          "height": 1234,
+          "sha256": "189daeab6793bb280b679f511289b9c0f65add417470308b5157461d512f9650"
+        }
+      ]
     },
     "absolut-bitch": {
       "name": "Absolut Bitch",
@@ -32,7 +50,25 @@
     },
     "adonis": {
       "name": "Adonis",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "adonis",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 49,
+          "printedPage": 35,
+          "recipePdfPage": 48,
+          "mode": "render",
+          "evidence": "Exact named recipe on facing page: ADONIS ",
+          "path": "assets/recipes/adonis-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 35,
+          "width": 817,
+          "height": 1234,
+          "sha256": "3582e42760a8f2a64f31063338bbadf8fb2478f72b1c5db2fe2ece4f9cc92c6a"
+        }
+      ]
     },
     "agave-ginger-hot-toddy": {
       "name": "Agave Ginger Hot Toddy",
@@ -56,7 +92,25 @@
     },
     "airmail": {
       "name": "Airmail",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "airmail",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 50,
+          "printedPage": 36,
+          "recipePdfPage": 51,
+          "mode": "render",
+          "evidence": "Exact named recipe on facing page: AIRMAIL  T  ; ",
+          "path": "assets/recipes/airmail-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 36,
+          "width": 817,
+          "height": 1234,
+          "sha256": "26fef0e011bb841df41dbae543ad18496266460352df595c256153ea5c647609"
+        }
+      ]
     },
     "all-purpose-margarita": {
       "name": "All-Purpose Margarita",
@@ -88,7 +142,25 @@
     },
     "aperol-spritz": {
       "name": "Aperol Spritz",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "aperol-spritz",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 54,
+          "printedPage": 40,
+          "recipePdfPage": 55,
+          "mode": "render",
+          "evidence": "Exact named recipe on facing page: APEROL  SPRITZ  J ",
+          "path": "assets/recipes/aperol-spritz-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 40,
+          "width": 817,
+          "height": 1234,
+          "sha256": "30ecfcbdc9d905c5c2865dfed68b18a79d7458b15f1d70c7e1c98dcb3119dc99"
+        }
+      ]
     },
     "apricot-mulled-wine": {
       "name": "Apricot Mulled Wine",
@@ -136,11 +208,47 @@
     },
     "aviation": {
       "name": "Aviation",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "aviation",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 57,
+          "printedPage": 43,
+          "recipePdfPage": 56,
+          "mode": "render",
+          "evidence": "Exact named recipe on facing page: AVIATION ",
+          "path": "assets/recipes/aviation-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 43,
+          "width": 817,
+          "height": 1234,
+          "sha256": "658eddeedcde6cfb000ffd3e151f51d098ecbc079c629b400bc1c20693c34817"
+        }
+      ]
     },
     "bamboo": {
       "name": "Bamboo",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "bamboo",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 58,
+          "printedPage": 44,
+          "recipePdfPage": 59,
+          "mode": "render",
+          "evidence": "Exact named recipe on facing page: BAMBOO ",
+          "path": "assets/recipes/bamboo-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 44,
+          "width": 817,
+          "height": 1234,
+          "sha256": "e3f860015384c2fb506801028877efdc8d480c36c1349656e7f1cbdd4a961160"
+        }
+      ]
     },
     "banana-punch": {
       "name": "Banana Punch",
@@ -184,11 +292,47 @@
     },
     "bicicletta": {
       "name": "Bicicletta",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "bicicletta",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 63,
+          "printedPage": 49,
+          "recipePdfPage": 62,
+          "mode": "render",
+          "evidence": "Exact named recipe on facing page: BICICLETTA  0 ",
+          "path": "assets/recipes/bicicletta-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 49,
+          "width": 817,
+          "height": 1234,
+          "sha256": "9e0d98262eb4509a6506d5afaba629e9a63b39e0c66cf3e39f38685838887c47"
+        }
+      ]
     },
     "bijou": {
       "name": "Bijou",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "bijou",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 64,
+          "printedPage": 50,
+          "recipePdfPage": 65,
+          "mode": "render",
+          "evidence": "Exact named recipe on facing page: BIJOU  T ",
+          "path": "assets/recipes/bijou-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 50,
+          "width": 817,
+          "height": 1234,
+          "sha256": "482548e3a153be81d9664174a7a82033b9fdf625344b629a824871496bb0e7a0"
+        }
+      ]
     },
     "bitter-intentions": {
       "name": "Bitter Intentions",
@@ -221,7 +365,25 @@
     },
     "black-velvet": {
       "name": "Black Velvet",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "black-velvet",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 67,
+          "printedPage": 53,
+          "recipePdfPage": 66,
+          "mode": "render",
+          "evidence": "Exact named recipe on facing page: BLACK  VELVET ",
+          "path": "assets/recipes/black-velvet-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 53,
+          "width": 817,
+          "height": 1234,
+          "sha256": "bc52ee8584bb9a34efdfa80aee26c35243fe3f3486c64f0793958e386996e030"
+        }
+      ]
     },
     "blood-and-sand": {
       "name": "Blood and Sand",
@@ -2089,6 +2251,28 @@
           "width": 572,
           "height": 1375,
           "sha256": "0891b47ed71ab92b2736ceda1b4f579280e13a876db49c48b1fa88a818ec7a27"
+        }
+      ]
+    },
+    "bees-knees": {
+      "name": "Bee’s Knees",
+      "candidates": [
+        {
+          "id": "bees-knees",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 60,
+          "printedPage": 46,
+          "recipePdfPage": 61,
+          "mode": "render",
+          "evidence": "Exact named recipe on facing page: BEE’S  KNEES ",
+          "path": "assets/recipes/bees-knees-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 46,
+          "width": 817,
+          "height": 1234,
+          "sha256": "e8cf8dcf6852d61e6d2f299efd0bd495b09b07db75d6ad8047ee14bdd4e9ede4"
         }
       ]
     }

@@ -10,6 +10,7 @@ rows=json.loads(Path('source-data/image-extraction.json').read_text());recipes=j
 for row in rows:
  if only and row['book']!=only and row['id']!=only:continue
  source=next(root.glob(row['book']+'*'));dest=Path('assets/recipes')/(row['id']+'-'+row['book']+'.webp');dest.parent.mkdir(parents=True,exist_ok=True)
+ if dest.is_file() and dest.stat().st_size and any(c.get('path')==str(dest) and c.get('sha256')==hashlib.sha256(dest.read_bytes()).hexdigest() for c in manifest['byRecipe'].get(row['id'],{}).get('candidates',[])):continue
  if source.suffix=='.epub':im=Image.open(io.BytesIO(zipfile.ZipFile(source).read(row['embeddedPath'])))
  else:
   if row['book'] not in docs:docs[row['book']]=fitz.open(source)

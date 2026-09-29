@@ -119,10 +119,11 @@
         "usable": true,
         "page": "32",
         "glass": "Rocks or Collins glass",
-        "ice": "Crushed or pebble ice"
+        "ice": "Crushed or pebble ice",
+        "image": "assets/recipes/absinthe-frappe-02.webp"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/absinthe-frappe-02.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book"
@@ -180,10 +181,11 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a chilled coupe or cocktail glass. Garnish with an orange peel.",
         "note": "A canonical nineteenth-century sherry aperitif, the Adonis was named after the 1884 Broadway burlesque show of the same name, which is often credited as the first-ever Broadway musical. While the production enjoyed its popularity, the Waldorf Astoria hotel created a cocktail in its honor; its brawny base of fino sherry, combined with orange bitters and sweet vermouth, sets it apart from its cousin, the leaner, drier Bamboo (page 45).",
         "creator": "Bitters, Preferably",
-        "usable": true
+        "usable": true,
+        "image": "assets/recipes/adonis-02.webp"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/adonis-02.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book"
@@ -387,7 +389,8 @@
         "page": "37",
         "garnish": "Lime or orange peel",
         "glass": "Collins glass",
-        "ice": "Ice"
+        "ice": "Ice",
+        "image": "assets/recipes/airmail-02.webp"
       },
       {
         "label": "Death & Co",
@@ -410,7 +413,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/airmail-02.webp",
     "movie": null,
     "collections": [
       "Death & Co",
@@ -731,10 +734,11 @@
         "instructions": "Add Aperol, sparkling wine, and soda water to a Collins or wineglass. Add ice and stir gently. Garnish with an orange or lemon slice.",
         "note": "The spritz construct of sparkling wine, bitter liqueur, and bubbly water is incredibly versatile. But Aperol, the sunset-colored Italian bitter liqueur from Padua, is the classic, providing the lightly sweet base for this afternoon cooler.",
         "creator": "Wine, Preferably",
-        "usable": true
+        "usable": true,
+        "image": "assets/recipes/aperol-spritz-02.webp"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/aperol-spritz-02.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book"
@@ -1083,7 +1087,8 @@
         "instructions": "Add all ingredients to a cocktail NOTE The Aviation can be shaker. Fill shaker with ice and a tricky cocktail to balance shake until chilled.",
         "note": "The comings and goings of classic drinks ride on the availability of ingredients as much as on the wings of fashion. After its 1916 debut in Hugo Ensslin’s Recipes for Mixed Drinks, this pale violet concoction was lost for almost half a century: first, the cocktail bible of the era, the Savoy Cocktail Book, inexplicably dropped the recipe in the 1930s. Then, créme de violette, its hallmark ingredient, was discontinued altogether in the 1960s. In 2007, however, Rothman & Winter re-created the liqueur, making the original Aviation recipe possible again, to the delight of a new generation of bartenders who have since championed this previously f",
         "creator": "De Violette,",
-        "usable": true
+        "usable": true,
+        "image": "assets/recipes/aviation-02.webp"
       },
       {
         "label": "Death & Co",
@@ -1110,7 +1115,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/aviation-02.webp",
     "movie": null,
     "collections": [
       "Death & Co",
@@ -1183,10 +1188,11 @@
         "usable": true,
         "page": "45",
         "garnish": "Lemon twist",
-        "glass": "Coupe or cocktail glass"
+        "glass": "Coupe or cocktail glass",
+        "image": "assets/recipes/bamboo-02.webp"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/bamboo-02.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book"
@@ -1855,7 +1861,7 @@
         "usable": true
       }
     ],
-    "image": null,
+    "image": "assets/recipes/bees-knees-02.webp",
     "movie": null,
     "collections": [
       "Death & Co"
@@ -2028,10 +2034,11 @@
         "instructions": "Add Campari and white wine toa wineglass. Add ice and top with soda. Stir gently and garnish with an orange or lemon wheel.",
         "note": "Italian—was named after the elderly men who swerved all over the road while riding home after a few afternoon drinks at the café. In traditional aperitivo style, the cocktail mixes two of Italy’s favorite early evening refreshments. Campari adds delightfully bitter complexity to dry Italian white wine, while a splash of soda water turns the combination into a refreshing spritz.",
         "creator": "Soda Water,",
-        "usable": true
+        "usable": true,
+        "image": "assets/recipes/bicicletta-02.webp"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/bicicletta-02.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book"
@@ -2087,10 +2094,11 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir well. Strain into a chilled coupe or cocktail glass. Garnish with a brandied cherry.",
         "note": "This improbable cocktail—a blend of gin, sweet vermouth, and Chartreuse—was invented in the United States in the late nineteenth century. The invention of the drink is commonly attributed to bartender Harry Johnson, who included the recipe in his 1900s tome The Bartender’s Manual. Its name, which means “jewel” in French, is said to have been inspired by the gem-colored alcohols combined in the recipe. The original formula calls for either a cherry or an olive fora garnish, but history has come down on the correct side of this debate: today’s version uses a cherry.",
         "creator": "Brandied Cherry,",
-        "usable": true
+        "usable": true,
+        "image": "assets/recipes/bijou-02.webp"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/bijou-02.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book"
@@ -2511,10 +2519,11 @@
         "instructions": "Add Guinness to a coupe, a flute, or a Collins glass. Top gently with Champagne.",
         "note": "A fancy man’s Black and Tan, this unlikely mourning drink is said to have originated at the Brooks’s Club on St. James’s Street in London on the occasion of the death of Queen Victoria’s husband, Prince Albert, in 1861. The gentleman’s club, a brotherhood of the city’s most distinguished lords, barons, and dukes, acknowledged the prince’s passing the only way they knew how: by having a drink. Apparently, Champagne did not seem appropriate, so it can be surmised that a dark beer was somber enough to foil the celebratory implication of bubbles.",
         "creator": "",
-        "usable": true
+        "usable": true,
+        "image": "assets/recipes/black-velvet-02.webp"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/black-velvet-02.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book"

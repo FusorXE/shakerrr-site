@@ -450,5 +450,105 @@
       0.907
     ],
     "evidence": "Cocktail photograph explicitly captioned Naked and Famous on same recipe page."
+  },
+  {
+    "id": "absinthe-frappe",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 47,
+    "printedPage": 33,
+    "recipePdfPage": 46,
+    "mode": "render",
+    "evidence": "Exact named recipe on facing page: ABSINTHE  FRAPPE "
+  },
+  {
+    "id": "adonis",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 49,
+    "printedPage": 35,
+    "recipePdfPage": 48,
+    "mode": "render",
+    "evidence": "Exact named recipe on facing page: ADONIS "
+  },
+  {
+    "id": "airmail",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 50,
+    "printedPage": 36,
+    "recipePdfPage": 51,
+    "mode": "render",
+    "evidence": "Exact named recipe on facing page: AIRMAIL  T  ; "
+  },
+  {
+    "id": "aperol-spritz",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 54,
+    "printedPage": 40,
+    "recipePdfPage": 55,
+    "mode": "render",
+    "evidence": "Exact named recipe on facing page: APEROL  SPRITZ  J "
+  },
+  {
+    "id": "aviation",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 57,
+    "printedPage": 43,
+    "recipePdfPage": 56,
+    "mode": "render",
+    "evidence": "Exact named recipe on facing page: AVIATION "
+  },
+  {
+    "id": "bamboo",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 58,
+    "printedPage": 44,
+    "recipePdfPage": 59,
+    "mode": "render",
+    "evidence": "Exact named recipe on facing page: BAMBOO "
+  },
+  {
+    "id": "bees-knees",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 60,
+    "printedPage": 46,
+    "recipePdfPage": 61,
+    "mode": "render",
+    "evidence": "Exact named recipe on facing page: BEE’S  KNEES "
+  },
+  {
+    "id": "bicicletta",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 63,
+    "printedPage": 49,
+    "recipePdfPage": 62,
+    "mode": "render",
+    "evidence": "Exact named recipe on facing page: BICICLETTA  0 "
+  },
+  {
+    "id": "bijou",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 64,
+    "printedPage": 50,
+    "recipePdfPage": 65,
+    "mode": "render",
+    "evidence": "Exact named recipe on facing page: BIJOU  T "
+  },
+  {
+    "id": "black-velvet",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 67,
+    "printedPage": 53,
+    "recipePdfPage": 66,
+    "mode": "render",
+    "evidence": "Exact named recipe on facing page: BLACK  VELVET "
   }
 ]
