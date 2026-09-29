@@ -746,51 +746,53 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "orange or blood orange",
-            "amount": "1"
+            "amount": "1",
+            "name": "Orange or Blood Orange"
           },
           {
-            "name": "dried apricots, finely diced",
-            "amount": "24"
+            "amount": "24",
+            "name": "Dried Apricots, finely diced"
           },
           {
-            "name": "apricot or peach brandy",
-            "amount": "16 ounces"
+            "amount": "16 oz",
+            "name": "Apricot or Peach Brandy, for base"
           },
           {
-            "name": "sugar",
-            "amount": "½ cup"
+            "amount": "½ cup",
+            "name": "Sugar"
           },
           {
-            "name": "whole cloves",
-            "amount": "6"
+            "amount": "6",
+            "name": "Whole Cloves"
           },
           {
-            "name": "to 6 whole star anise",
-            "amount": "4"
+            "amount": "4-6",
+            "name": "Whole Star Anise"
           },
           {
-            "name": "cinnamon sticks",
-            "amount": "3"
+            "amount": "3",
+            "name": "Cinnamon Sticks"
           },
           {
-            "name": "freshly grated nutmeg For the Mulled Wine One 750-milliliter bottle Riesling",
-            "amount": "½ teaspoon"
+            "amount": "½ tsp",
+            "name": "Freshly Grated Nutmeg"
           },
           {
-            "name": "apricot or peach brandy",
-            "amount": "8 ounces"
+            "amount": "750 ml",
+            "name": "Riesling"
           },
           {
-            "name": "cinnamon sticks",
-            "amount": "8"
+            "amount": "8 oz",
+            "name": "Apricot or Peach Brandy, to finish"
           }
         ],
-        "instructions": "To prepare the apricot base, peel the rind from the orange and set it aside. Cut the orange lengthwise into 8 segments, trimming and discarding any white pith.",
+        "instructions": "Simmer orange segments, apricots, brandy, sugar, cloves, star anise, cinnamon, and nutmeg until the fruit is very soft and the mixture reduces almost to a glaze. Add Riesling and the remaining brandy and heat without boiling. Remove whole spices and ladle into mugs.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-apricot-mulled-wine.webp",
-        "usable": false
+        "usable": true,
+        "page": "63-64",
+        "garnish": "Cinnamon stick and thin sliced orange rind"
       }
     ],
     "image": null,
@@ -800,50 +802,51 @@
     ],
     "ingredients": [
       {
-        "name": "orange or blood orange",
-        "amount": "1"
+        "amount": "1",
+        "name": "Orange or Blood Orange"
       },
       {
-        "name": "dried apricots, finely diced",
-        "amount": "24"
+        "amount": "24",
+        "name": "Dried Apricots, finely diced"
       },
       {
-        "name": "apricot or peach brandy",
-        "amount": "16 ounces"
+        "amount": "16 oz",
+        "name": "Apricot or Peach Brandy, for base"
       },
       {
-        "name": "sugar",
-        "amount": "½ cup"
+        "amount": "½ cup",
+        "name": "Sugar"
       },
       {
-        "name": "whole cloves",
-        "amount": "6"
+        "amount": "6",
+        "name": "Whole Cloves"
       },
       {
-        "name": "to 6 whole star anise",
-        "amount": "4"
+        "amount": "4-6",
+        "name": "Whole Star Anise"
       },
       {
-        "name": "cinnamon sticks",
-        "amount": "3"
+        "amount": "3",
+        "name": "Cinnamon Sticks"
       },
       {
-        "name": "freshly grated nutmeg For the Mulled Wine One 750-milliliter bottle Riesling",
-        "amount": "½ teaspoon"
+        "amount": "½ tsp",
+        "name": "Freshly Grated Nutmeg"
       },
       {
-        "name": "apricot or peach brandy",
-        "amount": "8 ounces"
+        "amount": "750 ml",
+        "name": "Riesling"
       },
       {
-        "name": "cinnamon sticks",
-        "amount": "8"
+        "amount": "8 oz",
+        "name": "Apricot or Peach Brandy, to finish"
       }
     ],
-    "instructions": "To prepare the apricot base, peel the rind from the orange and set it aside. Cut the orange lengthwise into 8 segments, trimming and discarding any white pith.",
+    "instructions": "Simmer orange segments, apricots, brandy, sugar, cloves, star anise, cinnamon, and nutmeg until the fruit is very soft and the mixture reduces almost to a glaze. Add Riesling and the remaining brandy and heat without boiling. Remove whole spices and ladle into mugs.",
     "note": "",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified",
+    "garnish": "Cinnamon stick and thin sliced orange rind"
   },
   {
     "id": "arrack-strap",
@@ -944,35 +947,37 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "grapefruits",
-            "amount": "2"
+            "amount": "2",
+            "name": "Grapefruits"
           },
           {
-            "name": "water",
-            "amount": "24 ounces"
+            "amount": "24 oz",
+            "name": "Water"
           },
           {
-            "name": "sugar",
-            "amount": "2 cups"
+            "amount": "2 cups",
+            "name": "Sugar"
           },
           {
-            "name": "whole star anise (optional) For the Punch Two 750-milliliter bottles sparkling wine, chilled",
-            "amount": "2"
+            "amount": "2",
+            "name": "Whole Star Anise, optional, for peel"
           },
           {
-            "name": "Pedro Ximénez sherry, or more to taste, chilled",
-            "amount": "8 ounces"
+            "amount": "2 x 750 ml",
+            "name": "Sparkling Wine, chilled"
           },
           {
-            "name": "whole star anise for garnish (optional)",
-            "amount": "12"
+            "amount": "8 oz",
+            "name": "Pedro Ximénez Sherry, chilled, plus more to taste"
           }
         ],
-        "instructions": "To prepare the candied grapefruit peel, juice the grapefruits and set the juice aside in the refrigerator. Pull or cut away the fruit from the peel, taking care to keep the pieces of peel as big as possible and retaining the white pith. Discard the fruit or save for another use. Bring a pot of water to a boil and fill a large bowl with ice water. Blanch the peel in the boiling water for 30 seconds, then shock it in the cold water. Repeat two times, using fresh",
+        "instructions": "Blanch the grapefruit peel three times, then candy it slowly in the sugar syrup until tender and dark caramel-pink. Chill. Combine reserved grapefruit juice, 8 ounces of the candying syrup, candied peel, sparkling wine, and sherry in a punch bowl. Stir gently and adjust sweetness with additional sherry.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-autumn-punch.webp",
-        "usable": false
+        "usable": true,
+        "page": "65-66",
+        "garnish": "Candied grapefruit strips and whole star anise, optional"
       }
     ],
     "image": null,
@@ -982,34 +987,35 @@
     ],
     "ingredients": [
       {
-        "name": "grapefruits",
-        "amount": "2"
+        "amount": "2",
+        "name": "Grapefruits"
       },
       {
-        "name": "water",
-        "amount": "24 ounces"
+        "amount": "24 oz",
+        "name": "Water"
       },
       {
-        "name": "sugar",
-        "amount": "2 cups"
+        "amount": "2 cups",
+        "name": "Sugar"
       },
       {
-        "name": "whole star anise (optional) For the Punch Two 750-milliliter bottles sparkling wine, chilled",
-        "amount": "2"
+        "amount": "2",
+        "name": "Whole Star Anise, optional, for peel"
       },
       {
-        "name": "Pedro Ximénez sherry, or more to taste, chilled",
-        "amount": "8 ounces"
+        "amount": "2 x 750 ml",
+        "name": "Sparkling Wine, chilled"
       },
       {
-        "name": "whole star anise for garnish (optional)",
-        "amount": "12"
+        "amount": "8 oz",
+        "name": "Pedro Ximénez Sherry, chilled, plus more to taste"
       }
     ],
-    "instructions": "To prepare the candied grapefruit peel, juice the grapefruits and set the juice aside in the refrigerator. Pull or cut away the fruit from the peel, taking care to keep the pieces of peel as big as possible and retaining the white pith. Discard the fruit or save for another use. Bring a pot of water to a boil and fill a large bowl with ice water. Blanch the peel in the boiling water for 30 seconds, then shock it in the cold water. Repeat two times, using fresh",
+    "instructions": "Blanch the grapefruit peel three times, then candy it slowly in the sugar syrup until tender and dark caramel-pink. Chill. Combine reserved grapefruit juice, 8 ounces of the candying syrup, candied peel, sparkling wine, and sherry in a punch bowl. Stir gently and adjust sweetness with additional sherry.",
     "note": "",
-    "family": "Sparkling",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified",
+    "garnish": "Candied grapefruit strips and whole star anise, optional"
   },
   {
     "id": "aviation",
@@ -1175,47 +1181,49 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "dried banana slices or 2 cups dried banana chips",
-            "amount": "12"
+            "amount": "12 slices or 2 cups",
+            "name": "Dried Banana"
           },
           {
-            "name": "boiling water",
-            "amount": "4 ounces"
+            "amount": "4 oz",
+            "name": "Boiling Water"
           },
           {
-            "name": "unsulfured molasses",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Unsulfured Molasses"
           },
           {
-            "name": "packed brown sugar",
-            "amount": "¼ cup"
+            "amount": "¼ cup packed",
+            "name": "Brown Sugar"
           },
           {
-            "name": "liter dark rum",
-            "amount": "1"
+            "amount": "1 liter",
+            "name": "Dark Rum"
           },
           {
-            "name": "large vanilla bean For the Punch",
-            "amount": "1"
+            "amount": "1 large",
+            "name": "Vanilla Bean"
           },
           {
-            "name": "large ripe, fresh bananas, peeled and frozen until firm A handful of dried bananas or banana chips",
-            "amount": "4"
+            "amount": "4 large",
+            "name": "Ripe Bananas, frozen"
           },
           {
-            "name": "pineapple juice",
-            "amount": "16 ounces"
+            "amount": "16 oz",
+            "name": "Pineapple Juice"
           },
           {
-            "name": "liter pear or apple cider or ginger beer Shredded coconut for garnish",
-            "amount": "1"
+            "amount": "1 liter",
+            "name": "Pear or Apple Cider or Ginger Beer"
           }
         ],
-        "instructions": "",
+        "instructions": "Infuse dried banana, water, molasses, brown sugar, dark rum, and vanilla in a sealed container for 4 to 48 hours, ideally 48, then strain. To serve, combine frozen bananas, the banana rum, dried banana pieces, pineapple juice, and cider or ginger beer in a pitcher or punch bowl.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-banana-rum-punch.webp",
-        "usable": false
+        "usable": true,
+        "page": "67-68",
+        "garnish": "Shredded coconut"
       }
     ],
     "image": null,
@@ -1225,46 +1233,47 @@
     ],
     "ingredients": [
       {
-        "name": "dried banana slices or 2 cups dried banana chips",
-        "amount": "12"
+        "amount": "12 slices or 2 cups",
+        "name": "Dried Banana"
       },
       {
-        "name": "boiling water",
-        "amount": "4 ounces"
+        "amount": "4 oz",
+        "name": "Boiling Water"
       },
       {
-        "name": "unsulfured molasses",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Unsulfured Molasses"
       },
       {
-        "name": "packed brown sugar",
-        "amount": "¼ cup"
+        "amount": "¼ cup packed",
+        "name": "Brown Sugar"
       },
       {
-        "name": "liter dark rum",
-        "amount": "1"
+        "amount": "1 liter",
+        "name": "Dark Rum"
       },
       {
-        "name": "large vanilla bean For the Punch",
-        "amount": "1"
+        "amount": "1 large",
+        "name": "Vanilla Bean"
       },
       {
-        "name": "large ripe, fresh bananas, peeled and frozen until firm A handful of dried bananas or banana chips",
-        "amount": "4"
+        "amount": "4 large",
+        "name": "Ripe Bananas, frozen"
       },
       {
-        "name": "pineapple juice",
-        "amount": "16 ounces"
+        "amount": "16 oz",
+        "name": "Pineapple Juice"
       },
       {
-        "name": "liter pear or apple cider or ginger beer Shredded coconut for garnish",
-        "amount": "1"
+        "amount": "1 liter",
+        "name": "Pear or Apple Cider or Ginger Beer"
       }
     ],
-    "instructions": "",
+    "instructions": "Infuse dried banana, water, molasses, brown sugar, dark rum, and vanilla in a sealed container for 4 to 48 hours, ideally 48, then strain. To serve, combine frozen bananas, the banana rum, dried banana pieces, pineapple juice, and cider or ginger beer in a pitcher or punch bowl.",
     "note": "",
-    "family": "Highball",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified",
+    "garnish": "Shredded coconut"
   },
   {
     "id": "barber-of-seville",
@@ -2732,7 +2741,7 @@
     "name": "Bloody Maria",
     "category": "Book",
     "country": null,
-    "method": "Stir",
+    "method": "Build",
     "tags": [
       "book"
     ],
@@ -2743,39 +2752,47 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "reposado tequila",
-            "amount": "4 fluid ounces"
+            "amount": "4 fl oz",
+            "name": "Reposado Tequila"
           },
           {
-            "name": "drained bottled grated horseradish",
-            "amount": "2 teaspoons"
+            "amount": "2 tsp",
+            "name": "Drained Bottled Grated Horseradish"
           },
           {
-            "name": "dashes of Tabasco sauce",
-            "amount": "6"
+            "amount": "6 dashes",
+            "name": "Tabasco Sauce"
           },
           {
-            "name": "dashes of Worcestershire sauce a dash of lime juice",
-            "amount": "6"
+            "amount": "6 dashes",
+            "name": "Worcestershire Sauce"
           },
           {
-            "name": "dashes of salt",
-            "amount": "6"
+            "amount": "1 dash",
+            "name": "Lime Juice"
           },
           {
-            "name": "dashes of freshly ground black pepper",
-            "amount": "6"
+            "amount": "6 dashes",
+            "name": "Salt"
           },
           {
-            "name": "tomato juice a lime wedge and a celery stalk, to garnish",
-            "amount": "10 fluid ounces"
+            "amount": "6 dashes",
+            "name": "Freshly Ground Black Pepper"
+          },
+          {
+            "amount": "10 fl oz",
+            "name": "Tomato Juice"
           }
         ],
-        "instructions": "Mix all the ingredients, except the tomato juice and garnish, in a collins glass over ice and stir well. Top up with the tomato juice and stir again. Garnish with a lime wedge and a celery stalk and serve.",
+        "instructions": "Build the tequila, horseradish, Tabasco, Worcestershire sauce, lime juice, salt, and pepper over ice in a Collins glass and stir well. Top with tomato juice and stir again.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-bloody-maria.webp",
-        "usable": false
+        "usable": true,
+        "page": "39",
+        "garnish": "Lime wedge and celery stalk",
+        "glass": "Collins glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -2785,38 +2802,45 @@
     ],
     "ingredients": [
       {
-        "name": "reposado tequila",
-        "amount": "4 fluid ounces"
+        "amount": "4 fl oz",
+        "name": "Reposado Tequila"
       },
       {
-        "name": "drained bottled grated horseradish",
-        "amount": "2 teaspoons"
+        "amount": "2 tsp",
+        "name": "Drained Bottled Grated Horseradish"
       },
       {
-        "name": "dashes of Tabasco sauce",
-        "amount": "6"
+        "amount": "6 dashes",
+        "name": "Tabasco Sauce"
       },
       {
-        "name": "dashes of Worcestershire sauce a dash of lime juice",
-        "amount": "6"
+        "amount": "6 dashes",
+        "name": "Worcestershire Sauce"
       },
       {
-        "name": "dashes of salt",
-        "amount": "6"
+        "amount": "1 dash",
+        "name": "Lime Juice"
       },
       {
-        "name": "dashes of freshly ground black pepper",
-        "amount": "6"
+        "amount": "6 dashes",
+        "name": "Salt"
       },
       {
-        "name": "tomato juice a lime wedge and a celery stalk, to garnish",
-        "amount": "10 fluid ounces"
+        "amount": "6 dashes",
+        "name": "Freshly Ground Black Pepper"
+      },
+      {
+        "amount": "10 fl oz",
+        "name": "Tomato Juice"
       }
     ],
-    "instructions": "Mix all the ingredients, except the tomato juice and garnish, in a collins glass over ice and stir well. Top up with the tomato juice and stir again. Garnish with a lime wedge and a celery stalk and serve.",
+    "instructions": "Build the tequila, horseradish, Tabasco, Worcestershire sauce, lime juice, salt, and pepper over ice in a Collins glass and stir well. Top with tomato juice and stir again.",
     "note": "",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Highball",
+    "quality": "verified",
+    "garnish": "Lime wedge and celery stalk",
+    "glass": "Collins glass",
+    "ice": "Ice"
   },
   {
     "id": "bloody-mary",
@@ -4542,7 +4566,7 @@
     "name": "Christmas Eve Chocolate",
     "category": "Book",
     "country": null,
-    "method": "Stir",
+    "method": "Build",
     "tags": [
       "book"
     ],
@@ -4553,31 +4577,38 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "dark chocolate, chopped into small pieces",
-            "amount": "8 ounces"
+            "amount": "12 oz",
+            "name": "Strong Black Coffee or Espresso"
           },
           {
-            "name": "sugar",
-            "amount": "¼ cup"
+            "amount": "8 oz",
+            "name": "Dark Chocolate, chopped"
           },
           {
-            "name": "Kahlúa",
-            "amount": "3 ounces"
+            "amount": "¼ cup",
+            "name": "Sugar"
           },
           {
-            "name": "dark crème de cacao",
-            "amount": "3 ounces"
+            "amount": "3 oz",
+            "name": "Kahlúa"
           },
           {
-            "name": "grappa or brandy Whipped cream for garnish (optional)",
-            "amount": "2 oz"
+            "amount": "3 oz",
+            "name": "Dark Crème de Cacao"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Grappa or Brandy"
           }
         ],
-        "instructions": "In a medium saucepan over medium heat, combine the coffee, chocolate, and sugar. Cook, stirring constantly, until the chocolate has completely melted and the mixture is steaming hot. Add the liquors and continue to heat, stirring well, for 1 minute. Serve in espresso cups, topped, if desired, with a dollop of whipped cream.",
+        "instructions": "Heat coffee, chocolate, and sugar over medium heat, stirring until the chocolate melts and the mixture is steaming. Add the spirits and heat for one minute while stirring. Serve in espresso cups.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-christmas-eve-chocolate.webp",
-        "usable": false
+        "usable": true,
+        "page": "69",
+        "garnish": "Whipped cream, optional",
+        "glass": "Espresso cups"
       }
     ],
     "image": null,
@@ -4587,37 +4618,43 @@
     ],
     "ingredients": [
       {
-        "name": "dark chocolate, chopped into small pieces",
-        "amount": "8 ounces"
+        "amount": "12 oz",
+        "name": "Strong Black Coffee or Espresso"
       },
       {
-        "name": "sugar",
-        "amount": "¼ cup"
+        "amount": "8 oz",
+        "name": "Dark Chocolate, chopped"
       },
       {
-        "name": "Kahlúa",
-        "amount": "3 ounces"
+        "amount": "¼ cup",
+        "name": "Sugar"
       },
       {
-        "name": "dark crème de cacao",
-        "amount": "3 ounces"
+        "amount": "3 oz",
+        "name": "Kahlúa"
       },
       {
-        "name": "grappa or brandy Whipped cream for garnish (optional)",
-        "amount": "2 oz"
+        "amount": "3 oz",
+        "name": "Dark Crème de Cacao"
+      },
+      {
+        "amount": "2 oz",
+        "name": "Grappa or Brandy"
       }
     ],
-    "instructions": "In a medium saucepan over medium heat, combine the coffee, chocolate, and sugar. Cook, stirring constantly, until the chocolate has completely melted and the mixture is steaming hot. Add the liquors and continue to heat, stirring well, for 1 minute. Serve in espresso cups, topped, if desired, with a dollop of whipped cream.",
+    "instructions": "Heat coffee, chocolate, and sugar over medium heat, stirring until the chocolate melts and the mixture is steaming. Add the spirits and heat for one minute while stirring. Serve in espresso cups.",
     "note": "",
-    "family": "Highball",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified",
+    "garnish": "Whipped cream, optional",
+    "glass": "Espresso cups"
   },
   {
     "id": "christmas-mojito",
     "name": "Christmas Mojito",
     "category": "Book",
     "country": null,
-    "method": "Stir",
+    "method": "Build",
     "tags": [
       "book"
     ],
@@ -4628,35 +4665,41 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "freshly squeezed lime juice",
-            "amount": "1 cup"
+            "amount": "1 cup",
+            "name": "Freshly Squeezed Lime Juice"
           },
           {
-            "name": "fresh mint plus extra to garnish",
-            "amount": "¼ cup"
+            "amount": "¼ cup",
+            "name": "Fresh Mint, plus extra to garnish"
           },
           {
-            "name": "white sugar",
-            "amount": "¼ cup"
+            "amount": "¼ cup",
+            "name": "White Sugar"
           },
           {
-            "name": "rum",
-            "amount": "½ cup"
+            "amount": "½ cup",
+            "name": "Rum"
           },
           {
-            "name": "coconut rum",
-            "amount": "⅓ cup"
+            "amount": "⅓ cup",
+            "name": "Coconut Rum"
           },
           {
-            "name": "coconut milk (canned variety) Soda water Fresh pomegranate for garnish",
-            "amount": "1 cup"
+            "amount": "1 cup",
+            "name": "Coconut Milk"
+          },
+          {
+            "amount": "to top",
+            "name": "Soda Water"
           }
         ],
-        "instructions": "Add the lime juice, fresh mint, and sugar into the base of a pitcher and muddle well. Set aside for a moment. In a blender, blitz together the rums and milk until combined. Pour the rum mixture into the pitcher and stir well. Refrigerate for an hour. To serve, fill each serving glass halfway with the chilled mixture and top with soda water. Garnish with a few extra mint leaves and several pomegranate arils.",
+        "instructions": "Muddle lime juice, mint, and sugar in a pitcher. Blend the rums with coconut milk until combined, stir into the pitcher, and refrigerate for one hour. To serve, fill each glass halfway with the chilled mixture and top with soda water.",
         "note": "Who doesn't enjoy the refreshing minty flavor of a zesty mojito? This white Christmas version uses coconut milk for a creamier confection.",
         "creator": "",
         "image": "assets/recipes/ryan-christmas-mojito.webp",
-        "usable": false
+        "usable": true,
+        "page": "27",
+        "garnish": "Mint leaves and pomegranate arils"
       }
     ],
     "image": null,
@@ -4666,34 +4709,39 @@
     ],
     "ingredients": [
       {
-        "name": "freshly squeezed lime juice",
-        "amount": "1 cup"
+        "amount": "1 cup",
+        "name": "Freshly Squeezed Lime Juice"
       },
       {
-        "name": "fresh mint plus extra to garnish",
-        "amount": "¼ cup"
+        "amount": "¼ cup",
+        "name": "Fresh Mint, plus extra to garnish"
       },
       {
-        "name": "white sugar",
-        "amount": "¼ cup"
+        "amount": "¼ cup",
+        "name": "White Sugar"
       },
       {
-        "name": "rum",
-        "amount": "½ cup"
+        "amount": "½ cup",
+        "name": "Rum"
       },
       {
-        "name": "coconut rum",
-        "amount": "⅓ cup"
+        "amount": "⅓ cup",
+        "name": "Coconut Rum"
       },
       {
-        "name": "coconut milk (canned variety) Soda water Fresh pomegranate for garnish",
-        "amount": "1 cup"
+        "amount": "1 cup",
+        "name": "Coconut Milk"
+      },
+      {
+        "amount": "to top",
+        "name": "Soda Water"
       }
     ],
-    "instructions": "Add the lime juice, fresh mint, and sugar into the base of a pitcher and muddle well. Set aside for a moment. In a blender, blitz together the rums and milk until combined. Pour the rum mixture into the pitcher and stir well. Refrigerate for an hour. To serve, fill each serving glass halfway with the chilled mixture and top with soda water. Garnish with a few extra mint leaves and several pomegranate arils.",
+    "instructions": "Muddle lime juice, mint, and sugar in a pitcher. Blend the rums with coconut milk until combined, stir into the pitcher, and refrigerate for one hour. To serve, fill each glass halfway with the chilled mixture and top with soda water.",
     "note": "Who doesn't enjoy the refreshing minty flavor of a zesty mojito? This white Christmas version uses coconut milk for a creamier confection.",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Mint leaves and pomegranate arils"
   },
   {
     "id": "cilantro-bravo",
@@ -4952,27 +5000,28 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "brandy",
-            "amount": "1 ounce"
+            "amount": "1 oz",
+            "name": "Brandy"
           },
           {
-            "name": "ruby port",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Ruby Port"
           },
           {
-            "name": "sugar",
-            "amount": "1 teaspoons"
+            "amount": "1 tsp",
+            "name": "Sugar"
           },
           {
-            "name": "egg Ice cubes",
-            "amount": "1"
+            "amount": "1",
+            "name": "Egg"
           }
         ],
-        "instructions": "Shake all the ingredients hard with ice and strain into a glass.",
+        "instructions": "Shake all ingredients hard with ice and strain into a glass.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-coffee-cocktail.webp",
-        "usable": false
+        "usable": true,
+        "page": "70"
       }
     ],
     "image": null,
@@ -4982,26 +5031,26 @@
     ],
     "ingredients": [
       {
-        "name": "brandy",
-        "amount": "1 ounce"
+        "amount": "1 oz",
+        "name": "Brandy"
       },
       {
-        "name": "ruby port",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Ruby Port"
       },
       {
-        "name": "sugar",
-        "amount": "1 teaspoons"
+        "amount": "1 tsp",
+        "name": "Sugar"
       },
       {
-        "name": "egg Ice cubes",
-        "amount": "1"
+        "amount": "1",
+        "name": "Egg"
       }
     ],
-    "instructions": "Shake all the ingredients hard with ice and strain into a glass.",
+    "instructions": "Shake all ingredients hard with ice and strain into a glass.",
     "note": "",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified"
   },
   {
     "id": "corn-n-oil",
@@ -5681,7 +5730,7 @@
     "name": "Daiquiri Strawberry",
     "category": "Book",
     "country": null,
-    "method": "Build",
+    "method": "Blend",
     "tags": [
       "book"
     ],
@@ -5692,31 +5741,34 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "crushed ice",
-            "amount": "1 cup"
+            "amount": "1 cup",
+            "name": "Crushed Ice"
           },
           {
-            "name": "large strawberries",
-            "amount": "10"
+            "amount": "10 large",
+            "name": "Strawberries"
           },
           {
-            "name": "white rum, such as Bacardi Light",
-            "amount": "4 ounces"
+            "amount": "4 oz",
+            "name": "White Rum, such as Bacardi Light"
           },
           {
-            "name": "sugar",
-            "amount": "4 teaspoons"
+            "amount": "4 tsp",
+            "name": "Sugar"
           },
           {
-            "name": "freshly squeezed strained lime juice",
-            "amount": "1 ounce"
+            "amount": "1 oz",
+            "name": "Freshly Squeezed Strained Lime Juice"
           }
         ],
-        "instructions": "",
+        "instructions": "Blend all ingredients until well mixed and the ice has dissolved. Pour into a large chilled martini glass and serve immediately.",
         "note": "The Strawberry Daiquiri is a summertime favorite that evokes sunny days and poolside vacations. At its best, the drink is a refreshing, delicious concoction that highlights good rum, sweet strawberries and fresh lime juice. But during the 1980s and ’90s—the heyday of artificial mixers—the Strawberry Daiquiri’s reputation suffered a hit, as bars served neon-colored cocktails that were absent any actual strawberries. When made with care, however, the drink is a revelation.",
         "creator": "",
         "image": "assets/recipes/ryan-daiquiri-strawberry.webp",
-        "usable": false
+        "usable": true,
+        "page": "15-16",
+        "glass": "Large chilled martini glass",
+        "ice": "Crushed ice"
       }
     ],
     "image": null,
@@ -5726,30 +5778,32 @@
     ],
     "ingredients": [
       {
-        "name": "crushed ice",
-        "amount": "1 cup"
+        "amount": "1 cup",
+        "name": "Crushed Ice"
       },
       {
-        "name": "large strawberries",
-        "amount": "10"
+        "amount": "10 large",
+        "name": "Strawberries"
       },
       {
-        "name": "white rum, such as Bacardi Light",
-        "amount": "4 ounces"
+        "amount": "4 oz",
+        "name": "White Rum, such as Bacardi Light"
       },
       {
-        "name": "sugar",
-        "amount": "4 teaspoons"
+        "amount": "4 tsp",
+        "name": "Sugar"
       },
       {
-        "name": "freshly squeezed strained lime juice",
-        "amount": "1 ounce"
+        "amount": "1 oz",
+        "name": "Freshly Squeezed Strained Lime Juice"
       }
     ],
-    "instructions": "",
+    "instructions": "Blend all ingredients until well mixed and the ice has dissolved. Pour into a large chilled martini glass and serve immediately.",
     "note": "The Strawberry Daiquiri is a summertime favorite that evokes sunny days and poolside vacations. At its best, the drink is a refreshing, delicious concoction that highlights good rum, sweet strawberries and fresh lime juice. But during the 1980s and ’90s—the heyday of artificial mixers—the Strawberry Daiquiri’s reputation suffered a hit, as bars served neon-colored cocktails that were absent any actual strawberries. When made with care, however, the drink is a revelation.",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Large chilled martini glass",
+    "ice": "Crushed ice"
   },
   {
     "id": "daniel-webster-s-punch",
@@ -7070,63 +7124,69 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "milk",
-            "amount": "16 ounces"
+            "amount": "16 oz",
+            "name": "Milk, for Crème Anglaise"
           },
           {
-            "name": "large egg yolks",
-            "amount": "4"
+            "amount": "4 large",
+            "name": "Egg Yolks"
           },
           {
-            "name": "sugar",
-            "amount": "3 tablespoons"
+            "amount": "3 tbsp",
+            "name": "Sugar"
           },
           {
-            "name": "flour Pinch of salt",
-            "amount": "2 tablespoons"
+            "amount": "2 tbsp",
+            "name": "Flour"
           },
           {
-            "name": "vanilla extract For the Nog",
-            "amount": "1 teaspoon"
+            "amount": "1 pinch",
+            "name": "Salt"
           },
           {
-            "name": "milk",
-            "amount": "16 ounces"
+            "amount": "1 tsp",
+            "name": "Vanilla Extract"
           },
           {
-            "name": "heavy cream",
-            "amount": "16 ounces"
+            "amount": "16 oz",
+            "name": "Milk, for Nog"
           },
           {
-            "name": "ground cinnamon",
-            "amount": "¼ teaspoon"
+            "amount": "16 oz",
+            "name": "Heavy Cream"
           },
           {
-            "name": "ground cloves",
-            "amount": "⅛ teaspoon"
+            "amount": "¼ tsp",
+            "name": "Ground Cinnamon"
           },
           {
-            "name": "dark rum",
-            "amount": "6 ounces"
+            "amount": "⅛ tsp",
+            "name": "Ground Cloves"
           },
           {
-            "name": "bourbon",
-            "amount": "3 ounces"
+            "amount": "6 oz",
+            "name": "Dark Rum"
           },
           {
-            "name": "brandy",
-            "amount": "3 ounces"
+            "amount": "3 oz",
+            "name": "Bourbon"
           },
           {
-            "name": "confectioners’ sugar (optional) Freshly grated nutmeg for garnish Grated orange zest for garnish (optional)",
-            "amount": "½ cup"
+            "amount": "3 oz",
+            "name": "Brandy"
+          },
+          {
+            "amount": "up to ½ cup",
+            "name": "Confectioners' Sugar, optional"
           }
         ],
-        "instructions": "",
+        "instructions": "Make a crème anglaise by heating the milk, whisking egg yolks with sugar, flour, and salt, then slowly whisking in the hot milk and cooking over simmering water until thickened. Cool over ice and add vanilla. Combine with the remaining milk, cream, spices, rum, bourbon, and brandy. Sweeten to taste, transfer to a punch bowl, chill or serve at room temperature.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-eggnog.webp",
-        "usable": false
+        "usable": true,
+        "page": "61-62",
+        "garnish": "Freshly grated nutmeg; orange zest optional"
       }
     ],
     "image": null,
@@ -7136,58 +7196,67 @@
     ],
     "ingredients": [
       {
-        "name": "milk",
-        "amount": "16 ounces"
+        "amount": "16 oz",
+        "name": "Milk, for Crème Anglaise"
       },
       {
-        "name": "large egg yolks",
-        "amount": "4"
+        "amount": "4 large",
+        "name": "Egg Yolks"
       },
       {
-        "name": "sugar",
-        "amount": "3 tablespoons"
+        "amount": "3 tbsp",
+        "name": "Sugar"
       },
       {
-        "name": "flour Pinch of salt",
-        "amount": "2 tablespoons"
+        "amount": "2 tbsp",
+        "name": "Flour"
       },
       {
-        "name": "vanilla extract For the Nog",
-        "amount": "1 teaspoon"
+        "amount": "1 pinch",
+        "name": "Salt"
       },
       {
-        "name": "heavy cream",
-        "amount": "16 ounces"
+        "amount": "1 tsp",
+        "name": "Vanilla Extract"
       },
       {
-        "name": "ground cinnamon",
-        "amount": "¼ teaspoon"
+        "amount": "16 oz",
+        "name": "Milk, for Nog"
       },
       {
-        "name": "ground cloves",
-        "amount": "⅛ teaspoon"
+        "amount": "16 oz",
+        "name": "Heavy Cream"
       },
       {
-        "name": "dark rum",
-        "amount": "6 ounces"
+        "amount": "¼ tsp",
+        "name": "Ground Cinnamon"
       },
       {
-        "name": "bourbon",
-        "amount": "3 ounces"
+        "amount": "⅛ tsp",
+        "name": "Ground Cloves"
       },
       {
-        "name": "brandy",
-        "amount": "3 ounces"
+        "amount": "6 oz",
+        "name": "Dark Rum"
       },
       {
-        "name": "confectioners’ sugar (optional) Freshly grated nutmeg for garnish Grated orange zest for garnish (optional)",
-        "amount": "½ cup"
+        "amount": "3 oz",
+        "name": "Bourbon"
+      },
+      {
+        "amount": "3 oz",
+        "name": "Brandy"
+      },
+      {
+        "amount": "up to ½ cup",
+        "name": "Confectioners' Sugar, optional"
       }
     ],
-    "instructions": "",
+    "instructions": "Make a crème anglaise by heating the milk, whisking egg yolks with sugar, flour, and salt, then slowly whisking in the hot milk and cooking over simmering water until thickened. Cool over ice and add vanilla. Combine with the remaining milk, cream, spices, rum, bourbon, and brandy. Sweeten to taste, transfer to a punch bowl, chill or serve at room temperature.",
     "note": "",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified",
+    "garnish": "Freshly grated nutmeg; orange zest optional"
   },
   {
     "id": "el-ardido",
@@ -10767,35 +10836,48 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "butter(softened)",
-            "amount": "½ cup"
+            "amount": "½ cup",
+            "name": "Butter, softened"
           },
           {
-            "name": "dark brown sugar",
-            "amount": "1 cup"
+            "amount": "1 cup",
+            "name": "Dark Brown Sugar"
           },
           {
-            "name": "zero calorie sweetener",
-            "amount": "1 cup"
+            "amount": "1 cup",
+            "name": "Zero-Calorie Sweetener"
           },
           {
-            "name": "ground cinnamon",
-            "amount": "1 teaspoon"
+            "amount": "1 tsp",
+            "name": "Ground Cinnamon"
           },
           {
-            "name": "ground nutmeg",
-            "amount": "½ teaspoon"
+            "amount": "½ tsp",
+            "name": "Ground Nutmeg"
           },
           {
-            "name": "ground cardamom Pinch ground cloves Water (boiling, to serve) Heavy cream (to serve)",
-            "amount": "⅛ teaspoon"
+            "amount": "⅛ tsp",
+            "name": "Ground Cardamom"
+          },
+          {
+            "amount": "1 pinch",
+            "name": "Ground Cloves"
+          },
+          {
+            "amount": "¼ cup per serving",
+            "name": "Boiling Water"
+          },
+          {
+            "amount": "1-2 tbsp per serving",
+            "name": "Heavy Cream"
           }
         ],
-        "instructions": "In a large mixing bowl combine the softened butter along with the brown sugar, sweetener, cinnamon, nutmeg, cardamom,",
+        "instructions": "Beat the softened butter with brown sugar, sweetener, cinnamon, nutmeg, cardamom, and cloves. For each serving, put 1½ to 2 tablespoons of the butter-spice mixture in a mug, add ¼ cup boiling water and stir to dissolve, then add 1 to 2 tablespoons heavy cream and adjust to taste.",
         "note": "warm on the car journey home.",
         "creator": "",
         "image": "assets/recipes/ryan-hot-buttered-faux-rum.webp",
-        "usable": false
+        "usable": true,
+        "page": "71-72"
       }
     ],
     "image": null,
@@ -10805,34 +10887,46 @@
     ],
     "ingredients": [
       {
-        "name": "butter(softened)",
-        "amount": "½ cup"
+        "amount": "½ cup",
+        "name": "Butter, softened"
       },
       {
-        "name": "dark brown sugar",
-        "amount": "1 cup"
+        "amount": "1 cup",
+        "name": "Dark Brown Sugar"
       },
       {
-        "name": "zero calorie sweetener",
-        "amount": "1 cup"
+        "amount": "1 cup",
+        "name": "Zero-Calorie Sweetener"
       },
       {
-        "name": "ground cinnamon",
-        "amount": "1 teaspoon"
+        "amount": "1 tsp",
+        "name": "Ground Cinnamon"
       },
       {
-        "name": "ground nutmeg",
-        "amount": "½ teaspoon"
+        "amount": "½ tsp",
+        "name": "Ground Nutmeg"
       },
       {
-        "name": "ground cardamom Pinch ground cloves Water (boiling, to serve) Heavy cream (to serve)",
-        "amount": "⅛ teaspoon"
+        "amount": "⅛ tsp",
+        "name": "Ground Cardamom"
+      },
+      {
+        "amount": "1 pinch",
+        "name": "Ground Cloves"
+      },
+      {
+        "amount": "¼ cup per serving",
+        "name": "Boiling Water"
+      },
+      {
+        "amount": "1-2 tbsp per serving",
+        "name": "Heavy Cream"
       }
     ],
-    "instructions": "In a large mixing bowl combine the softened butter along with the brown sugar, sweetener, cinnamon, nutmeg, cardamom,",
+    "instructions": "Beat the softened butter with brown sugar, sweetener, cinnamon, nutmeg, cardamom, and cloves. For each serving, put 1½ to 2 tablespoons of the butter-spice mixture in a mug, add ¼ cup boiling water and stir to dissolve, then add 1 to 2 tablespoons heavy cream and adjust to taste.",
     "note": "warm on the car journey home.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified"
   },
   {
     "id": "hot-buttered-rum",
@@ -14223,7 +14317,7 @@
     "name": "Maraschino Muddle",
     "category": "Book",
     "country": null,
-    "method": "Shake",
+    "method": "Build",
     "tags": [
       "book"
     ],
@@ -14234,47 +14328,54 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "fresh lemon juice (from 5 to 6 lemons)",
-            "amount": "8 ounces"
+            "amount": "8 oz",
+            "name": "Fresh Lemon Juice"
           },
           {
-            "name": "fresh lime juice (from approximately 8 limes)",
-            "amount": "8 ounces"
+            "amount": "8 oz",
+            "name": "Fresh Lime Juice"
           },
           {
-            "name": "natural white grape juice",
-            "amount": "4 ounces"
+            "amount": "4 oz",
+            "name": "Natural White Grape Juice"
           },
           {
-            "name": "orange flower water",
-            "amount": "1 ounce"
+            "amount": "1 oz",
+            "name": "Orange Flower Water"
           },
           {
-            "name": "maraschino cherries",
-            "amount": "12"
+            "amount": "12",
+            "name": "Maraschino Cherries"
           },
           {
-            "name": "syrup from maraschino cherries",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Maraschino Cherry Syrup"
           },
           {
-            "name": "sugar",
-            "amount": "3 teaspoons"
+            "amount": "3 tsp",
+            "name": "Sugar"
           },
           {
-            "name": "dashes Peychaud’s bitters",
-            "amount": "6"
+            "amount": "6 dashes",
+            "name": "Peychaud's Bitters"
           },
           {
-            "name": "half slices of orange Ice for serving Club soda",
-            "amount": "6"
+            "amount": "6 half slices",
+            "name": "Orange"
+          },
+          {
+            "amount": "to top",
+            "name": "Club Soda"
           }
         ],
-        "instructions": "Fill a cocktail shaker or tall pitcher with ice and add the lemon and lime juices, grape juice, and orange flower water. Shake or stir vigorously.",
+        "instructions": "Shake or stir the citrus juices, grape juice, and orange flower water with ice. In each rocks glass muddle two cherries, ⅓ ounce cherry syrup, ½ teaspoon sugar, one dash bitters, and a half orange slice. Fill with ice, add the juice mixture, stir vigorously, and top with club soda.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-maraschino-muddle.webp",
-        "usable": false
+        "usable": true,
+        "page": "73-74",
+        "glass": "Rocks glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -14284,46 +14385,52 @@
     ],
     "ingredients": [
       {
-        "name": "fresh lemon juice (from 5 to 6 lemons)",
-        "amount": "8 ounces"
+        "amount": "8 oz",
+        "name": "Fresh Lemon Juice"
       },
       {
-        "name": "fresh lime juice (from approximately 8 limes)",
-        "amount": "8 ounces"
+        "amount": "8 oz",
+        "name": "Fresh Lime Juice"
       },
       {
-        "name": "natural white grape juice",
-        "amount": "4 ounces"
+        "amount": "4 oz",
+        "name": "Natural White Grape Juice"
       },
       {
-        "name": "orange flower water",
-        "amount": "1 ounce"
+        "amount": "1 oz",
+        "name": "Orange Flower Water"
       },
       {
-        "name": "maraschino cherries",
-        "amount": "12"
+        "amount": "12",
+        "name": "Maraschino Cherries"
       },
       {
-        "name": "syrup from maraschino cherries",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Maraschino Cherry Syrup"
       },
       {
-        "name": "sugar",
-        "amount": "3 teaspoons"
+        "amount": "3 tsp",
+        "name": "Sugar"
       },
       {
-        "name": "dashes Peychaud’s bitters",
-        "amount": "6"
+        "amount": "6 dashes",
+        "name": "Peychaud's Bitters"
       },
       {
-        "name": "half slices of orange Ice for serving Club soda",
-        "amount": "6"
+        "amount": "6 half slices",
+        "name": "Orange"
+      },
+      {
+        "amount": "to top",
+        "name": "Club Soda"
       }
     ],
-    "instructions": "Fill a cocktail shaker or tall pitcher with ice and add the lemon and lime juices, grape juice, and orange flower water. Shake or stir vigorously.",
+    "instructions": "Shake or stir the citrus juices, grape juice, and orange flower water with ice. In each rocks glass muddle two cherries, ⅓ ounce cherry syrup, ½ teaspoon sugar, one dash bitters, and a half orange slice. Fill with ice, add the juice mixture, stir vigorously, and top with club soda.",
     "note": "",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "margarita",
@@ -16200,7 +16307,7 @@
     "name": "Mint Julep",
     "category": "Classic",
     "country": "United States",
-    "method": "Built",
+    "method": "Build",
     "tags": [
       "book",
       "classic",
@@ -16230,23 +16337,27 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "fresh mint sprigs",
-            "amount": "6"
+            "amount": "6 sprigs",
+            "name": "Fresh Mint"
           },
           {
-            "name": "Simple Syrup (see page 6) or 2 teaspoons sugar Crushed ice for serving",
-            "amount": "1 ounce"
+            "amount": "1 oz",
+            "name": "Simple Syrup, or 2 tsp sugar"
           },
           {
-            "name": "bourbon",
-            "amount": "4 ounces"
+            "amount": "4 oz",
+            "name": "Bourbon"
           }
         ],
-        "instructions": "Place 2 mint sprigs and ½ ounce simple syrup in the bottom of each rocks glass or julep cup. Muddle well. Fill the glasses or cups with crushed ice and add the bourbon. Stir well, until the glasses or cups are frosted. Garnish with the remaining mint and serve. Note: Place the glasses in the freezer or refrigerator 20 minutes before making the drinks.",
+        "instructions": "Place two mint sprigs and ½ ounce simple syrup in each rocks glass or julep cup and muddle well. Fill with crushed ice, add bourbon, and stir until the vessel frosts.",
         "note": "",
         "creator": "",
         "image": "assets/recipes/ryan-mint-julep.webp",
-        "usable": false
+        "usable": true,
+        "page": "75",
+        "garnish": "Remaining mint",
+        "glass": "Rocks glass or julep cup",
+        "ice": "Crushed ice"
       },
       {
         "label": "Death & Co",
@@ -16278,14 +16389,25 @@
     ],
     "ingredients": [
       {
-        "name": "Garnish",
-        "amount": "to taste"
+        "amount": "6 sprigs",
+        "name": "Fresh Mint"
+      },
+      {
+        "amount": "1 oz",
+        "name": "Simple Syrup, or 2 tsp sugar"
+      },
+      {
+        "amount": "4 oz",
+        "name": "Bourbon"
       }
     ],
-    "instructions": "Pour in bourbon, and mound more ice into the top of the glass. Spank a mint bouquet by clapping it between your hands to release the oils, and garnish.",
+    "instructions": "Place two mint sprigs and ½ ounce simple syrup in each rocks glass or julep cup and muddle well. Fill with crushed ice, add bourbon, and stir until the vessel frosts.",
     "note": "The Mint Julep is one of the more powerful cocktails to be associated with contemporary day drinking—an association that, of course, owes much to the Kentucky Derby, where 120,000 juleps are said to be sold every year. Race and hats not withstanding, this all-American drink actually dates back to the eighteenth century. The exact origins and recipe have no doubt inspired countless dissertations, but, in short, it most likely originated in Virginia in the late 1700s, when it was considered an aristocratic drink. (Who else could afford silver tins and a coveted block of ice used simply for crushing?) Bourbon became the preferred spirit only aft",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Remaining mint",
+    "glass": "Rocks glass or julep cup",
+    "ice": "Crushed ice"
   },
   {
     "id": "miss-ruda",
