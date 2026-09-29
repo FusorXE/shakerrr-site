@@ -832,8 +832,9 @@
           "path": "assets/recipes/ryan-daiquiri-strawberry.webp",
           "source": "Essential Cocktails 2021",
           "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "available": true,
+          "status": "exact-book",
+          "page": "15"
         }
       ]
     },
@@ -2223,8 +2224,9 @@
           "path": "assets/recipes/ryan-mojito-tequila.webp",
           "source": "Essential Cocktails 2021",
           "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "available": true,
+          "status": "exact-book",
+          "page": "26"
         }
       ]
     },
