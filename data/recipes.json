@@ -23696,19 +23696,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Sparkling Wine",
-            "amount": "3 oz"
+            "amount": "2½ oz",
+            "name": "Pimm's Mix"
           },
           {
-            "name": "Lemon Juice",
-            "amount": "¼ oz"
+            "amount": "3 oz",
+            "name": "Sparkling Wine"
+          },
+          {
+            "amount": "1½ oz",
+            "name": "Ginger Ale, preferably Fever-Tree"
+          },
+          {
+            "amount": "¼ oz",
+            "name": "Lemon Juice"
           }
         ],
-        "instructions": "In a 14-ounce Collins glass, combine all ingredients. Add ice and gently stir. Decorate lavishly with cucumber, lemon peel, mint, and berries.",
-        "note": "Erik Adkins wantonly tosses tradition to the wind in his Royal Pimm’s Cup, which is built on a boozy Pimm’s mix of his own making. “The idea of blending different vermouths and Amari shows up in Colin Peter Field’s book The Cocktails of the Ritz Paris,” says Adkins. “Summer Cups are blended to order, and then topped lavishly with sparkling wine.” Because, as Adkins says, “you can add Champagne to anything and call it ‘royal.’”",
-        "creator": "Erik Adkins, Slanted Door, San Francisco, Ca",
+        "instructions": "Combine all ingredients in a 14-ounce Collins glass. Add ice and stir gently.",
+        "note": "The book's Pimm's Mix combines gin, Campari, sweet vermouth, dry vermouth, Dubonnet, and Punt e Mes.",
+        "creator": "Erik Adkins, Slanted Door, San Francisco, CA",
         "image": "assets/recipes/ess-royal-pimms-cup.webp",
-        "usable": false
+        "usable": true,
+        "page": "310",
+        "garnish": "Cucumber, lemon peel, mint sprig, and seasonal berries",
+        "glass": "14-ounce Collins glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -23718,18 +23730,30 @@
     ],
     "ingredients": [
       {
-        "name": "Sparkling Wine",
-        "amount": "3 oz"
+        "amount": "2½ oz",
+        "name": "Pimm's Mix"
       },
       {
-        "name": "Lemon Juice",
-        "amount": "¼ oz"
+        "amount": "3 oz",
+        "name": "Sparkling Wine"
+      },
+      {
+        "amount": "1½ oz",
+        "name": "Ginger Ale, preferably Fever-Tree"
+      },
+      {
+        "amount": "¼ oz",
+        "name": "Lemon Juice"
       }
     ],
-    "instructions": "In a 14-ounce Collins glass, combine all ingredients. Add ice and gently stir. Decorate lavishly with cucumber, lemon peel, mint, and berries.",
-    "note": "Erik Adkins wantonly tosses tradition to the wind in his Royal Pimm’s Cup, which is built on a boozy Pimm’s mix of his own making. “The idea of blending different vermouths and Amari shows up in Colin Peter Field’s book The Cocktails of the Ritz Paris,” says Adkins. “Summer Cups are blended to order, and then topped lavishly with sparkling wine.” Because, as Adkins says, “you can add Champagne to anything and call it ‘royal.’”",
-    "family": "Sparkling",
-    "quality": "limited"
+    "instructions": "Combine all ingredients in a 14-ounce Collins glass. Add ice and stir gently.",
+    "note": "The book's Pimm's Mix combines gin, Campari, sweet vermouth, dry vermouth, Dubonnet, and Punt e Mes.",
+    "family": "Highball",
+    "quality": "verified",
+    "garnish": "Cucumber, lemon peel, mint sprig, and seasonal berries",
+    "glass": "14-ounce Collins glass",
+    "ice": "Ice",
+    "creator": "Erik Adkins, Slanted Door, San Francisco, CA"
   },
   {
     "id": "rum-and-tonic",
@@ -24220,7 +24244,7 @@
     "name": "Scorpion Bowl",
     "category": "Classic",
     "country": null,
-    "method": "Large Format",
+    "method": "Blend",
     "tags": [
       "book",
       "classic"
@@ -24232,19 +24256,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Anejo",
-            "amount": "10 oz"
+            "amount": "10 oz",
+            "name": "Añejo Rum"
           },
           {
-            "name": "Cognac Se Eel",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Cognac"
+          },
+          {
+            "amount": "3 oz",
+            "name": "Orgeat"
+          },
+          {
+            "amount": "4 oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "3 oz",
+            "name": "Orange Juice"
           }
         ],
-        "instructions": "Add all ingredients to a blender with 1 cup crushed ice. Blend quickly and pour into a Scorpion bowl, or portion out into individual tiki mugs. Add several large ice cubes to bowl or mugs. To garnish, add freshly grated cinnamon, cinnamon sticks, a grapefruit peel, orchids, or flaming lime peel. Serve with straws.",
+        "instructions": "Blend all ingredients quickly with 1 cup crushed ice. Pour into a Scorpion bowl or divide among tiki mugs, then add several large ice cubes.",
         "note": "The Scorpion, like many tiki cocktails, has gone through countless iterations, from a gin-and-wine-laced punch to this contemporary version of Trader Vic’s 1946 recipe. It’s difficult to know where the original recipe ends and the contemporary one begins, especially when so much rum is involved. But it is thought that, while in Hawaii, Vic first tried the punch from which the Scorpion was modeled, which mostly likely contained okolehao, an indigenous spirit distilled from the Polynesian ti plant. Orgeat, a syrup made from almonds, is a constant ingredient in most interpretations and is key to the balance of dark rum and fruit.",
         "creator": "Cinnamon, Cinnamon",
         "image": "assets/recipes/ess-scorpion-bowl.webp",
-        "usable": false
+        "usable": true,
+        "page": "170",
+        "garnish": "Freshly grated cinnamon, cinnamon sticks, grapefruit peel, orchids, and/or a flaming lime shell",
+        "glass": "Scorpion bowl or tiki mugs",
+        "ice": "Crushed ice plus large ice cubes"
       }
     ],
     "image": null,
@@ -24254,18 +24294,33 @@
     ],
     "ingredients": [
       {
-        "name": "Anejo",
-        "amount": "10 oz"
+        "amount": "10 oz",
+        "name": "Añejo Rum"
       },
       {
-        "name": "Cognac Se Eel",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Cognac"
+      },
+      {
+        "amount": "3 oz",
+        "name": "Orgeat"
+      },
+      {
+        "amount": "4 oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "3 oz",
+        "name": "Orange Juice"
       }
     ],
-    "instructions": "Add all ingredients to a blender with 1 cup crushed ice. Blend quickly and pour into a Scorpion bowl, or portion out into individual tiki mugs. Add several large ice cubes to bowl or mugs. To garnish, add freshly grated cinnamon, cinnamon sticks, a grapefruit peel, orchids, or flaming lime peel. Serve with straws.",
+    "instructions": "Blend all ingredients quickly with 1 cup crushed ice. Pour into a Scorpion bowl or divide among tiki mugs, then add several large ice cubes.",
     "note": "The Scorpion, like many tiki cocktails, has gone through countless iterations, from a gin-and-wine-laced punch to this contemporary version of Trader Vic’s 1946 recipe. It’s difficult to know where the original recipe ends and the contemporary one begins, especially when so much rum is involved. But it is thought that, while in Hawaii, Vic first tried the punch from which the Scorpion was modeled, which mostly likely contained okolehao, an indigenous spirit distilled from the Polynesian ti plant. Orgeat, a syrup made from almonds, is a constant ingredient in most interpretations and is key to the balance of dark rum and fruit.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified",
+    "garnish": "Freshly grated cinnamon, cinnamon sticks, grapefruit peel, orchids, and/or a flaming lime shell",
+    "glass": "Scorpion bowl or tiki mugs",
+    "ice": "Crushed ice plus large ice cubes"
   },
   {
     "id": "scotch-and-salt",
@@ -24345,7 +24400,7 @@
     "name": "Second Serve",
     "category": "Modern",
     "country": null,
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "amaro",
       "book",
@@ -24358,19 +24413,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Amaro Montenegro",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Amaro Montenegro"
           },
           {
-            "name": "Fino",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Fino Sherry, preferably Valdespino Inocente"
+          },
+          {
+            "amount": "1 oz",
+            "name": "Lime Juice"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Simple Syrup"
+          },
+          {
+            "amount": "to top",
+            "name": "Soda Water"
           }
         ],
-        "instructions": "Add all ingredients, except soda water, to a cocktail shaker. Shake and strain into an ice-filled Collins glass. Top with soda and garnish with an orange slice.",
+        "instructions": "Shake all ingredients except soda water with ice. Strain into an ice-filled Collins glass and top with soda water.",
         "note": "As a lower-alcohol, softer-hitting drink, Second Serve, Dan Greenbaum’s combination of floral Amaro Montenegro (one of the lighter amari) and salty fino sherry, is a friendly Spain vs. Italy matchup in the form of a savory Collins. “The idea was to make a drink that you could have a few of and not get too drunk,” says Greenbaum.",
-        "creator": "Dan Greenbaum, Attaboy, New York, Ny",
+        "creator": "Dan Greenbaum, Attaboy, New York, NY",
         "image": "assets/recipes/ess-second-serve.webp",
-        "usable": false
+        "usable": true,
+        "page": "314",
+        "garnish": "Orange slice",
+        "glass": "Collins glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -24380,18 +24451,34 @@
     ],
     "ingredients": [
       {
-        "name": "Amaro Montenegro",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Amaro Montenegro"
       },
       {
-        "name": "Fino",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Fino Sherry, preferably Valdespino Inocente"
+      },
+      {
+        "amount": "1 oz",
+        "name": "Lime Juice"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Simple Syrup"
+      },
+      {
+        "amount": "to top",
+        "name": "Soda Water"
       }
     ],
-    "instructions": "Add all ingredients, except soda water, to a cocktail shaker. Shake and strain into an ice-filled Collins glass. Top with soda and garnish with an orange slice.",
+    "instructions": "Shake all ingredients except soda water with ice. Strain into an ice-filled Collins glass and top with soda water.",
     "note": "As a lower-alcohol, softer-hitting drink, Second Serve, Dan Greenbaum’s combination of floral Amaro Montenegro (one of the lighter amari) and salty fino sherry, is a friendly Spain vs. Italy matchup in the form of a savory Collins. “The idea was to make a drink that you could have a few of and not get too drunk,” says Greenbaum.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Collins / Fizz",
+    "quality": "verified",
+    "garnish": "Orange slice",
+    "glass": "Collins glass",
+    "ice": "Ice",
+    "creator": "Dan Greenbaum, Attaboy, New York, NY"
   },
   {
     "id": "sergio-leone",
@@ -25243,23 +25330,51 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Cherry Heering",
-            "amount": "¼ oz"
+            "amount": "1½ oz",
+            "name": "London Dry Gin"
           },
           {
-            "name": "COINTREAU Vs OUNCE BENEDICTINE",
-            "amount": "¼ oz"
+            "amount": "¼ oz",
+            "name": "Cherry Heering"
           },
           {
-            "name": "LIME JUICE */s OUNCE PINEAPPLE JUICE AND",
-            "amount": "1 oz"
+            "amount": "¼ oz",
+            "name": "Cointreau"
+          },
+          {
+            "amount": "¼ oz",
+            "name": "Bénédictine"
+          },
+          {
+            "amount": "¼ oz",
+            "name": "Grenadine"
+          },
+          {
+            "amount": "1 oz",
+            "name": "Lime Juice"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Pineapple Juice"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Angostura Bitters"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Soda Water"
           }
         ],
-        "instructions": "Add all ingredients, except soda water, to a cocktail shaker, Add ice and shake until chilled. Strain over ice into a Collins glass. Top with soda. Garnish with a brandied cherry, a pineapple wedge, and a mint sprig.",
+        "instructions": "Shake all ingredients except soda water with ice until chilled. Strain over ice into a Collins glass and top with soda water.",
         "note": "As one of the oldest drink formulas in existence, the basic sling was originally composed simply of spirits, water, and a sweetener. More a tiki-fied punch than a sling, the Singapore Sling was created at the Raffles Hotel in 1915 in balmy Singapore. At that time, it was most likely nothing more than gin, citrus, soda water, and cherry brandy. Over the years, though, it went through a number of hyperbolically sweet phases, some including prebottled mixers and canned juices. Today, the Singapore Sling has been dialed back to its drier incarnation using fresh lime juice and cherry brandy. 1/2 OUNCES GIN, V4 OUNCE GRENADINE 2 OUNCES LONDON DRY (",
         "creator": "1/2 Ounces Gin,",
         "image": "assets/recipes/ess-singapore-sling.webp",
-        "usable": false
+        "usable": true,
+        "page": "178",
+        "garnish": "Brandied cherry, pineapple wedge, and mint sprig",
+        "glass": "Collins glass",
+        "ice": "Ice"
       },
       {
         "label": "Death & Co",
@@ -25306,22 +25421,49 @@
     ],
     "ingredients": [
       {
-        "name": "Cherry Heering",
-        "amount": "¼ oz"
+        "amount": "1½ oz",
+        "name": "London Dry Gin"
       },
       {
-        "name": "COINTREAU Vs OUNCE BENEDICTINE",
-        "amount": "¼ oz"
+        "amount": "¼ oz",
+        "name": "Cherry Heering"
       },
       {
-        "name": "LIME JUICE */s OUNCE PINEAPPLE JUICE AND",
-        "amount": "1 oz"
+        "amount": "¼ oz",
+        "name": "Cointreau"
+      },
+      {
+        "amount": "¼ oz",
+        "name": "Bénédictine"
+      },
+      {
+        "amount": "¼ oz",
+        "name": "Grenadine"
+      },
+      {
+        "amount": "1 oz",
+        "name": "Lime Juice"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Pineapple Juice"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Angostura Bitters"
+      },
+      {
+        "amount": "2 oz",
+        "name": "Soda Water"
       }
     ],
-    "instructions": "Add all ingredients, except soda water, to a cocktail shaker, Add ice and shake until chilled. Strain over ice into a Collins glass. Top with soda. Garnish with a brandied cherry, a pineapple wedge, and a mint sprig.",
+    "instructions": "Shake all ingredients except soda water with ice until chilled. Strain over ice into a Collins glass and top with soda water.",
     "note": "As one of the oldest drink formulas in existence, the basic sling was originally composed simply of spirits, water, and a sweetener. More a tiki-fied punch than a sling, the Singapore Sling was created at the Raffles Hotel in 1915 in balmy Singapore. At that time, it was most likely nothing more than gin, citrus, soda water, and cherry brandy. Over the years, though, it went through a number of hyperbolically sweet phases, some including prebottled mixers and canned juices. Today, the Singapore Sling has been dialed back to its drier incarnation using fresh lime juice and cherry brandy. 1/2 OUNCES GIN, V4 OUNCE GRENADINE 2 OUNCES LONDON DRY (",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Highball",
+    "quality": "verified",
+    "garnish": "Brandied cherry, pineapple wedge, and mint sprig",
+    "glass": "Collins glass",
+    "ice": "Ice"
   },
   {
     "id": "sloe-gin-fizz",
@@ -25688,19 +25830,34 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gin",
-            "amount": "2 oz"
+            "amount": "6–8",
+            "name": "Mint Leaves"
           },
           {
-            "name": "Lime Juice",
-            "amount": "¾ oz"
+            "amount": "¾ oz",
+            "name": "Simple Syrup"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Gin"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Lime Juice"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Orange Bitters"
           }
         ],
-        "instructions": "In a cocktail shaker, gently between your hands to release muddle mint leaves with simple the oils and garnish. syrup. Add all other ingredients,",
+        "instructions": "Gently muddle mint leaves with simple syrup in a shaker. Add the remaining ingredients and ice, shake until chilled, and double strain into a chilled coupe or cocktail glass.",
         "note": "Depending on how you look at the glass, the Southside lands somewhere between a Gin Mojito sans soda water and a Gimlet (page 92) with mint. Though New York’s 21 Club lays claim to the recipe as part of its Prohibition-era menu, some cocktail historians place its conception some forty years earlier at the Southside Sportsmen’s Club, a private establishment on Long Island where tony Manhattanites went to hunt, fish, and drink Mint Juleps—the drink that probably inspired this iteration. The clubby association stuck, and the drink became standard issue for the pearls and nine-iron set, but its light, breezy personality makes ita good conversatio",
         "creator": "",
         "image": "assets/recipes/ess-southside.webp",
-        "usable": false
+        "usable": true,
+        "page": "182",
+        "garnish": "Mint sprig",
+        "glass": "Coupe or cocktail glass"
       }
     ],
     "image": null,
@@ -25710,18 +25867,32 @@
     ],
     "ingredients": [
       {
-        "name": "Gin",
-        "amount": "2 oz"
+        "amount": "6–8",
+        "name": "Mint Leaves"
       },
       {
-        "name": "Lime Juice",
-        "amount": "¾ oz"
+        "amount": "¾ oz",
+        "name": "Simple Syrup"
+      },
+      {
+        "amount": "2 oz",
+        "name": "Gin"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Lime Juice"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Orange Bitters"
       }
     ],
-    "instructions": "In a cocktail shaker, gently between your hands to release muddle mint leaves with simple the oils and garnish. syrup. Add all other ingredients,",
+    "instructions": "Gently muddle mint leaves with simple syrup in a shaker. Add the remaining ingredients and ice, shake until chilled, and double strain into a chilled coupe or cocktail glass.",
     "note": "Depending on how you look at the glass, the Southside lands somewhere between a Gin Mojito sans soda water and a Gimlet (page 92) with mint. Though New York’s 21 Club lays claim to the recipe as part of its Prohibition-era menu, some cocktail historians place its conception some forty years earlier at the Southside Sportsmen’s Club, a private establishment on Long Island where tony Manhattanites went to hunt, fish, and drink Mint Juleps—the drink that probably inspired this iteration. The clubby association stuck, and the drink became standard issue for the pearls and nine-iron set, but its light, breezy personality makes ita good conversatio",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Mint sprig",
+    "glass": "Coupe or cocktail glass"
   },
   {
     "id": "special-daiquiri-no-1",
@@ -25962,23 +26133,27 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Dark Rum, Brandy, Bourbon, Or Rye",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Dark Rum, Brandy, Bourbon, or Rye"
           },
           {
-            "name": "Dash Angostura Bitters",
-            "amount": "1"
+            "amount": "1 dash",
+            "name": "Angostura Bitters"
           },
           {
-            "name": "Fresh- Pressed Apple Cider",
-            "amount": "5 oz"
+            "amount": "5 oz",
+            "name": "Fresh-Pressed Apple Cider"
           }
         ],
-        "instructions": "Add all ingredients to a rocks glass over ice. Garnish with a mint sprig or freshly grated nutmeg.",
+        "instructions": "Build all ingredients in a rocks glass over ice.",
         "note": "Before raiding Fort Ticonderoga at the beginning of the Revolutionary War in 1775, Ethan Allen and the Green Mountain Boys went drinking at the Remington Tavern in Castleton, where they knocked back a mixture of rum and hard cider. Finding only a few dozing guards at the fort, Allen stormed the officers’ quarters and demanded they surrender “in the name of the Great Jehovah and the Continental Congress.” The English didn’t offer Allen much resistance, and Fort Ticonderoga was successfully seized, perhaps thanks to the blood-warming Stone Fence. In Allen’s day, rum and hard cider surely were the backbone of this drink, but as time went on, whi",
         "creator": "2 Ounces Dark Rum,",
         "image": "assets/recipes/ess-stone-fence.webp",
-        "usable": false
+        "usable": true,
+        "page": "185",
+        "garnish": "Mint sprig or freshly grated nutmeg",
+        "glass": "Rocks glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -25988,22 +26163,25 @@
     ],
     "ingredients": [
       {
-        "name": "Dark Rum, Brandy, Bourbon, Or Rye",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Dark Rum, Brandy, Bourbon, or Rye"
       },
       {
-        "name": "Dash Angostura Bitters",
-        "amount": "1"
+        "amount": "1 dash",
+        "name": "Angostura Bitters"
       },
       {
-        "name": "Fresh- Pressed Apple Cider",
-        "amount": "5 oz"
+        "amount": "5 oz",
+        "name": "Fresh-Pressed Apple Cider"
       }
     ],
-    "instructions": "Add all ingredients to a rocks glass over ice. Garnish with a mint sprig or freshly grated nutmeg.",
+    "instructions": "Build all ingredients in a rocks glass over ice.",
     "note": "Before raiding Fort Ticonderoga at the beginning of the Revolutionary War in 1775, Ethan Allen and the Green Mountain Boys went drinking at the Remington Tavern in Castleton, where they knocked back a mixture of rum and hard cider. Finding only a few dozing guards at the fort, Allen stormed the officers’ quarters and demanded they surrender “in the name of the Great Jehovah and the Continental Congress.” The English didn’t offer Allen much resistance, and Fort Ticonderoga was successfully seized, perhaps thanks to the blood-warming Stone Fence. In Allen’s day, rum and hard cider surely were the backbone of this drink, but as time went on, whi",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Highball",
+    "quality": "verified",
+    "garnish": "Mint sprig or freshly grated nutmeg",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "strange-brew",
@@ -26263,7 +26441,7 @@
     "name": "Suppressor #1",
     "category": "Modern",
     "country": null,
-    "method": "Build",
+    "method": "Built",
     "tags": [
       "book",
       "modern"
@@ -26275,19 +26453,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Px Sherry, Preferably Alvear Px 2008",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Dry Vermouth, preferably Dolin"
           },
           {
-            "name": "Lemon Juice",
-            "amount": "2 BARSPOONS"
+            "amount": "1 oz",
+            "name": "Cocchi Americano"
+          },
+          {
+            "amount": "1 oz",
+            "name": "PX Sherry, preferably Alvear PX 2008"
+          },
+          {
+            "amount": "8 drops",
+            "name": "Grapefruit Bitters, preferably Bittermens"
+          },
+          {
+            "amount": "2 barspoons",
+            "name": "Lemon Juice"
           }
         ],
-        "instructions": "Build ingredients over crushed ice in a julep cup. Garnish with an orange peel and a sprig of mint.",
+        "instructions": "Build all ingredients over crushed ice in a julep cup.",
         "note": "As Ticonderoga Club’s Paul Calvert says about drinking Suppressors, “You’re between two places, and you just want to hold the line... . That feeling could last all night.” Fatigued by the trend toward high-alcohol drinks, Calvert and his partner, Greg Best, Atlanta bar legends, went after an entirely different genre of cocktail, setting guidelines for themselves to make drinks “that have delicacy and nuance—the higher-proof shit can’t be in there,” says Calvert. The perfect version of this is Best’s O.G. Suppressor #1, which draws on the most basic building block of low-proof cocktails: fortified wines. Vermouth mixes with the savoriness of s",
-        "creator": "Greg Best, Ticonderoga Club, Atlanta, Ga",
+        "creator": "Greg Best, Ticonderoga Club, Atlanta, GA",
         "image": "assets/recipes/ess-suppressor-1.webp",
-        "usable": false
+        "usable": true,
+        "page": "319",
+        "garnish": "Orange peel and mint sprig",
+        "glass": "Julep cup",
+        "ice": "Crushed ice"
       }
     ],
     "image": null,
@@ -26297,18 +26491,34 @@
     ],
     "ingredients": [
       {
-        "name": "Px Sherry, Preferably Alvear Px 2008",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Dry Vermouth, preferably Dolin"
       },
       {
-        "name": "Lemon Juice",
-        "amount": "2 BARSPOONS"
+        "amount": "1 oz",
+        "name": "Cocchi Americano"
+      },
+      {
+        "amount": "1 oz",
+        "name": "PX Sherry, preferably Alvear PX 2008"
+      },
+      {
+        "amount": "8 drops",
+        "name": "Grapefruit Bitters, preferably Bittermens"
+      },
+      {
+        "amount": "2 barspoons",
+        "name": "Lemon Juice"
       }
     ],
-    "instructions": "Build ingredients over crushed ice in a julep cup. Garnish with an orange peel and a sprig of mint.",
+    "instructions": "Build all ingredients over crushed ice in a julep cup.",
     "note": "As Ticonderoga Club’s Paul Calvert says about drinking Suppressors, “You’re between two places, and you just want to hold the line... . That feeling could last all night.” Fatigued by the trend toward high-alcohol drinks, Calvert and his partner, Greg Best, Atlanta bar legends, went after an entirely different genre of cocktail, setting guidelines for themselves to make drinks “that have delicacy and nuance—the higher-proof shit can’t be in there,” says Calvert. The perfect version of this is Best’s O.G. Suppressor #1, which draws on the most basic building block of low-proof cocktails: fortified wines. Vermouth mixes with the savoriness of s",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Orange peel and mint sprig",
+    "glass": "Julep cup",
+    "ice": "Crushed ice",
+    "creator": "Greg Best, Ticonderoga Club, Atlanta, GA"
   },
   {
     "id": "sweet-lips",
@@ -28398,19 +28608,26 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gin, Preferably Plymouth Or",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Gin, preferably Plymouth or Beefeater 24"
           },
           {
-            "name": "Fino Sherry, Preferably La Ina",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Fino Sherry, preferably La Ina"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "Regans' Orange Bitters"
           }
         ],
-        "instructions": "Add all ingredients to a mixing glass. Add ice and stir well. Strain into a chilled coupe or cocktail glass. Garnish with an orange peel. .",
+        "instructions": "Stir all ingredients with ice until well chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "There are a dozen or so sherry and gin drinks that start to pop up during the twilight years of the nineteenth century and repeat themselves with very slight variations throughout the beginning of the twentieth. Of them all, the Tuxedo, a Martini (page 121) variation that trades sherry for dry vermouth, is the best and most well known. The drink’s name refers to the Tuxedo Park, a sort of early experiment in country club living established in 1886 in Orange County, New York, about 40 miles north of New York City. Tuxedo Park was the birthplace of not only the first complete sewage system in America but also the tail-less suit, which was calle",
         "creator": "2 Ounces Gin,",
         "image": "assets/recipes/ess-tuxedo.webp",
-        "usable": false
+        "usable": true,
+        "page": "190",
+        "garnish": "Orange peel",
+        "glass": "Coupe or cocktail glass"
       }
     ],
     "image": null,
@@ -28420,18 +28637,24 @@
     ],
     "ingredients": [
       {
-        "name": "Gin, Preferably Plymouth Or",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Gin, preferably Plymouth or Beefeater 24"
       },
       {
-        "name": "Fino Sherry, Preferably La Ina",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Fino Sherry, preferably La Ina"
+      },
+      {
+        "amount": "2 dashes",
+        "name": "Regans' Orange Bitters"
       }
     ],
-    "instructions": "Add all ingredients to a mixing glass. Add ice and stir well. Strain into a chilled coupe or cocktail glass. Garnish with an orange peel. .",
+    "instructions": "Stir all ingredients with ice until well chilled. Strain into a chilled coupe or cocktail glass.",
     "note": "There are a dozen or so sherry and gin drinks that start to pop up during the twilight years of the nineteenth century and repeat themselves with very slight variations throughout the beginning of the twentieth. Of them all, the Tuxedo, a Martini (page 121) variation that trades sherry for dry vermouth, is the best and most well known. The drink’s name refers to the Tuxedo Park, a sort of early experiment in country club living established in 1886 in Orange County, New York, about 40 miles north of New York City. Tuxedo Park was the birthplace of not only the first complete sewage system in America but also the tail-less suit, which was calle",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Martini",
+    "quality": "verified",
+    "garnish": "Orange peel",
+    "glass": "Coupe or cocktail glass"
   },
   {
     "id": "under-the-volcano",
@@ -28666,7 +28889,7 @@
     "name": "Vesper",
     "category": "Classic",
     "country": "United States",
-    "method": "Stir",
+    "method": "Stirred",
     "tags": [
       "book",
       "classic",
@@ -28680,23 +28903,26 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gin",
-            "amount": "3 oz"
+            "amount": "3 oz",
+            "name": "Gin"
           },
           {
-            "name": "Vodka",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Vodka"
           },
           {
-            "name": "-3/4 Ounce Lillet Blanc Or 1/2 Ounce Cocchi Americano",
-            "amount": "½"
+            "amount": "½–¾ oz",
+            "name": "Lillet Blanc or ½ oz Cocchi Americano"
           }
         ],
-        "instructions": "Add all ingredients to a mixing glass. Add ice and stir well. Strain into a chilled coupe or cocktail glass. Garnish with a lemon peel.",
+        "instructions": "Stir all ingredients with ice until well chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "James Bond may not have invented the martini, but he was the first bar-goer on record to order the drink in Ian Fleming’s first Bond novel, 1953’s Casino Royale. In it, the protagonist calls for a strong formula of vodka, gin, and Kina Lillet, “shaken, not stirred,” and names the drink for Vesper Lynd, his first and potentially only true love in the series. While Bond fans know his infallibility, cocktail historians have called into question his specification of Kina Lillet—a quinine-infused white wine aperitif whose distillery also produced vermouth—suspecting that he may have intended to use vermouth all along.",
         "creator": "",
         "image": "assets/recipes/ess-vesper.webp",
-        "usable": false
+        "usable": true,
+        "page": "193",
+        "garnish": "Lemon peel",
+        "glass": "Coupe or cocktail glass"
       },
       {
         "label": "Death & Co",
@@ -28727,22 +28953,24 @@
     ],
     "ingredients": [
       {
-        "name": "Gin",
-        "amount": "3 oz"
+        "amount": "3 oz",
+        "name": "Gin"
       },
       {
-        "name": "Vodka",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Vodka"
       },
       {
-        "name": "-3/4 Ounce Lillet Blanc Or 1/2 Ounce Cocchi Americano",
-        "amount": "½"
+        "amount": "½–¾ oz",
+        "name": "Lillet Blanc or ½ oz Cocchi Americano"
       }
     ],
-    "instructions": "Add all ingredients to a mixing glass. Add ice and stir well. Strain into a chilled coupe or cocktail glass. Garnish with a lemon peel.",
+    "instructions": "Stir all ingredients with ice until well chilled. Strain into a chilled coupe or cocktail glass.",
     "note": "James Bond may not have invented the martini, but he was the first bar-goer on record to order the drink in Ian Fleming’s first Bond novel, 1953’s Casino Royale. In it, the protagonist calls for a strong formula of vodka, gin, and Kina Lillet, “shaken, not stirred,” and names the drink for Vesper Lynd, his first and potentially only true love in the series. While Bond fans know his infallibility, cocktail historians have called into question his specification of Kina Lillet—a quinine-infused white wine aperitif whose distillery also produced vermouth—suspecting that he may have intended to use vermouth all along.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Martini",
+    "quality": "verified",
+    "garnish": "Lemon peel",
+    "glass": "Coupe or cocktail glass"
   },
   {
     "id": "vieux-carre",
@@ -29083,7 +29311,7 @@
     "name": "Weathered Axe",
     "category": "Modern",
     "country": null,
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "book",
       "modern"
@@ -29095,19 +29323,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Proof",
-            "amount": "100"
+            "amount": "1½ oz",
+            "name": "Bourbon, 100 Proof"
           },
           {
-            "name": "Cocchi Americano",
-            "amount": "½ oz"
+            "amount": "¾ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Combier"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Cocchi Americano"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Ginger Syrup"
           }
         ],
-        "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a rocks glass over ice. Garnish with a bouquet of mint ora sprig of rosemary and a spritz of absinthe.",
+        "instructions": "Shake all ingredients with ice until chilled. Strain into a rocks glass over ice.",
         "note": "Though it may seem like a breezy summer cocktail, with the inclusion of citrusy Combier and herbal-sweet Cocchi Americano, the Weathered Axe easily transitions into a cold-weather drink with the swap of a garnish. This staple at Chicago’s Scofflaw is traditionally served witha bouquet of fresh, cooling mint that’s hit with a spritz of absinthe, but come January, the evergreen aromatics of rosemary transform the Axe into a savory winter drink.",
-        "creator": "Danny Shapiro, Scofflaw, Chicago, Il",
+        "creator": "Danny Shapiro, Scofflaw, Chicago, IL",
         "image": "assets/recipes/ess-weathered-axe.webp",
-        "usable": false
+        "usable": true,
+        "page": "324",
+        "garnish": "Mint sprig, or rosemary in season, plus a spritz of absinthe",
+        "glass": "Rocks glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -29117,18 +29361,34 @@
     ],
     "ingredients": [
       {
-        "name": "Proof",
-        "amount": "100"
+        "amount": "1½ oz",
+        "name": "Bourbon, 100 Proof"
       },
       {
-        "name": "Cocchi Americano",
-        "amount": "½ oz"
+        "amount": "¾ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Combier"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Cocchi Americano"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Ginger Syrup"
       }
     ],
-    "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a rocks glass over ice. Garnish with a bouquet of mint ora sprig of rosemary and a spritz of absinthe.",
+    "instructions": "Shake all ingredients with ice until chilled. Strain into a rocks glass over ice.",
     "note": "Though it may seem like a breezy summer cocktail, with the inclusion of citrusy Combier and herbal-sweet Cocchi Americano, the Weathered Axe easily transitions into a cold-weather drink with the swap of a garnish. This staple at Chicago’s Scofflaw is traditionally served witha bouquet of fresh, cooling mint that’s hit with a spritz of absinthe, but come January, the evergreen aromatics of rosemary transform the Axe into a savory winter drink.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Mint sprig, or rosemary in season, plus a spritz of absinthe",
+    "glass": "Rocks glass",
+    "ice": "Ice",
+    "creator": "Danny Shapiro, Scofflaw, Chicago, IL"
   },
   {
     "id": "western-sour",
@@ -29361,19 +29621,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Lemon Wheels",
-            "amount": "2"
+            "amount": "1 sprig",
+            "name": "Mint"
           },
           {
-            "name": "Bourbon Or Rye",
-            "amount": "11/2 oz"
+            "amount": "2 dashes",
+            "name": "Simple Syrup"
+          },
+          {
+            "amount": "2",
+            "name": "Lemon Wheels"
+          },
+          {
+            "amount": "1½ oz",
+            "name": "Bourbon or Rye"
           }
         ],
-        "instructions": "SYRUP (PAGE 332) BOURBON OR RYE Ina Collins or rocks glass, gently muddle mint with simple syrup to release oils. Add lemon wheels and muddle to release juice. Add crushed ice or small ice cubes and pour bourbon over. Swizzle gently with a barspoon or swizzle stick to mix. Garnish with a mint spring anda lemon wheel.",
+        "instructions": "In a Collins or rocks glass, gently muddle mint with simple syrup. Add lemon wheels and muddle to release juice. Add crushed ice or small ice cubes, pour in the whiskey, and swizzle gently.",
         "note": "The layman’s Mint Julep, the Whiskey Smash comes with all the flavor of its more famous relative but without the associated frippery (such as tin cups, Derby hats, and more). Jerry Thomas, a nineteenth-century New York bartender, “father of American mixology,” and author of the seminal The Bartender’s Guide, called it “the Julep ona small plan.” A few slices of muddled lemon and a fistful of mint help lift and brighten the flavors, making this potent number dangerously easy to toss back.",
         "creator": "",
         "image": "assets/recipes/ess-whiskey-smash.webp",
-        "usable": false
+        "usable": true,
+        "page": "197",
+        "garnish": "Mint sprig and lemon wheel",
+        "glass": "Collins or rocks glass",
+        "ice": "Crushed ice or small ice cubes"
       }
     ],
     "image": null,
@@ -29383,18 +29655,29 @@
     ],
     "ingredients": [
       {
-        "name": "Lemon Wheels",
-        "amount": "2"
+        "amount": "1 sprig",
+        "name": "Mint"
       },
       {
-        "name": "Bourbon Or Rye",
-        "amount": "11/2 oz"
+        "amount": "2 dashes",
+        "name": "Simple Syrup"
+      },
+      {
+        "amount": "2",
+        "name": "Lemon Wheels"
+      },
+      {
+        "amount": "1½ oz",
+        "name": "Bourbon or Rye"
       }
     ],
-    "instructions": "SYRUP (PAGE 332) BOURBON OR RYE Ina Collins or rocks glass, gently muddle mint with simple syrup to release oils. Add lemon wheels and muddle to release juice. Add crushed ice or small ice cubes and pour bourbon over. Swizzle gently with a barspoon or swizzle stick to mix. Garnish with a mint spring anda lemon wheel.",
+    "instructions": "In a Collins or rocks glass, gently muddle mint with simple syrup. Add lemon wheels and muddle to release juice. Add crushed ice or small ice cubes, pour in the whiskey, and swizzle gently.",
     "note": "The layman’s Mint Julep, the Whiskey Smash comes with all the flavor of its more famous relative but without the associated frippery (such as tin cups, Derby hats, and more). Jerry Thomas, a nineteenth-century New York bartender, “father of American mixology,” and author of the seminal The Bartender’s Guide, called it “the Julep ona small plan.” A few slices of muddled lemon and a fistful of mint help lift and brighten the flavors, making this potent number dangerously easy to toss back.",
-    "family": "Swizzle",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Mint sprig and lemon wheel",
+    "glass": "Collins or rocks glass",
+    "ice": "Crushed ice or small ice cubes"
   },
   {
     "id": "whiskey-sour",
@@ -29575,19 +29858,26 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Suze",
-            "amount": "¾ oz"
+            "amount": "1½ oz",
+            "name": "Gin"
           },
           {
-            "name": "Lillet Blanc",
-            "amount": "1 oz"
+            "amount": "¾ oz",
+            "name": "Suze"
+          },
+          {
+            "amount": "1 oz",
+            "name": "Lillet Blanc"
           }
         ],
-        "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain over ice into a rocks glass, or into a chilled coupe or cocktail glass if serving up, if preferred. Garnish with a lemon peel.",
+        "instructions": "Stir all ingredients with ice until chilled. Strain over ice into a rocks glass, or serve up in a chilled coupe or cocktail glass.",
         "note": "It took more than a hundred years for Suze, a fragrant gentian- based French aperitif, to finally make its way to the United States. For years, bartenders were forced to covertly bring it back from trips to Paris in their suitcases. But now that it’s been here fora few years, it’s become a bit of a bartenders’ darling for its light but bitter edge. Suze is often used as a substitute for potent bitters, such as Campari or amaro, to create less assertive, more aromatic drinks. This version of a Negroni (page 135), adapted from London bartender Wayne Collins’s riff, turns the original on its head by substituting floral Lillet for sweet vermouth",
         "creator": "Wayne Collins, London",
         "image": "assets/recipes/ess-white-negroni.webp",
-        "usable": false
+        "usable": true,
+        "page": "327",
+        "garnish": "Lemon peel",
+        "glass": "Rocks, coupe, or cocktail glass"
       }
     ],
     "image": null,
@@ -29597,18 +29887,25 @@
     ],
     "ingredients": [
       {
-        "name": "Suze",
-        "amount": "¾ oz"
+        "amount": "1½ oz",
+        "name": "Gin"
       },
       {
-        "name": "Lillet Blanc",
-        "amount": "1 oz"
+        "amount": "¾ oz",
+        "name": "Suze"
+      },
+      {
+        "amount": "1 oz",
+        "name": "Lillet Blanc"
       }
     ],
-    "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain over ice into a rocks glass, or into a chilled coupe or cocktail glass if serving up, if preferred. Garnish with a lemon peel.",
+    "instructions": "Stir all ingredients with ice until chilled. Strain over ice into a rocks glass, or serve up in a chilled coupe or cocktail glass.",
     "note": "It took more than a hundred years for Suze, a fragrant gentian- based French aperitif, to finally make its way to the United States. For years, bartenders were forced to covertly bring it back from trips to Paris in their suitcases. But now that it’s been here fora few years, it’s become a bit of a bartenders’ darling for its light but bitter edge. Suze is often used as a substitute for potent bitters, such as Campari or amaro, to create less assertive, more aromatic drinks. This version of a Negroni (page 135), adapted from London bartender Wayne Collins’s riff, turns the original on its head by substituting floral Lillet for sweet vermouth",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Negroni",
+    "quality": "verified",
+    "garnish": "Lemon peel",
+    "glass": "Rocks, coupe, or cocktail glass",
+    "creator": "Wayne Collins, London"
   },
   {
     "id": "white-negroni-sbagliato",
@@ -29627,19 +29924,27 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Suze Tounce Bianco Vermouth, Preferably Carpano",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Suze"
           },
           {
-            "name": "Sparkling Wine, Preferably Prosecco",
-            "amount": "4 oz"
+            "amount": "1 oz",
+            "name": "Bianco Vermouth, preferably Carpano"
+          },
+          {
+            "amount": "4 oz",
+            "name": "Sparkling Wine, preferably Prosecco"
           }
         ],
-        "instructions": "Build ingredients over a large cube in a double old-fashioned or Collins glass. Garnish with a long slice of cucumber and an orange peel.",
+        "instructions": "Build all ingredients over a large ice cube in a double old-fashioned or Collins glass.",
         "note": "Legend has it that the Negroni Sbagliato (page 136), a Negroni that subs sparkling wine for gin, was the happy mistake of a Milanese bartender. But as everyone now knows, a great way to improve on any great drink is to spritz it. There’s no mistake here, as herbal Suze meets bianco vermouth in Toby Cecchini’s sbagliato version of the modern classic White Negroni (page 327).",
-        "creator": "Toby Cecchini, Long Island Bar, Brooklyn, Ny",
+        "creator": "Toby Cecchini, Long Island Bar, Brooklyn, NY",
         "image": "assets/recipes/ess-white-negroni-sbagliato.webp",
-        "usable": false
+        "usable": true,
+        "page": "328",
+        "garnish": "Long cucumber slice and orange peel",
+        "glass": "Double old-fashioned or Collins glass",
+        "ice": "Large ice cube"
       }
     ],
     "image": null,
@@ -29649,18 +29954,26 @@
     ],
     "ingredients": [
       {
-        "name": "Suze Tounce Bianco Vermouth, Preferably Carpano",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Suze"
       },
       {
-        "name": "Sparkling Wine, Preferably Prosecco",
-        "amount": "4 oz"
+        "amount": "1 oz",
+        "name": "Bianco Vermouth, preferably Carpano"
+      },
+      {
+        "amount": "4 oz",
+        "name": "Sparkling Wine, preferably Prosecco"
       }
     ],
-    "instructions": "Build ingredients over a large cube in a double old-fashioned or Collins glass. Garnish with a long slice of cucumber and an orange peel.",
+    "instructions": "Build all ingredients over a large ice cube in a double old-fashioned or Collins glass.",
     "note": "Legend has it that the Negroni Sbagliato (page 136), a Negroni that subs sparkling wine for gin, was the happy mistake of a Milanese bartender. But as everyone now knows, a great way to improve on any great drink is to spritz it. There’s no mistake here, as herbal Suze meets bianco vermouth in Toby Cecchini’s sbagliato version of the modern classic White Negroni (page 327).",
-    "family": "Sparkling",
-    "quality": "limited"
+    "family": "Negroni",
+    "quality": "verified",
+    "garnish": "Long cucumber slice and orange peel",
+    "glass": "Double old-fashioned or Collins glass",
+    "ice": "Large ice cube",
+    "creator": "Toby Cecchini, Long Island Bar, Brooklyn, NY"
   },
   {
     "id": "white-russian",
