@@ -17,52 +17,73 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "62 Guilty vodka",
-            "amount": "14"
+            "amount": "1 tsp",
+            "name": "Cinnamon Water"
           },
           {
-            "name": "fresh lime juice",
-            "amount": "1 oz."
+            "amount": "1½ oz",
+            "name": "Quality Vodka"
           },
           {
-            "name": "fresh orange juice",
-            "amount": "1 oz."
+            "amount": "1 oz",
+            "name": "Fresh Lime Juice"
+          },
+          {
+            "amount": "1 oz",
+            "name": "Fresh Orange Juice"
+          },
+          {
+            "amount": "¼ oz",
+            "name": "Grand Marnier"
           }
         ],
-        "instructions": "shaker filled with ice and shake until chilled. Strain garnish with the dusting",
-        "note": "he trailer for this Christmas classic starring greatest gift of entertainment the screen has ever given you.” The most memorable drink in the movie with liverwurst sandwiches. But that aside, there might also be one of the most unusual food-and- drink pairings in motion picture history: buttermilk is no shortage of pleasurable drinking and toasting in this cheery sing-along flick that pairs old war buddies with their former ge",
+        "instructions": "Shake all ingredients with ice until chilled. Strain into a cocktail glass.",
+        "note": "Paired in the book with White Christmas (1954).",
         "creator": "",
         "image": "assets/recipes/movie-tis-the-seasontini.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "Dusting of cinnamon (optional)",
+        "glass": "Cocktail glass",
+        "page": "33"
       }
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": ""
+      "film": "White Christmas",
+      "year": "1954",
+      "fact": "The book pairs this drink with the 1954 film White Christmas."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "62 Guilty vodka",
-        "amount": "14"
+        "amount": "1 tsp",
+        "name": "Cinnamon Water"
       },
       {
-        "name": "fresh lime juice",
-        "amount": "1 oz."
+        "amount": "1½ oz",
+        "name": "Quality Vodka"
       },
       {
-        "name": "fresh orange juice",
-        "amount": "1 oz."
+        "amount": "1 oz",
+        "name": "Fresh Lime Juice"
+      },
+      {
+        "amount": "1 oz",
+        "name": "Fresh Orange Juice"
+      },
+      {
+        "amount": "¼ oz",
+        "name": "Grand Marnier"
       }
     ],
-    "instructions": "shaker filled with ice and shake until chilled. Strain garnish with the dusting",
-    "note": "he trailer for this Christmas classic starring greatest gift of entertainment the screen has ever given you.” The most memorable drink in the movie with liverwurst sandwiches. But that aside, there might also be one of the most unusual food-and- drink pairings in motion picture history: buttermilk is no shortage of pleasurable drinking and toasting in this cheery sing-along flick that pairs old war buddies with their former ge",
-    "family": "Other",
-    "quality": "limited"
+    "instructions": "Shake all ingredients with ice until chilled. Strain into a cocktail glass.",
+    "note": "Paired in the book with White Christmas (1954).",
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Dusting of cinnamon (optional)",
+    "glass": "Cocktail glass"
   },
   {
     "id": "absinthe-frappe",
@@ -2630,52 +2651,81 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "rye whiskey",
-            "amount": "2 oz."
+            "amount": "2 oz",
+            "name": "Rye Whiskey"
           },
           {
-            "name": "Cognac",
-            "amount": "4 oz."
+            "amount": "½ oz",
+            "name": "Bonal Gentiane-Quina"
           },
           {
-            "name": "Luxardo",
-            "amount": "1"
+            "amount": "¼ oz",
+            "name": "Cognac"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Angostura Bitters"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Peychaud's Bitters"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Amaretto"
           }
         ],
-        "instructions": "Place the cocktail stir until chilled. Strain",
-        "note": "ven if you havent seen this adaptation of the Williarm Goldman novel, chances are pretty good that you've come across the iconic scene where the highly, and rightly, celebrated Laurence Olivier tortures Dustin Hoffman with a dentist’s drill. That over-the-top moment is right in line with a story that sees Hoffman go from nebbish graduate student in history to fighter of Nazi diamond smugglers in a matter of minutes. While some",
+        "instructions": "Stir all ingredients with ice until chilled. Strain into a coupe.",
+        "note": "Paired in the book with Marathon Man (1976).",
         "creator": "",
         "image": "assets/recipes/movie-blood-lust-diamonds.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "1 Luxardo maraschino cherry",
+        "glass": "Coupe",
+        "page": "90"
       }
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": "During a scene where he is held"
+      "film": "Marathon Man",
+      "year": "1976",
+      "fact": "The book pairs this drink with Marathon Man."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "rye whiskey",
-        "amount": "2 oz."
+        "amount": "2 oz",
+        "name": "Rye Whiskey"
       },
       {
-        "name": "Cognac",
-        "amount": "4 oz."
+        "amount": "½ oz",
+        "name": "Bonal Gentiane-Quina"
       },
       {
-        "name": "Luxardo",
-        "amount": "1"
+        "amount": "¼ oz",
+        "name": "Cognac"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Angostura Bitters"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Peychaud's Bitters"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Amaretto"
       }
     ],
-    "instructions": "Place the cocktail stir until chilled. Strain",
-    "note": "ven if you havent seen this adaptation of the Williarm Goldman novel, chances are pretty good that you've come across the iconic scene where the highly, and rightly, celebrated Laurence Olivier tortures Dustin Hoffman with a dentist’s drill. That over-the-top moment is right in line with a story that sees Hoffman go from nebbish graduate student in history to fighter of Nazi diamond smugglers in a matter of minutes. While some",
-    "family": "Other",
-    "quality": "limited"
+    "instructions": "Stir all ingredients with ice until chilled. Strain into a coupe.",
+    "note": "Paired in the book with Marathon Man (1976).",
+    "family": "Manhattan",
+    "quality": "verified",
+    "garnish": "1 Luxardo maraschino cherry",
+    "glass": "Coupe"
   },
   {
     "id": "bloody-maria",
@@ -7936,52 +7986,67 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "dashes of",
-            "amount": "4"
+            "amount": "1½ oz",
+            "name": "Bourbon"
           },
           {
-            "name": "sprig of mint,",
-            "amount": "1"
+            "amount": "¾ oz",
+            "name": "Mint and Lemon Verbena Syrup"
           },
           {
-            "name": "Ferrari 250 GT California Spyder? According to an",
-            "amount": "1961"
+            "amount": "¾ oz",
+            "name": "Fresh Lemon Juice"
+          },
+          {
+            "amount": "4 dashes",
+            "name": "Angostura Bitters"
           }
         ],
-        "instructions": "Place all of the cocktail shaker filled with ice and shake vigorously. Strain",
-        "note": "he number of iconic lines in this classic John Hughes movie is only outweighed by its box (Matthew Broderick) sets his latest “sick day” plan in motion with the help of his best friend Cameron Frye (Alan Ruck), and a fair amount of pure Showered with critical acclaim on its release, this film was preserved in the National Film Registry ~own Ferrari Named Desire and say danke schon to Artcurial auction in 2015 where an unrestor",
+        "instructions": "Shake all ingredients except the bitters with ice. Strain into a rocks glass filled with ice, top with the bitters, and garnish.",
+        "note": "Paired in the book with Ferris Bueller's Day Off (1986).",
         "creator": "",
         "image": "assets/recipes/movie-ferrari-named-desire.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "1 sprig of mint",
+        "glass": "Rocks glass",
+        "ice": "Ice",
+        "page": "122"
       }
     ],
     "image": null,
     "movie": {
-      "film": "Ferris Bueller S Day Off",
+      "film": "Ferris Bueller's Day Off",
       "year": "1986",
-      "fact": ""
+      "fact": "The book pairs this drink with Ferris Bueller's Day Off."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "dashes of",
-        "amount": "4"
+        "amount": "1½ oz",
+        "name": "Bourbon"
       },
       {
-        "name": "sprig of mint,",
-        "amount": "1"
+        "amount": "¾ oz",
+        "name": "Mint and Lemon Verbena Syrup"
       },
       {
-        "name": "Ferrari 250 GT California Spyder? According to an",
-        "amount": "1961"
+        "amount": "¾ oz",
+        "name": "Fresh Lemon Juice"
+      },
+      {
+        "amount": "4 dashes",
+        "name": "Angostura Bitters"
       }
     ],
-    "instructions": "Place all of the cocktail shaker filled with ice and shake vigorously. Strain",
-    "note": "he number of iconic lines in this classic John Hughes movie is only outweighed by its box (Matthew Broderick) sets his latest “sick day” plan in motion with the help of his best friend Cameron Frye (Alan Ruck), and a fair amount of pure Showered with critical acclaim on its release, this film was preserved in the National Film Registry ~own Ferrari Named Desire and say danke schon to Artcurial auction in 2015 where an unrestor",
-    "family": "Other",
-    "quality": "limited"
+    "instructions": "Shake all ingredients except the bitters with ice. Strain into a rocks glass filled with ice, top with the bitters, and garnish.",
+    "note": "Paired in the book with Ferris Bueller's Day Off (1986).",
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "1 sprig of mint",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "filibuster",
@@ -9164,19 +9229,22 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gin",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Gin"
           },
           {
-            "name": "Dry Vermouth",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Dry Vermouth"
           }
         ],
-        "instructions": "Add all ingredients to a mixing NOTE Fora quick pickled glass. Add ice and stir until cocktail onion, peel a handful",
+        "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "This cocktail is a good example of how powerful a garnish can be. Here, a tiny pearlescent onion transforms a bitters-less martini into an entirely new drink: the Gibson. The usual historical squabbles exist about the drink’s origins and namesake (in short: at San Francisco’s Bohemian Club in the 1890s for Walter D. K. Gibson, or for illustrator Charles Dana Gibson, among many others), but no one can seem to pinpoint when or why a pickled onion made it into the recipe, as the earliest versions did not call for it. By the mid-twentieth century, though, the Gibson—onion included—appeared to represent a challenge to the martini in terms of cultu",
         "creator": "",
         "image": "assets/recipes/ess-gibson.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "Cocktail onion",
+        "glass": "Coupe or cocktail glass",
+        "page": "91"
       },
       {
         "label": "Cocktails from Movies",
@@ -9192,9 +9260,9 @@
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": "Three-time Academy Award nominee"
+      "film": "Downhill Racer",
+      "year": "1969",
+      "fact": "Hollywood Cocktails pairs the Gibson with Downhill Racer."
     },
     "collections": [
       "Cocktails from Movies",
@@ -9202,18 +9270,20 @@
     ],
     "ingredients": [
       {
-        "name": "Gin",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Gin"
       },
       {
-        "name": "Dry Vermouth",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Dry Vermouth"
       }
     ],
-    "instructions": "Add all ingredients to a mixing NOTE Fora quick pickled glass. Add ice and stir until cocktail onion, peel a handful",
+    "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
     "note": "This cocktail is a good example of how powerful a garnish can be. Here, a tiny pearlescent onion transforms a bitters-less martini into an entirely new drink: the Gibson. The usual historical squabbles exist about the drink’s origins and namesake (in short: at San Francisco’s Bohemian Club in the 1890s for Walter D. K. Gibson, or for illustrator Charles Dana Gibson, among many others), but no one can seem to pinpoint when or why a pickled onion made it into the recipe, as the earliest versions did not call for it. By the mid-twentieth century, though, the Gibson—onion included—appeared to represent a challenge to the martini in terms of cultu",
     "family": "Martini",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Cocktail onion",
+    "glass": "Coupe or cocktail glass"
   },
   {
     "id": "gimlet",
@@ -12047,76 +12117,89 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "Ve, we've modified the Kitchen Sink'to live up to",
-            "amount": "2"
+            "amount": "½ oz",
+            "name": "Vodka"
           },
           {
-            "name": "vodka",
-            "amount": "/ oz."
+            "amount": "½ oz",
+            "name": "Gin"
           },
           {
-            "name": "02. gin",
-            "amount": "/"
+            "amount": "½ oz",
+            "name": "Rum"
           },
           {
-            "name": "07. tequila",
-            "amount": "/"
+            "amount": "½ oz",
+            "name": "Tequila"
           },
           {
-            "name": "02. blue Curagao",
-            "amount": "/"
+            "amount": "½ oz",
+            "name": "Blue Curaçao"
           },
           {
-            "name": "pineapple juice",
-            "amount": "2 oz."
+            "amount": "2 oz",
+            "name": "Pineapple Juice"
+          },
+          {
+            "amount": "1 splash",
+            "name": "Sprite"
           }
         ],
-        "instructions": "Place the cocktail shaker filled with ice and shake until chilled. Strain",
-        "note": "ourth-wall breaks and doughnut creations beware, Wayne Campbell (Mike Myers) and Garth Algar (Dana Carvey) are loose in the world. After their public-access TV show, Wayne’s World, is purchased by a television producer, Wayne finds himself fighting for the affection of Cassandra (Tia Carrere). Full of goofs and the lovably eccentric Garth's wacky inventions (we'll never look at a tuning fork the same way again), this cult clas",
+        "instructions": "Shake the cocktail ingredients with ice until chilled. Strain over ice into the container of your choice.",
+        "note": "Paired in the book with Wayne's World (1992).",
         "creator": "",
         "image": "assets/recipes/movie-kitchen-sink.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "Anything and everything you want",
+        "ice": "Ice",
+        "page": "145"
       }
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": "Wayne's World is credited with helping"
+      "film": "Wayne's World",
+      "year": "1992",
+      "fact": "The book pairs this deliberately over-the-top drink with Wayne's World."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "Ve, we've modified the Kitchen Sink'to live up to",
-        "amount": "2"
+        "amount": "½ oz",
+        "name": "Vodka"
       },
       {
-        "name": "vodka",
-        "amount": "/ oz."
+        "amount": "½ oz",
+        "name": "Gin"
       },
       {
-        "name": "02. gin",
-        "amount": "/"
+        "amount": "½ oz",
+        "name": "Rum"
       },
       {
-        "name": "07. tequila",
-        "amount": "/"
+        "amount": "½ oz",
+        "name": "Tequila"
       },
       {
-        "name": "02. blue Curagao",
-        "amount": "/"
+        "amount": "½ oz",
+        "name": "Blue Curaçao"
       },
       {
-        "name": "pineapple juice",
-        "amount": "2 oz."
+        "amount": "2 oz",
+        "name": "Pineapple Juice"
+      },
+      {
+        "amount": "1 splash",
+        "name": "Sprite"
       }
     ],
-    "instructions": "Place the cocktail shaker filled with ice and shake until chilled. Strain",
-    "note": "ourth-wall breaks and doughnut creations beware, Wayne Campbell (Mike Myers) and Garth Algar (Dana Carvey) are loose in the world. After their public-access TV show, Wayne’s World, is purchased by a television producer, Wayne finds himself fighting for the affection of Cassandra (Tia Carrere). Full of goofs and the lovably eccentric Garth's wacky inventions (we'll never look at a tuning fork the same way again), this cult clas",
+    "instructions": "Shake the cocktail ingredients with ice until chilled. Strain over ice into the container of your choice.",
+    "note": "Paired in the book with Wayne's World (1992).",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Anything and everything you want",
+    "ice": "Ice"
   },
   {
     "id": "kiwi-margarita",
@@ -12204,76 +12287,83 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "Irish whiskey",
-            "amount": "2 oz."
+            "amount": "2 oz",
+            "name": "Irish Whiskey"
           },
           {
-            "name": "honey syrup",
-            "amount": "4 oz."
+            "amount": "¾ oz",
+            "name": "Fresh Lemon Juice"
           },
           {
-            "name": "02. apricot liqueur",
-            "amount": "/"
+            "amount": "½ oz",
+            "name": "Honey Syrup"
           },
           {
-            "name": "sherry",
-            "amount": "/ oz."
+            "amount": "½ oz",
+            "name": "Apricot Liqueur"
           },
           {
-            "name": "egg white",
-            "amount": "1"
+            "amount": "½ oz",
+            "name": "Sherry"
           },
           {
-            "name": "sprig of tarragon,",
-            "amount": "1"
+            "amount": "1",
+            "name": "Egg White"
           }
         ],
-        "instructions": "Place the cocktail shaker filled with ice Strain the cocktail, dump",
-        "note": "ith a boost from the sloppy cover- up that _ produced the Watergate firestorm, Three most beloved spy thrillers in cinema history. With real-world evidence of shady government workings fresh in people's minds, the prospect of bookish CIA agent Turner (Robert Redford) returning from believable. Once you have that leg up, getting people to root for Redford to outwit the clunky, cold-blooded bureaucracy that’s trying to track him",
+        "instructions": "Shake all ingredients with ice. Strain, discard the ice, return the cocktail to the shaker, and dry shake for 20 seconds. Strain into a rocks glass filled with ice.",
+        "note": "Paired in the book with Three Days of the Condor (1975).",
         "creator": "",
         "image": "assets/recipes/movie-knight-takes-bishop.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "1 sprig of tarragon",
+        "glass": "Rocks glass",
+        "ice": "Ice",
+        "page": "86"
       }
     ],
     "image": null,
     "movie": {
-      "film": "Three Days Of The Condor",
+      "film": "Three Days of the Condor",
       "year": "1975",
-      "fact": ""
+      "fact": "The book pairs this drink with Three Days of the Condor."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "Irish whiskey",
-        "amount": "2 oz."
+        "amount": "2 oz",
+        "name": "Irish Whiskey"
       },
       {
-        "name": "honey syrup",
-        "amount": "4 oz."
+        "amount": "¾ oz",
+        "name": "Fresh Lemon Juice"
       },
       {
-        "name": "02. apricot liqueur",
-        "amount": "/"
+        "amount": "½ oz",
+        "name": "Honey Syrup"
       },
       {
-        "name": "sherry",
-        "amount": "/ oz."
+        "amount": "½ oz",
+        "name": "Apricot Liqueur"
       },
       {
-        "name": "egg white",
-        "amount": "1"
+        "amount": "½ oz",
+        "name": "Sherry"
       },
       {
-        "name": "sprig of tarragon,",
-        "amount": "1"
+        "amount": "1",
+        "name": "Egg White"
       }
     ],
-    "instructions": "Place the cocktail shaker filled with ice Strain the cocktail, dump",
-    "note": "ith a boost from the sloppy cover- up that _ produced the Watergate firestorm, Three most beloved spy thrillers in cinema history. With real-world evidence of shady government workings fresh in people's minds, the prospect of bookish CIA agent Turner (Robert Redford) returning from believable. Once you have that leg up, getting people to root for Redford to outwit the clunky, cold-blooded bureaucracy that’s trying to track him",
-    "family": "Other",
-    "quality": "limited"
+    "instructions": "Shake all ingredients with ice. Strain, discard the ice, return the cocktail to the shaker, and dry shake for 20 seconds. Strain into a rocks glass filled with ice.",
+    "note": "Paired in the book with Three Days of the Condor (1975).",
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "1 sprig of tarragon",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "la-bomba-daiquiri",
@@ -19782,30 +19872,37 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "London dry gin",
-            "amount": "2 oz."
+            "amount": "2 oz",
+            "name": "London Dry Gin"
           },
           {
-            "name": "Luxardo",
-            "amount": "1"
+            "amount": "1",
+            "name": "Egg White"
           },
           {
-            "name": "seconds. Add ice and",
-            "amount": "10"
+            "amount": "½ oz",
+            "name": "Grenadine"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Fresh Lemon Juice"
           }
         ],
-        "instructions": "Place the cocktail shaker containing no shake vigorously until",
-        "note": "igh school never looked like this. Featuring actors well beyond their adolescence — filming, and Stockard Channing was 33 —catchy songs, and flashy choreography, Grease distills the complicated experience of teenage life into a slick, easily consumable package that continues to go down easy. Featuring John Travolta at the peak of his powers and a ‘5QOs sheen that always provides a welcome escape from a world increasingly incli",
+        "instructions": "Dry shake without ice for 10 seconds. Add ice and shake vigorously until chilled. Strain into a coupe.",
+        "note": "Paired in the book with Grease (1978).",
         "creator": "",
         "image": "assets/recipes/movie-pink-lady.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "1 Luxardo maraschino cherry",
+        "glass": "Coupe",
+        "page": "97"
       }
     ],
     "image": null,
     "movie": {
       "film": "Grease",
       "year": "1978",
-      "fact": ""
+      "fact": "The book pairs this drink with Grease."
     },
     "collections": [
       "Cocktails from Movies",
@@ -19813,19 +19910,28 @@
     ],
     "ingredients": [
       {
-        "name": "Lemon Juice",
-        "amount": "¾ oz"
+        "amount": "2 oz",
+        "name": "London Dry Gin"
       },
       {
-        "name": "Egg White",
-        "amount": "1"
+        "amount": "1",
+        "name": "Egg White"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Grenadine"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Fresh Lemon Juice"
       }
     ],
-    "instructions": "Dry shake all the ingredients, then shake again with ice.",
-    "note": "Double strain into a rocks glass over 1 large ice cube.",
-    "family": "Other",
-    "garnish": "3 Brandied Cherries On A",
-    "quality": "limited"
+    "instructions": "Dry shake without ice for 10 seconds. Add ice and shake vigorously until chilled. Strain into a coupe.",
+    "note": "Paired in the book with Grease (1978).",
+    "family": "Sour",
+    "garnish": "1 Luxardo maraschino cherry",
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "pisco-punch",
@@ -22854,23 +22960,26 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Sake, Preferably Dry To Medium Body",
-            "amount": "2172 oz"
+            "amount": "2½ oz",
+            "name": "Sake, preferably dry to medium body"
           },
           {
-            "name": "Maraschino Liqueur, Preferably Luxardo",
-            "amount": "¼ tsp"
+            "amount": "1 oz",
+            "name": "Gin"
           },
           {
-            "name": "Salted Cherry Blossom",
-            "amount": "to taste"
+            "amount": "¼ tsp",
+            "name": "Maraschino Liqueur, preferably Luxardo"
           }
         ],
-        "instructions": "Combine all ingredients in a mixing glass. Add ice and stir until chilled. Strain into a coupe and garnish with a salted cherry blossom.",
+        "instructions": "Combine all ingredients in a mixing glass. Add ice and stir until chilled. Strain into a coupe.",
         "note": "In Bar Goto’s house martini, a salted cherry blossom is a brilliant and astoundingly beautiful replacement for the hint of saltiness that an olive typically brings. Here, the Martini formula is inverted, with gin acting as an accent to a dry, vinous sake base, combined with maraschino’s subtle floral notes and sweetness. Owner Kenta Goto sources the cherry blossoms through a Japanese importer, but you can buy them on Amazon, too.",
-        "creator": "Kenta Goto, Bar Goto, New York, Ny",
+        "creator": "Kenta Goto, Bar Goto, New York, NY",
         "image": "assets/recipes/ess-sakura-martini.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "Salted cherry blossom",
+        "glass": "Coupe",
+        "page": "313"
       },
       {
         "label": "Cocktails from Movies",
@@ -22886,9 +22995,9 @@
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": "Scenes that take place on a ship were shot"
+      "film": "The Bridges at Toko-Ri",
+      "year": "1954",
+      "fact": "Hollywood Cocktails pairs the Sakura Martini with The Bridges at Toko-Ri."
     },
     "collections": [
       "Cocktails from Movies",
@@ -22896,22 +23005,24 @@
     ],
     "ingredients": [
       {
-        "name": "Sake, Preferably Dry To Medium Body",
-        "amount": "2172 oz"
+        "amount": "2½ oz",
+        "name": "Sake, preferably dry to medium body"
       },
       {
-        "name": "Maraschino Liqueur, Preferably Luxardo",
-        "amount": "¼ tsp"
+        "amount": "1 oz",
+        "name": "Gin"
       },
       {
-        "name": "Salted Cherry Blossom",
-        "amount": "to taste"
+        "amount": "¼ tsp",
+        "name": "Maraschino Liqueur, preferably Luxardo"
       }
     ],
-    "instructions": "Combine all ingredients in a mixing glass. Add ice and stir until chilled. Strain into a coupe and garnish with a salted cherry blossom.",
+    "instructions": "Combine all ingredients in a mixing glass. Add ice and stir until chilled. Strain into a coupe.",
     "note": "In Bar Goto’s house martini, a salted cherry blossom is a brilliant and astoundingly beautiful replacement for the hint of saltiness that an olive typically brings. Here, the Martini formula is inverted, with gin acting as an accent to a dry, vinous sake base, combined with maraschino’s subtle floral notes and sweetness. Owner Kenta Goto sources the cherry blossoms through a Japanese importer, but you can buy them on Amazon, too.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Martini",
+    "quality": "verified",
+    "garnish": "Salted cherry blossom",
+    "glass": "Coupe"
   },
   {
     "id": "santa-domingo",
@@ -25903,76 +26014,65 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "and cinematography alone were enough",
-            "amount": "."
+            "amount": "2 oz",
+            "name": "Punt e Mes Vermouth"
           },
           {
-            "name": "Punt e Mes",
-            "amount": "2 oz."
+            "amount": "1 oz",
+            "name": "Overproof Rum (Plantation preferred)"
           },
           {
-            "name": "overproof rum",
-            "amount": "1 oz."
+            "amount": "½ tsp",
+            "name": "Gran Classico"
           },
           {
-            "name": "gran classics. :",
-            "amount": "/ teaspoon"
-          },
-          {
-            "name": "drops of orange bitters",
-            "amount": "14"
-          },
-          {
-            "name": "orange — for garnish",
-            "amount": "1"
+            "amount": "14 drops",
+            "name": "Orange Bitters"
           }
         ],
-        "instructions": "Place the cocktail filled with ice and stir until chilled. Strain",
-        "note": "oes the Academy Award for Best Original : Screenplay. John Book (Harrison Ford) finds - himself on the run after exposing corruption in his His only allies come inthe form of an Amish family whose son was witness to a murder. Balanced between both societies, Book makes the orld he was welcomed into, and chooses the fight",
+        "instructions": "Stir all ingredients with ice until chilled. Strain into a double rocks glass.",
+        "note": "Paired in the book with Witness (1985).",
         "creator": "",
         "image": "assets/recipes/movie-the-hardest-walk.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "1 orange twist",
+        "glass": "Double rocks glass",
+        "page": "121"
       }
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": ""
+      "film": "Witness",
+      "year": "1985",
+      "fact": "The book pairs this drink with Witness."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "and cinematography alone were enough",
-        "amount": "."
+        "amount": "2 oz",
+        "name": "Punt e Mes Vermouth"
       },
       {
-        "name": "Punt e Mes",
-        "amount": "2 oz."
+        "amount": "1 oz",
+        "name": "Overproof Rum (Plantation preferred)"
       },
       {
-        "name": "overproof rum",
-        "amount": "1 oz."
+        "amount": "½ tsp",
+        "name": "Gran Classico"
       },
       {
-        "name": "gran classics. :",
-        "amount": "/ teaspoon"
-      },
-      {
-        "name": "drops of orange bitters",
-        "amount": "14"
-      },
-      {
-        "name": "orange — for garnish",
-        "amount": "1"
+        "amount": "14 drops",
+        "name": "Orange Bitters"
       }
     ],
-    "instructions": "Place the cocktail filled with ice and stir until chilled. Strain",
-    "note": "oes the Academy Award for Best Original : Screenplay. John Book (Harrison Ford) finds - himself on the run after exposing corruption in his His only allies come inthe form of an Amish family whose son was witness to a murder. Balanced between both societies, Book makes the orld he was welcomed into, and chooses the fight",
-    "family": "Other",
-    "quality": "limited"
+    "instructions": "Stir all ingredients with ice until chilled. Strain into a double rocks glass.",
+    "note": "Paired in the book with Witness (1985).",
+    "family": "Manhattan",
+    "quality": "verified",
+    "garnish": "1 orange twist",
+    "glass": "Double rocks glass"
   },
   {
     "id": "the-high-roller",
@@ -26853,19 +26953,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gin %/4 Ounce Lemon Juice",
-            "amount": "1½ oz"
+            "amount": "1½ oz",
+            "name": "Gin"
           },
           {
-            "name": "SODA WATER, TOTOP aN",
-            "amount": "to taste"
+            "amount": "¾ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Simple Syrup"
+          },
+          {
+            "amount": "to top",
+            "name": "Soda Water"
           }
         ],
-        "instructions": "Add gin, lemon juice, and simple syrup toa cocktail shaker. Add ice and shake until chilled. Strain over ice into a Collins glass. Top with soda water. Garnish with a brandied cherry and an orange wheel.",
+        "instructions": "Shake gin, lemon juice, and simple syrup with ice until chilled. Strain over ice into a Collins glass and top with soda water.",
         "note": "The American side of the story goes that the Tom Collins evolved from the “The Great Tom Collins Hoax” of 1874, in which pranksters would tell a friend they had run into one “Tom Collins” at a bar around the corner and that he’d said some slanderous things about said friend. Said friend would then leave to hunt down “Tom Collins” at the bar around the corner, sparking a goose chase of perhaps not-so-epic proportions. But there’s also the British side, which (more likely) suggests that the Tom Collins was the creation of London bartender John Collins, who dreamed up an eponymous gin punch in the latter half of the nineteenth century, and, when",
         "creator": "Soda Water, Totop",
         "image": "assets/recipes/ess-tom-collins.webp",
-        "usable": false
+        "usable": true,
+        "garnish": "Brandied cherry and orange wheel",
+        "glass": "Collins glass",
+        "ice": "Ice",
+        "page": "189"
       },
       {
         "label": "Essential Cocktails 2021",
@@ -26937,9 +27049,9 @@
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": ""
+      "film": "Chinatown",
+      "year": "1974",
+      "fact": "Hollywood Cocktails discusses the Tom Collins in Chinatown."
     },
     "collections": [
       "Cocktails from Movies",
@@ -26949,18 +27061,29 @@
     ],
     "ingredients": [
       {
-        "name": "Gin %/4 Ounce Lemon Juice",
-        "amount": "1½ oz"
+        "amount": "1½ oz",
+        "name": "Gin"
       },
       {
-        "name": "SODA WATER, TOTOP aN",
-        "amount": "to taste"
+        "amount": "¾ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Simple Syrup"
+      },
+      {
+        "amount": "to top",
+        "name": "Soda Water"
       }
     ],
-    "instructions": "Add gin, lemon juice, and simple syrup toa cocktail shaker. Add ice and shake until chilled. Strain over ice into a Collins glass. Top with soda water. Garnish with a brandied cherry and an orange wheel.",
+    "instructions": "Shake gin, lemon juice, and simple syrup with ice until chilled. Strain over ice into a Collins glass and top with soda water.",
     "note": "The American side of the story goes that the Tom Collins evolved from the “The Great Tom Collins Hoax” of 1874, in which pranksters would tell a friend they had run into one “Tom Collins” at a bar around the corner and that he’d said some slanderous things about said friend. Said friend would then leave to hunt down “Tom Collins” at the bar around the corner, sparking a goose chase of perhaps not-so-epic proportions. But there’s also the British side, which (more likely) suggests that the Tom Collins was the creation of London bartender John Collins, who dreamed up an eponymous gin punch in the latter half of the nineteenth century, and, when",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Brandied cherry and orange wheel",
+    "glass": "Collins glass",
+    "ice": "Ice"
   },
   {
     "id": "tommy-and-the-ron-dels",
@@ -28209,19 +28332,28 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Bourbon",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Bourbon"
           },
           {
-            "name": "Lemon Juice",
-            "amount": "¾ oz"
+            "amount": "¾ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Simple Syrup"
+          },
+          {
+            "amount": "½ oz or 1 small",
+            "name": "Egg White (optional)"
           }
         ],
-        "instructions": "Add all ingredients to a cocktail shaker, and dry shake. Add ice to the shaker and shake well. Strain into a chilled coupe or cocktail glass or over ice into a rocks glass.",
+        "instructions": "Dry shake all ingredients. Add ice and shake well. Strain into a chilled coupe or cocktail glass, or over ice into a rocks glass.",
         "note": "The template for this iconic sour—whiskey, lemon juice, and sugar, shaken over ice—has laid the foundation for many cocktails due to its structural, unadorned simplicity. Most bartenders will kick the drink up with the dramatic flourish of an herbal or fruit liqueur, which gives nice complexity, but the Whiskey Sour isn’t begging for all that adornment. Merely adding an egg white (creating what’s known as a Boston Sour) can take the concoction to a new flufted- up, ethereal place. For a more vibrant route, top with a red wine float to transform it into the New York Sour (page 138), a variation that popped up in the late 1800s.",
         "creator": "",
         "image": "assets/recipes/ess-whiskey-sour.webp",
-        "usable": false
+        "usable": true,
+        "page": "198"
       },
       {
         "label": "Death & Co",
@@ -28257,9 +28389,9 @@
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": "After a rocky start, Patriot Games went"
+      "film": "Patriot Games",
+      "year": "1992",
+      "fact": "Hollywood Cocktails pairs a Whiskey Sour with Patriot Games."
     },
     "collections": [
       "Cocktails from Movies",
@@ -28268,18 +28400,26 @@
     ],
     "ingredients": [
       {
-        "name": "Bourbon",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Bourbon"
       },
       {
-        "name": "Lemon Juice",
-        "amount": "¾ oz"
+        "amount": "¾ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Simple Syrup"
+      },
+      {
+        "amount": "½ oz or 1 small",
+        "name": "Egg White (optional)"
       }
     ],
-    "instructions": "Add all ingredients to a cocktail shaker, and dry shake. Add ice to the shaker and shake well. Strain into a chilled coupe or cocktail glass or over ice into a rocks glass.",
+    "instructions": "Dry shake all ingredients. Add ice and shake well. Strain into a chilled coupe or cocktail glass, or over ice into a rocks glass.",
     "note": "The template for this iconic sour—whiskey, lemon juice, and sugar, shaken over ice—has laid the foundation for many cocktails due to its structural, unadorned simplicity. Most bartenders will kick the drink up with the dramatic flourish of an herbal or fruit liqueur, which gives nice complexity, but the Whiskey Sour isn’t begging for all that adornment. Merely adding an egg white (creating what’s known as a Boston Sour) can take the concoction to a new flufted- up, ethereal place. For a more vibrant route, top with a red wine float to transform it into the New York Sour (page 138), a variation that popped up in the late 1800s.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified"
   },
   {
     "id": "whisky-highball",
