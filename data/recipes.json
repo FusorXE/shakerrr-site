@@ -13508,52 +13508,57 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "single malt whiskey",
-            "amount": "2 oz."
+            "amount": "2 oz",
+            "name": "Single Malt Whiskey"
           },
           {
-            "name": "white wine",
-            "amount": "2 oz."
+            "amount": "2 oz",
+            "name": "White Wine"
           },
           {
-            "name": "02. club soda",
-            "amount": "2"
+            "amount": "2 oz",
+            "name": "Club Soda"
           }
         ],
-        "instructions": "Place the whiskey and filled with ice and stir",
-        "note": "he history of pop stars trying their luck on the silver screen is mixed, to say the least. But that famously tough road did not take down Diana Ross in her portrayal of jazz legend Billie Holiday. Though she Is one of the few who could approach Holiday’s singing talent, it is Ross's ability to honestly portray the emotional volatility that plagued Holiday all her life that won her kudos from critics Vincent Canby and Roger Ebe",
+        "instructions": "Stir the whiskey and wine with ice until chilled. Strain into a rocks glass filled with ice and top with club soda.",
+        "note": "Paired in the book with Lady Sings the Blues (1972).",
         "creator": "",
         "image": "assets/recipes/movie-lady-day.webp",
-        "usable": true
+        "usable": true,
+        "page": "70",
+        "glass": "Rocks glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
     "movie": {
-      "film": "Lady Sings The Blues",
+      "film": "Lady Sings the Blues",
       "year": "1972",
-      "fact": ""
+      "fact": "The book pairs this drink with Lady Sings the Blues."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "single malt whiskey",
-        "amount": "2 oz."
+        "amount": "2 oz",
+        "name": "Single Malt Whiskey"
       },
       {
-        "name": "white wine",
-        "amount": "2 oz."
+        "amount": "2 oz",
+        "name": "White Wine"
       },
       {
-        "name": "02. club soda",
-        "amount": "2"
+        "amount": "2 oz",
+        "name": "Club Soda"
       }
     ],
-    "instructions": "Place the whiskey and filled with ice and stir",
-    "note": "he history of pop stars trying their luck on the silver screen is mixed, to say the least. But that famously tough road did not take down Diana Ross in her portrayal of jazz legend Billie Holiday. Though she Is one of the few who could approach Holiday’s singing talent, it is Ross's ability to honestly portray the emotional volatility that plagued Holiday all her life that won her kudos from critics Vincent Canby and Roger Ebe",
+    "instructions": "Stir the whiskey and wine with ice until chilled. Strain into a rocks glass filled with ice and top with club soda.",
+    "note": "Paired in the book with Lady Sings the Blues (1972).",
     "family": "Highball",
-    "quality": "verified"
+    "quality": "verified",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "last-word",
@@ -13747,52 +13752,91 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "dashes of Amargo",
-            "amount": "2"
+            "amount": "2 dashes",
+            "name": "Amargo Chuncho Bitters"
           },
           {
-            "name": "dashes of Bittermens",
-            "amount": "2"
+            "amount": "2 dashes",
+            "name": "Bittermens Hellfire Habanero Shrub"
           },
           {
-            "name": "02. ruby port",
-            "amount": "4"
+            "amount": "¾ oz",
+            "name": "Crème de Cacao"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Ruby Port"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Pedro Ximénez Sherry"
+          },
+          {
+            "amount": "2 oz",
+            "name": "8-Year-Old Rum"
+          },
+          {
+            "amount": "1½ oz",
+            "name": "Côtes du Rhône"
           }
         ],
-        "instructions": "Place the cocktail shaker filled with ice and shake vigorously. Strain",
-        "note": "itch McDeere (Tom Cruise) accepts an incredible offer right out of law school from _ the Bendini, Lambert & Locke firm. But he and his wife, Abby Ueanne Tripplehorn), soon discover that they must extricate themselves from their new lives, or suffer a future full of sordid deception. Abby, irate after learning about Mitch’s infidelity, travels to _ the Cayman Islands where she attempts to seduce partner Avery Tolar (Gene Hackma",
+        "instructions": "Shake all ingredients with ice. Strain into an ice-filled rocks glass.",
+        "note": "Paired in the book with The Firm (1993).",
         "creator": "",
         "image": "assets/recipes/movie-lawyers-guns-money.webp",
-        "usable": true
+        "usable": true,
+        "page": "149",
+        "garnish": "Orange twist and a dusting of spicy chocolate mixture",
+        "glass": "Rocks glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": ""
+      "film": "The Firm",
+      "year": "1993",
+      "fact": "The book pairs this drink with The Firm."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "dashes of Amargo",
-        "amount": "2"
+        "amount": "2 dashes",
+        "name": "Amargo Chuncho Bitters"
       },
       {
-        "name": "dashes of Bittermens",
-        "amount": "2"
+        "amount": "2 dashes",
+        "name": "Bittermens Hellfire Habanero Shrub"
       },
       {
-        "name": "02. ruby port",
-        "amount": "4"
+        "amount": "¾ oz",
+        "name": "Crème de Cacao"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Ruby Port"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Pedro Ximénez Sherry"
+      },
+      {
+        "amount": "2 oz",
+        "name": "8-Year-Old Rum"
+      },
+      {
+        "amount": "1½ oz",
+        "name": "Côtes du Rhône"
       }
     ],
-    "instructions": "Place the cocktail shaker filled with ice and shake vigorously. Strain",
-    "note": "itch McDeere (Tom Cruise) accepts an incredible offer right out of law school from _ the Bendini, Lambert & Locke firm. But he and his wife, Abby Ueanne Tripplehorn), soon discover that they must extricate themselves from their new lives, or suffer a future full of sordid deception. Abby, irate after learning about Mitch’s infidelity, travels to _ the Cayman Islands where she attempts to seduce partner Avery Tolar (Gene Hackma",
+    "instructions": "Shake all ingredients with ice. Strain into an ice-filled rocks glass.",
+    "note": "Paired in the book with The Firm (1993).",
     "family": "Other",
-    "quality": "verified"
+    "quality": "verified",
+    "garnish": "Orange twist and a dusting of spicy chocolate mixture",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "lefty-s-fizz",
@@ -14689,10 +14733,10 @@
           }
         ],
         "instructions": "Place the cocktail — stir. Strain into acocktail",
-        "note": "E baat? Poaad Jerry Lewis well in this We visual palate was the ideal vehicle for : humor to tell the story of bumbling, buck-toothed | professor Julius Kelp becoming suave nightclub strengthening serum cooked up by the professor The most famous drink in the movie isn’t the = ~ but the Alaskan Polar Bear Heater ordered by a. Buddy Love: “two shots of vodka, a little rum, some ee bitters, a smidgen of vinegar, a shot of vermout",
+        "note": "Movie source needs source re-extraction; hidden from production until verified.",
         "creator": "",
         "image": "assets/recipes/movie-manhattan.webp",
-        "usable": true
+        "usable": false
       }
     ],
     "image": null,
@@ -19692,7 +19736,7 @@
     "name": "Paper Moon",
     "category": "Movies",
     "country": null,
-    "method": "Build",
+    "method": "Stir",
     "tags": [
       "book",
       "cinema",
@@ -19705,52 +19749,73 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "cold-brewed coffee",
-            "amount": "2 oz."
+            "amount": "2 oz",
+            "name": "Cold-Brewed Coffee"
           },
           {
-            "name": "Dubonnet Rouge",
-            "amount": "/ oz."
+            "amount": "1½ oz",
+            "name": "Scotch Whiskey"
           },
           {
-            "name": "drops of green absinthe",
-            "amount": "5"
+            "amount": "½ oz",
+            "name": "Dubonnet Rouge"
+          },
+          {
+            "amount": "5 drops",
+            "name": "Green Absinthe"
+          },
+          {
+            "amount": "1 tbsp",
+            "name": "Sparkling Mineral Water"
           }
         ],
-        "instructions": "strain the cold-brewed Strain into a Collins combined.",
-        "note": "suspicion that Ryan O'Neal's eight-year - old daughter had the qualities required to steal the show ended up being spot on, as young Tatum and her father lifted this film, which follows a Depression-era con artist around the Midwest, into the American canon. Ina performance that made her the youngest Academy Award winner ever, O’Neal’s hard-boiled Addie possesses wisdom far beyond her years, a precociousness that has the abili",
+        "instructions": "Filter the cold-brewed coffee into an ice-filled mixing glass. Add Scotch, Dubonnet Rouge, and absinthe and stir gently for 3 seconds. Strain into an ice-filled Collins glass, add sparkling mineral water, and stir.",
+        "note": "Paired in the book with Paper Moon (1973).",
         "creator": "",
         "image": "assets/recipes/movie-paper-moon.webp",
-        "usable": true
+        "usable": true,
+        "page": "77",
+        "glass": "Collins glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
     "movie": {
       "film": "Paper Moon",
       "year": "1973",
-      "fact": ""
+      "fact": "The book pairs this drink with Paper Moon."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "cold-brewed coffee",
-        "amount": "2 oz."
+        "amount": "2 oz",
+        "name": "Cold-Brewed Coffee"
       },
       {
-        "name": "Dubonnet Rouge",
-        "amount": "/ oz."
+        "amount": "1½ oz",
+        "name": "Scotch Whiskey"
       },
       {
-        "name": "drops of green absinthe",
-        "amount": "5"
+        "amount": "½ oz",
+        "name": "Dubonnet Rouge"
+      },
+      {
+        "amount": "5 drops",
+        "name": "Green Absinthe"
+      },
+      {
+        "amount": "1 tbsp",
+        "name": "Sparkling Mineral Water"
       }
     ],
-    "instructions": "strain the cold-brewed Strain into a Collins combined.",
-    "note": "suspicion that Ryan O'Neal's eight-year - old daughter had the qualities required to steal the show ended up being spot on, as young Tatum and her father lifted this film, which follows a Depression-era con artist around the Midwest, into the American canon. Ina performance that made her the youngest Academy Award winner ever, O’Neal’s hard-boiled Addie possesses wisdom far beyond her years, a precociousness that has the abili",
-    "family": "Other",
-    "quality": "verified"
+    "instructions": "Filter the cold-brewed coffee into an ice-filled mixing glass. Add Scotch, Dubonnet Rouge, and absinthe and stir gently for 3 seconds. Strain into an ice-filled Collins glass, add sparkling mineral water, and stir.",
+    "note": "Paired in the book with Paper Moon (1973).",
+    "family": "Highball",
+    "quality": "verified",
+    "glass": "Collins glass",
+    "ice": "Ice"
   },
   {
     "id": "paper-plane",
@@ -22902,7 +22967,7 @@
     "name": "Red Head",
     "category": "Movies",
     "country": null,
-    "method": "Build",
+    "method": "Built",
     "tags": [
       "book",
       "cinema",
@@ -22915,60 +22980,89 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "cup sugar",
-            "amount": "/"
+            "amount": "1 bottle (750 ml)",
+            "name": "Dry Red Wine"
           },
           {
-            "name": "cup white grape juice",
-            "amount": "/"
+            "amount": "½ cup",
+            "name": "Sugar"
           },
           {
-            "name": "cup seedless grapes,",
-            "amount": "1"
+            "amount": "½ cup",
+            "name": "White Grape Juice"
           },
           {
-            "name": "cup seltzer water",
-            "amount": "1"
+            "amount": "¼ cup",
+            "name": "Brandy"
+          },
+          {
+            "amount": "2 cups",
+            "name": "Cherries"
+          },
+          {
+            "amount": "1 cup",
+            "name": "Seedless Grapes, halved and frozen"
+          },
+          {
+            "amount": "1 cup",
+            "name": "Seltzer Water"
           }
         ],
-        "instructions": "addiction and the toll it has on families and futures. Place the wine, sugar, Add the brandy, cherries,",
-        "note": "feels like his boxing career has stagnated. Dick Eklund (Christian Bale), Micky's half-brother, has fallen from grace in the boxing world due to his cocaine addiction. Based on the documentary High on Crack Street: Lost Lives in Lowell, the film depicts the struggle of substance With the help of his family and bartender girlfriend Charlene Fleming (Amy Adams), Micky wins the welterweight title, and Dickie quits cocaine once Ad",
+        "instructions": "Stir wine, sugar, and white grape juice in a large pitcher until the sugar dissolves. Add brandy, cherries, and grapes, cover, and refrigerate for at least 4 hours. Add ice and seltzer water before serving.",
+        "note": "Paired in the book with The Fighter (2010).",
         "creator": "",
         "image": null,
-        "usable": true
+        "usable": true,
+        "page": "186",
+        "glass": "Pitcher",
+        "ice": "Ice"
       }
     ],
     "image": null,
     "movie": {
       "film": "The Fighter",
       "year": "2010",
-      "fact": ""
+      "fact": "The book pairs this drink with The Fighter."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "cup sugar",
-        "amount": "/"
+        "amount": "1 bottle (750 ml)",
+        "name": "Dry Red Wine"
       },
       {
-        "name": "cup white grape juice",
-        "amount": "/"
+        "amount": "½ cup",
+        "name": "Sugar"
       },
       {
-        "name": "cup seedless grapes,",
-        "amount": "1"
+        "amount": "½ cup",
+        "name": "White Grape Juice"
       },
       {
-        "name": "cup seltzer water",
-        "amount": "1"
+        "amount": "¼ cup",
+        "name": "Brandy"
+      },
+      {
+        "amount": "2 cups",
+        "name": "Cherries"
+      },
+      {
+        "amount": "1 cup",
+        "name": "Seedless Grapes, halved and frozen"
+      },
+      {
+        "amount": "1 cup",
+        "name": "Seltzer Water"
       }
     ],
-    "instructions": "addiction and the toll it has on families and futures. Place the wine, sugar, Add the brandy, cherries,",
-    "note": "feels like his boxing career has stagnated. Dick Eklund (Christian Bale), Micky's half-brother, has fallen from grace in the boxing world due to his cocaine addiction. Based on the documentary High on Crack Street: Lost Lives in Lowell, the film depicts the struggle of substance With the help of his family and bartender girlfriend Charlene Fleming (Amy Adams), Micky wins the welterweight title, and Dickie quits cocaine once Ad",
-    "family": "Other",
-    "quality": "verified"
+    "instructions": "Stir wine, sugar, and white grape juice in a large pitcher until the sugar dissolves. Add brandy, cherries, and grapes, cover, and refrigerate for at least 4 hours. Add ice and seltzer water before serving.",
+    "note": "Paired in the book with The Fighter (2010).",
+    "family": "Punch",
+    "quality": "verified",
+    "glass": "Pitcher",
+    "ice": "Ice"
   },
   {
     "id": "red-hook",
@@ -23546,68 +23640,75 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "Campari",
-            "amount": "102."
+            "amount": "1 oz",
+            "name": "Campari"
           },
           {
-            "name": "dry vermouth",
-            "amount": "1 oz."
+            "amount": "1 oz",
+            "name": "Dry Vermouth"
           },
           {
-            "name": "o2. lime juice",
-            "amount": "/"
+            "amount": "½ oz",
+            "name": "Lime Juice"
           },
           {
-            "name": "orange wheel,",
-            "amount": "1"
+            "amount": "¼ oz",
+            "name": "Simple Syrup"
           },
           {
-            "name": "lime twist,",
-            "amount": "1"
+            "amount": "to top",
+            "name": "Soda Water"
           }
         ],
-        "instructions": "Place all of the cocktail shaker filled with ice and shake vigorously. Strain",
-        "note": "ill love bloom when American reporter Princess Ann (Audrey Hepburn) asleep on a bench and tries to convert it into a hot scoop? Up to this time, Hollywood films were shot on studio lots where other countries and other planets were created. But Roman Holiday was the first major studio picture shot completely on location, making for a legendary romantic comedy, and a sightseeing Vespa tour of Rome. As the wayward princess attemp",
+        "instructions": "Shake all ingredients except soda water with ice. Strain into an ice-filled Collins glass and top with soda water.",
+        "note": "Paired in the book with Roman Holiday (1953).",
         "creator": "",
         "image": "assets/recipes/movie-room-with-a-view.webp",
-        "usable": true
+        "usable": true,
+        "page": "22",
+        "garnish": "Orange wheel and lime twist",
+        "glass": "Collins glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
     "movie": {
       "film": "Roman Holiday",
       "year": "1953",
-      "fact": ""
+      "fact": "The book pairs this drink with Roman Holiday."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "Campari",
-        "amount": "102."
+        "amount": "1 oz",
+        "name": "Campari"
       },
       {
-        "name": "dry vermouth",
-        "amount": "1 oz."
+        "amount": "1 oz",
+        "name": "Dry Vermouth"
       },
       {
-        "name": "o2. lime juice",
-        "amount": "/"
+        "amount": "½ oz",
+        "name": "Lime Juice"
       },
       {
-        "name": "orange wheel,",
-        "amount": "1"
+        "amount": "¼ oz",
+        "name": "Simple Syrup"
       },
       {
-        "name": "lime twist,",
-        "amount": "1"
+        "amount": "to top",
+        "name": "Soda Water"
       }
     ],
-    "instructions": "Place all of the cocktail shaker filled with ice and shake vigorously. Strain",
-    "note": "ill love bloom when American reporter Princess Ann (Audrey Hepburn) asleep on a bench and tries to convert it into a hot scoop? Up to this time, Hollywood films were shot on studio lots where other countries and other planets were created. But Roman Holiday was the first major studio picture shot completely on location, making for a legendary romantic comedy, and a sightseeing Vespa tour of Rome. As the wayward princess attemp",
-    "family": "Negroni",
-    "quality": "verified"
+    "instructions": "Shake all ingredients except soda water with ice. Strain into an ice-filled Collins glass and top with soda water.",
+    "note": "Paired in the book with Roman Holiday (1953).",
+    "family": "Collins / Fizz",
+    "quality": "verified",
+    "garnish": "Orange wheel and lime twist",
+    "glass": "Collins glass",
+    "ice": "Ice"
   },
   {
     "id": "rosemary-cranberry-holiday-margarita",
@@ -26948,60 +27049,65 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "London dry gin",
-            "amount": "02."
+            "amount": "1½ oz",
+            "name": "London Dry Gin"
           },
           {
-            "name": "02. sweet vermouth",
-            "amount": "/"
+            "amount": "½ oz",
+            "name": "Dry Vermouth"
           },
           {
-            "name": "orange juice",
-            "amount": "1 oz."
+            "amount": "½ oz",
+            "name": "Sweet Vermouth"
           },
           {
-            "name": "orange twist, for garnish",
-            "amount": "1"
+            "amount": "1 oz",
+            "name": "Orange Juice"
           }
         ],
-        "instructions": "Place the cocktail shaker filled with ice and shake vigorously until",
-        "note": "he theme that America and its cities were going to seed was heavily treaded upon in 70s cinema, but no film took it as far as The Warriors, which was based on the novel by Sol Yurick.",
+        "instructions": "Shake all ingredients with ice until chilled. Double strain into a cocktail glass.",
+        "note": "Paired in the book with The Warriors (1979).",
         "creator": "",
         "image": "assets/recipes/movie-the-bronx.webp",
-        "usable": true
+        "usable": true,
+        "page": "101",
+        "garnish": "Orange twist; Luxardo maraschino cherry optional",
+        "glass": "Cocktail glass"
       }
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": "President Ronald Reagan was a fan of"
+      "film": "The Warriors",
+      "year": "1979",
+      "fact": "The book pairs this drink with The Warriors."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "London dry gin",
-        "amount": "02."
+        "amount": "1½ oz",
+        "name": "London Dry Gin"
       },
       {
-        "name": "02. sweet vermouth",
-        "amount": "/"
+        "amount": "½ oz",
+        "name": "Dry Vermouth"
       },
       {
-        "name": "orange juice",
-        "amount": "1 oz."
+        "amount": "½ oz",
+        "name": "Sweet Vermouth"
       },
       {
-        "name": "orange twist, for garnish",
-        "amount": "1"
+        "amount": "1 oz",
+        "name": "Orange Juice"
       }
     ],
-    "instructions": "Place the cocktail shaker filled with ice and shake vigorously until",
-    "note": "he theme that America and its cities were going to seed was heavily treaded upon in 70s cinema, but no film took it as far as The Warriors, which was based on the novel by Sol Yurick.",
-    "family": "Other",
-    "quality": "verified"
+    "instructions": "Shake all ingredients with ice until chilled. Double strain into a cocktail glass.",
+    "note": "Paired in the book with The Warriors (1979).",
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Orange twist; Luxardo maraschino cherry optional",
+    "glass": "Cocktail glass"
   },
   {
     "id": "the-commandant",
@@ -27365,60 +27471,67 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "premium silver",
-            "amount": "2 oz."
+            "amount": "2 oz",
+            "name": "Premium Silver Tequila"
           },
           {
-            "name": "ee Grand Marnier é",
-            "amount": "1"
+            "amount": "1 oz",
+            "name": "Grand Marnier"
           },
           {
-            "name": "02. fresh lime juice",
-            "amount": "1"
+            "amount": "1 oz",
+            "name": "Fresh Lime Juice"
           },
           {
-            "name": "ml) split of",
-            "amount": "10187"
+            "amount": "1 split (187 ml)",
+            "name": "Champagne"
           }
         ],
-        "instructions": "filled with ice and shake",
-        "note": "| though his days. are filled with nothing but good | ased on the Harold Robbins best seller ) and inspired by the early life of film and aviation ploneer Howard Hughes, Jonas) : Cord (George Peppard) | is too big for the world into, and lives accordingly. His fast- ‘ paced life and continual success make it seem as times, but his amoral grasping keeps grinding him me and the numerous women he lusts after down. ne : With Peppa",
+        "instructions": "Salt the rim of a rocks glass. Shake tequila, Grand Marnier, and lime juice with ice. Fill the rocks glass with ice, strain in the cocktail, then carefully add the split of Champagne.",
+        "note": "Paired in the book with The Carpetbaggers (1964).",
         "creator": "",
         "image": "assets/recipes/movie-the-high-roller.webp",
-        "usable": true
+        "usable": true,
+        "page": "46",
+        "garnish": "Lime wedge",
+        "glass": "Rocks glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
     "movie": {
-      "film": "The Garpetbaggers",
+      "film": "The Carpetbaggers",
       "year": "1964",
-      "fact": "While his character struggled to find"
+      "fact": "The book pairs this drink with The Carpetbaggers."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "premium silver",
-        "amount": "2 oz."
+        "amount": "2 oz",
+        "name": "Premium Silver Tequila"
       },
       {
-        "name": "ee Grand Marnier é",
-        "amount": "1"
+        "amount": "1 oz",
+        "name": "Grand Marnier"
       },
       {
-        "name": "02. fresh lime juice",
-        "amount": "1"
+        "amount": "1 oz",
+        "name": "Fresh Lime Juice"
       },
       {
-        "name": "ml) split of",
-        "amount": "10187"
+        "amount": "1 split (187 ml)",
+        "name": "Champagne"
       }
     ],
-    "instructions": "filled with ice and shake",
-    "note": "| though his days. are filled with nothing but good | ased on the Harold Robbins best seller ) and inspired by the early life of film and aviation ploneer Howard Hughes, Jonas) : Cord (George Peppard) | is too big for the world into, and lives accordingly. His fast- ‘ paced life and continual success make it seem as times, but his amoral grasping keeps grinding him me and the numerous women he lusts after down. ne : With Peppa",
-    "family": "Other",
-    "quality": "verified"
+    "instructions": "Salt the rim of a rocks glass. Shake tequila, Grand Marnier, and lime juice with ice. Fill the rocks glass with ice, strain in the cocktail, then carefully add the split of Champagne.",
+    "note": "Paired in the book with The Carpetbaggers (1964).",
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Lime wedge",
+    "glass": "Rocks glass",
+    "ice": "Ice"
   },
   {
     "id": "the-lulu",
@@ -29227,84 +29340,81 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "rye whiskey",
-            "amount": "2 oz."
+            "amount": "2 oz",
+            "name": "Rye Whiskey"
           },
           {
-            "name": "demerara syrup",
-            "amount": "/ oz."
+            "amount": "¾ oz",
+            "name": "Fresh Lemon Juice"
           },
           {
-            "name": "dashes of",
-            "amount": "4"
+            "amount": "½ oz",
+            "name": "Demerara Syrup"
           },
           {
-            "name": "egg white",
-            "amount": "1"
+            "amount": "4 dashes",
+            "name": "Angostura Bitters"
           },
           {
-            "name": "basil leaves",
-            "amount": "6"
+            "amount": "1",
+            "name": "Egg White"
           },
           {
-            "name": "cedar wrap, for garnish",
-            "amount": "1"
-          },
-          {
-            "name": "sprig of rosemary,",
-            "amount": "1"
+            "amount": "6",
+            "name": "Basil Leaves"
           }
         ],
-        "instructions": "",
-        "note": "ased on an economics book of the same name by Michael Lewis that explored how the 2007-2008 financial crisis was tied to the United States housing bubble, The Big Short takes an up-close look at the corruption within the US mortgage system and within the greed that drove the market to its downfall. Tying together three stories that are only connected by timing and fiscal proximity, and explaining complicated financial jargon w",
+        "instructions": "Shake all ingredients with ice and double strain into a Collins glass. Light the cedar wrap, quickly extinguish it, then add it and the rosemary to the drink.",
+        "note": "Paired in the book with The Big Short (2015).",
         "creator": "",
         "image": null,
-        "usable": true
+        "usable": true,
+        "page": "194",
+        "garnish": "1 cedar wrap and 1 rosemary sprig",
+        "glass": "Collins glass"
       }
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": "While Christian Bale was nominated for"
+      "film": "The Big Short",
+      "year": "2015",
+      "fact": "The book pairs this drink with The Big Short."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "rye whiskey",
-        "amount": "2 oz."
+        "amount": "2 oz",
+        "name": "Rye Whiskey"
       },
       {
-        "name": "demerara syrup",
-        "amount": "/ oz."
+        "amount": "¾ oz",
+        "name": "Fresh Lemon Juice"
       },
       {
-        "name": "dashes of",
-        "amount": "4"
+        "amount": "½ oz",
+        "name": "Demerara Syrup"
       },
       {
-        "name": "egg white",
-        "amount": "1"
+        "amount": "4 dashes",
+        "name": "Angostura Bitters"
       },
       {
-        "name": "basil leaves",
-        "amount": "6"
+        "amount": "1",
+        "name": "Egg White"
       },
       {
-        "name": "cedar wrap, for garnish",
-        "amount": "1"
-      },
-      {
-        "name": "sprig of rosemary,",
-        "amount": "1"
+        "amount": "6",
+        "name": "Basil Leaves"
       }
     ],
-    "instructions": "",
-    "note": "ased on an economics book of the same name by Michael Lewis that explored how the 2007-2008 financial crisis was tied to the United States housing bubble, The Big Short takes an up-close look at the corruption within the US mortgage system and within the greed that drove the market to its downfall. Tying together three stories that are only connected by timing and fiscal proximity, and explaining complicated financial jargon w",
-    "family": "Other",
-    "quality": "verified"
+    "instructions": "Shake all ingredients with ice and double strain into a Collins glass. Light the cedar wrap, quickly extinguish it, then add it and the rosemary to the drink.",
+    "note": "Paired in the book with The Big Short (2015).",
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "1 cedar wrap and 1 rosemary sprig",
+    "glass": "Collins glass"
   },
   {
     "id": "weathered-axe",
@@ -29484,60 +29594,65 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "02. dry vermouth",
-            "amount": "/"
+            "amount": "1½ oz",
+            "name": "Aged Dark Rum, 7–12 years preferred"
           },
           {
-            "name": "02. Giffard Bigallet",
-            "amount": "/"
+            "amount": "½ oz",
+            "name": "Dry Vermouth"
           },
           {
-            "name": "dashes of chocolate",
-            "amount": "2"
+            "amount": "½ oz",
+            "name": "Giffard Bigallet China-China"
           },
           {
-            "name": "“Fr of",
-            "amount": "1"
+            "amount": "2 dashes",
+            "name": "Chocolate and Mole Bitters"
           }
         ],
-        "instructions": "Place the cocktail stir until chilled. Strain garnish.",
-        "note": "ete “Maverick” Mitchell (Tom Cruise) is a naval aviator whose ego is bigger than his fighter jet. After successfully pulling off an inverted maneuver, despite the danger it put his wingman in, Maverick is sent to Top Gun, a Naval Fighter Weapons School. Maverick’s cockiness and arrogance lead to his defeat at the hands of a training flight, he pulls back his wild flying and instead focuses on teamwork, leading to his graduatio",
+        "instructions": "Stir all ingredients with ice until chilled. Strain into a cocktail glass, express the lime peel over the drink, twist, and garnish.",
+        "note": "Paired in the book with Top Gun (1986).",
         "creator": "",
         "image": "assets/recipes/movie-when-you-re-a-jet.webp",
-        "usable": true
+        "usable": true,
+        "page": "125",
+        "garnish": "1 strip lime peel",
+        "glass": "Cocktail glass"
       }
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": ""
+      "film": "Top Gun",
+      "year": "1986",
+      "fact": "The book pairs this drink with Top Gun."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "02. dry vermouth",
-        "amount": "/"
+        "amount": "1½ oz",
+        "name": "Aged Dark Rum, 7–12 years preferred"
       },
       {
-        "name": "02. Giffard Bigallet",
-        "amount": "/"
+        "amount": "½ oz",
+        "name": "Dry Vermouth"
       },
       {
-        "name": "dashes of chocolate",
-        "amount": "2"
+        "amount": "½ oz",
+        "name": "Giffard Bigallet China-China"
       },
       {
-        "name": "“Fr of",
-        "amount": "1"
+        "amount": "2 dashes",
+        "name": "Chocolate and Mole Bitters"
       }
     ],
-    "instructions": "Place the cocktail stir until chilled. Strain garnish.",
-    "note": "ete “Maverick” Mitchell (Tom Cruise) is a naval aviator whose ego is bigger than his fighter jet. After successfully pulling off an inverted maneuver, despite the danger it put his wingman in, Maverick is sent to Top Gun, a Naval Fighter Weapons School. Maverick’s cockiness and arrogance lead to his defeat at the hands of a training flight, he pulls back his wild flying and instead focuses on teamwork, leading to his graduatio",
-    "family": "Highball",
-    "quality": "verified"
+    "instructions": "Stir all ingredients with ice until chilled. Strain into a cocktail glass, express the lime peel over the drink, twist, and garnish.",
+    "note": "Paired in the book with Top Gun (1986).",
+    "family": "Manhattan",
+    "quality": "verified",
+    "garnish": "1 strip lime peel",
+    "glass": "Cocktail glass"
   },
   {
     "id": "whiskey-danger",
