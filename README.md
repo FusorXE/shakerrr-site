@@ -6,7 +6,7 @@ Shakerrr is MJ's static GitHub Pages cocktail reference application.
 This repository is the production source of truth. `FusorXE/SHAKER` is historical reference material only; production has no runtime dependency on it.
 
 ## Catalog
-The September 25, 2026 rebuild replaces browser-side OCR filtering with 399 source-cleaned canonical recipes from the legacy 606-row extraction. Git history preserves the legacy data.
+The reconstruction branch currently contains 398 canonical recovery records derived from the legacy 606-row extraction. This is a validated recovery baseline, not a target or final release count. The final catalog count must be source-driven from the Project books and review pipeline.
 
 ## Product areas
 Discover, Cocktails, Atlas with regions/countries, My Bar, Families, Books, Movies, Mezcal, Amaro, Saved, Ingredients and Swap Lab.
@@ -15,10 +15,10 @@ Discover, Cocktails, Atlas with regions/countries, My Bar, Families, Books, Movi
 Book/reference versions stay distinct. Personal and social versions never overwrite canonical published specs.
 
 ## Images
-`data/image-manifest.json` records historical catalog image mappings. The old deployment referenced `assets/recipes/*` files that were never committed, so those paths are marked unavailable rather than counted as image coverage. The UI prefers a committed exact asset when one exists, then exact-name/strict external matching, then a clearly labeled placeholder.
+`data/image-manifest.json` records catalog image mappings. Historical paths whose binary assets were never committed remain marked unavailable until exact authorized book or verified catalog images are extracted and committed. Missing is preferred over a wrong cocktail image.
 
 ## Personal data
 Favorites, My Bar, personal/social recipes, preferences and custom photos stay private in browser storage. Tools provides versioned Export/Import backup. No GitHub write token is exposed client-side.
 
 ## Offline and tests
-A service worker caches the core UI/catalog after a successful load. `npm run validate` checks catalog integrity. `npm test` runs Playwright browser smoke tests. GitHub Actions runs both on the working branch, pull requests and main.
+A service worker caches the core UI/catalog after a successful load. `npm run validate` checks catalog integrity. `npm test` runs Playwright browser smoke tests. GitHub Actions runs on the reconstruction branch, pull requests and main.
