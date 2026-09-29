@@ -90,7 +90,7 @@
     "name": "Absinthe Frappé",
     "category": "Classic",
     "country": null,
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "book",
       "classic"
@@ -102,19 +102,26 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Absinthe",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Absinthe"
           },
           {
-            "name": "Chilled Water",
-            "amount": "1-2 oz"
+            "amount": "¼–½ oz",
+            "name": "Simple Syrup"
+          },
+          {
+            "amount": "1–2 oz",
+            "name": "Chilled Water"
           }
         ],
-        "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Pour into a rocks or Collins glass over crushed or pebble ice. Top with additional ice.",
+        "instructions": "Shake all ingredients with ice until chilled. Pour into a rocks or Collins glass over crushed or pebble ice and top with additional ice.",
         "note": "“At the first cold sip on your fevered lip, you determine to live through the day.” So went the ode “Absinthe Frappé” from the 1904 musical It Happened in Nordland. This drink hails from a time when absinthe was a very popular aperitif (pre-1912 ban) and an acceptable morning pick-me-up. Simple, icy, aud strong, the frappé is a less fussy alternative to the pomp and circumstance of traditional absinthe service.",
         "creator": "",
         "image": "assets/recipes/ess-absinthe-frappe.webp",
-        "usable": false
+        "usable": true,
+        "page": "32",
+        "glass": "Rocks or Collins glass",
+        "ice": "Crushed or pebble ice"
       }
     ],
     "image": null,
@@ -124,18 +131,24 @@
     ],
     "ingredients": [
       {
-        "name": "Absinthe",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Absinthe"
       },
       {
-        "name": "Chilled Water",
-        "amount": "1-2 oz"
+        "amount": "¼–½ oz",
+        "name": "Simple Syrup"
+      },
+      {
+        "amount": "1–2 oz",
+        "name": "Chilled Water"
       }
     ],
-    "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Pour into a rocks or Collins glass over crushed or pebble ice. Top with additional ice.",
+    "instructions": "Shake all ingredients with ice until chilled. Pour into a rocks or Collins glass over crushed or pebble ice and top with additional ice.",
     "note": "“At the first cold sip on your fevered lip, you determine to live through the day.” So went the ode “Absinthe Frappé” from the 1904 musical It Happened in Nordland. This drink hails from a time when absinthe was a very popular aperitif (pre-1912 ban) and an acceptable morning pick-me-up. Simple, icy, aud strong, the frappé is a less fussy alternative to the pomp and circumstance of traditional absinthe service.",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Rocks or Collins glass",
+    "ice": "Crushed or pebble ice"
   },
   {
     "id": "adonis",
@@ -340,7 +353,7 @@
     "name": "Airmail",
     "category": "Classic",
     "country": "United States",
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "book",
       "classic",
@@ -354,19 +367,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gold Rum, Preferably Appleton Or El Dorado",
-            "amount": "1½ oz"
+            "amount": "1½ oz",
+            "name": "Gold Rum, preferably Appleton or El Dorado"
           },
           {
-            "name": "Champagne (Or Dry Sparkling Wine), To Top",
-            "amount": "to taste"
+            "amount": "¾ oz",
+            "name": "Lime Juice"
+          },
+          {
+            "amount": "scant ¾ oz",
+            "name": "Honey Syrup"
+          },
+          {
+            "amount": "to top",
+            "name": "Champagne or Dry Sparkling Wine"
           }
         ],
-        "instructions": "Add rum, lime juice, and honey syrup to a cocktail shaker. Add ice and shake until chilled. Strain over ice into a Collins glass. Top with Champagne and add a straw. Garnish with a lime or orange peel.",
+        "instructions": "Shake rum, lime juice, and honey syrup with ice until chilled. Strain over ice into a Collins glass, top with Champagne, and add a straw.",
         "note": "The first attempt at modern airmail, though not fully official on account of the plane breaking down, was documented in 1911. Fred Wiseman traveled ina plane he built himself from Petaluma, California, to Santa Rosa, California, with exactly three pieces of correspondence. The first instance of the Airmail cocktail was documented in Esquire magazine’s 1949 edition of Handbook for Hosts. It’s not certain why the drink is named for the modern delivery method, but it can be said that the Airmail is quite transportive, like a Caribbean version of a French 75 (page 86).",
         "creator": "1/2Ounces Gold Rum,",
         "image": "assets/recipes/ess-airmail.webp",
-        "usable": false
+        "usable": true,
+        "page": "37",
+        "garnish": "Lime or orange peel",
+        "glass": "Collins glass",
+        "ice": "Ice"
       },
       {
         "label": "Death & Co",
@@ -397,18 +422,29 @@
     ],
     "ingredients": [
       {
-        "name": "Gold Rum, Preferably Appleton Or El Dorado",
-        "amount": "1½ oz"
+        "amount": "1½ oz",
+        "name": "Gold Rum, preferably Appleton or El Dorado"
       },
       {
-        "name": "Champagne (Or Dry Sparkling Wine), To Top",
-        "amount": "to taste"
+        "amount": "¾ oz",
+        "name": "Lime Juice"
+      },
+      {
+        "amount": "scant ¾ oz",
+        "name": "Honey Syrup"
+      },
+      {
+        "amount": "to top",
+        "name": "Champagne or Dry Sparkling Wine"
       }
     ],
-    "instructions": "Add rum, lime juice, and honey syrup to a cocktail shaker. Add ice and shake until chilled. Strain over ice into a Collins glass. Top with Champagne and add a straw. Garnish with a lime or orange peel.",
+    "instructions": "Shake rum, lime juice, and honey syrup with ice until chilled. Strain over ice into a Collins glass, top with Champagne, and add a straw.",
     "note": "The first attempt at modern airmail, though not fully official on account of the plane breaking down, was documented in 1911. Fred Wiseman traveled ina plane he built himself from Petaluma, California, to Santa Rosa, California, with exactly three pieces of correspondence. The first instance of the Airmail cocktail was documented in Esquire magazine’s 1949 edition of Handbook for Hosts. It’s not certain why the drink is named for the modern delivery method, but it can be said that the Airmail is quite transportive, like a Caribbean version of a French 75 (page 86).",
-    "family": "Sparkling",
-    "quality": "limited"
+    "family": "Collins / Fizz",
+    "quality": "verified",
+    "garnish": "Lime or orange peel",
+    "glass": "Collins glass",
+    "ice": "Ice"
   },
   {
     "id": "all-purpose-margarita",
@@ -1117,7 +1153,7 @@
     "name": "Bamboo",
     "category": "Classic",
     "country": "Japan",
-    "method": "Stir",
+    "method": "Stirred",
     "tags": [
       "book",
       "classic",
@@ -1130,19 +1166,34 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Angostura Bitters",
-            "amount": "2 DASHES"
+            "amount": "1½ oz",
+            "name": "Fino Sherry"
           },
           {
-            "name": "Orange Bitters",
-            "amount": "2 DASHES"
+            "amount": "1½ oz",
+            "name": "Dry Vermouth"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "Rich Simple Syrup"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "Angostura Bitters"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "Orange Bitters"
           }
         ],
-        "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a lemon twist.",
+        "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "Of the stirred aperitif drinks of the nineteenth century that involve sherry, two are riffed on again and again, and their names ofter clues to their respective styles: the Bamboo is lean and tough, and the brawnier Adonis (page 34), a sort of classical beefcake. Both were conceived around the same time but in different countries. The Bamboo was one of Japan’s original cocktails, created by Louis Eppinger, a German bartender (and contemporary of Jerry Thomas) at the Grand Hotel in Yokohama.",
         "creator": "",
         "image": "assets/recipes/ess-bamboo.webp",
-        "usable": false
+        "usable": true,
+        "page": "45",
+        "garnish": "Lemon twist",
+        "glass": "Coupe or cocktail glass"
       }
     ],
     "image": null,
@@ -1152,18 +1203,32 @@
     ],
     "ingredients": [
       {
-        "name": "Angostura Bitters",
-        "amount": "2 DASHES"
+        "amount": "1½ oz",
+        "name": "Fino Sherry"
       },
       {
-        "name": "Orange Bitters",
-        "amount": "2 DASHES"
+        "amount": "1½ oz",
+        "name": "Dry Vermouth"
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Rich Simple Syrup"
+      },
+      {
+        "amount": "2 dashes",
+        "name": "Angostura Bitters"
+      },
+      {
+        "amount": "2 dashes",
+        "name": "Orange Bitters"
       }
     ],
-    "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a lemon twist.",
+    "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
     "note": "Of the stirred aperitif drinks of the nineteenth century that involve sherry, two are riffed on again and again, and their names ofter clues to their respective styles: the Bamboo is lean and tough, and the brawnier Adonis (page 34), a sort of classical beefcake. Both were conceived around the same time but in different countries. The Bamboo was one of Japan’s original cocktails, created by Louis Eppinger, a German bartender (and contemporary of Jerry Thomas) at the Grand Hotel in Yokohama.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Martini",
+    "quality": "verified",
+    "garnish": "Lemon twist",
+    "glass": "Coupe or cocktail glass"
   },
   {
     "id": "banana-rum-punch",
@@ -3106,19 +3171,26 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Campari",
-            "amount": "1 oz"
+            "amount": "1½ oz",
+            "name": "Bourbon or Rye"
           },
           {
-            "name": "Sweet Vermouth",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Campari"
+          },
+          {
+            "amount": "1 oz",
+            "name": "Sweet Vermouth"
           }
         ],
-        "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain over ice into a rocks glass. (Or, strain into a chilled coupe or cocktail glass.) Garnish with an orange peel.",
+        "instructions": "Stir all ingredients with ice until chilled. Strain over ice into a rocks glass, or serve up in a chilled coupe or cocktail glass.",
         "note": "A true man-about-town and boulevardier in the literal sense of the word, Erskine Gwynne was an individual of epic reputation throughout Paris in the 1920s. In fact, he even rana magazine called Boulevardier for American ex-pats living in the city. Mention of this literary-influenced cocktail appears in the 1927 book Barflies and Cocktails by Harry MacElhone (owner of Harry’s New York Bar in Paris), which credits Gwynne as the drink’s creator. Depending on the audience, the Boulevardier can be seen asa bittersweet Manhattan variation or a whiskey Negroni. The beauty of the Boulevardier is its adaptability to both bitter and sweet, so depending",
         "creator": "",
         "image": "assets/recipes/ess-boulevardier.webp",
-        "usable": false
+        "usable": true,
+        "page": "59",
+        "garnish": "Orange peel",
+        "glass": "Rocks, coupe, or cocktail glass"
       },
       {
         "label": "Death & Co",
@@ -3149,25 +3221,31 @@
     ],
     "ingredients": [
       {
-        "name": "Campari",
-        "amount": "1 oz"
+        "amount": "1½ oz",
+        "name": "Bourbon or Rye"
       },
       {
-        "name": "Sweet Vermouth",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Campari"
+      },
+      {
+        "amount": "1 oz",
+        "name": "Sweet Vermouth"
       }
     ],
-    "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain over ice into a rocks glass. (Or, strain into a chilled coupe or cocktail glass.) Garnish with an orange peel.",
+    "instructions": "Stir all ingredients with ice until chilled. Strain over ice into a rocks glass, or serve up in a chilled coupe or cocktail glass.",
     "note": "A true man-about-town and boulevardier in the literal sense of the word, Erskine Gwynne was an individual of epic reputation throughout Paris in the 1920s. In fact, he even rana magazine called Boulevardier for American ex-pats living in the city. Mention of this literary-influenced cocktail appears in the 1927 book Barflies and Cocktails by Harry MacElhone (owner of Harry’s New York Bar in Paris), which credits Gwynne as the drink’s creator. Depending on the audience, the Boulevardier can be seen asa bittersweet Manhattan variation or a whiskey Negroni. The beauty of the Boulevardier is its adaptability to both bitter and sweet, so depending",
     "family": "Negroni",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Orange peel",
+    "glass": "Rocks, coupe, or cocktail glass"
   },
   {
     "id": "bramble",
     "name": "Bramble",
     "category": "Modern",
     "country": "United Kingdom",
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "book",
       "modern"
@@ -3179,19 +3257,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gin °/4 Ounce Lemon Juice",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Gin"
           },
           {
-            "name": "Creme De Mure",
-            "amount": "½ oz"
+            "amount": "¾ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "¼ oz",
+            "name": "Simple Syrup"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Crème de Mûre"
           }
         ],
-        "instructions": "Add gin, lemon juice, and simple NOTE When blackberries are syrup to a cocktail shaker. Add fresh at the farmers’ market, ice and shake until chilled.",
+        "instructions": "Shake gin, lemon juice, and simple syrup with ice until chilled. Strain over crushed ice into a rocks glass, then drizzle the crème de mûre over the top.",
         "note": "Dick Bradsell, one of the founding fathers of London’s modern cocktail scene, created this recipe in 1984 when he was working at Fred’s Club in Soho. It’s essentially a Gin Sour dressed up like a cobbler, but Bradsell considers it a sentimental play ona Singapore Sling (page 178) using entirely British products, with the blackberries and créme de mire (blackberry liqueur) lending a flavor “reminiscent of his childhood on the Isle of Wight.”",
-        "creator": "",
+        "creator": "Dick Bradsell",
         "image": "assets/recipes/ess-bramble.webp",
-        "usable": false
+        "usable": true,
+        "page": "224",
+        "garnish": "Blackberries and lemon slice",
+        "glass": "Rocks glass",
+        "ice": "Crushed ice"
       }
     ],
     "image": null,
@@ -3201,18 +3291,30 @@
     ],
     "ingredients": [
       {
-        "name": "Gin °/4 Ounce Lemon Juice",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Gin"
       },
       {
-        "name": "Creme De Mure",
-        "amount": "½ oz"
+        "amount": "¾ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "¼ oz",
+        "name": "Simple Syrup"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Crème de Mûre"
       }
     ],
-    "instructions": "Add gin, lemon juice, and simple NOTE When blackberries are syrup to a cocktail shaker. Add fresh at the farmers’ market, ice and shake until chilled.",
+    "instructions": "Shake gin, lemon juice, and simple syrup with ice until chilled. Strain over crushed ice into a rocks glass, then drizzle the crème de mûre over the top.",
     "note": "Dick Bradsell, one of the founding fathers of London’s modern cocktail scene, created this recipe in 1984 when he was working at Fred’s Club in Soho. It’s essentially a Gin Sour dressed up like a cobbler, but Bradsell considers it a sentimental play ona Singapore Sling (page 178) using entirely British products, with the blackberries and créme de mire (blackberry liqueur) lending a flavor “reminiscent of his childhood on the Isle of Wight.”",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Blackberries and lemon slice",
+    "glass": "Rocks glass",
+    "ice": "Crushed ice",
+    "creator": "Dick Bradsell"
   },
   {
     "id": "bronze-swizzle",
@@ -4386,7 +4488,7 @@
     "name": "Charles Dickens's Punch",
     "category": "Classic",
     "country": null,
-    "method": "Large Format",
+    "method": "Built",
     "tags": [
       "book",
       "classic"
@@ -4398,23 +4500,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Sugar, Preferably Demerara",
-            "amount": "3/4 CUP"
+            "amount": "¾ cup",
+            "name": "Demerara Sugar"
           },
           {
-            "name": "Lemons, Peeled Juice Reserved",
-            "amount": "3"
+            "amount": "3",
+            "name": "Lemons, peeled with juice reserved"
           },
           {
-            "name": "Rum, 5 Preferably Smith & Cross And 1% Cups Cognac, Lemon Preferably Courvoisier Vsop",
-            "amount": "2 CUPS"
+            "amount": "2 cups",
+            "name": "Rum, preferably Smith & Cross"
+          },
+          {
+            "amount": "1½ cups",
+            "name": "Cognac, preferably Courvoisier VSOP"
+          },
+          {
+            "amount": "5 cups",
+            "name": "Black Tea or Hot Water"
           }
         ],
-        "instructions": "Add rum and Cognac to the sugar. Light a match, and, using a heatproof spoon, pick up a spoonful of the spirit mix. Carefully bring the match to the spoon to light, then bring the lit spoon back to the bowl. Let the spirits burn for about 3 minutes. The fire will melt the sugar and extract",
+        "instructions": "Muddle the lemon peels with sugar in a heatproof vessel. Add rum and Cognac, carefully ignite a spoonful and use it to light the punch, and let it burn about 3 minutes. Cover to extinguish, remove the peels, add the reserved lemon juice and hot tea, then ladle over ice.",
         "note": "There are few things more Dickensian than a bowl of punch. A great lover of drink, Dickens wove spirits into his writing repeatedly and even conceived of his own punch: this cheek- warming mix of Cognac, rum, citrus, and sugar that is “cooked” by setting it on fire.",
         "creator": "3/4 Cup Sugar,",
         "image": "assets/recipes/ess-charles-dickens-s-punch.webp",
-        "usable": false
+        "usable": true,
+        "page": "69",
+        "garnish": "Lemon and orange slices; freshly grated nutmeg",
+        "glass": "Punch cups",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -4424,29 +4538,40 @@
     ],
     "ingredients": [
       {
-        "name": "Sugar, Preferably Demerara",
-        "amount": "3/4 CUP"
+        "amount": "¾ cup",
+        "name": "Demerara Sugar"
       },
       {
-        "name": "Lemons, Peeled Juice Reserved",
-        "amount": "3"
+        "amount": "3",
+        "name": "Lemons, peeled with juice reserved"
       },
       {
-        "name": "Rum, 5 Preferably Smith & Cross And 1% Cups Cognac, Lemon Preferably Courvoisier Vsop",
-        "amount": "2 CUPS"
+        "amount": "2 cups",
+        "name": "Rum, preferably Smith & Cross"
+      },
+      {
+        "amount": "1½ cups",
+        "name": "Cognac, preferably Courvoisier VSOP"
+      },
+      {
+        "amount": "5 cups",
+        "name": "Black Tea or Hot Water"
       }
     ],
-    "instructions": "Add rum and Cognac to the sugar. Light a match, and, using a heatproof spoon, pick up a spoonful of the spirit mix. Carefully bring the match to the spoon to light, then bring the lit spoon back to the bowl. Let the spirits burn for about 3 minutes. The fire will melt the sugar and extract",
+    "instructions": "Muddle the lemon peels with sugar in a heatproof vessel. Add rum and Cognac, carefully ignite a spoonful and use it to light the punch, and let it burn about 3 minutes. Cover to extinguish, remove the peels, add the reserved lemon juice and hot tea, then ladle over ice.",
     "note": "There are few things more Dickensian than a bowl of punch. A great lover of drink, Dickens wove spirits into his writing repeatedly and even conceived of his own punch: this cheek- warming mix of Cognac, rum, citrus, and sugar that is “cooked” by setting it on fire.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified",
+    "garnish": "Lemon and orange slices; freshly grated nutmeg",
+    "glass": "Punch cups",
+    "ice": "Ice"
   },
   {
     "id": "chartreuse-swizzle",
     "name": "Chartreuse Swizzle",
     "category": "Modern",
     "country": null,
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "book",
       "modern"
@@ -4458,19 +4583,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Velvet Falernum",
-            "amount": "½ oz"
+            "amount": "1¼ oz",
+            "name": "Green Chartreuse"
           },
           {
-            "name": "Pineapple Juice Wv Ounce Lime Juice",
-            "amount": "1 oz"
+            "amount": "½ oz",
+            "name": "Velvet Falernum"
+          },
+          {
+            "amount": "1 oz",
+            "name": "Pineapple Juice"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Lime Juice"
           }
         ],
-        "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a Collins or pint glass over ice. Garnish with lime wheels, a pineapple spear, anda pineapple leaf.",
+        "instructions": "Shake all ingredients with ice until chilled. Strain into a Collins or pint glass over ice.",
         "note": "A swizzle for the twenty-first century, this tall, frosty cocktail rejiggers the traditional Caribbean Rum Swizzle by basing the drink in green Chartreuse, a lime-colored herbal French liqueur. And though the cocktail is a seemingly odd combination of ingredients, Chartreuse’s aromatics pair seamlessly with the spiced falernum and sweet, tropical pineapple. Tangy lime and a pile of crushed ice balance the formula and turn it a springy pastel green. Marco Dionysos created the drink for a Green Chartreuse competition in 2003 and it has found a huge fan base with bartenders around the world. By his count, his Chartreuse Swizzle has made an appea",
-        "creator": "Marco Dionysos, Smuggler’S Cove, San Francisco, Ca",
+        "creator": "Marco Dionysos, Smuggler's Cove, San Francisco, CA",
         "image": "assets/recipes/ess-chartreuse-swizzle.webp",
-        "usable": false
+        "usable": true,
+        "page": "230",
+        "garnish": "Lime wheels, pineapple spear, and pineapple leaf",
+        "glass": "Collins or pint glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -4480,18 +4617,30 @@
     ],
     "ingredients": [
       {
-        "name": "Velvet Falernum",
-        "amount": "½ oz"
+        "amount": "1¼ oz",
+        "name": "Green Chartreuse"
       },
       {
-        "name": "Pineapple Juice Wv Ounce Lime Juice",
-        "amount": "1 oz"
+        "amount": "½ oz",
+        "name": "Velvet Falernum"
+      },
+      {
+        "amount": "1 oz",
+        "name": "Pineapple Juice"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Lime Juice"
       }
     ],
-    "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a Collins or pint glass over ice. Garnish with lime wheels, a pineapple spear, anda pineapple leaf.",
+    "instructions": "Shake all ingredients with ice until chilled. Strain into a Collins or pint glass over ice.",
     "note": "A swizzle for the twenty-first century, this tall, frosty cocktail rejiggers the traditional Caribbean Rum Swizzle by basing the drink in green Chartreuse, a lime-colored herbal French liqueur. And though the cocktail is a seemingly odd combination of ingredients, Chartreuse’s aromatics pair seamlessly with the spiced falernum and sweet, tropical pineapple. Tangy lime and a pile of crushed ice balance the formula and turn it a springy pastel green. Marco Dionysos created the drink for a Green Chartreuse competition in 2003 and it has found a huge fan base with bartenders around the world. By his count, his Chartreuse Swizzle has made an appea",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Lime wheels, pineapple spear, and pineapple leaf",
+    "glass": "Collins or pint glass",
+    "ice": "Ice",
+    "creator": "Marco Dionysos, Smuggler's Cove, San Francisco, CA"
   },
   {
     "id": "chilcano",
@@ -4890,7 +5039,7 @@
     "name": "Clover Club",
     "category": "Classic",
     "country": null,
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "book",
       "classic"
@@ -4902,19 +5051,38 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Raspberries",
-            "amount": "3-4"
+            "amount": "3–4",
+            "name": "Raspberries"
           },
           {
-            "name": "Lemon Juice",
-            "amount": "½ oz"
+            "amount": "scant ½ oz",
+            "name": "Simple Syrup"
+          },
+          {
+            "amount": "1½ oz",
+            "name": "Gin, preferably Plymouth"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Dry Vermouth, preferably Dolin"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "¼ oz",
+            "name": "Egg White"
           }
         ],
-        "instructions": "Add raspberries to a cocktail shaker and muddle along with simple syrup. Add remaining ingredients and dry shake. Add ice and shake again until chilled. Double strain into a chilled coupe or cocktail glass. Garnish with a skewered raspberry.",
+        "instructions": "Muddle the raspberries with simple syrup in a shaker. Add the remaining ingredients and dry shake. Add ice, shake again until chilled, and double strain into a chilled coupe or cocktail glass.",
         "note": "The Bellevue-Stratford in Philadelphia was the fashionable, see- and-be-seen hotel of the late 1800s. Like the Friars Club or the Algonquin Round Table of its era, the establishment hosted an all- male salon of lawyers and writers—the Clover Club—until World War I. The cocktail didn’t appear until later in the club’s history and it eventually fell out of fashion, most likely due to its perilous inclusion of egg white and feminine associations with raspberries. But like many of the pre-Prohibition stalwarts, the drink was rediscovered as part of the classic arsenal, and made immortal by Julie Reiner at her Brooklyn bar, Clover Club.",
         "creator": "1Y%2 Ounces Gin,",
         "image": "assets/recipes/ess-clover-club.webp",
-        "usable": false
+        "usable": true,
+        "page": "70",
+        "garnish": "Skewered raspberry",
+        "glass": "Coupe or cocktail glass"
       }
     ],
     "image": null,
@@ -4924,18 +5092,36 @@
     ],
     "ingredients": [
       {
-        "name": "Raspberries",
-        "amount": "3-4"
+        "amount": "3–4",
+        "name": "Raspberries"
       },
       {
-        "name": "Lemon Juice",
-        "amount": "½ oz"
+        "amount": "scant ½ oz",
+        "name": "Simple Syrup"
+      },
+      {
+        "amount": "1½ oz",
+        "name": "Gin, preferably Plymouth"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Dry Vermouth, preferably Dolin"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "¼ oz",
+        "name": "Egg White"
       }
     ],
-    "instructions": "Add raspberries to a cocktail shaker and muddle along with simple syrup. Add remaining ingredients and dry shake. Add ice and shake again until chilled. Double strain into a chilled coupe or cocktail glass. Garnish with a skewered raspberry.",
+    "instructions": "Muddle the raspberries with simple syrup in a shaker. Add the remaining ingredients and dry shake. Add ice, shake again until chilled, and double strain into a chilled coupe or cocktail glass.",
     "note": "The Bellevue-Stratford in Philadelphia was the fashionable, see- and-be-seen hotel of the late 1800s. Like the Friars Club or the Algonquin Round Table of its era, the establishment hosted an all- male salon of lawyers and writers—the Clover Club—until World War I. The cocktail didn’t appear until later in the club’s history and it eventually fell out of fashion, most likely due to its perilous inclusion of egg white and feminine associations with raspberries. But like many of the pre-Prohibition stalwarts, the drink was rediscovered as part of the classic arsenal, and made immortal by Julie Reiner at her Brooklyn bar, Clover Club.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Skewered raspberry",
+    "glass": "Coupe or cocktail glass"
   },
   {
     "id": "coconut-creamsicle",
@@ -6894,7 +7080,7 @@
     "name": "Dorothy's Delight",
     "category": "Modern",
     "country": null,
-    "method": "Large Format",
+    "method": "Built",
     "tags": [
       "book",
       "modern"
@@ -6906,19 +7092,39 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Oloroso Sherry, Preferably Fernando De Castillaoloroso",
-            "amount": "8 oz"
+            "amount": "24 oz",
+            "name": "Brandy, preferably Tariquet VS Armagnac"
           },
           {
-            "name": "Lemon Juice —- [4 Ounces Brewed Rooibos Tea",
-            "amount": "3 oz"
+            "amount": "8 oz",
+            "name": "Oloroso Sherry, preferably Fernando de Castilla"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Coffee Liqueur, preferably St. George NOLA"
+          },
+          {
+            "amount": "3 oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "14 oz",
+            "name": "Brewed Rooibos Tea"
+          },
+          {
+            "amount": "10 oz",
+            "name": "Grapefruit Oleo-Saccharum"
           }
         ],
-        "instructions": "Combine all ingredients in a NOTE To make the grapefruit large container and let sit for oleo-saccharum, macerate 24 hours at room temperature.",
+        "instructions": "Combine all ingredients in a large container and rest for 24 hours at room temperature. Strain into a punch bowl, garnish, and ladle into cups over ice.",
         "note": "In her Dorothy’s Delight (named for her grandmother), Caitlin Laman riffs on a base of two quintessential punch ingredients—tea and brandy. She combines them with coffee liqueur and dry oloroso sherry fora rich, smoky, and slightly bitter drink that’s ideal for kicking off an evening. Be sure to drink the remainder of the oloroso as you are making the punch,” says Laman. 24 OUNCES BRANDY, 2 OUNCES COFFEE 10 OUNCES PREFERABLY TARIQUET LIQUEUR, PREFERABLY GRAPEFRUIT VS ARMAGNAC ST. GEORGE NOLA OLEO-SACCHARUM",
-        "creator": "Caitlin Laman, Chicago, Il",
+        "creator": "Caitlin Laman, Chicago, IL",
         "image": "assets/recipes/ess-dorothy-s-delight.webp",
-        "usable": false
+        "usable": true,
+        "page": "234",
+        "garnish": "Lemon wheels",
+        "glass": "Punch cups",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -6928,18 +7134,38 @@
     ],
     "ingredients": [
       {
-        "name": "Oloroso Sherry, Preferably Fernando De Castillaoloroso",
-        "amount": "8 oz"
+        "amount": "24 oz",
+        "name": "Brandy, preferably Tariquet VS Armagnac"
       },
       {
-        "name": "Lemon Juice —- [4 Ounces Brewed Rooibos Tea",
-        "amount": "3 oz"
+        "amount": "8 oz",
+        "name": "Oloroso Sherry, preferably Fernando de Castilla"
+      },
+      {
+        "amount": "2 oz",
+        "name": "Coffee Liqueur, preferably St. George NOLA"
+      },
+      {
+        "amount": "3 oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "14 oz",
+        "name": "Brewed Rooibos Tea"
+      },
+      {
+        "amount": "10 oz",
+        "name": "Grapefruit Oleo-Saccharum"
       }
     ],
-    "instructions": "Combine all ingredients in a NOTE To make the grapefruit large container and let sit for oleo-saccharum, macerate 24 hours at room temperature.",
+    "instructions": "Combine all ingredients in a large container and rest for 24 hours at room temperature. Strain into a punch bowl, garnish, and ladle into cups over ice.",
     "note": "In her Dorothy’s Delight (named for her grandmother), Caitlin Laman riffs on a base of two quintessential punch ingredients—tea and brandy. She combines them with coffee liqueur and dry oloroso sherry fora rich, smoky, and slightly bitter drink that’s ideal for kicking off an evening. Be sure to drink the remainder of the oloroso as you are making the punch,” says Laman. 24 OUNCES BRANDY, 2 OUNCES COFFEE 10 OUNCES PREFERABLY TARIQUET LIQUEUR, PREFERABLY GRAPEFRUIT VS ARMAGNAC ST. GEORGE NOLA OLEO-SACCHARUM",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified",
+    "garnish": "Lemon wheels",
+    "glass": "Punch cups",
+    "ice": "Ice",
+    "creator": "Caitlin Laman, Chicago, IL"
   },
   {
     "id": "earl-grey-paloma",
@@ -8139,7 +8365,7 @@
     "name": "Filibuster",
     "category": "Modern",
     "country": null,
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "book",
       "modern"
@@ -8151,19 +8377,30 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Rye, Preferably Sazerac",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Rye, preferably Sazerac 6-Year"
           },
           {
-            "name": "Maple Syrup, Grade B",
-            "amount": "½ oz"
+            "amount": "¾ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Maple Syrup, Grade B"
+          },
+          {
+            "amount": "½ oz or 1 small",
+            "name": "Egg White"
           }
         ],
-        "instructions": "Add all ingredients to a cocktail shaker and dry shake. Add ice and shake well. Strain into a chilled coupe or cocktail glass. To garnish, dash Angostura bitters around the perimeter of the drink and then drag a toothpick through them to create a garland of hearts.",
+        "instructions": "Dry shake all ingredients. Add ice and shake well, then strain into a chilled coupe or cocktail glass.",
         "note": "San Francisco bartender Erik Adkins starts with the basic Whiskey Sour (page 198) blueprint for this autumn-inspired drink. Instead of using simple syrup, he substitutes Grade B maple syrup to create a deep, frothy cocktail topped with spicy Angostura bitters. The Filibuster throws a bit of heat thanks to its strong rye backbone; Adkins recommends using a lower-proof rye in order to preserve the foamy egg white. As for the name? “I found it in the horse racing pages,” says Adkins. “Years ago, (drinks writer] Simon Difford joked that if you needed a name for a cocktail, check out the racing pages. I liked Filibuster because it sounded like it",
-        "creator": "Erik Adkins, Slanted Door, San Francisco, Ca",
+        "creator": "Erik Adkins, Slanted Door, San Francisco, CA",
         "image": "assets/recipes/ess-filibuster.webp",
-        "usable": false
+        "usable": true,
+        "page": "237",
+        "garnish": "Angostura bitters dashed around the perimeter and drawn into a garland",
+        "glass": "Coupe or cocktail glass"
       }
     ],
     "image": null,
@@ -8173,25 +8410,36 @@
     ],
     "ingredients": [
       {
-        "name": "Rye, Preferably Sazerac",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Rye, preferably Sazerac 6-Year"
       },
       {
-        "name": "Maple Syrup, Grade B",
-        "amount": "½ oz"
+        "amount": "¾ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Maple Syrup, Grade B"
+      },
+      {
+        "amount": "½ oz or 1 small",
+        "name": "Egg White"
       }
     ],
-    "instructions": "Add all ingredients to a cocktail shaker and dry shake. Add ice and shake well. Strain into a chilled coupe or cocktail glass. To garnish, dash Angostura bitters around the perimeter of the drink and then drag a toothpick through them to create a garland of hearts.",
+    "instructions": "Dry shake all ingredients. Add ice and shake well, then strain into a chilled coupe or cocktail glass.",
     "note": "San Francisco bartender Erik Adkins starts with the basic Whiskey Sour (page 198) blueprint for this autumn-inspired drink. Instead of using simple syrup, he substitutes Grade B maple syrup to create a deep, frothy cocktail topped with spicy Angostura bitters. The Filibuster throws a bit of heat thanks to its strong rye backbone; Adkins recommends using a lower-proof rye in order to preserve the foamy egg white. As for the name? “I found it in the horse racing pages,” says Adkins. “Years ago, (drinks writer] Simon Difford joked that if you needed a name for a cocktail, check out the racing pages. I liked Filibuster because it sounded like it",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Angostura bitters dashed around the perimeter and drawn into a garland",
+    "glass": "Coupe or cocktail glass",
+    "creator": "Erik Adkins, Slanted Door, San Francisco, CA"
   },
   {
     "id": "fitty-fitty-martini",
     "name": "Fitty-Fitty Martini",
     "category": "Modern",
     "country": null,
-    "method": "Stir",
+    "method": "Stirred",
     "tags": [
       "book",
       "modern"
@@ -8203,15 +8451,26 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Orange Bitters, Preferably",
-            "amount": "2 DASHES"
+            "amount": "1½ oz",
+            "name": "Gin"
+          },
+          {
+            "amount": "1½ oz",
+            "name": "Dry Vermouth"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "Orange Bitters, preferably one each Regan's and Fee Brothers"
           }
         ],
-        "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into achilled coupe or cocktail glass. Garnish with a lemon twist.",
+        "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "The martini spent the better part of the 1980s and 1990s as a stripped-down, mostly gin (or, gasp, vodka) version of itself. For some reason, it was cool to request just a whisper of vermouth. In an effort to reintroduce America to the joys of dry vermouth and orange bitters, Audrey Saunders created the sophisticated Fitty-Fitty cocktail at her New York City bar, Pegu Club. She calls the drink a true study in calibration, taking into account not only the botanical profile of the gin, but the vermouth, too: When she has Noilly Prat vermouth on hand, Saunders likes to match it with more assertive Tanqueray gin. However, if she’s using the more",
-        "creator": "Audrey Saunders, Pegu Club, New York, Ny",
+        "creator": "Audrey Saunders, Pegu Club, New York, NY",
         "image": "assets/recipes/ess-fitty-fitty-martini.webp",
-        "usable": false
+        "usable": true,
+        "page": "238",
+        "garnish": "Lemon twist",
+        "glass": "Coupe or cocktail glass"
       }
     ],
     "image": null,
@@ -8221,14 +8480,25 @@
     ],
     "ingredients": [
       {
-        "name": "Orange Bitters, Preferably",
-        "amount": "2 DASHES"
+        "amount": "1½ oz",
+        "name": "Gin"
+      },
+      {
+        "amount": "1½ oz",
+        "name": "Dry Vermouth"
+      },
+      {
+        "amount": "2 dashes",
+        "name": "Orange Bitters, preferably one each Regan's and Fee Brothers"
       }
     ],
-    "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into achilled coupe or cocktail glass. Garnish with a lemon twist.",
+    "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
     "note": "The martini spent the better part of the 1980s and 1990s as a stripped-down, mostly gin (or, gasp, vodka) version of itself. For some reason, it was cool to request just a whisper of vermouth. In an effort to reintroduce America to the joys of dry vermouth and orange bitters, Audrey Saunders created the sophisticated Fitty-Fitty cocktail at her New York City bar, Pegu Club. She calls the drink a true study in calibration, taking into account not only the botanical profile of the gin, but the vermouth, too: When she has Noilly Prat vermouth on hand, Saunders likes to match it with more assertive Tanqueray gin. However, if she’s using the more",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Martini",
+    "quality": "verified",
+    "garnish": "Lemon twist",
+    "glass": "Coupe or cocktail glass",
+    "creator": "Audrey Saunders, Pegu Club, New York, NY"
   },
   {
     "id": "fitzgerald",
@@ -8354,7 +8624,7 @@
     "name": "Flannel Shirt",
     "category": "Modern",
     "country": null,
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "amaro",
       "book",
@@ -8367,31 +8637,43 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Scotch",
-            "amount": "13/4 oz"
+            "amount": "1¾ oz",
+            "name": "Scotch"
           },
           {
-            "name": "Apple Cider",
-            "amount": "1½ oz"
+            "amount": "1½ oz",
+            "name": "Apple Cider"
           },
           {
-            "name": "Amaro Averna",
-            "amount": "½ oz"
+            "amount": "½ oz",
+            "name": "Amaro Averna"
           },
           {
-            "name": "Qunce Lemon Juice",
-            "amount": "¼"
+            "amount": "¼ oz",
+            "name": "Lemon Juice"
           },
           {
-            "name": "St. Elizabeth Allspice Dram Dashes Angostura Bitters",
-            "amount": "½ tsp"
+            "amount": "1 tsp",
+            "name": "Rich Simple Syrup"
+          },
+          {
+            "amount": "½ tsp",
+            "name": "St. Elizabeth Allspice Dram"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "Angostura Bitters"
           }
         ],
-        "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a rocks glass over ice. Garnish with an orange peel.",
+        "instructions": "Shake all ingredients with ice until chilled. Strain into a rocks glass over ice.",
         "note": "Bartender Jeffrey Morgenthaler created the Flannel Shirt using classic fall flavors—apple, earth, spice, and smoke—to imitate a mulled cider. The fleecy, bone-warming drink has a bold backbone of Scotch and a supporting cast of apple cider, St. Elizabeth Allspice Dram, and bittersweet Amaro Averna. Morgenthaler says, “It reminds me of a hot drink that you’d have on Thanksgiving morning—only served cold.”",
-        "creator": "Jeffrey Morgenthaler, Clyde Common, Portland, Or",
+        "creator": "Jeffrey Morgenthaler, Clyde Common, Portland, OR",
         "image": "assets/recipes/ess-flannel-shirt.webp",
-        "usable": false
+        "usable": true,
+        "page": "241",
+        "garnish": "Orange peel",
+        "glass": "Rocks glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -8401,30 +8683,42 @@
     ],
     "ingredients": [
       {
-        "name": "Scotch",
-        "amount": "13/4 oz"
+        "amount": "1¾ oz",
+        "name": "Scotch"
       },
       {
-        "name": "Apple Cider",
-        "amount": "1½ oz"
+        "amount": "1½ oz",
+        "name": "Apple Cider"
       },
       {
-        "name": "Amaro Averna",
-        "amount": "½ oz"
+        "amount": "½ oz",
+        "name": "Amaro Averna"
       },
       {
-        "name": "Qunce Lemon Juice",
-        "amount": "¼"
+        "amount": "¼ oz",
+        "name": "Lemon Juice"
       },
       {
-        "name": "St. Elizabeth Allspice Dram Dashes Angostura Bitters",
-        "amount": "½ tsp"
+        "amount": "1 tsp",
+        "name": "Rich Simple Syrup"
+      },
+      {
+        "amount": "½ tsp",
+        "name": "St. Elizabeth Allspice Dram"
+      },
+      {
+        "amount": "2 dashes",
+        "name": "Angostura Bitters"
       }
     ],
-    "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a rocks glass over ice. Garnish with an orange peel.",
+    "instructions": "Shake all ingredients with ice until chilled. Strain into a rocks glass over ice.",
     "note": "Bartender Jeffrey Morgenthaler created the Flannel Shirt using classic fall flavors—apple, earth, spice, and smoke—to imitate a mulled cider. The fleecy, bone-warming drink has a bold backbone of Scotch and a supporting cast of apple cider, St. Elizabeth Allspice Dram, and bittersweet Amaro Averna. Morgenthaler says, “It reminds me of a hot drink that you’d have on Thanksgiving morning—only served cold.”",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Orange peel",
+    "glass": "Rocks glass",
+    "ice": "Ice",
+    "creator": "Jeffrey Morgenthaler, Clyde Common, Portland, OR"
   },
   {
     "id": "flaquita",
@@ -9009,7 +9303,7 @@
     "name": "Frozen Negroni",
     "category": "Modern",
     "country": null,
-    "method": "Frozen",
+    "method": "Blend",
     "tags": [
       "book",
       "modern"
@@ -9021,19 +9315,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gin",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Campari"
           },
           {
-            "name": "Sweet Vermouth",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Gin"
+          },
+          {
+            "amount": "1 oz",
+            "name": "Sweet Vermouth"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Simple Syrup"
+          },
+          {
+            "amount": "juice of 1",
+            "name": "Orange"
           }
         ],
-        "instructions": "Add all ingredients to a blender. Add ice (Morgenthaler suggests starting with 6 ounces, adding more if necessary). Blend until smooth. Pour into a plastic cup or rocks glass and garnish with an orange slice.",
+        "instructions": "Blend all ingredients with about 6 ounces of ice, adding more ice if necessary, until smooth. Pour into a plastic cup or rocks glass.",
         "note": "Jeffrey Morgenthaler’s Frozen Negroni began as a Negroni sno-cone he used to serve at backyard dinners. He has tinkered with the ratios a little over time, but doesn’t stray too far from tradition: Campari, gin, and sweet vermouth, along with simple syrup and lots of ice. When slushifying cocktails, Morgenthaler tends to add some fruit juice to the equation. “It adds body and dilutes with flavor rather than just water,” he says. “Consider the cocktail and pick the juice accordingly.” He recommends trying grapefruit juice in a martini and pomegranate juice ina Manhattan, and suggests plastic Solo cups as the most appropriate",
-        "creator": "= Q,",
+        "creator": "Jeffrey Morgenthaler, Clyde Common, Portland, OR",
         "image": "assets/recipes/ess-frozen-negroni.webp",
-        "usable": false
+        "usable": true,
+        "page": "245",
+        "garnish": "Orange slice",
+        "glass": "Rocks glass or plastic cup",
+        "ice": "Blended ice"
       }
     ],
     "image": null,
@@ -9043,18 +9353,34 @@
     ],
     "ingredients": [
       {
-        "name": "Gin",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Campari"
       },
       {
-        "name": "Sweet Vermouth",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Gin"
+      },
+      {
+        "amount": "1 oz",
+        "name": "Sweet Vermouth"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Simple Syrup"
+      },
+      {
+        "amount": "juice of 1",
+        "name": "Orange"
       }
     ],
-    "instructions": "Add all ingredients to a blender. Add ice (Morgenthaler suggests starting with 6 ounces, adding more if necessary). Blend until smooth. Pour into a plastic cup or rocks glass and garnish with an orange slice.",
+    "instructions": "Blend all ingredients with about 6 ounces of ice, adding more ice if necessary, until smooth. Pour into a plastic cup or rocks glass.",
     "note": "Jeffrey Morgenthaler’s Frozen Negroni began as a Negroni sno-cone he used to serve at backyard dinners. He has tinkered with the ratios a little over time, but doesn’t stray too far from tradition: Campari, gin, and sweet vermouth, along with simple syrup and lots of ice. When slushifying cocktails, Morgenthaler tends to add some fruit juice to the equation. “It adds body and dilutes with flavor rather than just water,” he says. “Consider the cocktail and pick the juice accordingly.” He recommends trying grapefruit juice in a martini and pomegranate juice ina Manhattan, and suggests plastic Solo cups as the most appropriate",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Negroni",
+    "quality": "verified",
+    "garnish": "Orange slice",
+    "glass": "Rocks glass or plastic cup",
+    "ice": "Blended ice",
+    "creator": "Jeffrey Morgenthaler, Clyde Common, Portland, OR"
   },
   {
     "id": "frozen-strawberry-daiquiri",
@@ -9553,23 +9879,27 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gin",
-            "amount": "2 oz"
+            "amount": "½ oz",
+            "name": "Gin"
           },
           {
-            "name": "Tonic Preferably Small Hand Foods",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Tonic Syrup, preferably Small Hand Foods"
           },
           {
-            "name": "Spanish Sidra, Preferably Syrup, Trabanco",
-            "amount": "4 oz"
+            "amount": "4 oz",
+            "name": "Spanish Sidra, preferably Trabanco"
           }
         ],
-        "instructions": "Add all ingredients to an ice-filled double rocks or Collins glass, and stir to combine. Garnish with a lemon peel.",
+        "instructions": "Build all ingredients in an ice-filled double rocks or Collins glass and stir to combine.",
         "note": "At Wassail, New York City’s fantastic Lower East Side cider bar, cider cocktails are a mainstay. Former bartender Jade Sotack came up with several seasonal iterations of what she calls Gin and Juice. For this springtime version, a play on a Gin and Tonic (page 95), Sotack combines a concentrated tonic syrup and just % ounce of gin to provide the base flavors, then top the whole thing off with a sidra (cider) from Spain’s Asturias for a funkier version of the classic refresher—but any high-acid cider will work here. This drink takes ona completely different personality depending on which gin you use. Sotack is partial to both Tanqueray and Hay",
-        "creator": "Jade Sotack, New York, Ny",
+        "creator": "Jade Sotack, New York, NY",
         "image": "assets/recipes/ess-gin-and-juice.webp",
-        "usable": false
+        "usable": true,
+        "page": "246",
+        "garnish": "Lemon peel",
+        "glass": "Double rocks or Collins glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -9579,22 +9909,26 @@
     ],
     "ingredients": [
       {
-        "name": "Gin",
-        "amount": "2 oz"
+        "amount": "½ oz",
+        "name": "Gin"
       },
       {
-        "name": "Tonic Preferably Small Hand Foods",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Tonic Syrup, preferably Small Hand Foods"
       },
       {
-        "name": "Spanish Sidra, Preferably Syrup, Trabanco",
-        "amount": "4 oz"
+        "amount": "4 oz",
+        "name": "Spanish Sidra, preferably Trabanco"
       }
     ],
-    "instructions": "Add all ingredients to an ice-filled double rocks or Collins glass, and stir to combine. Garnish with a lemon peel.",
+    "instructions": "Build all ingredients in an ice-filled double rocks or Collins glass and stir to combine.",
     "note": "At Wassail, New York City’s fantastic Lower East Side cider bar, cider cocktails are a mainstay. Former bartender Jade Sotack came up with several seasonal iterations of what she calls Gin and Juice. For this springtime version, a play on a Gin and Tonic (page 95), Sotack combines a concentrated tonic syrup and just % ounce of gin to provide the base flavors, then top the whole thing off with a sidra (cider) from Spain’s Asturias for a funkier version of the classic refresher—but any high-acid cider will work here. This drink takes ona completely different personality depending on which gin you use. Sotack is partial to both Tanqueray and Hay",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Lemon peel",
+    "glass": "Double rocks or Collins glass",
+    "ice": "Ice",
+    "creator": "Jade Sotack, New York, NY"
   },
   {
     "id": "gin-daisy-old-and-new",
@@ -9749,19 +10083,27 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gin, Preferably London Dry",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Gin, preferably London Dry"
           },
           {
-            "name": "Soda Water,",
-            "amount": "to taste"
+            "amount": "½–¾ oz",
+            "name": "Lime Juice"
+          },
+          {
+            "amount": "to top",
+            "name": "Soda Water"
           }
         ],
-        "instructions": "Add gin and lime juice to a Collins glass. Add ice and top with soda water. Garnish with a lime wheel.",
+        "instructions": "Build gin and lime juice in a Collins glass. Add ice and top with soda water.",
         "note": "The Rickey, a variation on the classic fizz, traces its origins to a whiskey-based drink created by Joe Rickey, a lobbyist from Missouri who moved to the nation’s capital in the late nineteenth century. Once in Washington, D.C., Rickey became a regular at Shoomaker’s Saloon and started many of his days there, ordering what he called his “mornin’s mornin’”: two ounces of whiskey, long, with soda water over ice. The drink was a hit and soon found nationwide popularity, so much so that Rickey eventually got into the drinks business himself, selling soda water. This version replaces whiskey with gin and adds lime juice, which has arguably become",
         "creator": "2 Ounces Gin,",
         "image": "assets/recipes/ess-gin-rickey.webp",
-        "usable": false
+        "usable": true,
+        "page": "101",
+        "garnish": "Lime wheel",
+        "glass": "Collins glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -9771,18 +10113,25 @@
     ],
     "ingredients": [
       {
-        "name": "Gin, Preferably London Dry",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Gin, preferably London Dry"
       },
       {
-        "name": "Soda Water,",
-        "amount": "to taste"
+        "amount": "½–¾ oz",
+        "name": "Lime Juice"
+      },
+      {
+        "amount": "to top",
+        "name": "Soda Water"
       }
     ],
-    "instructions": "Add gin and lime juice to a Collins glass. Add ice and top with soda water. Garnish with a lime wheel.",
+    "instructions": "Build gin and lime juice in a Collins glass. Add ice and top with soda water.",
     "note": "The Rickey, a variation on the classic fizz, traces its origins to a whiskey-based drink created by Joe Rickey, a lobbyist from Missouri who moved to the nation’s capital in the late nineteenth century. Once in Washington, D.C., Rickey became a regular at Shoomaker’s Saloon and started many of his days there, ordering what he called his “mornin’s mornin’”: two ounces of whiskey, long, with soda water over ice. The drink was a hit and soon found nationwide popularity, so much so that Rickey eventually got into the drinks business himself, selling soda water. This version replaces whiskey with gin and adds lime juice, which has arguably become",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Lime wheel",
+    "glass": "Collins glass",
+    "ice": "Ice"
   },
   {
     "id": "gin-sour",
