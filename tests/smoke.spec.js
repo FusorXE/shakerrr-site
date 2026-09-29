@@ -128,12 +128,12 @@ test("Tools exposes Swap Lab, Ingredients and backup actions", async ({ page }) 
   await localOnly(page);
   await page.locator("#toolsBtn").click();
   await expect(page.locator("#drawer")).toHaveClass(/open/);
-  await expect(page.locator('[data-action="swap"]')).toBeVisible();
+  await expect(page.locator('#drawer [data-action="swap"]')).toBeVisible();
   await expect(page.locator('[data-action="ingredients"]')).toBeVisible();
   await expect(page.locator('[data-action="export-data"]')).toBeVisible();
   await expect(page.locator('[data-action="import-data"]')).toBeVisible();
 
-  await page.locator('[data-action="swap"]').click();
+  await page.locator('#drawer [data-action="swap"]').click();
   await expect(page.locator("#modal")).toHaveClass(/show/);
   await expect(page.locator("#swapFrom")).toBeVisible();
 });
