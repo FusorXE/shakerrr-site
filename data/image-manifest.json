@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-09-25",
+  "generated": "2026-09-28",
   "byRecipe": {
     "tis-the-seasontini": {
       "name": "'Tis the Seasontini",
@@ -786,8 +786,9 @@
           "path": "assets/recipes/ryan-cosmopolitan.webp",
           "source": "Essential Cocktails 2021",
           "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
+          "available": true,
+          "status": "exact-book",
+          "page": "19"
         }
       ]
     },
