@@ -825,13 +825,13 @@
         "instructions": "Simmer orange segments, apricots, brandy, sugar, cloves, star anise, cinnamon, and nutmeg until the fruit is very soft and the mixture reduces almost to a glaze. Add Riesling and the remaining brandy and heat without boiling. Remove whole spices and ladle into mugs.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-apricot-mulled-wine.webp",
+        "image": "assets/recipes/apricot-mulled-wine-04.webp",
         "usable": true,
         "page": "63-64",
         "garnish": "Cinnamon stick and thin sliced orange rind"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/apricot-mulled-wine-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -1010,13 +1010,13 @@
         "instructions": "Blanch the grapefruit peel three times, then candy it slowly in the sugar syrup until tender and dark caramel-pink. Chill. Combine reserved grapefruit juice, 8 ounces of the candying syrup, candied peel, sparkling wine, and sherry in a punch bowl. Stir gently and adjust sweetness with additional sherry.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-autumn-punch.webp",
+        "image": "assets/recipes/autumn-punch-04.webp",
         "usable": true,
         "page": "65-66",
         "garnish": "Candied grapefruit strips and whole star anise, optional"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/autumn-punch-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -1285,13 +1285,13 @@
         "instructions": "Infuse dried banana, water, molasses, brown sugar, dark rum, and vanilla in a sealed container for 4 to 48 hours, ideally 48, then strain. To serve, combine frozen bananas, the banana rum, dried banana pieces, pineapple juice, and cider or ginger beer in a pitcher or punch bowl.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-banana-rum-punch.webp",
+        "image": "assets/recipes/banana-rum-punch-04.webp",
         "usable": true,
         "page": "67-68",
         "garnish": "Shredded coconut"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/banana-rum-punch-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -2882,7 +2882,7 @@
         "instructions": "Build the tequila, horseradish, Tabasco, Worcestershire sauce, lime juice, salt, and pepper over ice in a Collins glass and stir well. Top with tomato juice and stir again.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-bloody-maria.webp",
+        "image": "assets/recipes/bloody-maria-04.webp",
         "usable": true,
         "page": "39",
         "garnish": "Lime wedge and celery stalk",
@@ -2890,7 +2890,7 @@
         "ice": "Ice"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/bloody-maria-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -4829,14 +4829,14 @@
         "instructions": "Heat coffee, chocolate, and sugar over medium heat, stirring until the chocolate melts and the mixture is steaming. Add the spirits and heat for one minute while stirring. Serve in espresso cups.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-christmas-eve-chocolate.webp",
+        "image": "assets/recipes/christmas-eve-chocolate-04.webp",
         "usable": true,
         "page": "69",
         "garnish": "Whipped cream, optional",
         "glass": "Espresso cups"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/christmas-eve-chocolate-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -5296,12 +5296,12 @@
         "instructions": "Shake all ingredients hard with ice and strain into a glass.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-coffee-cocktail.webp",
+        "image": "assets/recipes/coffee-cocktail-04.webp",
         "usable": true,
         "page": "70"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/coffee-cocktail-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -5602,7 +5602,7 @@
         "instructions": "Add the vodka, Cointreau, lime juice and cranberry juice to a shaker with ice and shake until well-chilled. Strain into a chilled cocktail glass. Garnish with a lime wedge.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-cosmopolitan.webp",
+        "image": "assets/recipes/cosmopolitan-04.webp",
         "usable": true
       },
       {
@@ -5617,7 +5617,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/cosmopolitan-04.webp",
     "movie": {
       "film": "Clueless",
       "year": "1995",
@@ -5853,7 +5853,7 @@
         "instructions": "Combine all ingredients in a cocktail shaker and shake vigorously. Strain into a chilled martini glass and serve immediately.",
         "note": "Nothing like the ubiquitous frozen drinks that bear the same name, this classic cocktail is light, refreshing, and the perfect easy cocktail to while away the summer hours. Like many classics in all areas, the daiquiri is simplicity itself. It is a variant on the rum, lime, and sugar theme that is also the hallmark of the ’ti punch of the French islands and the caipirinha of Brazil. There are many stories of the origin of the daiquiri. According to one of them, the daiquiri was invented in the l",
         "creator": "",
-        "image": "assets/recipes/ryan-daiquiri-classic.webp",
+        "image": "assets/recipes/daiquiri-04.webp",
         "usable": true,
         "page": "17-18",
         "glass": "Martini glass"
@@ -5923,7 +5923,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/daiquiri-04.webp",
     "movie": null,
     "collections": [
       "Death & Co",
@@ -5985,11 +5985,11 @@
         "instructions": "Combine all of the ingredients in a blender and pulse until well mixed. Pour into a chilled martini glass.",
         "note": "The drink was originally made with Barcadi Elixer, a liqueur made by infusing plum is rum. This recipe was darkened up a bit by using two types of rum.",
         "creator": "",
-        "image": "assets/recipes/ryan-daiquiri-mulata.webp",
+        "image": "assets/recipes/daiquiri-mulata-04.webp",
         "usable": true
       }
     ],
-    "image": null,
+    "image": "assets/recipes/daiquiri-mulata-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -6060,14 +6060,14 @@
         "instructions": "Blend all ingredients until well mixed and the ice has dissolved. Pour into a large chilled martini glass and serve immediately.",
         "note": "The Strawberry Daiquiri is a summertime favorite that evokes sunny days and poolside vacations. At its best, the drink is a refreshing, delicious concoction that highlights good rum, sweet strawberries and fresh lime juice. But during the 1980s and ’90s—the heyday of artificial mixers—the Strawberry Daiquiri’s reputation suffered a hit, as bars served neon-colored cocktails that were absent any actual strawberries. When made with care, however, the drink is a revelation.",
         "creator": "",
-        "image": "assets/recipes/ryan-daiquiri-strawberry.webp",
+        "image": "assets/recipes/daiquiri-strawberry-04.webp",
         "usable": true,
         "page": "15-16",
         "glass": "Large chilled martini glass",
         "ice": "Crushed ice"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/daiquiri-strawberry-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -7540,13 +7540,13 @@
         "instructions": "Make a crème anglaise by heating the milk, whisking egg yolks with sugar, flour, and salt, then slowly whisking in the hot milk and cooking over simmering water until thickened. Cool over ice and add vanilla. Combine with the remaining milk, cream, spices, rum, bourbon, and brandy. Sweeten to taste, transfer to a punch bowl, chill or serve at room temperature.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-eggnog.webp",
+        "image": "assets/recipes/eggnog-04.webp",
         "usable": true,
         "page": "61-62",
         "garnish": "Freshly grated nutmeg; orange zest optional"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/eggnog-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -7809,11 +7809,11 @@
         "instructions": "Gather the ingredients. In a cocktail shaker filled with ice, pour the tequila, crème de cassis, and lime juice. Shake well. Strain into a collins glass filled with fresh ice. Top with ginger beer. Garnish with lime wedge or cheek.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-el-diablo.webp",
+        "image": "assets/recipes/el-diablo-04.webp",
         "usable": true
       }
     ],
-    "image": null,
+    "image": "assets/recipes/el-diablo-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -11724,12 +11724,12 @@
         "instructions": "Beat the softened butter with brown sugar, sweetener, cinnamon, nutmeg, cardamom, and cloves. For each serving, put 1½ to 2 tablespoons of the butter-spice mixture in a mug, add ¼ cup boiling water and stir to dissolve, then add 1 to 2 tablespoons heavy cream and adjust to taste.",
         "note": "warm on the car journey home.",
         "creator": "",
-        "image": "assets/recipes/ryan-hot-buttered-faux-rum.webp",
+        "image": "assets/recipes/hot-buttered-faux-rum-04.webp",
         "usable": true,
         "page": "71-72"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/hot-buttered-faux-rum-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -14951,7 +14951,7 @@
         "instructions": "Shake all ingredients with ice. Strain into a chilled highball glass.",
         "note": "Composed of rum, orange curaçao, fresh lime juice and orgeat (a nuanced almond syrup), it’s held sway over cocktail enthusiasts and Tiki aficionados for decades. It even enjoyed a star turn in the Elvis film “Blue Hawaii.” Victor “Trader Vic” Bergeron is often credited with inventing the drink at his Trader Vic’s bar in the 1940s, though it’s likely that Donn Beach laid the groundwork for the famous recipe during the 1930s at his Don the Beachcomber bar. The original Trader Vic’s recipe featured",
         "creator": "",
-        "image": "assets/recipes/ryan-mai-tai.webp",
+        "image": "assets/recipes/mai-tai-04.webp",
         "usable": true,
         "page": "37-38",
         "garnish": "Peppermint sprig or lime garnish",
@@ -14959,7 +14959,7 @@
         "ice": "Crushed ice"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/mai-tai-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book",
@@ -15118,7 +15118,7 @@
         "instructions": "Fill a 1-quart pitcher with ice and add the whiskey, sweet vermouth, and bitters. Stir vigorously until the outside of the pitcher is thoroughly beaded with sweat and is extremely cold to the touch. Place a maraschino cherry in each cocktail glass. Strain the drink over the cherries and serve immediately.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-manhattan-classic.webp",
+        "image": "assets/recipes/manhattan-04.webp",
         "usable": true
       },
       {
@@ -15170,7 +15170,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/manhattan-04.webp",
     "movie": {
       "film": "",
       "year": "",
@@ -15532,14 +15532,14 @@
         "instructions": "Shake or stir the citrus juices, grape juice, and orange flower water with ice. In each rocks glass muddle two cherries, ⅓ ounce cherry syrup, ½ teaspoon sugar, one dash bitters, and a half orange slice. Fill with ice, add the juice mixture, stir vigorously, and top with club soda.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-maraschino-muddle.webp",
+        "image": "assets/recipes/maraschino-muddle-04.webp",
         "usable": true,
         "page": "73-74",
         "glass": "Rocks glass",
         "ice": "Ice"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/maraschino-muddle-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -15654,7 +15654,7 @@
         "instructions": "Moisten the rim of a double rocks glass with water or lime juice and, holding it upside down, dip the rim into a flat dish filled with table or kosher salt.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-margarita-classic.webp",
+        "image": "assets/recipes/margarita-04.webp",
         "usable": true
       },
       {
@@ -15682,7 +15682,7 @@
         "usable": true
       }
     ],
-    "image": null,
+    "image": "assets/recipes/margarita-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book",
@@ -17788,7 +17788,7 @@
         "instructions": "Muddle the spearmint leaves, lime juice, and simple syrup in a highball glass. Add rum and ice, top with club soda, and stir.",
         "note": "Mojito is a traditional Cuban highball. The cocktail often consists of five ingredients: white rum, sugar, lime juice, soda water, and mint. Its combination of sweetness, citrus, and herbaceous mint flavors is intended to complement the rum, and has made the mojito a popular summer drink. Now it’s served at bars around the world in infinite varieties.",
         "creator": "",
-        "image": "assets/recipes/ryan-mojito-classic.webp",
+        "image": "assets/recipes/mojito-04.webp",
         "usable": true,
         "page": "20-21",
         "garnish": "Spearmint sprig and a straw",
@@ -17816,7 +17816,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/mojito-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book",
@@ -17900,7 +17900,7 @@
         "instructions": "Muddle the mint leaves, lime juice, and ginger syrup in a highball glass. Add rum and ice, top with club soda and mint bitters, and stir.",
         "note": "This recipe uses ginger syrup, a mix of peppermint and spearmint, and a dash of mint bitters.",
         "creator": "",
-        "image": "assets/recipes/ryan-mojito-a-mi-manera.webp",
+        "image": "assets/recipes/mojito-a-mi-manera-04.webp",
         "usable": true,
         "page": "22-23",
         "garnish": "Spearmint sprig and a straw",
@@ -17908,7 +17908,7 @@
         "ice": "Ice cubes"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/mojito-a-mi-manera-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -17990,7 +17990,7 @@
         "instructions": "Divide mint, syrup, and lime juice among four highball glasses and muddle. Add ice and 2 ounces rum to each glass, stir, then fill with seltzer.",
         "note": "The mojito was the original drink of the Cuban working class. A cooling, thirst-quenching mojito was a great way to end the day.",
         "creator": "",
-        "image": "assets/recipes/ryan-mojito-basic.webp",
+        "image": "assets/recipes/mojito-basic-04.webp",
         "usable": true,
         "page": "24-25",
         "garnish": "Remaining mint",
@@ -17998,7 +17998,7 @@
         "ice": "Ice"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/mojito-basic-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -18072,11 +18072,11 @@
         "instructions": "Place the mint leaves, agave nectar, and lime juice in a collins glass. Mash the Ingredients: with a muddler or with the back of a spoon at the bottom of the glass. Next, fill the glass with ice cubes and add the tequila and soda water. Stir to blend.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-mojito-tequila.webp",
+        "image": "assets/recipes/mojito-tequila-04.webp",
         "usable": true
       }
     ],
-    "image": null,
+    "image": "assets/recipes/mojito-tequila-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -19711,7 +19711,7 @@
         "instructions": "Place 1 orange half slice, 1 cherry, and ½ teaspoon sugar in each rocks glass. Muddle until the fruit is well mashed and mixed with the sugar. Fill the glasses with ice, add the bourbon, and stir well. Top off with soda, stir and serve.",
         "note": "",
         "creator": "",
-        "image": "assets/recipes/ryan-old-fashioned.webp",
+        "image": "assets/recipes/old-fashioned-04.webp",
         "usable": true
       },
       {
@@ -19743,7 +19743,7 @@
         "usable": true
       }
     ],
-    "image": null,
+    "image": "assets/recipes/old-fashioned-04.webp",
     "movie": null,
     "collections": [
       "Death & Co",
@@ -21895,7 +21895,7 @@
         "instructions": "Blend the pineapple chunks to a liquid slurry. Combine ½ cup of the pineapple liquid, coconut milk, both rums, and ice in a cocktail shaker. Add the cream and shake vigorously. Strain into a tall glass.",
         "note": "with rum, cream of coconut or coconut milk, and pineapple juice, usually served either blended or shaken with ice. It may be garnished with either a pineapple wedge, maraschino cherry, or both. There are two versions of the drink, both originating in Puerto Rico. Fresh pineapple, freshly made coconut milk, and—naturally— fabulous rum and served in a hollowed-out pineapple will lives in your taste memory and your dreams. Try one and you’ll see why.",
         "creator": "",
-        "image": "assets/recipes/ryan-pina-colada.webp",
+        "image": "assets/recipes/pina-colada-04.webp",
         "usable": true,
         "page": "35-36",
         "garnish": "Pineapple wedge",
@@ -21939,7 +21939,7 @@
         "usable": true
       }
     ],
-    "image": null,
+    "image": "assets/recipes/pina-colada-04.webp",
     "movie": null,
     "collections": [
       "Death & Co",
@@ -22520,7 +22520,7 @@
         "instructions": "Muddle simple syrup with torn mint and lime in a highball glass. Fill with ice, add pomegranate juice and lemonade, stir well, and top with club soda.",
         "note": "Muddle and mix this merry mojito and bring a little holiday cheer to family and friends this Christmas.",
         "creator": "",
-        "image": "assets/recipes/ryan-pomegranate-mojito.webp",
+        "image": "assets/recipes/pomegranate-mojito-04.webp",
         "usable": true,
         "page": "28-29",
         "garnish": "Pomegranate arils and fresh mint",
@@ -22528,7 +22528,7 @@
         "ice": "Ice"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/pomegranate-mojito-04.webp",
     "movie": null,
     "collections": [
       "Essential Cocktails 2021"
@@ -29215,7 +29215,7 @@
         "instructions": "Combine the juices, sugar, and orange flower water in a Collins or highball glass and stir well. Add the rum and stir, top with club soda, stir once more, add ice, and serve immediately.",
         "note": "The orange flower water adds an unexpected floral hint to the final drink. Traditionally, the Collins is garnished with a maraschino cherry. This drink is sometimes called a Pedro Collins. Another variant is prepared with a mix of rum and rye whiskey and called a John Collins.",
         "creator": "",
-        "image": "assets/recipes/ryan-tom-collins-classic.webp",
+        "image": "assets/recipes/tom-collins-04.webp",
         "usable": true,
         "page": "33-34",
         "glass": "Collins or highball glass",
@@ -29261,7 +29261,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/tom-collins-04.webp",
     "movie": {
       "film": "Chinatown",
       "year": "1974",
@@ -31298,7 +31298,7 @@
         "instructions": "Shake all ingredients except the 151-proof rum and garnishes with a scoop of crushed ice. Strain into a highball glass. Slowly float a spoonful of 151-proof rum over the back of a spoon.",
         "note": "various rums. It first appeared in late 1934, invented by Donn Beach at his Hollywood Don the Beachcomber restaurant. It was popularized on the East coast soon afterwards at the 1939 New York World's Fair.",
         "creator": "",
-        "image": "assets/recipes/ryan-zombie.webp",
+        "image": "assets/recipes/zombie-04.webp",
         "usable": true,
         "page": "31-32",
         "garnish": "Pineapple wedge and fresh mint sprig",
@@ -31317,7 +31317,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/zombie-04.webp",
     "movie": {
       "film": "World War Z",
       "year": "2013",

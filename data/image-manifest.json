@@ -222,11 +222,19 @@
       "name": "Apricot Mulled Wine",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-apricot-mulled-wine.webp",
+          "id": "apricot-mulled-wine",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 63,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/apricot-mulled-wine-04.webp",
+          "available": true,
+          "page": 63,
+          "width": 1015,
+          "height": 1020,
+          "sha256": "8fbb843daa849db8f79e040fa6cbf425c17e7615568a8bf02144c8f90b8d2250"
         }
       ]
     },
@@ -246,11 +254,19 @@
       "name": "Autumn Punch",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-autumn-punch.webp",
+          "id": "autumn-punch",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 65,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/autumn-punch-04.webp",
+          "available": true,
+          "page": 65,
+          "width": 1205,
+          "height": 994,
+          "sha256": "c0a0b1034da7b2b463b009421b0e32390b6391df7f16002bf7f761473079bda9"
         }
       ]
     },
@@ -294,11 +310,19 @@
       "name": "Banana Rum Punch",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-banana-rum-punch.webp",
+          "id": "banana-rum-punch",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 67,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/banana-rum-punch-04.webp",
+          "available": true,
+          "page": 67,
+          "width": 1005,
+          "height": 1275,
+          "sha256": "ef5a1cf04837c14f21147dc788c27abf47587be57ab2b367a219b53cef3b8f5d"
         }
       ]
     },
@@ -450,11 +474,19 @@
       "name": "Bloody Maria",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-bloody-maria.webp",
+          "id": "bloody-maria",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 39,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/bloody-maria-04.webp",
+          "available": true,
+          "page": 39,
+          "width": 408,
+          "height": 289,
+          "sha256": "81c4dd9140758bc7c4c47305f8542fbcb1a13e63132fd6b30365fdd9668d2166"
         }
       ]
     },
@@ -673,11 +705,19 @@
       "name": "Christmas Eve Chocolate",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-christmas-eve-chocolate.webp",
+          "id": "christmas-eve-chocolate",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 69,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/christmas-eve-chocolate-04.webp",
+          "available": true,
+          "page": 69,
+          "width": 531,
+          "height": 696,
+          "sha256": "5b6891928565a369e2ad7a9a3dca145132b796e881e45619bd5e8b9013230772"
         }
       ]
     },
@@ -745,11 +785,19 @@
       "name": "Coffee Cocktail",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-coffee-cocktail.webp",
+          "id": "coffee-cocktail",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 70,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/coffee-cocktail-04.webp",
+          "available": true,
+          "page": 70,
+          "width": 545,
+          "height": 977,
+          "sha256": "3b6f1ab7de34d5192979309558fc06bf6e2f9a5951c74f35a24a3100998fb51e"
         }
       ]
     },
@@ -776,19 +824,19 @@
       "name": "Cosmopolitan",
       "candidates": [
         {
-          "path": "assets/recipes/ess-cosmopolitan.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/ryan-cosmopolitan.webp",
+          "id": "cosmopolitan",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "version",
-          "available": true,
+          "pdfPage": 19,
+          "mode": "embedded-largest",
           "status": "exact-book",
-          "page": "19"
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/cosmopolitan-04.webp",
+          "available": true,
+          "page": 19,
+          "width": 722,
+          "height": 753,
+          "sha256": "f0ce360690c2b4e9a6fe80200bc1849a41f2a346d051b8e3d9de57c660085198"
         }
       ]
     },
@@ -796,19 +844,19 @@
       "name": "Daiquiri",
       "candidates": [
         {
-          "path": "assets/recipes/ess-daiquiri.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/ryan-daiquiri-classic.webp",
+          "id": "daiquiri",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "version",
-          "available": true,
+          "pdfPage": 17,
+          "mode": "embedded-largest",
           "status": "exact-book",
-          "page": "17"
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/daiquiri-04.webp",
+          "available": true,
+          "page": 17,
+          "width": 410,
+          "height": 305,
+          "sha256": "2496036ee3820cf02986f84065c8e8e79a8b610a54f1f4d8c16986b6d77952eb"
         }
       ]
     },
@@ -816,12 +864,19 @@
       "name": "Daiquiri Mulata",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-daiquiri-mulata.webp",
+          "id": "daiquiri-mulata",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": true,
+          "pdfPage": 13,
+          "mode": "embedded-largest",
           "status": "exact-book",
-          "page": "13"
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/daiquiri-mulata-04.webp",
+          "available": true,
+          "page": 13,
+          "width": 417,
+          "height": 478,
+          "sha256": "79572c615d4040ef078c48ce26610a56c47daa288ee8fb7b45db9b01ecf4576a"
         }
       ]
     },
@@ -829,12 +884,19 @@
       "name": "Daiquiri Strawberry",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-daiquiri-strawberry.webp",
+          "id": "daiquiri-strawberry",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": true,
+          "pdfPage": 15,
+          "mode": "embedded-largest",
           "status": "exact-book",
-          "page": "15"
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/daiquiri-strawberry-04.webp",
+          "available": true,
+          "page": 15,
+          "width": 1125,
+          "height": 1442,
+          "sha256": "891a3da929986c4b615796f00f4726a847551a22d3224796ef9d93531153e3e1"
         }
       ]
     },
@@ -962,11 +1024,19 @@
       "name": "Eggnog",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-eggnog.webp",
+          "id": "eggnog",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 61,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/eggnog-04.webp",
+          "available": true,
+          "page": 61,
+          "width": 1003,
+          "height": 966,
+          "sha256": "2679d9a53315d32df2b73607e3823b952721f5563a0163f02d314ee57877a7ca"
         }
       ]
     },
@@ -986,11 +1056,19 @@
       "name": "El Diablo",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-el-diablo.webp",
+          "id": "el-diablo",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 30,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/el-diablo-04.webp",
+          "available": true,
+          "page": 30,
+          "width": 418,
+          "height": 546,
+          "sha256": "547b25401722044052ede7b29c45581bbecd07ddf1abbf16d4b9a60007dfc7d6"
         }
       ]
     },
@@ -1449,11 +1527,19 @@
       "name": "Hot Buttered Faux Rum",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-hot-buttered-faux-rum.webp",
+          "id": "hot-buttered-faux-rum",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 71,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/hot-buttered-faux-rum-04.webp",
+          "available": true,
+          "page": 71,
+          "width": 566,
+          "height": 493,
+          "sha256": "8fe0a29737c24937adb1e9f1539f12df2435faa87008c69f6afa141c6060c650"
         }
       ]
     },
@@ -1737,18 +1823,19 @@
       "name": "Mai Tai",
       "candidates": [
         {
-          "path": "assets/recipes/ess-mai-tai.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/ryan-mai-tai.webp",
+          "id": "mai-tai",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 37,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/mai-tai-04.webp",
+          "available": true,
+          "page": 37,
+          "width": 964,
+          "height": 1233,
+          "sha256": "013b48c67cf8224b3c024956d89a368e364116003201cb3a4cd71c52751792ff"
         }
       ]
     },
@@ -1768,25 +1855,19 @@
       "name": "Manhattan",
       "candidates": [
         {
-          "path": "assets/recipes/ess-manhattan.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/ryan-manhattan-classic.webp",
+          "id": "manhattan",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/movie-manhattan.webp",
-          "source": "Cocktails from Movies",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 40,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/manhattan-04.webp",
+          "available": true,
+          "page": 40,
+          "width": 753,
+          "height": 897,
+          "sha256": "66b54b1e712c9e03c01259a93e9fd99de7a9ec60647f58de1db024dea9c661dd"
         }
       ]
     },
@@ -1842,11 +1923,19 @@
       "name": "Maraschino Muddle",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-maraschino-muddle.webp",
+          "id": "maraschino-muddle",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 73,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/maraschino-muddle-04.webp",
+          "available": true,
+          "page": 73,
+          "width": 635,
+          "height": 800,
+          "sha256": "2b50e539e971f1643617e70b4c4516caecb16d52fa25db3554e2b9b5a57a6217"
         }
       ]
     },
@@ -1854,25 +1943,19 @@
       "name": "Margarita",
       "candidates": [
         {
-          "path": "assets/recipes/ess-margarita.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/ryan-margarita-classic.webp",
+          "id": "margarita",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/hs-margarita.webp",
-          "source": "Shakerrr Mezcal Library",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 46,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/margarita-04.webp",
+          "available": true,
+          "page": 46,
+          "width": 514,
+          "height": 509,
+          "sha256": "e795a4dc4d72d5c7612b455e9dddda29774a6ffea71ba0d5220d0712aba81cf3"
         }
       ]
     },
@@ -2177,19 +2260,19 @@
       "name": "Mojito",
       "candidates": [
         {
-          "path": "assets/recipes/ess-mojito.webp",
-          "source": "Essential Cocktail Book",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/ryan-mojito-classic.webp",
+          "id": "mojito",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "version",
-          "available": true,
+          "pdfPage": 20,
+          "mode": "embedded-largest",
           "status": "exact-book",
-          "page": "20"
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/mojito-04.webp",
+          "available": true,
+          "page": 20,
+          "width": 393,
+          "height": 545,
+          "sha256": "e1a9ab5581db212920b14089809c6cb99d9421b50cf66df876c9911c7e8f3f74"
         }
       ]
     },
@@ -2197,11 +2280,19 @@
       "name": "Mojito A Mi Manera",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-mojito-a-mi-manera.webp",
+          "id": "mojito-a-mi-manera",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 22,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/mojito-a-mi-manera-04.webp",
+          "available": true,
+          "page": 22,
+          "width": 325,
+          "height": 439,
+          "sha256": "ea121989111247753d642b344bcd1bef8b0d3688363d2aa8ac2d897f4e9fc59a"
         }
       ]
     },
@@ -2209,11 +2300,19 @@
       "name": "Mojito Basic",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-mojito-basic.webp",
+          "id": "mojito-basic",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 24,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/mojito-basic-04.webp",
+          "available": true,
+          "page": 24,
+          "width": 418,
+          "height": 514,
+          "sha256": "933f3dc917f0c9c5378804444c087b6b76634ab86b5f758381d77a13b1ecbbbd"
         }
       ]
     },
@@ -2221,12 +2320,19 @@
       "name": "Mojito Tequila",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-mojito-tequila.webp",
+          "id": "mojito-tequila",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": true,
+          "pdfPage": 26,
+          "mode": "embedded-largest",
           "status": "exact-book",
-          "page": "26"
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/mojito-tequila-04.webp",
+          "available": true,
+          "page": 26,
+          "width": 726,
+          "height": 598,
+          "sha256": "e27dc56830dca17f8b9aa8fab5d8265934d6ff6e574b79a360f2d9ca74306385"
         }
       ]
     },
@@ -2450,18 +2556,19 @@
       "name": "Old-Fashioned",
       "candidates": [
         {
-          "path": "assets/recipes/ess-old-fashioned.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/ryan-old-fashioned.webp",
+          "id": "old-fashioned",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 54,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/old-fashioned-04.webp",
+          "available": true,
+          "page": 54,
+          "width": 446,
+          "height": 462,
+          "sha256": "4a3a2e6ab8a114d4e97a5710a2fc390a2db875e38ec12df646cdf3c8c46b4bd1"
         }
       ]
     },
@@ -2673,18 +2780,19 @@
       "name": "Piña Colada",
       "candidates": [
         {
-          "path": "assets/recipes/ess-pina-colada.webp",
-          "source": "Death & Co",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/ryan-pina-colada.webp",
+          "id": "pina-colada",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 35,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/pina-colada-04.webp",
+          "available": true,
+          "page": 35,
+          "width": 416,
+          "height": 548,
+          "sha256": "d4173916ec6ae1f266297d00a279f173cd1b7bad95bb74f2103438d523e334be"
         }
       ]
     },
@@ -2752,11 +2860,19 @@
       "name": "Pomegranate Mojito",
       "candidates": [
         {
-          "path": "assets/recipes/ryan-pomegranate-mojito.webp",
+          "id": "pomegranate-mojito",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 28,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/pomegranate-mojito-04.webp",
+          "available": true,
+          "page": 28,
+          "width": 516,
+          "height": 559,
+          "sha256": "591fca8656a08fb483b37b3ad804e0320509666d655acf3652bcf7c31c71e22f"
         }
       ]
     },
@@ -3505,25 +3621,19 @@
       "name": "Tom Collins",
       "candidates": [
         {
-          "path": "assets/recipes/ess-tom-collins.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/ryan-tom-collins-classic.webp",
+          "id": "tom-collins",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/movie-tom-collins.webp",
-          "source": "Cocktails from Movies",
-          "scope": "version",
-          "available": false,
-          "status": "referenced-not-committed"
+          "pdfPage": 33,
+          "mode": "embedded-largest",
+          "status": "exact-book",
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/tom-collins-04.webp",
+          "available": true,
+          "page": 33,
+          "width": 535,
+          "height": 507,
+          "sha256": "612e464e51734dfd07c33a731b31f1c398c9f4f5b83f98e77e5973280a1d8e22"
         }
       ]
     },
@@ -3761,19 +3871,19 @@
       "name": "Zombie",
       "candidates": [
         {
-          "path": "assets/recipes/ess-zombie.webp",
-          "source": "Cocktails from Movies",
-          "scope": "base",
-          "available": false,
-          "status": "referenced-not-committed"
-        },
-        {
-          "path": "assets/recipes/ryan-zombie.webp",
+          "id": "zombie",
+          "book": "04",
           "source": "Essential Cocktails 2021",
-          "scope": "version",
-          "available": true,
+          "pdfPage": 31,
+          "mode": "embedded-largest",
           "status": "exact-book",
-          "page": "31"
+          "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe.",
+          "path": "assets/recipes/zombie-04.webp",
+          "available": true,
+          "page": 31,
+          "width": 394,
+          "height": 535,
+          "sha256": "9b0d8ee175116aaa2018571bf454de701ef69adef5189b6f13974b18b5f2276b"
         }
       ]
     },

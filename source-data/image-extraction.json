@@ -1,0 +1,454 @@
+[
+  {
+    "id": "daiquiri-mulata",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 13,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "daiquiri-strawberry",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 15,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "daiquiri",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 17,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "cosmopolitan",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 19,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "mojito",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 20,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "mojito-a-mi-manera",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 22,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "mojito-basic",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 24,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "mojito-tequila",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 26,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "pomegranate-mojito",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 28,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "el-diablo",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 30,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "zombie",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 31,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "tom-collins",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 33,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "pina-colada",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 35,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "mai-tai",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 37,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "bloody-maria",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 39,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "manhattan",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 40,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "margarita",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 46,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "old-fashioned",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 54,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "eggnog",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 61,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "apricot-mulled-wine",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 63,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "autumn-punch",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 65,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "banana-rum-punch",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 67,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "christmas-eve-chocolate",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 69,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "coffee-cocktail",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 70,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "hot-buttered-faux-rum",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 71,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "maraschino-muddle",
+    "book": "04",
+    "source": "Essential Cocktails 2021",
+    "pdfPage": 73,
+    "mode": "embedded-largest",
+    "status": "exact-book",
+    "evidence": "Photograph on the named recipe page; visually checked against page heading and recipe."
+  },
+  {
+    "id": "special-daiquiri-no-1",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 59,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "winter-in-l-a",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 67,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "daiquiri",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 76,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "heroes-and-villains",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 91,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "mai-tai",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 97,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "el-diablo",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 109,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "hibiscus-pacific",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 137,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "pina-colada",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 144,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "manta-ray",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 156,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "violet-chachki",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 174,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "bay-of-pigs",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 177,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "beachcomber-negroni",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 199,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "kiruna-cooler",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 219,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "pineapple-princess",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 256,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "navy-grog",
+    "book": "03",
+    "source": "Tropical Standard",
+    "pdfPage": 271,
+    "mode": "embedded-largest",
+    "evidence": "Full photograph immediately preceding the named recipe section; drink, glass and garnish visually checked."
+  },
+  {
+    "id": "mangito-sonidero-margarita",
+    "book": "01",
+    "source": "Agave Companion",
+    "printedPage": 232,
+    "embeddedPath": "OEBPS/images/232-1.jpg",
+    "evidence": "Exact caption: Mangito Sonidero Margarita"
+  },
+  {
+    "id": "pomegranate-margarita",
+    "book": "01",
+    "source": "Agave Companion",
+    "printedPage": 236,
+    "embeddedPath": "OEBPS/images/236-1.jpg",
+    "evidence": "Exact caption: Pomegranate Margarita"
+  },
+  {
+    "id": "summer-herb-margarita",
+    "book": "01",
+    "source": "Agave Companion",
+    "printedPage": 239,
+    "embeddedPath": "OEBPS/images/239-1.jpg",
+    "evidence": "Exact caption: Summer Herb Margarita"
+  },
+  {
+    "id": "easy-paloma",
+    "book": "01",
+    "source": "Agave Companion",
+    "printedPage": 240,
+    "embeddedPath": "OEBPS/images/240-1.jpg",
+    "evidence": "Exact caption: Easy Paloma"
+  },
+  {
+    "id": "mezcal-negroni",
+    "book": "01",
+    "source": "Agave Companion",
+    "printedPage": 244,
+    "embeddedPath": "OEBPS/images/244-1.jpg",
+    "evidence": "Exact caption: Mezcal Negroni"
+  },
+  {
+    "id": "frozen-mezcal-hot-chocolate",
+    "book": "01",
+    "source": "Agave Companion",
+    "printedPage": 248,
+    "embeddedPath": "OEBPS/images/248-1.jpg",
+    "evidence": "Exact caption: Frozen Mezcal Hot Chocolate"
+  },
+  {
+    "id": "agave-ginger-hot-toddy",
+    "book": "01",
+    "source": "Agave Companion",
+    "printedPage": 251,
+    "embeddedPath": "OEBPS/images/251-1.jpg",
+    "evidence": "Exact caption: Agave Ginger Hot Toddy"
+  },
+  {
+    "id": "padang-swizzle",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 302,
+    "printedPage": 288,
+    "mode": "render",
+    "evidence": "Full-page cocktail photograph facing the named recipe; visually reviewed spread."
+  },
+  {
+    "id": "rhythm-and-soul",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 320,
+    "printedPage": 306,
+    "mode": "render",
+    "evidence": "Full-page cocktail photograph facing the named recipe; visually reviewed spread."
+  },
+  {
+    "id": "bitter-tom",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 234,
+    "printedPage": 220,
+    "mode": "render",
+    "evidence": "Full-page cocktail photograph facing the named recipe; visually reviewed spread."
+  },
+  {
+    "id": "naked-and-famous",
+    "book": "06",
+    "source": "Death & Co",
+    "pdfPage": 209,
+    "printedPage": 185,
+    "mode": "render",
+    "crop": [
+      0.563,
+      0.095,
+      0.935,
+      0.907
+    ],
+    "evidence": "Cocktail photograph explicitly captioned Naked and Famous on same recipe page."
+  }
+]
