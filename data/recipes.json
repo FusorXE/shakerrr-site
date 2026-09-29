@@ -2560,7 +2560,7 @@
     "name": "Blazing Saddles",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Build",
+    "method": "Shake",
     "tags": [
       "book",
       "death-co",
@@ -2573,19 +2573,34 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "High West Silver Oat Whiskey",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "High West Silver Oat Whiskey"
           },
           {
-            "name": "Combier Pamplemousse",
-            "amount": "4 oz"
+            "amount": "½ oz",
+            "name": "Combier Pamplemousse Rose Liqueur"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Cinnamon Bark Syrup"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Bittermens 'Elemakule Tiki Bitters"
           }
         ],
-        "instructions": "",
+        "instructions": "Shake all ingredients with ice, then strain into a coupe.",
         "note": "High West's oat whiskey is one of the few unaged whiskeys that I really like; it has enough of its own flavor profile to stand out in a drink, like this grapefruit- and cinnamon-",
         "creator": "Brad Farran, 2013",
         "image": null,
-        "usable": false
+        "usable": true,
+        "page": "197",
+        "garnish": "1 grapefruit twist",
+        "glass": "Coupe"
       }
     ],
     "image": null,
@@ -2595,18 +2610,33 @@
     ],
     "ingredients": [
       {
-        "name": "High West Silver Oat Whiskey",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "High West Silver Oat Whiskey"
       },
       {
-        "name": "Combier Pamplemousse",
-        "amount": "4 oz"
+        "amount": "½ oz",
+        "name": "Combier Pamplemousse Rose Liqueur"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Cinnamon Bark Syrup"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Bittermens 'Elemakule Tiki Bitters"
       }
     ],
-    "instructions": "",
+    "instructions": "Shake all ingredients with ice, then strain into a coupe.",
     "note": "High West's oat whiskey is one of the few unaged whiskeys that I really like; it has enough of its own flavor profile to stand out in a drink, like this grapefruit- and cinnamon-",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "1 grapefruit twist",
+    "glass": "Coupe",
+    "creator": "Brad Farran, 2013"
   },
   {
     "id": "blood-and-sand",
@@ -3098,7 +3128,7 @@
     "name": "Bobby Burns",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Stir",
+    "method": "Stirred",
     "tags": [
       "book",
       "death-co",
@@ -3111,23 +3141,30 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Springbank 10-Year Scotch",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Springbank 10-Year Scotch"
           },
           {
-            "name": "Garnish: 1 Lemon Twist",
-            "amount": "to taste"
+            "amount": "¾ oz",
+            "name": "House Sweet Vermouth"
           },
           {
-            "name": "Dash Angostura Bitters",
-            "amount": "1"
+            "amount": "¼ oz",
+            "name": "Drambuie"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Angostura Bitters"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into a martini",
+        "instructions": "Stir all ingredients over ice, then strain into a martini glass.",
         "note": "",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "page": "140",
+        "garnish": "1 lemon twist",
+        "glass": "Martini glass"
       }
     ],
     "image": null,
@@ -3137,19 +3174,28 @@
     ],
     "ingredients": [
       {
-        "name": "Springbank 10-Year Scotch",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Springbank 10-Year Scotch"
       },
       {
-        "name": "Dash Angostura Bitters",
-        "amount": "1"
+        "amount": "¾ oz",
+        "name": "House Sweet Vermouth"
+      },
+      {
+        "amount": "¼ oz",
+        "name": "Drambuie"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Angostura Bitters"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into a martini",
+    "instructions": "Stir all ingredients over ice, then strain into a martini glass.",
     "note": "",
-    "family": "Other",
-    "garnish": "1 Lemon Twist",
-    "quality": "limited"
+    "family": "Manhattan",
+    "garnish": "1 lemon twist",
+    "quality": "verified",
+    "glass": "Martini glass"
   },
   {
     "id": "boulevardier",
@@ -5663,7 +5709,7 @@
     "name": "Cynaro de Bergerac",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Stir",
+    "method": "Stirred",
     "tags": [
       "book",
       "death-co",
@@ -5676,31 +5722,38 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Bols Barrel-Aged Genever",
-            "amount": "1 oz"
+            "amount": "1½ oz",
+            "name": "Bergerac Mix"
           },
           {
-            "name": "Benedictine",
-            "amount": "4 oz"
+            "amount": "1 oz",
+            "name": "Bols Barrel-Aged Genever"
           },
           {
-            "name": "Dash Vieux Pontarlier Absinthe",
-            "amount": "1"
+            "amount": "½ oz",
+            "name": "Hayman's Old Tom Gin"
           },
           {
-            "name": "Dash Bittermens Xocolatl Mole Bitters",
-            "amount": "1"
+            "amount": "½ oz",
+            "name": "Bénédictine"
           },
           {
-            "name": "Garnish: 1 Orange Twist",
-            "amount": "to taste"
+            "amount": "1 dash",
+            "name": "Vieux Pontarlier Absinthe"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Bittermens Xocolatl Mole Bitters"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into a Nick &",
+        "instructions": "Stir all ingredients over ice, then strain into a Nick & Nora glass.",
         "note": "This is a concept drink that started with the name and the combination of Cynar and red wine from France's Bergerac region. I bridged the two unlikely partners with Black Strap rum and Demerara Syrup to create our Bergerac Mix, which has since been used in other",
         "creator": "Brad Farran, 2013",
         "image": null,
-        "usable": false
+        "usable": true,
+        "page": "229",
+        "garnish": "1 orange twist",
+        "glass": "Nick & Nora glass"
       }
     ],
     "image": null,
@@ -5710,27 +5763,37 @@
     ],
     "ingredients": [
       {
-        "name": "Bols Barrel-Aged Genever",
-        "amount": "1 oz"
+        "amount": "1½ oz",
+        "name": "Bergerac Mix"
       },
       {
-        "name": "Benedictine",
-        "amount": "4 oz"
+        "amount": "1 oz",
+        "name": "Bols Barrel-Aged Genever"
       },
       {
-        "name": "Dash Vieux Pontarlier Absinthe",
-        "amount": "1"
+        "amount": "½ oz",
+        "name": "Hayman's Old Tom Gin"
       },
       {
-        "name": "Dash Bittermens Xocolatl Mole Bitters",
-        "amount": "1"
+        "amount": "½ oz",
+        "name": "Bénédictine"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Vieux Pontarlier Absinthe"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Bittermens Xocolatl Mole Bitters"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into a Nick &",
+    "instructions": "Stir all ingredients over ice, then strain into a Nick & Nora glass.",
     "note": "This is a concept drink that started with the name and the combination of Cynar and red wine from France's Bergerac region. I bridged the two unlikely partners with Black Strap rum and Demerara Syrup to create our Bergerac Mix, which has since been used in other",
-    "family": "Highball",
-    "garnish": "1 Orange Twist",
-    "quality": "limited"
+    "family": "Martini",
+    "garnish": "1 orange twist",
+    "quality": "verified",
+    "glass": "Nick & Nora glass",
+    "creator": "Brad Farran, 2013"
   },
   {
     "id": "daiquiri",
@@ -6480,27 +6543,38 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Campari",
-            "amount": "4 oz"
+            "amount": "1½ oz",
+            "name": "Rittenhouse 100 Rye"
           },
           {
-            "name": "Grand Marnier",
-            "amount": "4 oz"
+            "amount": "¼ oz",
+            "name": "Campari"
           },
           {
-            "name": "Grapefruit Juice",
-            "amount": "¾ oz"
+            "amount": "¼ oz",
+            "name": "Grand Marnier"
           },
           {
-            "name": "Garnish: 1 Orange Twist",
-            "amount": "to taste"
+            "amount": "¾ oz",
+            "name": "Grapefruit Juice"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "¼ oz",
+            "name": "Ginger Syrup"
           }
         ],
-        "instructions": "Shake all the ingredients with ice, then strain into a",
+        "instructions": "Shake all ingredients with ice, then strain into a coupe.",
         "note": "Rye is harder to use in shaken drinks than bourbon; it can be a bully.",
         "creator": "Jessica Gonzalez, 2011",
         "image": null,
-        "usable": false
+        "usable": true,
+        "page": "199",
+        "garnish": "1 orange twist",
+        "glass": "Coupe"
       }
     ],
     "image": null,
@@ -6510,23 +6584,37 @@
     ],
     "ingredients": [
       {
-        "name": "Campari",
-        "amount": "4 oz"
+        "amount": "1½ oz",
+        "name": "Rittenhouse 100 Rye"
       },
       {
-        "name": "Grand Marnier",
-        "amount": "4 oz"
+        "amount": "¼ oz",
+        "name": "Campari"
       },
       {
-        "name": "Grapefruit Juice",
-        "amount": "¾ oz"
+        "amount": "¼ oz",
+        "name": "Grand Marnier"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Grapefruit Juice"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "¼ oz",
+        "name": "Ginger Syrup"
       }
     ],
-    "instructions": "Shake all the ingredients with ice, then strain into a",
+    "instructions": "Shake all ingredients with ice, then strain into a coupe.",
     "note": "Rye is harder to use in shaken drinks than bourbon; it can be a bully.",
-    "family": "Other",
-    "garnish": "1 Orange Twist",
-    "quality": "limited"
+    "family": "Sour",
+    "garnish": "1 orange twist",
+    "quality": "verified",
+    "glass": "Coupe",
+    "creator": "Jessica Gonzalez, 2011"
   },
   {
     "id": "death-to-el-gusano",
@@ -8206,7 +8294,7 @@
     "name": "Fancy-Free",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Stir",
+    "method": "Stirred",
     "tags": [
       "book",
       "death-co",
@@ -8219,23 +8307,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Rittenhouse 100 Rye",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Rittenhouse 100 Rye"
           },
           {
-            "name": "Dash Angostura Bitters",
-            "amount": "1"
+            "amount": "½ oz",
+            "name": "Luxardo Maraschino Liqueur"
           },
           {
-            "name": "Garnish: 1 Orange Twist",
-            "amount": "to taste"
+            "amount": "1 dash",
+            "name": "Angostura Bitters"
+          },
+          {
+            "amount": "1 dash",
+            "name": "House Orange Bitters"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into double",
+        "instructions": "Stir all ingredients over ice, then strain into a double rocks glass over one large ice cube.",
         "note": "rocks glass over 1 large ice cube. Garnish with the",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "page": "142",
+        "garnish": "1 orange twist",
+        "glass": "Double rocks glass",
+        "ice": "1 large ice cube"
       }
     ],
     "image": null,
@@ -8245,19 +8341,29 @@
     ],
     "ingredients": [
       {
-        "name": "Rittenhouse 100 Rye",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Rittenhouse 100 Rye"
       },
       {
-        "name": "Dash Angostura Bitters",
-        "amount": "1"
+        "amount": "½ oz",
+        "name": "Luxardo Maraschino Liqueur"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Angostura Bitters"
+      },
+      {
+        "amount": "1 dash",
+        "name": "House Orange Bitters"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into double",
+    "instructions": "Stir all ingredients over ice, then strain into a double rocks glass over one large ice cube.",
     "note": "rocks glass over 1 large ice cube. Garnish with the",
-    "family": "Other",
-    "garnish": "1 Orange Twist",
-    "quality": "limited"
+    "family": "Old Fashioned",
+    "garnish": "1 orange twist",
+    "quality": "verified",
+    "glass": "Double rocks glass",
+    "ice": "1 large ice cube"
   },
   {
     "id": "fernandito",
@@ -8602,7 +8708,7 @@
     "name": "Flamenco",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Build",
+    "method": "Shake",
     "tags": [
       "book",
       "death-co",
@@ -8615,19 +8721,37 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Bols Genever",
-            "amount": "1 oz"
+            "amount": "1½ oz",
+            "name": "Lustau Amontillado Sherry"
           },
           {
-            "name": "Orange Juice",
-            "amount": "4 oz"
+            "amount": "1 oz",
+            "name": "Bols Genever"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Orange Juice"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Orgeat"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "Angostura Bitters"
           }
         ],
-        "instructions": "",
+        "instructions": "Shake all ingredients with ice, then strain into a coupe.",
         "note": "",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "page": "142–143",
+        "glass": "Coupe"
       }
     ],
     "image": null,
@@ -8637,18 +8761,35 @@
     ],
     "ingredients": [
       {
-        "name": "Bols Genever",
-        "amount": "1 oz"
+        "amount": "1½ oz",
+        "name": "Lustau Amontillado Sherry"
       },
       {
-        "name": "Orange Juice",
-        "amount": "4 oz"
+        "amount": "1 oz",
+        "name": "Bols Genever"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Orange Juice"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Orgeat"
+      },
+      {
+        "amount": "2 dashes",
+        "name": "Angostura Bitters"
       }
     ],
-    "instructions": "",
+    "instructions": "Shake all ingredients with ice, then strain into a coupe.",
     "note": "",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "flannel-shirt",
@@ -8770,23 +8911,41 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "El Tesoro Platinum Tequila",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "El Tesoro Platinum Tequila"
           },
           {
-            "name": "Campari",
-            "amount": "4 oz"
+            "amount": "½ oz",
+            "name": "Dolin Blanc Vermouth"
           },
           {
-            "name": "Dry Champagne",
-            "amount": "to taste"
+            "amount": "¼ oz",
+            "name": "Marie Brizard White Crème de Cacao"
+          },
+          {
+            "amount": "¼ oz",
+            "name": "Campari"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "Ginger Syrup"
+          },
+          {
+            "amount": "to top",
+            "name": "Dry Champagne"
           }
         ],
-        "instructions": "Shake all the ingredients (except the champagne)",
+        "instructions": "Shake all ingredients except Champagne with ice, then strain into a flute and top with Champagne.",
         "note": "Flaquita was my nickname back when I worked in restaurant kitchens in Florida. I was determined to make tequila and champagne like each other, and the combination of chocolate liqueur and Campari did with ice, then strain into a flute. Top with champagne.",
         "creator": "Jessica Gonzalez, 2011",
         "image": null,
-        "usable": false
+        "usable": true,
+        "page": "223",
+        "glass": "Flute"
       }
     ],
     "image": null,
@@ -8796,22 +8955,40 @@
     ],
     "ingredients": [
       {
-        "name": "El Tesoro Platinum Tequila",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "El Tesoro Platinum Tequila"
       },
       {
-        "name": "Campari",
-        "amount": "4 oz"
+        "amount": "½ oz",
+        "name": "Dolin Blanc Vermouth"
       },
       {
-        "name": "Dry Champagne",
-        "amount": "to taste"
+        "amount": "¼ oz",
+        "name": "Marie Brizard White Crème de Cacao"
+      },
+      {
+        "amount": "¼ oz",
+        "name": "Campari"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Ginger Syrup"
+      },
+      {
+        "amount": "to top",
+        "name": "Dry Champagne"
       }
     ],
-    "instructions": "Shake all the ingredients (except the champagne)",
+    "instructions": "Shake all ingredients except Champagne with ice, then strain into a flute and top with Champagne.",
     "note": "Flaquita was my nickname back when I worked in restaurant kitchens in Florida. I was determined to make tequila and champagne like each other, and the combination of chocolate liqueur and Campari did with ice, then strain into a flute. Top with champagne.",
-    "family": "Sparkling",
-    "quality": "limited"
+    "family": "Collins / Fizz",
+    "quality": "verified",
+    "glass": "Flute",
+    "creator": "Jessica Gonzalez, 2011"
   },
   {
     "id": "flor-de-jalisco",
@@ -8831,19 +9008,29 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Siembra Azul Blanco Tequila",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Siembra Azul Blanco Tequila"
           },
           {
-            "name": "Lemon Juice",
-            "amount": "¾ oz"
+            "amount": "¾ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Agave Nectar"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "Orange Marmalade"
           }
         ],
-        "instructions": "Shake all the ingredients with ice, then strain into a",
+        "instructions": "Shake all ingredients with ice, then strain into a coupe.",
         "note": "In the 1980s, Julio Bermejo, an owner of Tommy's Mewican Restaurant in San Francisco, popularized a margarita sweetened with agave syrup. We've used his spec for some fun spin-offs, including this version made",
-        "creator": "Joaquin Simo, 2009",
+        "creator": "Joaquín Simó, 2009",
         "image": null,
-        "usable": false
+        "usable": true,
+        "page": "183",
+        "glass": "Coupe"
       }
     ],
     "image": null,
@@ -8853,18 +9040,28 @@
     ],
     "ingredients": [
       {
-        "name": "Siembra Azul Blanco Tequila",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Siembra Azul Blanco Tequila"
       },
       {
-        "name": "Lemon Juice",
-        "amount": "¾ oz"
+        "amount": "¾ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Agave Nectar"
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Orange Marmalade"
       }
     ],
-    "instructions": "Shake all the ingredients with ice, then strain into a",
+    "instructions": "Shake all ingredients with ice, then strain into a coupe.",
     "note": "In the 1980s, Julio Bermejo, an owner of Tommy's Mewican Restaurant in San Francisco, popularized a margarita sweetened with agave syrup. We've used his spec for some fun spin-offs, including this version made",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "glass": "Coupe",
+    "creator": "Joaquín Simó, 2009"
   },
   {
     "id": "flor-de-jerez",
@@ -8884,23 +9081,37 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Rothman & Winter Apricot Liqueur",
-            "amount": "4 oz"
+            "amount": "½ oz",
+            "name": "Appleton Estate Reserve Rum"
           },
           {
-            "name": "Lemon Juice",
-            "amount": "¾ oz"
+            "amount": "1½ oz",
+            "name": "Lustau Amontillado Sherry"
           },
           {
-            "name": "Dash Angostura Bitters",
-            "amount": "1"
+            "amount": "¼ oz",
+            "name": "Rothman & Winter Apricot Liqueur"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Cane Sugar Syrup"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Angostura Bitters"
           }
         ],
-        "instructions": "Shake all the ingredients with ice, then strain into a",
+        "instructions": "Shake all ingredients with ice, then strain into a coupe.",
         "note": "Apricots are such a frustrating fresh fruit to work with because they're so inconsistent. You can buy a dozen of them and have two that are perfect beyond belief, three that are almost delicious, and seven others that are a mealy bunch of nothing. That’s why I use a good apricot liqueur in this drink instead of fresh fruit. I was after a light-bodied cocktail that shone forth with fruit and nuts",
-        "creator": "Joaquin Simo, 2009",
+        "creator": "Joaquín Simó, 2009",
         "image": null,
-        "usable": false
+        "usable": true,
+        "page": "171",
+        "glass": "Coupe"
       }
     ],
     "image": null,
@@ -8910,22 +9121,36 @@
     ],
     "ingredients": [
       {
-        "name": "Rothman & Winter Apricot Liqueur",
-        "amount": "4 oz"
+        "amount": "½ oz",
+        "name": "Appleton Estate Reserve Rum"
       },
       {
-        "name": "Lemon Juice",
-        "amount": "¾ oz"
+        "amount": "1½ oz",
+        "name": "Lustau Amontillado Sherry"
       },
       {
-        "name": "Dash Angostura Bitters",
-        "amount": "1"
+        "amount": "¼ oz",
+        "name": "Rothman & Winter Apricot Liqueur"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Cane Sugar Syrup"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Angostura Bitters"
       }
     ],
-    "instructions": "Shake all the ingredients with ice, then strain into a",
+    "instructions": "Shake all ingredients with ice, then strain into a coupe.",
     "note": "Apricots are such a frustrating fresh fruit to work with because they're so inconsistent. You can buy a dozen of them and have two that are perfect beyond belief, three that are almost delicious, and seven others that are a mealy bunch of nothing. That’s why I use a good apricot liqueur in this drink instead of fresh fruit. I was after a light-bodied cocktail that shone forth with fruit and nuts",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Coupe",
+    "creator": "Joaquín Simó, 2009"
   },
   {
     "id": "floridita-daiquiri",
@@ -10471,7 +10696,7 @@
     "name": "Golden Gate",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Build",
+    "method": "Shake",
     "tags": [
       "book",
       "death-co",
@@ -10484,23 +10709,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Grand Marnier",
-            "amount": "¾ oz"
+            "amount": "¾ oz",
+            "name": "Grand Marnier"
           },
           {
-            "name": "Grapefruit Juice",
-            "amount": "¾ oz"
+            "amount": "½ oz",
+            "name": "Bénédictine"
           },
           {
-            "name": "Garnish: 1 Lime Twist",
-            "amount": "to taste"
+            "amount": "½ oz",
+            "name": "Campari"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Grapefruit Juice"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Lime Juice"
           }
         ],
-        "instructions": "",
+        "instructions": "Short shake all ingredients with 3 ice cubes, then strain into a highball glass filled with crushed ice.",
         "note": "It may seem odd to use Grand Marnier as a base spirit, but it’s a blend of cognac and triple sec, and it can work if you balance its richness with something bitter, like Short shake all the ingredients with 3 ice cubes, then strain into a highball glass filled with crushed ice. Garnish with the lime twist and serve with a straw.",
         "creator": "Thomas Waugh, 2009",
         "image": null,
-        "usable": false
+        "usable": true,
+        "page": "211",
+        "garnish": "1 lime twist",
+        "glass": "Highball glass",
+        "ice": "Crushed ice"
       }
     ],
     "image": null,
@@ -10510,19 +10747,34 @@
     ],
     "ingredients": [
       {
-        "name": "Grand Marnier",
-        "amount": "¾ oz"
+        "amount": "¾ oz",
+        "name": "Grand Marnier"
       },
       {
-        "name": "Grapefruit Juice",
-        "amount": "¾ oz"
+        "amount": "½ oz",
+        "name": "Bénédictine"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Campari"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Grapefruit Juice"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Lime Juice"
       }
     ],
-    "instructions": "",
+    "instructions": "Short shake all ingredients with 3 ice cubes, then strain into a highball glass filled with crushed ice.",
     "note": "It may seem odd to use Grand Marnier as a base spirit, but it’s a blend of cognac and triple sec, and it can work if you balance its richness with something bitter, like Short shake all the ingredients with 3 ice cubes, then strain into a highball glass filled with crushed ice. Garnish with the lime twist and serve with a straw.",
-    "family": "Other",
-    "garnish": "1 Lime Twist",
-    "quality": "limited"
+    "family": "Sour",
+    "garnish": "1 lime twist",
+    "quality": "verified",
+    "glass": "Highball glass",
+    "ice": "Crushed ice",
+    "creator": "Thomas Waugh, 2009"
   },
   {
     "id": "hadleys-tears",
