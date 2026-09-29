@@ -1,7 +1,7 @@
 name: Shakerrr CI
 on:
   push:
-    branches: [main, finish-shakerrr-20260925]
+    branches: [main, finish-shakerrr-20260925, reconstruct-shakerrr-20260928]
   pull_request:
     branches: [main]
 permissions:
@@ -14,10 +14,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
+      - name: Install test dependencies
+        run: npm ci
       - name: Validate catalog
         run: npm run validate
-      - name: Install test dependencies
-        run: npm install
       - name: Install Chromium
         run: npx playwright install --with-deps chromium
       - name: Start site
