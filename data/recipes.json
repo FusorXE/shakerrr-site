@@ -10150,19 +10150,26 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gin",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Gin"
           },
           {
-            "name": "Lemon Juice",
-            "amount": "¾ oz"
+            "amount": "¾ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Simple Syrup"
           }
         ],
-        "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a lemon peel.",
+        "instructions": "Shake all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "A direct descendant of punch, the basic sour forms the template for a host of modern drinks. First mentions of the sour, made from a base spirit, citrus, sugar, and water and served neat in a small bar glass, can be traced to the mid-nineteenth century. This version strikes a dry and citrusy balance between gin and lemon juice.",
         "creator": "",
         "image": "assets/recipes/ess-gin-sour.webp",
-        "usable": false
+        "usable": true,
+        "page": "102",
+        "garnish": "Lemon peel",
+        "glass": "Coupe or cocktail glass"
       }
     ],
     "image": null,
@@ -10172,18 +10179,24 @@
     ],
     "ingredients": [
       {
-        "name": "Gin",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Gin"
       },
       {
-        "name": "Lemon Juice",
-        "amount": "¾ oz"
+        "amount": "¾ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Simple Syrup"
       }
     ],
-    "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a lemon peel.",
+    "instructions": "Shake all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
     "note": "A direct descendant of punch, the basic sour forms the template for a host of modern drinks. First mentions of the sour, made from a base spirit, citrus, sugar, and water and served neat in a small bar glass, can be traced to the mid-nineteenth century. This version strikes a dry and citrusy balance between gin and lemon juice.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Lemon peel",
+    "glass": "Coupe or cocktail glass"
   },
   {
     "id": "glandula-del-mono",
@@ -10263,19 +10276,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "St-Germain *44 Ounce Lemon Juice",
-            "amount": "½ oz"
+            "amount": "1½ oz",
+            "name": "Blended Scotch"
           },
           {
-            "name": "Ginger Beer, Preferably Fever Tree",
-            "amount": "4 oz"
+            "amount": "½ oz",
+            "name": "St-Germain"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Angostura Bitters"
+          },
+          {
+            "amount": "4 oz",
+            "name": "Ginger Beer, preferably Fever-Tree"
           }
         ],
-        "instructions": "Build all ingredients in a large mule mug (if you’re the sort who owns one) ora Collins glass. Add crushed ice and stir. Garnish with a lemon wheel and candied ginger on a pick.",
+        "instructions": "Build all ingredients in a large mule mug or Collins glass. Add crushed ice and stir.",
         "note": "Named for its Scotch foundation, the Glasgow Mule is Brooklyn bartender Damon Boelte’s take on the simple mule formula: spirit, citrus, ginger beer. It’s a neat example of how swapping out a base spirit can completely change the intention and balance of a cocktail. The intensity of the Scotch requires a little extra reinforcement, so Boelte built upon it with fresh lemon, versatile St-Germain elderflower liqueur, and spicy Fever Tree ginger beer, plus a dash of aromatic Angostura bitters to complete this tart",
-        "creator": "Damon Boelte, Grand Army Bar, Brooklyn, Ny",
+        "creator": "Damon Boelte, Grand Army Bar, Brooklyn, NY",
         "image": "assets/recipes/ess-glasgow-mule.webp",
-        "usable": false
+        "usable": true,
+        "page": "250",
+        "garnish": "Lemon wheel and candied ginger on a pick",
+        "glass": "Mule mug or Collins glass",
+        "ice": "Crushed ice"
       }
     ],
     "image": null,
@@ -10285,25 +10314,41 @@
     ],
     "ingredients": [
       {
-        "name": "St-Germain *44 Ounce Lemon Juice",
-        "amount": "½ oz"
+        "amount": "1½ oz",
+        "name": "Blended Scotch"
       },
       {
-        "name": "Ginger Beer, Preferably Fever Tree",
-        "amount": "4 oz"
+        "amount": "½ oz",
+        "name": "St-Germain"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Angostura Bitters"
+      },
+      {
+        "amount": "4 oz",
+        "name": "Ginger Beer, preferably Fever-Tree"
       }
     ],
-    "instructions": "Build all ingredients in a large mule mug (if you’re the sort who owns one) ora Collins glass. Add crushed ice and stir. Garnish with a lemon wheel and candied ginger on a pick.",
+    "instructions": "Build all ingredients in a large mule mug or Collins glass. Add crushed ice and stir.",
     "note": "Named for its Scotch foundation, the Glasgow Mule is Brooklyn bartender Damon Boelte’s take on the simple mule formula: spirit, citrus, ginger beer. It’s a neat example of how swapping out a base spirit can completely change the intention and balance of a cocktail. The intensity of the Scotch requires a little extra reinforcement, so Boelte built upon it with fresh lemon, versatile St-Germain elderflower liqueur, and spicy Fever Tree ginger beer, plus a dash of aromatic Angostura bitters to complete this tart",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Lemon wheel and candied ginger on a pick",
+    "glass": "Mule mug or Collins glass",
+    "ice": "Crushed ice",
+    "creator": "Damon Boelte, Grand Army Bar, Brooklyn, NY"
   },
   {
     "id": "go-to",
     "name": "Go-To",
     "category": "Modern",
     "country": null,
-    "method": "Shake",
+    "method": "Built",
     "tags": [
       "book",
       "modern"
@@ -10315,27 +10360,39 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gin, Preferably Ford'S",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Gin, preferably Ford's"
           },
           {
-            "name": "St-Germain °/4 Ounce Lime Juice",
-            "amount": "½ oz"
+            "amount": "½ oz",
+            "name": "St-Germain"
           },
           {
-            "name": "Cucumber Slices",
-            "amount": "3"
+            "amount": "¾ oz",
+            "name": "Lime Juice"
           },
           {
-            "name": "Mint Leaves Ginger Beer, To Top",
-            "amount": "8-10"
+            "amount": "3",
+            "name": "Cucumber Slices"
+          },
+          {
+            "amount": "8–10",
+            "name": "Mint Leaves"
+          },
+          {
+            "amount": "to top",
+            "name": "Ginger Beer"
           }
         ],
-        "instructions": "Combine gin, St-Germain, and lime juice in a Collins glass. Add ice, then top with cucumber slices and mint. “Cheat shake” by capping the glass with a small mixing tin and shaking briefly. Top with ginger beer. Garnish with fresh mint and cucumber wheels.",
+        "instructions": "Build gin, St-Germain, and lime juice in a Collins glass. Add ice, cucumber, and mint, cap with a small mixing tin and shake briefly, then top with ginger beer.",
         "note": "“Ginger beer has been called ketchup,” says Rob Krueger, meaning that it’s a dependably crowd-pleasing ingredient in the cocktail world. But that doesn’t make it any less delicious. Here, Krueger puts it alongside gin, cucumber, mint, and St-Germain— the original bartender’s ketchup. Variations on this drink have long been Krueger’s answer to requests for a refreshing gin or vodka drink that’s not too sweet or might have cucumber, etc. He mentioned this to a guest one night, to which she responded, “Oh, so it’s your go-to?” inspiring the cocktail’s name.",
-        "creator": "Rob Krueger, Extra Fancy, Brooklyn, Ny",
+        "creator": "Rob Krueger, Extra Fancy, Brooklyn, NY",
         "image": "assets/recipes/ess-go-to.webp",
-        "usable": false
+        "usable": true,
+        "page": "252",
+        "garnish": "Mint sprig and cucumber wheels",
+        "glass": "Collins glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -10345,26 +10402,38 @@
     ],
     "ingredients": [
       {
-        "name": "Gin, Preferably Ford'S",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Gin, preferably Ford's"
       },
       {
-        "name": "St-Germain °/4 Ounce Lime Juice",
-        "amount": "½ oz"
+        "amount": "½ oz",
+        "name": "St-Germain"
       },
       {
-        "name": "Cucumber Slices",
-        "amount": "3"
+        "amount": "¾ oz",
+        "name": "Lime Juice"
       },
       {
-        "name": "Mint Leaves Ginger Beer, To Top",
-        "amount": "8-10"
+        "amount": "3",
+        "name": "Cucumber Slices"
+      },
+      {
+        "amount": "8–10",
+        "name": "Mint Leaves"
+      },
+      {
+        "amount": "to top",
+        "name": "Ginger Beer"
       }
     ],
-    "instructions": "Combine gin, St-Germain, and lime juice in a Collins glass. Add ice, then top with cucumber slices and mint. “Cheat shake” by capping the glass with a small mixing tin and shaking briefly. Top with ginger beer. Garnish with fresh mint and cucumber wheels.",
+    "instructions": "Build gin, St-Germain, and lime juice in a Collins glass. Add ice, cucumber, and mint, cap with a small mixing tin and shake briefly, then top with ginger beer.",
     "note": "“Ginger beer has been called ketchup,” says Rob Krueger, meaning that it’s a dependably crowd-pleasing ingredient in the cocktail world. But that doesn’t make it any less delicious. Here, Krueger puts it alongside gin, cucumber, mint, and St-Germain— the original bartender’s ketchup. Variations on this drink have long been Krueger’s answer to requests for a refreshing gin or vodka drink that’s not too sweet or might have cucumber, etc. He mentioned this to a guest one night, to which she responded, “Oh, so it’s your go-to?” inspiring the cocktail’s name.",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Mint sprig and cucumber wheels",
+    "glass": "Collins glass",
+    "ice": "Ice",
+    "creator": "Rob Krueger, Extra Fancy, Brooklyn, NY"
   },
   {
     "id": "golden-gate",
@@ -10578,7 +10647,7 @@
     "name": "Heart-Shaped Box",
     "category": "Modern",
     "country": null,
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "book",
       "modern"
@@ -10590,19 +10659,42 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Cucumber Slices",
-            "amount": "2"
+            "amount": "handful",
+            "name": "Raspberries"
           },
           {
-            "name": "Gin, Bitter Preferably Ransom Old Tom",
-            "amount": "½ oz"
+            "amount": "2",
+            "name": "Cucumber Slices"
+          },
+          {
+            "amount": "1½ oz",
+            "name": "Pimm's No. 1"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Gin, preferably Ransom Old Tom"
+          },
+          {
+            "amount": "¼ oz",
+            "name": "Lime Juice"
+          },
+          {
+            "amount": "¼ oz",
+            "name": "Lemongrass Syrup"
+          },
+          {
+            "amount": "to top",
+            "name": "Bitter Lemon Soda, preferably Fever-Tree"
           }
         ],
-        "instructions": "with lemon soda. Garnish cool for 2 hours, then strain with raspberries ona bamboo | out lemongrass. Will keep, skewer. | refrigerated, for 1 month.",
+        "instructions": "Muddle raspberries and cucumber in a mixing tin. Add Pimm's, gin, lime juice, and lemongrass syrup. Shake and double strain into a tall Collins glass, then top with bitter lemon soda.",
         "note": "Whereas the traditional Pimm’s Cup (page 152) is made with fruit- forward, low-proof Pimm’s No. 1, Freddy Schwenk punches up this heady, modern variation with lemongrass, bitter lemon soda, and some extra gin for good measure, cutting the sweetness of the drink with a squeeze of lime. Even though the cocktail’s color evokes Valentine’s Day, its name was actually inspired by a Nirvana song.",
-        "creator": "Freddy Schwenk, Chauhan Ale And Masala House, Nashville, Tn",
+        "creator": "Freddy Schwenk, Chauhan Ale and Masala House, Nashville, TN",
         "image": "assets/recipes/ess-heart-shaped-box.webp",
-        "usable": false
+        "usable": true,
+        "page": "255",
+        "garnish": "Fresh raspberries on a bamboo skewer",
+        "glass": "Tall Collins glass"
       }
     ],
     "image": null,
@@ -10612,18 +10704,41 @@
     ],
     "ingredients": [
       {
-        "name": "Cucumber Slices",
-        "amount": "2"
+        "amount": "handful",
+        "name": "Raspberries"
       },
       {
-        "name": "Gin, Bitter Preferably Ransom Old Tom",
-        "amount": "½ oz"
+        "amount": "2",
+        "name": "Cucumber Slices"
+      },
+      {
+        "amount": "1½ oz",
+        "name": "Pimm's No. 1"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Gin, preferably Ransom Old Tom"
+      },
+      {
+        "amount": "¼ oz",
+        "name": "Lime Juice"
+      },
+      {
+        "amount": "¼ oz",
+        "name": "Lemongrass Syrup"
+      },
+      {
+        "amount": "to top",
+        "name": "Bitter Lemon Soda, preferably Fever-Tree"
       }
     ],
-    "instructions": "with lemon soda. Garnish cool for 2 hours, then strain with raspberries ona bamboo | out lemongrass. Will keep, skewer. | refrigerated, for 1 month.",
+    "instructions": "Muddle raspberries and cucumber in a mixing tin. Add Pimm's, gin, lime juice, and lemongrass syrup. Shake and double strain into a tall Collins glass, then top with bitter lemon soda.",
     "note": "Whereas the traditional Pimm’s Cup (page 152) is made with fruit- forward, low-proof Pimm’s No. 1, Freddy Schwenk punches up this heady, modern variation with lemongrass, bitter lemon soda, and some extra gin for good measure, cutting the sweetness of the drink with a squeeze of lime. Even though the cocktail’s color evokes Valentine’s Day, its name was actually inspired by a Nirvana song.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Highball",
+    "quality": "verified",
+    "garnish": "Fresh raspberries on a bamboo skewer",
+    "glass": "Tall Collins glass",
+    "creator": "Freddy Schwenk, Chauhan Ale and Masala House, Nashville, TN"
   },
   {
     "id": "hearthside-punch",
@@ -10792,7 +10907,7 @@
     "name": "Hemingway Daiquiri",
     "category": "Classic",
     "country": "Cuba",
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "book",
       "classic"
@@ -10804,19 +10919,30 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "White Rum Y%/2 Ounce Maraschino Liqueur, Preferably Luxardo",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "White Rum"
           },
           {
-            "name": "Grapefruit Juice",
-            "amount": "½ oz"
+            "amount": "½ oz",
+            "name": "Maraschino Liqueur, preferably Luxardo"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Lime Juice"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Grapefruit Juice"
           }
         ],
-        "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a lime wheel.",
+        "instructions": "Shake all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "With his prodigious constitution for drinking (and writing about it), Ernest Hemingway shows up frequently in cocktail mythology, and in none perhaps more famously than in connection to this drink. La Floridita, a Havana bar where the author was a regular in the 1920s, served Hemingway these doctored-up daiquiris, made unique by the addition of maraschino liqueur and notable for the lack of simple syrup (thought to be because Hemingway was diabetic). He could reportedly pack away tens of these at a time, ordering doubles—or what would come to be known as the “Papa",
         "creator": "Maraschino Liqueur,",
         "image": "assets/recipes/ess-hemingway-daiquiri.webp",
-        "usable": false
+        "usable": true,
+        "page": "105",
+        "garnish": "Lime wheel",
+        "glass": "Coupe or cocktail glass"
       }
     ],
     "image": null,
@@ -10826,18 +10952,28 @@
     ],
     "ingredients": [
       {
-        "name": "White Rum Y%/2 Ounce Maraschino Liqueur, Preferably Luxardo",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "White Rum"
       },
       {
-        "name": "Grapefruit Juice",
-        "amount": "½ oz"
+        "amount": "½ oz",
+        "name": "Maraschino Liqueur, preferably Luxardo"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Lime Juice"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Grapefruit Juice"
       }
     ],
-    "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a lime wheel.",
+    "instructions": "Shake all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
     "note": "With his prodigious constitution for drinking (and writing about it), Ernest Hemingway shows up frequently in cocktail mythology, and in none perhaps more famously than in connection to this drink. La Floridita, a Havana bar where the author was a regular in the 1920s, served Hemingway these doctored-up daiquiris, made unique by the addition of maraschino liqueur and notable for the lack of simple syrup (thought to be because Hemingway was diabetic). He could reportedly pack away tens of these at a time, ordering doubles—or what would come to be known as the “Papa",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Lime wheel",
+    "glass": "Coupe or cocktail glass"
   },
   {
     "id": "heroes-and-villains",
@@ -11013,7 +11149,7 @@
     "name": "Hibiscus Punch Royale",
     "category": "Modern",
     "country": null,
-    "method": "Large Format",
+    "method": "Built",
     "tags": [
       "book",
       "modern"
@@ -11025,23 +11161,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Blended Aged Rum, Preferably Appleton Estate Reserve Blend",
-            "amount": "18 oz"
+            "amount": "18 oz",
+            "name": "Blended Aged Rum, preferably Appleton Estate Reserve Blend"
           },
           {
-            "name": "Lime Juice",
-            "amount": "6 oz"
+            "amount": "12 oz",
+            "name": "Hibiscus Syrup"
           },
           {
-            "name": "Cava, Chilled",
-            "amount": "¾ oz"
+            "amount": "4 oz",
+            "name": "Rich Simple Syrup"
+          },
+          {
+            "amount": "6 oz",
+            "name": "Lime Juice"
+          },
+          {
+            "amount": "34 oz",
+            "name": "Cava, chilled"
           }
         ],
-        "instructions": "Combine all ingredients, except. | NOTE To make hibiscus syrup, cava, and chill for 2 hours. Twenty | add 1 cup water, 1 cup hibiscus minutes before serving, add blossoms, anda lemon peeltoa",
+        "instructions": "Combine everything except the cava and chill for 2 hours. About 20 minutes before serving, add the chilled mixture to a punch bowl filled with cracked ice, top with cava, and stir gently.",
         "note": "A riff on Smuggler’s Cove’s ever-popular Hibiscus Rum Punch (the bar sells a hundred of these drinks a week)—which is itself a riff on the Caribbean classic Spiced Hibiscus Punch—this large-format holiday recipe from Martin Cate combines aged rum and fresh lime with tart hibiscus syrup. Add a hefty pour of chilled cava and preserved Jamaican hibiscus flowers, and you’ve got a prime party starter based on looks alone.",
-        "creator": "Martin Cate, Smuggler’S Cove And Whitechapel, San Francisco, Ca",
+        "creator": "Martin Cate, Smuggler's Cove and Whitechapel, San Francisco, CA",
         "image": "assets/recipes/ess-hibiscus-punch-royale.webp",
-        "usable": false
+        "usable": true,
+        "page": "256",
+        "garnish": "Hibiscus flowers in syrup, lime wheels, and mint sprigs",
+        "glass": "Punch cups",
+        "ice": "Cracked ice"
       }
     ],
     "image": null,
@@ -11051,22 +11199,34 @@
     ],
     "ingredients": [
       {
-        "name": "Blended Aged Rum, Preferably Appleton Estate Reserve Blend",
-        "amount": "18 oz"
+        "amount": "18 oz",
+        "name": "Blended Aged Rum, preferably Appleton Estate Reserve Blend"
       },
       {
-        "name": "Lime Juice",
-        "amount": "6 oz"
+        "amount": "12 oz",
+        "name": "Hibiscus Syrup"
       },
       {
-        "name": "Cava, Chilled",
-        "amount": "¾ oz"
+        "amount": "4 oz",
+        "name": "Rich Simple Syrup"
+      },
+      {
+        "amount": "6 oz",
+        "name": "Lime Juice"
+      },
+      {
+        "amount": "34 oz",
+        "name": "Cava, chilled"
       }
     ],
-    "instructions": "Combine all ingredients, except. | NOTE To make hibiscus syrup, cava, and chill for 2 hours. Twenty | add 1 cup water, 1 cup hibiscus minutes before serving, add blossoms, anda lemon peeltoa",
+    "instructions": "Combine everything except the cava and chill for 2 hours. About 20 minutes before serving, add the chilled mixture to a punch bowl filled with cracked ice, top with cava, and stir gently.",
     "note": "A riff on Smuggler’s Cove’s ever-popular Hibiscus Rum Punch (the bar sells a hundred of these drinks a week)—which is itself a riff on the Caribbean classic Spiced Hibiscus Punch—this large-format holiday recipe from Martin Cate combines aged rum and fresh lime with tart hibiscus syrup. Add a hefty pour of chilled cava and preserved Jamaican hibiscus flowers, and you’ve got a prime party starter based on looks alone.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Punch",
+    "quality": "verified",
+    "garnish": "Hibiscus flowers in syrup, lime wheels, and mint sprigs",
+    "glass": "Punch cups",
+    "ice": "Cracked ice",
+    "creator": "Martin Cate, Smuggler's Cove and Whitechapel, San Francisco, CA"
   },
   {
     "id": "honeysuckle",
@@ -11601,7 +11761,7 @@
     "name": "Improved Whiskey Cocktail",
     "category": "Classic",
     "country": null,
-    "method": "Stirred",
+    "method": "Built",
     "tags": [
       "book",
       "classic"
@@ -11613,19 +11773,39 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "1 Maraschino Liqueur",
-            "amount": "1 barspoon"
+            "amount": "1 cube / 1 tsp / ¼ oz",
+            "name": "Sugar Cube, Granulated Sugar, or Simple Syrup"
           },
           {
-            "name": "Dash Angostura Bitters",
-            "amount": "1"
+            "amount": "1 barspoon",
+            "name": "Maraschino Liqueur"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Angostura Bitters"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Peychaud's Bitters"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Absinthe"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Bourbon or Rye"
           }
         ],
-        "instructions": "1 DASH PEYCHAUD'S LEMON PEEL BITTERS Ina rocks glass, muddle sugar cube (or sugar or simple syrup) with maraschino liqueur, both bitters, and absinthe. Add whiskey and stir. Add ice (preferably a large cube) and stir until well chilled. Garnish with a lemon peel.",
+        "instructions": "In a rocks glass, muddle the sugar with maraschino liqueur, both bitters, and absinthe. Add whiskey and ice, preferably one large cube, and stir until well chilled.",
         "note": "A little liquorous history helps answer the question the name of this cocktail begs to ask: improved on what? Long before American bartenders had access to European liqueurs, their resources were essentially limited to spirits, sugar, and bitters. A surprising number of drinks, including the old-fashioned, were created from these three simple ingredients. The next wave of “improved” cocktails featured a lemon peel rubbed around the rim of a glass and the addition of a sweet liqueur. The Improved Whiskey Cocktail, the most enduring of them all, serves as a window into a moment in cocktail history when drinks were progressing in complexity.",
         "creator": "1Sugar Cube,",
         "image": "assets/recipes/ess-improved-whiskey-cocktail.webp",
-        "usable": false
+        "usable": true,
+        "page": "107",
+        "garnish": "Lemon peel",
+        "glass": "Rocks glass",
+        "ice": "Large ice cube"
       }
     ],
     "image": null,
@@ -11635,18 +11815,37 @@
     ],
     "ingredients": [
       {
-        "name": "1 Maraschino Liqueur",
-        "amount": "1 barspoon"
+        "amount": "1 cube / 1 tsp / ¼ oz",
+        "name": "Sugar Cube, Granulated Sugar, or Simple Syrup"
       },
       {
-        "name": "Dash Angostura Bitters",
-        "amount": "1"
+        "amount": "1 barspoon",
+        "name": "Maraschino Liqueur"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Angostura Bitters"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Peychaud's Bitters"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Absinthe"
+      },
+      {
+        "amount": "2 oz",
+        "name": "Bourbon or Rye"
       }
     ],
-    "instructions": "1 DASH PEYCHAUD'S LEMON PEEL BITTERS Ina rocks glass, muddle sugar cube (or sugar or simple syrup) with maraschino liqueur, both bitters, and absinthe. Add whiskey and stir. Add ice (preferably a large cube) and stir until well chilled. Garnish with a lemon peel.",
+    "instructions": "In a rocks glass, muddle the sugar with maraschino liqueur, both bitters, and absinthe. Add whiskey and ice, preferably one large cube, and stir until well chilled.",
     "note": "A little liquorous history helps answer the question the name of this cocktail begs to ask: improved on what? Long before American bartenders had access to European liqueurs, their resources were essentially limited to spirits, sugar, and bitters. A surprising number of drinks, including the old-fashioned, were created from these three simple ingredients. The next wave of “improved” cocktails featured a lemon peel rubbed around the rim of a glass and the addition of a sweet liqueur. The Improved Whiskey Cocktail, the most enduring of them all, serves as a window into a moment in cocktail history when drinks were progressing in complexity.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Old Fashioned",
+    "quality": "verified",
+    "garnish": "Lemon peel",
+    "glass": "Rocks glass",
+    "ice": "Large ice cube"
   },
   {
     "id": "incantation",
@@ -11882,19 +12081,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Lime Juice",
-            "amount": "¾ oz"
+            "amount": "1½ oz",
+            "name": "Cynar"
           },
           {
-            "name": "Ginger Beer",
-            "amount": "3 oz"
+            "amount": "1½ oz",
+            "name": "Amaro Montenegro"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Lime Juice"
+          },
+          {
+            "amount": "3 oz",
+            "name": "Ginger Beer"
           }
         ],
-        "instructions": "Add ice and shake until chilled. Strain into a Collins glass over ice. Top up with ginger beer and more ice, if necessary. Garnish with lime wheels.",
+        "instructions": "Shake Cynar, Amaro Montenegro, and lime juice with ice until chilled. Strain into a Collins glass over ice, top with ginger beer, and add more ice if needed.",
         "note": "The essential ingredient in a buck is ginger ale or ginger beer. From there, just add a spirit, some citrus, and perhaps a dash of bitters. In the case of Jamie Boudreau’s Italian Buck, the additions are, appropriately, all Italian. The Seattle bartender mixes Italian artichoke-based Cynar with the Bolognese Amaro Montenegro and fresh lime juice for a sprightly, bittersweet long cocktail for all seasons.",
-        "creator": "Jamie Boudreau, Canon, Seattle, Wa",
+        "creator": "Jamie Boudreau, Canon, Seattle, WA",
         "image": "assets/recipes/ess-italian-buck.webp",
-        "usable": false
+        "usable": true,
+        "page": "260",
+        "garnish": "Lime wheels",
+        "glass": "Collins glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -11904,18 +12115,30 @@
     ],
     "ingredients": [
       {
-        "name": "Lime Juice",
-        "amount": "¾ oz"
+        "amount": "1½ oz",
+        "name": "Cynar"
       },
       {
-        "name": "Ginger Beer",
-        "amount": "3 oz"
+        "amount": "1½ oz",
+        "name": "Amaro Montenegro"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Lime Juice"
+      },
+      {
+        "amount": "3 oz",
+        "name": "Ginger Beer"
       }
     ],
-    "instructions": "Add ice and shake until chilled. Strain into a Collins glass over ice. Top up with ginger beer and more ice, if necessary. Garnish with lime wheels.",
+    "instructions": "Shake Cynar, Amaro Montenegro, and lime juice with ice until chilled. Strain into a Collins glass over ice, top with ginger beer, and add more ice if needed.",
     "note": "The essential ingredient in a buck is ginger ale or ginger beer. From there, just add a spirit, some citrus, and perhaps a dash of bitters. In the case of Jamie Boudreau’s Italian Buck, the additions are, appropriately, all Italian. The Seattle bartender mixes Italian artichoke-based Cynar with the Bolognese Amaro Montenegro and fresh lime juice for a sprightly, bittersweet long cocktail for all seasons.",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Lime wheels",
+    "glass": "Collins glass",
+    "ice": "Ice",
+    "creator": "Jamie Boudreau, Canon, Seattle, WA"
   },
   {
     "id": "its-a-bittersweet-life",
@@ -13436,7 +13659,7 @@
     "name": "Latin Trifecta",
     "category": "Modern",
     "country": null,
-    "method": "Stir",
+    "method": "Stirred",
     "tags": [
       "amaro",
       "book",
@@ -13449,23 +13672,30 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Tequila Tounce Cynar",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Tequila"
           },
           {
-            "name": "Dry Sherry (Oloroso)",
-            "amount": "2 oz"
+            "amount": "1 oz",
+            "name": "Cynar"
           },
           {
-            "name": "Orange Bitters",
-            "amount": "3 DASHES"
+            "amount": "½ oz",
+            "name": "Dry Oloroso Sherry"
+          },
+          {
+            "amount": "3 dashes",
+            "name": "Orange Bitters"
           }
         ],
-        "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a flamed orange peel.",
+        "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "Drawing on ingredients from romance language-speaking countries, the Latin Trifecta honors Mexico, Italy, and Spain with the strong and savory trio of tequila, Cynar, and sherry. About his creation, Jamie Boudreau says, “Tequila and sherry have always been great friends; adding the bittersweet complexity of an amaro elevates the pairing.” Indeed, the three form a perfect trio.",
-        "creator": "Jamie Boudreau, Canon, Seattle, Wa",
+        "creator": "Jamie Boudreau, Canon, Seattle, WA",
         "image": "assets/recipes/ess-latin-trifecta.webp",
-        "usable": false
+        "usable": true,
+        "page": "268",
+        "garnish": "Flamed orange peel",
+        "glass": "Coupe or cocktail glass"
       }
     ],
     "image": null,
@@ -13475,22 +13705,29 @@
     ],
     "ingredients": [
       {
-        "name": "Tequila Tounce Cynar",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Tequila"
       },
       {
-        "name": "Dry Sherry (Oloroso)",
-        "amount": "2 oz"
+        "amount": "1 oz",
+        "name": "Cynar"
       },
       {
-        "name": "Orange Bitters",
-        "amount": "3 DASHES"
+        "amount": "½ oz",
+        "name": "Dry Oloroso Sherry"
+      },
+      {
+        "amount": "3 dashes",
+        "name": "Orange Bitters"
       }
     ],
-    "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a flamed orange peel.",
+    "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
     "note": "Drawing on ingredients from romance language-speaking countries, the Latin Trifecta honors Mexico, Italy, and Spain with the strong and savory trio of tequila, Cynar, and sherry. About his creation, Jamie Boudreau says, “Tequila and sherry have always been great friends; adding the bittersweet complexity of an amaro elevates the pairing.” Indeed, the three form a perfect trio.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Manhattan",
+    "quality": "verified",
+    "garnish": "Flamed orange peel",
+    "glass": "Coupe or cocktail glass",
+    "creator": "Jamie Boudreau, Canon, Seattle, WA"
   },
   {
     "id": "lawyers-guns-money",
@@ -13562,7 +13799,7 @@
     "name": "Lefty's Fizz",
     "category": "Modern",
     "country": null,
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "book",
       "mezcal",
@@ -13575,19 +13812,38 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Del Maguey Santo Domingo Albarradas Mezcal (No Substitute)",
-            "amount": "1½ oz"
+            "amount": "2 oz",
+            "name": "Soda Water"
           },
           {
-            "name": "Lime Juice °/4Ounce Shrub & Co. Grapefruit Shrub",
-            "amount": "¾ oz"
+            "amount": "1½ oz",
+            "name": "Del Maguey Santo Domingo Albarradas Mezcal"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Dry Curaçao, preferably Pierre Ferrand"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Lime Juice"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Shrub & Co. Grapefruit Shrub"
+          },
+          {
+            "amount": "1",
+            "name": "Egg White"
           }
         ],
-        "instructions": "Add soda water to a rocks glass. Add remaining ingredients toa cocktail shaker. Dry shake. Add ice and shake until chilled. Strain over soda water into glass. Garnish with a grapefruit peel. ,",
+        "instructions": "Add soda water to a rocks glass. Dry shake the remaining ingredients, add ice and shake until chilled, then strain over the soda water.",
         "note": "A menu staple at San Francisco’s ABV, this drink was inspired by a single mezcal and named for the man who makes it: Del Maguey’s Santo Domingo Albarradas, and mezcalero Espiridion “Lefty” Morales Luis. The smoky, single-village bottling reminded bartender Ryan Fitzgerald of maraschino liqueur, and using that as a launchpad he called on the flavors of a Hemingway Daiquiri (page 105), in which maraschino also plays an important role. The mezcal gets mixed with sweet-and-sour grapefruit shrub, lime juice, dry curacao, and egg white. Served down over soda water, the fluffed-up fizz is equal parts sour, smoky, and smooth. 2 OUNCES 2 OUNCE DRY 1EG",
-        "creator": "Ryan Fitzgerald, Abv, San Francisco, Ca",
+        "creator": "Ryan Fitzgerald, ABV, San Francisco, CA",
         "image": "assets/recipes/ess-lefty-s-fizz.webp",
-        "usable": false
+        "usable": true,
+        "page": "270",
+        "garnish": "Grapefruit peel",
+        "glass": "Rocks glass"
       }
     ],
     "image": null,
@@ -13597,18 +13853,37 @@
     ],
     "ingredients": [
       {
-        "name": "Del Maguey Santo Domingo Albarradas Mezcal (No Substitute)",
-        "amount": "1½ oz"
+        "amount": "2 oz",
+        "name": "Soda Water"
       },
       {
-        "name": "Lime Juice °/4Ounce Shrub & Co. Grapefruit Shrub",
-        "amount": "¾ oz"
+        "amount": "1½ oz",
+        "name": "Del Maguey Santo Domingo Albarradas Mezcal"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Dry Curaçao, preferably Pierre Ferrand"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Lime Juice"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Shrub & Co. Grapefruit Shrub"
+      },
+      {
+        "amount": "1",
+        "name": "Egg White"
       }
     ],
-    "instructions": "Add soda water to a rocks glass. Add remaining ingredients toa cocktail shaker. Dry shake. Add ice and shake until chilled. Strain over soda water into glass. Garnish with a grapefruit peel. ,",
+    "instructions": "Add soda water to a rocks glass. Dry shake the remaining ingredients, add ice and shake until chilled, then strain over the soda water.",
     "note": "A menu staple at San Francisco’s ABV, this drink was inspired by a single mezcal and named for the man who makes it: Del Maguey’s Santo Domingo Albarradas, and mezcalero Espiridion “Lefty” Morales Luis. The smoky, single-village bottling reminded bartender Ryan Fitzgerald of maraschino liqueur, and using that as a launchpad he called on the flavors of a Hemingway Daiquiri (page 105), in which maraschino also plays an important role. The mezcal gets mixed with sweet-and-sour grapefruit shrub, lime juice, dry curacao, and egg white. Served down over soda water, the fluffed-up fizz is equal parts sour, smoky, and smooth. 2 OUNCES 2 OUNCE DRY 1EG",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Collins / Fizz",
+    "quality": "verified",
+    "garnish": "Grapefruit peel",
+    "glass": "Rocks glass",
+    "creator": "Ryan Fitzgerald, ABV, San Francisco, CA"
   },
   {
     "id": "lemon-drop",
@@ -14004,7 +14279,7 @@
     "name": "Long Island Bar Gimlet",
     "category": "Modern",
     "country": null,
-    "method": "Stir",
+    "method": "Shake",
     "tags": [
       "book",
       "modern"
@@ -14016,19 +14291,27 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Gin",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Gin"
           },
           {
-            "name": "Lime-Ginger Cordial (See Note) 2",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Lime-Ginger Cordial"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Lime Juice"
           }
         ],
-        "instructions": "Add all ingredients toa cocktail | limes. Peel % pound of fresh shaker. Add ice and shake until | ginger and cut into inch pieces.",
+        "instructions": "Shake all ingredients with ice until chilled. Strain over ice into a rocks glass.",
         "note": "Eschewing the traditional Rose’s Lime Cordial, Brooklyn bartender Toby Cecchini doubles down on the lime in his super-tangy gimlet, using both a house-made ginger-infused lime cordial and an extra dose of fresh lime juice. The cordial requires time and resolve, but",
-        "creator": "Toby Cecchini, Long Island Bar, Brooklyn, Ny",
+        "creator": "Toby Cecchini, Long Island Bar, Brooklyn, NY",
         "image": "assets/recipes/ess-long-island-bar-gimlet.webp",
-        "usable": false
+        "usable": true,
+        "page": "273",
+        "garnish": "2 lime wheels",
+        "glass": "Rocks glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -14038,18 +14321,26 @@
     ],
     "ingredients": [
       {
-        "name": "Gin",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Gin"
       },
       {
-        "name": "Lime-Ginger Cordial (See Note) 2",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Lime-Ginger Cordial"
+      },
+      {
+        "amount": "¾ oz",
+        "name": "Lime Juice"
       }
     ],
-    "instructions": "Add all ingredients toa cocktail | limes. Peel % pound of fresh shaker. Add ice and shake until | ginger and cut into inch pieces.",
+    "instructions": "Shake all ingredients with ice until chilled. Strain over ice into a rocks glass.",
     "note": "Eschewing the traditional Rose’s Lime Cordial, Brooklyn bartender Toby Cecchini doubles down on the lime in his super-tangy gimlet, using both a house-made ginger-infused lime cordial and an extra dose of fresh lime juice. The cordial requires time and resolve, but",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "2 lime wheels",
+    "glass": "Rocks glass",
+    "ice": "Ice",
+    "creator": "Toby Cecchini, Long Island Bar, Brooklyn, NY"
   },
   {
     "id": "maggie-smith",
@@ -16679,7 +16970,7 @@
     "name": "Millionaire Cocktail",
     "category": "Classic",
     "country": null,
-    "method": "Shaken",
+    "method": "Shake",
     "tags": [
       "book",
       "classic"
@@ -16691,19 +16982,38 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Bourbon, Preferably Four Roses",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Bourbon, preferably Four Roses"
           },
           {
-            "name": "Lemon Juice",
-            "amount": "½ oz"
+            "amount": "¾ oz",
+            "name": "Grand Marnier"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Grenadine"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Lemon Juice"
+          },
+          {
+            "amount": "1",
+            "name": "Egg White"
+          },
+          {
+            "amount": "4 dashes",
+            "name": "Absinthe"
           }
         ],
-        "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a chilled coupe or cocktail glass. Garnish with grated nutmeg.",
+        "instructions": "Shake all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "The Millionaire is the John Jacob Jingleheimer Schmidt of Prohibition-era drinks. Unsurprisingly, Roaring Twenties bartenders had an affinity for the name, bestowing it upon recipes so distinct from one another that not even the base spirit was consistent. The only through line was that the ingredients were perceived as somewhat flashy at the time. This rendition was inspired by a recipe that appeared in 1938’s The How and When cocktail book by Hyman Gale and Gerald F. Marco. Here, the proportions have been updated ever so slightly and a little lemon juice added at the recommendation of Jason Kosmas and Dushan Zaric of New York City’s Employe",
         "creator": "2 Ounces Bourbon,",
         "image": "assets/recipes/ess-millionaire-cocktail.webp",
-        "usable": false
+        "usable": true,
+        "page": "127",
+        "garnish": "Freshly grated nutmeg",
+        "glass": "Coupe or cocktail glass"
       }
     ],
     "image": null,
@@ -16713,18 +17023,36 @@
     ],
     "ingredients": [
       {
-        "name": "Bourbon, Preferably Four Roses",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Bourbon, preferably Four Roses"
       },
       {
-        "name": "Lemon Juice",
-        "amount": "½ oz"
+        "amount": "¾ oz",
+        "name": "Grand Marnier"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Grenadine"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Lemon Juice"
+      },
+      {
+        "amount": "1",
+        "name": "Egg White"
+      },
+      {
+        "amount": "4 dashes",
+        "name": "Absinthe"
       }
     ],
-    "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a chilled coupe or cocktail glass. Garnish with grated nutmeg.",
+    "instructions": "Shake all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
     "note": "The Millionaire is the John Jacob Jingleheimer Schmidt of Prohibition-era drinks. Unsurprisingly, Roaring Twenties bartenders had an affinity for the name, bestowing it upon recipes so distinct from one another that not even the base spirit was consistent. The only through line was that the ingredients were perceived as somewhat flashy at the time. This rendition was inspired by a recipe that appeared in 1938’s The How and When cocktail book by Hyman Gale and Gerald F. Marco. Here, the proportions have been updated ever so slightly and a little lemon juice added at the recommendation of Jason Kosmas and Dushan Zaric of New York City’s Employe",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "garnish": "Freshly grated nutmeg",
+    "glass": "Coupe or cocktail glass"
   },
   {
     "id": "mint-julep",
@@ -18050,19 +18378,27 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Campari Tounce Sweet Vermouth",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Campari"
           },
           {
-            "name": "Prosecco (Or Any Dry Sparkling Wine), To Top",
-            "amount": "3 oz"
+            "amount": "1 oz",
+            "name": "Sweet Vermouth"
+          },
+          {
+            "amount": "3 oz / to top",
+            "name": "Prosecco or Dry Sparkling Wine"
           }
         ],
-        "instructions": "In a rocks or lowball glass, add Campari, sweet vermouth, and ice. Top with prosecco (or sparkling wine) and stir gently to combine. Garnish with an orange peel.",
+        "instructions": "Build Campari and sweet vermouth over ice in a rocks or lowball glass. Top with prosecco and stir gently.",
         "note": "This twist on the Negroni allegedly came to be when a Milanese bartender reached for a bottle of prosecco rather than gin when making the classic drink—the sbagliato addendum translates to mean “incorrect” or “mistaken.” But, in fact, the buoyantly bitter Italian aperitivo drink is anything but incorrect. If the sbagliato is wrong, you don’t want to be right.",
         "creator": "Sparkling Wine),",
         "image": "assets/recipes/ess-negroni-sbagliato.webp",
-        "usable": false
+        "usable": true,
+        "page": "136",
+        "garnish": "Orange peel",
+        "glass": "Rocks or lowball glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
@@ -18072,18 +18408,25 @@
     ],
     "ingredients": [
       {
-        "name": "Campari Tounce Sweet Vermouth",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Campari"
       },
       {
-        "name": "Prosecco (Or Any Dry Sparkling Wine), To Top",
-        "amount": "3 oz"
+        "amount": "1 oz",
+        "name": "Sweet Vermouth"
+      },
+      {
+        "amount": "3 oz / to top",
+        "name": "Prosecco or Dry Sparkling Wine"
       }
     ],
-    "instructions": "In a rocks or lowball glass, add Campari, sweet vermouth, and ice. Top with prosecco (or sparkling wine) and stir gently to combine. Garnish with an orange peel.",
+    "instructions": "Build Campari and sweet vermouth over ice in a rocks or lowball glass. Top with prosecco and stir gently.",
     "note": "This twist on the Negroni allegedly came to be when a Milanese bartender reached for a bottle of prosecco rather than gin when making the classic drink—the sbagliato addendum translates to mean “incorrect” or “mistaken.” But, in fact, the buoyantly bitter Italian aperitivo drink is anything but incorrect. If the sbagliato is wrong, you don’t want to be right.",
     "family": "Negroni",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Orange peel",
+    "glass": "Rocks or lowball glass",
+    "ice": "Ice"
   },
   {
     "id": "negroni-sour",
@@ -18418,7 +18761,7 @@
     "name": "Oaxaca Old-Fashioned",
     "category": "Modern",
     "country": null,
-    "method": "Stirred",
+    "method": "Built",
     "tags": [
       "book",
       "mezcal",
@@ -18431,19 +18774,31 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Del San Luis Del Rio Mezcal",
-            "amount": "½ oz"
+            "amount": "1½ oz",
+            "name": "El Tesoro Reposado Tequila"
           },
           {
-            "name": "Angostura Bitters Maguey 1Barspoon Agave Nectar",
-            "amount": "2 dashes"
+            "amount": "½ oz",
+            "name": "Del Maguey San Luis del Rio Mezcal"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "Angostura Bitters"
+          },
+          {
+            "amount": "1 barspoon",
+            "name": "Agave Nectar"
           }
         ],
-        "instructions": "Combine all the ingredients in an old-fashioned glass with one large ice cube. Stir until chilled. Top with a flamed orange peel.",
+        "instructions": "Combine all ingredients in an old-fashioned glass with one large ice cube and stir until chilled.",
         "note": "Philip Ward devised this smoky take on the Old-Fashioned nearly a decade ago, back when he was behind the bar at NYC’s Death & Co. “I was just starting to play with mezcal in cocktails and noticed that adding a bit of mezcal to tequila drinks was like putting your tequila on steroids. More body, more smoke, more everything you ever dreamed tequila could be,” he says. To balance the big flavor of mezcal, Ward uses agave nectar because it’s a little richer than simple syrup. And while his go-to bitters are Angostura, he’ll often swap them for molé bitters to bring a little extra Mexican flavor.",
-        "creator": "Philip Ward, Mayahuel, New York, Ny",
+        "creator": "Philip Ward, Mayahuel, New York, NY",
         "image": "assets/recipes/ess-oaxaca-old-fashioned.webp",
-        "usable": false
+        "usable": true,
+        "page": "282",
+        "garnish": "Flamed orange peel",
+        "glass": "Old-fashioned glass",
+        "ice": "Large ice cube"
       }
     ],
     "image": null,
@@ -18453,18 +18808,30 @@
     ],
     "ingredients": [
       {
-        "name": "Del San Luis Del Rio Mezcal",
-        "amount": "½ oz"
+        "amount": "1½ oz",
+        "name": "El Tesoro Reposado Tequila"
       },
       {
-        "name": "Angostura Bitters Maguey 1Barspoon Agave Nectar",
-        "amount": "2 dashes"
+        "amount": "½ oz",
+        "name": "Del Maguey San Luis del Rio Mezcal"
+      },
+      {
+        "amount": "2 dashes",
+        "name": "Angostura Bitters"
+      },
+      {
+        "amount": "1 barspoon",
+        "name": "Agave Nectar"
       }
     ],
-    "instructions": "Combine all the ingredients in an old-fashioned glass with one large ice cube. Stir until chilled. Top with a flamed orange peel.",
+    "instructions": "Combine all ingredients in an old-fashioned glass with one large ice cube and stir until chilled.",
     "note": "Philip Ward devised this smoky take on the Old-Fashioned nearly a decade ago, back when he was behind the bar at NYC’s Death & Co. “I was just starting to play with mezcal in cocktails and noticed that adding a bit of mezcal to tequila drinks was like putting your tequila on steroids. More body, more smoke, more everything you ever dreamed tequila could be,” he says. To balance the big flavor of mezcal, Ward uses agave nectar because it’s a little richer than simple syrup. And while his go-to bitters are Angostura, he’ll often swap them for molé bitters to bring a little extra Mexican flavor.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Old Fashioned",
+    "quality": "verified",
+    "garnish": "Flamed orange peel",
+    "glass": "Old-fashioned glass",
+    "ice": "Large ice cube",
+    "creator": "Philip Ward, Mayahuel, New York, NY"
   },
   {
     "id": "oaxacan-dream",
@@ -22788,7 +23155,7 @@
     "name": "Revolver",
     "category": "Modern",
     "country": null,
-    "method": "Stir",
+    "method": "Stirred",
     "tags": [
       "book",
       "modern"
@@ -22800,19 +23167,26 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Bourbon, Preferably Bulleit",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Bourbon, preferably Bulleit"
           },
           {
-            "name": "Coffee Liqueur, Preferably",
-            "amount": "½ oz"
+            "amount": "½ oz",
+            "name": "Coffee Liqueur, preferably St. George NOLA"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "Orange Bitters"
           }
         ],
-        "instructions": "Combine all ingredients in a mixing glass. Add ice and stir until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a flamed orange peel.",
+        "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
         "note": "When Bulleit Bourbon first launched in 2004, it went off like a shot through the bartender cadre. Jon Santer was an early gunslinger, favoring the bourbon for its dry profile and perfectly high ABV. A big fan of St. George Spirits NOLA Coffee Liqueur, too, Santer found the Bulleit to be its perfect match in this dark drink. To finish it off, he flames an orange peel over the glass— both fora theatrical effect he loves at the bar, as well as for the smoky nose it gives the cocktail.",
-        "creator": "Jon Santer, Prizefighter, Emeryville, Ca",
+        "creator": "Jon Santer, Prizefighter, Emeryville, CA",
         "image": "assets/recipes/ess-revolver.webp",
-        "usable": false
+        "usable": true,
+        "page": "304",
+        "garnish": "Flamed orange peel",
+        "glass": "Coupe or cocktail glass"
       }
     ],
     "image": null,
@@ -22822,18 +23196,25 @@
     ],
     "ingredients": [
       {
-        "name": "Bourbon, Preferably Bulleit",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Bourbon, preferably Bulleit"
       },
       {
-        "name": "Coffee Liqueur, Preferably",
-        "amount": "½ oz"
+        "amount": "½ oz",
+        "name": "Coffee Liqueur, preferably St. George NOLA"
+      },
+      {
+        "amount": "2 dashes",
+        "name": "Orange Bitters"
       }
     ],
-    "instructions": "Combine all ingredients in a mixing glass. Add ice and stir until chilled. Strain into a chilled coupe or cocktail glass. Garnish with a flamed orange peel.",
+    "instructions": "Stir all ingredients with ice until chilled. Strain into a chilled coupe or cocktail glass.",
     "note": "When Bulleit Bourbon first launched in 2004, it went off like a shot through the bartender cadre. Jon Santer was an early gunslinger, favoring the bourbon for its dry profile and perfectly high ABV. A big fan of St. George Spirits NOLA Coffee Liqueur, too, Santer found the Bulleit to be its perfect match in this dark drink. To finish it off, he flames an orange peel over the glass— both fora theatrical effect he loves at the bar, as well as for the smoky nose it gives the cocktail.",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Manhattan",
+    "quality": "verified",
+    "garnish": "Flamed orange peel",
+    "glass": "Coupe or cocktail glass",
+    "creator": "Jon Santer, Prizefighter, Emeryville, CA"
   },
   {
     "id": "rgos",
