@@ -10879,27 +10879,30 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Fords Gin",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Fords Gin"
           },
           {
-            "name": "Contratto Americano Rosso Vermouth",
-            "amount": "4 oz"
+            "amount": "0.5 oz",
+            "name": "Contratto Americano Rosso Vermouth"
           },
           {
-            "name": "Fernet-Branca",
-            "amount": "4 oz"
+            "amount": "0.5 oz",
+            "name": "Carpano Antica Formula Vermouth"
           },
           {
-            "name": "Garnish: Lemon Twist",
-            "amount": "to taste"
+            "amount": "0.25 oz",
+            "name": "Fernet-Branca"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into a Nick &",
+        "instructions": "Stir all ingredients over ice, then strain into a Nick & Nora glass.",
         "note": "",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Lemon twist",
+        "glass": "Nick & Nora glass",
+        "page": "144"
       }
     ],
     "image": null,
@@ -10909,23 +10912,28 @@
     ],
     "ingredients": [
       {
-        "name": "Fords Gin",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Fords Gin"
       },
       {
-        "name": "Contratto Americano Rosso Vermouth",
-        "amount": "4 oz"
+        "amount": "0.5 oz",
+        "name": "Contratto Americano Rosso Vermouth"
       },
       {
-        "name": "Fernet-Branca",
-        "amount": "4 oz"
+        "amount": "0.5 oz",
+        "name": "Carpano Antica Formula Vermouth"
+      },
+      {
+        "amount": "0.25 oz",
+        "name": "Fernet-Branca"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into a Nick &",
+    "instructions": "Stir all ingredients over ice, then strain into a Nick & Nora glass.",
     "note": "",
     "family": "Other",
-    "garnish": "Lemon Twist",
-    "quality": "limited"
+    "garnish": "Lemon twist",
+    "quality": "verified",
+    "glass": "Nick & Nora glass"
   },
   {
     "id": "heart-shaped-box",
@@ -11553,23 +11561,26 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Flor De Cana Extra-Dry White Rum",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Flor de Caña Extra-Dry White Rum"
           },
           {
-            "name": "Lime Juice",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Lime juice"
           },
           {
-            "name": "Garnish: 1 Lime Wedge",
-            "amount": "to taste"
+            "amount": "0.75 oz",
+            "name": "Acacia honey syrup"
           }
         ],
-        "instructions": "Shake all the ingredients with ice, then strain into a",
+        "instructions": "Shake all ingredients with ice, then strain into a coupe.",
         "note": "",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Lime wedge",
+        "glass": "Coupe",
+        "page": "144"
       }
     ],
     "image": null,
@@ -11579,19 +11590,24 @@
     ],
     "ingredients": [
       {
-        "name": "Flor De Cana Extra-Dry White Rum",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Flor de Caña Extra-Dry White Rum"
       },
       {
-        "name": "Lime Juice",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Lime juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "name": "Acacia honey syrup"
       }
     ],
-    "instructions": "Shake all the ingredients with ice, then strain into a",
+    "instructions": "Shake all ingredients with ice, then strain into a coupe.",
     "note": "",
-    "family": "Other",
-    "garnish": "1 Lime Wedge",
-    "quality": "limited"
+    "family": "Sour",
+    "garnish": "Lime wedge",
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "hop-over",
@@ -11928,23 +11944,37 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Carpano Antica Formula Vermouth",
-            "amount": "¾ oz"
+            "amount": "1.5 oz",
+            "name": "El Dorado 15-Year Rum"
           },
           {
-            "name": "Yellow Chartreuse",
-            "amount": "4 oz"
+            "amount": "0.5 oz",
+            "name": "Santa Teresa 1796 Rum"
           },
           {
-            "name": "Dash Vieux Pontarlier Absinthe",
-            "amount": "1"
+            "amount": "0.75 oz",
+            "name": "Carpano Antica Formula Vermouth"
+          },
+          {
+            "amount": "0.5 oz",
+            "name": "Fernet-Branca"
+          },
+          {
+            "amount": "0.25 oz",
+            "name": "Yellow Chartreuse"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Vieux Pontarlier Absinthe"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
+        "instructions": "Stir all ingredients over ice, then strain into a coupe.",
         "note": "It’s an unwritten rule that the name of any drink we create containing Fernet-Branca needs to reference San Francisco.",
         "creator": "Jessica Gonzalez, 2009",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Coupe",
+        "page": "178"
       }
     ],
     "image": null,
@@ -11954,22 +11984,35 @@
     ],
     "ingredients": [
       {
-        "name": "Carpano Antica Formula Vermouth",
-        "amount": "¾ oz"
+        "amount": "1.5 oz",
+        "name": "El Dorado 15-Year Rum"
       },
       {
-        "name": "Yellow Chartreuse",
-        "amount": "4 oz"
+        "amount": "0.5 oz",
+        "name": "Santa Teresa 1796 Rum"
       },
       {
-        "name": "Dash Vieux Pontarlier Absinthe",
-        "amount": "1"
+        "amount": "0.75 oz",
+        "name": "Carpano Antica Formula Vermouth"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "Fernet-Branca"
+      },
+      {
+        "amount": "0.25 oz",
+        "name": "Yellow Chartreuse"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Vieux Pontarlier Absinthe"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
+    "instructions": "Stir all ingredients over ice, then strain into a coupe.",
     "note": "It’s an unwritten rule that the name of any drink we create containing Fernet-Branca needs to reference San Francisco.",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "improved-rum-cocktail",
@@ -13449,23 +13492,26 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Chamomile-Infused Old Overholt",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Chamomile-Infused Old Overholt Rye"
           },
           {
-            "name": "Campari",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Campari"
           },
           {
-            "name": "St-Germain",
-            "amount": "4 oz"
+            "amount": "0.25 oz",
+            "name": "St-Germain"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into a double",
+        "instructions": "Stir all ingredients over ice, then strain into a double rocks glass over one large ice cube.",
         "note": "This is a variation on the Old Pal (page 148), with St-Germain in place of vermouth. It’s a great example of the kind of simple drink we come up with using the stuff rocks glass over 1 large ice cube. No garnish.",
         "creator": "Thomas Waugh, 2008",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Double rocks glass",
+        "ice": "1 large ice cube",
+        "page": "206"
       }
     ],
     "image": null,
@@ -13475,22 +13521,24 @@
     ],
     "ingredients": [
       {
-        "name": "Chamomile-Infused Old Overholt",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Chamomile-Infused Old Overholt Rye"
       },
       {
-        "name": "Campari",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Campari"
       },
       {
-        "name": "St-Germain",
-        "amount": "4 oz"
+        "amount": "0.25 oz",
+        "name": "St-Germain"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into a double",
+    "instructions": "Stir all ingredients over ice, then strain into a double rocks glass over one large ice cube.",
     "note": "This is a variation on the Old Pal (page 148), with St-Germain in place of vermouth. It’s a great example of the kind of simple drink we come up with using the stuff rocks glass over 1 large ice cube. No garnish.",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Double rocks glass",
+    "ice": "1 large ice cube"
   },
   {
     "id": "la-otra-palabra",
@@ -13731,27 +13779,34 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "El Tesoro Reposado Tequila",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "El Tesoro Reposado Tequila"
           },
           {
-            "name": "Dolin Dry Vermouth",
-            "amount": "4 oz"
+            "amount": "0.5 oz",
+            "name": "Campari"
           },
           {
-            "name": "Dash Angostura Bitters",
-            "amount": "1"
+            "amount": "0.5 oz",
+            "name": "Cocchi Vermouth di Torino"
           },
           {
-            "name": "Garnish: 1 Orange Twist",
-            "amount": "to taste"
+            "amount": "0.5 oz",
+            "name": "Dolin Dry Vermouth"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Angostura Bitters"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into a Nick &",
+        "instructions": "Stir all ingredients over ice, then strain into a Nick & Nora glass.",
         "note": "",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Orange twist",
+        "glass": "Nick & Nora glass",
+        "page": "144"
       }
     ],
     "image": null,
@@ -13761,23 +13816,32 @@
     ],
     "ingredients": [
       {
-        "name": "El Tesoro Reposado Tequila",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "El Tesoro Reposado Tequila"
       },
       {
-        "name": "Dolin Dry Vermouth",
-        "amount": "4 oz"
+        "amount": "0.5 oz",
+        "name": "Campari"
       },
       {
-        "name": "Dash Angostura Bitters",
-        "amount": "1"
+        "amount": "0.5 oz",
+        "name": "Cocchi Vermouth di Torino"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "Dolin Dry Vermouth"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Angostura Bitters"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into a Nick &",
+    "instructions": "Stir all ingredients over ice, then strain into a Nick & Nora glass.",
     "note": "",
     "family": "Other",
-    "garnish": "1 Orange Twist",
-    "quality": "limited"
+    "garnish": "Orange twist",
+    "quality": "verified",
+    "glass": "Nick & Nora glass"
   },
   {
     "id": "lady-day",
@@ -14361,19 +14425,33 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Plymouth Gin",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Plymouth Gin"
           },
           {
-            "name": "Maraska Maraschino Liqueur",
-            "amount": "4 oz"
+            "amount": "0.5 oz",
+            "name": "Yellow Chartreuse"
+          },
+          {
+            "amount": "0.25 oz",
+            "name": "Maraska Maraschino Liqueur"
+          },
+          {
+            "amount": "0.25 oz",
+            "name": "Orange juice"
+          },
+          {
+            "amount": "4 dashes",
+            "name": "House Peychaud's Bitters"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
+        "instructions": "Stir all ingredients over ice, then strain into a coupe.",
         "note": "The first drink I created for Death & Co breaks a few rules (e.g., using fresh orange juice in a stirred cocktail), but it",
         "creator": "Alex Day, 2008",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Coupe",
+        "page": "165"
       }
     ],
     "image": null,
@@ -14383,18 +14461,31 @@
     ],
     "ingredients": [
       {
-        "name": "Plymouth Gin",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Plymouth Gin"
       },
       {
-        "name": "Maraska Maraschino Liqueur",
-        "amount": "4 oz"
+        "amount": "0.5 oz",
+        "name": "Yellow Chartreuse"
+      },
+      {
+        "amount": "0.25 oz",
+        "name": "Maraska Maraschino Liqueur"
+      },
+      {
+        "amount": "0.25 oz",
+        "name": "Orange juice"
+      },
+      {
+        "amount": "4 dashes",
+        "name": "House Peychaud's Bitters"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
+    "instructions": "Stir all ingredients over ice, then strain into a coupe.",
     "note": "The first drink I created for Death & Co breaks a few rules (e.g., using fresh orange juice in a stirred cocktail), but it",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "little-miss-annabelle",
@@ -14414,23 +14505,37 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Pierre Ferrand Ambre Cognac",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Pierre Ferrand Ambre Cognac"
           },
           {
-            "name": "Mathilde Poire Pear Liqueur",
-            "amount": "4 oz"
+            "amount": "0.25 oz",
+            "name": "Mathilde Poire Pear Liqueur"
           },
           {
-            "name": "Lemon Juice",
-            "amount": "¾ oz"
+            "amount": "0.25 oz",
+            "name": "Bénédictine"
+          },
+          {
+            "amount": "0.75 oz",
+            "name": "Lemon juice"
+          },
+          {
+            "amount": "0.25 oz",
+            "name": "Cane sugar syrup"
+          },
+          {
+            "amount": "1 dash",
+            "name": "House Peychaud's Bitters"
           }
         ],
-        "instructions": "Shake all the ingredients with ice, then strain into a",
+        "instructions": "Shake all ingredients with ice, then strain into a coupe.",
         "note": "I named this variation on the Sidecar (page 151) after the daughter of Alexandre Gabriel, who owns Pierre Ferrand.",
-        "creator": "Joaquin Simo, 2009",
+        "creator": "Joaquin Simó, 2009",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Coupe",
+        "page": "213"
       }
     ],
     "image": null,
@@ -14440,22 +14545,35 @@
     ],
     "ingredients": [
       {
-        "name": "Pierre Ferrand Ambre Cognac",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Pierre Ferrand Ambre Cognac"
       },
       {
-        "name": "Mathilde Poire Pear Liqueur",
-        "amount": "4 oz"
+        "amount": "0.25 oz",
+        "name": "Mathilde Poire Pear Liqueur"
       },
       {
-        "name": "Lemon Juice",
-        "amount": "¾ oz"
+        "amount": "0.25 oz",
+        "name": "Bénédictine"
+      },
+      {
+        "amount": "0.75 oz",
+        "name": "Lemon juice"
+      },
+      {
+        "amount": "0.25 oz",
+        "name": "Cane sugar syrup"
+      },
+      {
+        "amount": "1 dash",
+        "name": "House Peychaud's Bitters"
       }
     ],
-    "instructions": "Shake all the ingredients with ice, then strain into a",
+    "instructions": "Shake all ingredients with ice, then strain into a coupe.",
     "note": "I named this variation on the Sidecar (page 151) after the daughter of Alexandre Gabriel, who owns Pierre Ferrand.",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "little-sparrow",
@@ -14475,23 +14593,34 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Busnel Vsop Calvados",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Busnel VSOP Calvados"
           },
           {
-            "name": "Laird’S Bonded Apple Brandy",
-            "amount": "4 oz"
+            "amount": "0.25 oz",
+            "name": "Laird's Bonded Apple Brandy"
           },
           {
-            "name": "Garnish: 1 Lemon Twist",
-            "amount": "to taste"
+            "amount": "0.75 oz",
+            "name": "Carpano Antica Formula Vermouth"
+          },
+          {
+            "amount": "0.5 oz",
+            "name": "St-Germain"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "House Peychaud's Bitters"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
+        "instructions": "Stir all ingredients over ice, then strain into a coupe.",
         "note": "I didn't think this drink would be as popular as it is, but when St-Germain is involved, you never know. I cut the taste too sweet; Laird’s is good for drying drinks out.—BM",
         "creator": "Brian Miller, 2008",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Lemon twist",
+        "glass": "Coupe",
+        "page": "218"
       }
     ],
     "image": null,
@@ -14501,19 +14630,32 @@
     ],
     "ingredients": [
       {
-        "name": "Busnel Vsop Calvados",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Busnel VSOP Calvados"
       },
       {
-        "name": "Laird’S Bonded Apple Brandy",
-        "amount": "4 oz"
+        "amount": "0.25 oz",
+        "name": "Laird's Bonded Apple Brandy"
+      },
+      {
+        "amount": "0.75 oz",
+        "name": "Carpano Antica Formula Vermouth"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "St-Germain"
+      },
+      {
+        "amount": "2 dashes",
+        "name": "House Peychaud's Bitters"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
+    "instructions": "Stir all ingredients over ice, then strain into a coupe.",
     "note": "I didn't think this drink would be as popular as it is, but when St-Germain is involved, you never know. I cut the taste too sweet; Laird’s is good for drying drinks out.—BM",
     "family": "Other",
-    "garnish": "1 Lemon Twist",
-    "quality": "limited"
+    "garnish": "Lemon twist",
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "london-sour",
@@ -16323,47 +16465,43 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Tanqueray London Dry Gin",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Tanqueray London Dry Gin"
           },
           {
-            "name": "Krogstad Aquavit",
-            "amount": "4 oz"
+            "amount": "0.5 oz",
+            "name": "Krogstad Aquavit"
           },
           {
-            "name": "Benedictine",
-            "amount": "4 oz"
+            "amount": "0.5 oz",
+            "name": "Linie Aquavit"
           },
           {
-            "name": "Angostura Bitters",
-            "amount": "2 DASHES"
+            "amount": "1 oz",
+            "name": "House Sweet Vermouth"
           },
           {
-            "name": "Garnish: 1 Orange Twist",
-            "amount": "to taste"
+            "amount": "0.25 oz",
+            "name": "Bénédictine"
           },
           {
-            "name": "Plymouth Gin",
-            "amount": "2 oz"
+            "amount": "2 dashes",
+            "name": "Angostura Bitters"
           },
           {
-            "name": "Jalapeno-Infused Siembra Azul",
-            "amount": "4 oz"
-          },
-          {
-            "name": "Green Chartreuse",
-            "amount": "4 oz"
-          },
-          {
-            "name": "Dash Bitter Truth Celery Bitters",
-            "amount": "1"
+            "amount": "2 dashes",
+            "name": "House Peychaud's Bitters"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into a double Stir all the ingredients over ice, then strain into a coupe.",
+        "instructions": "Stir all ingredients over ice, then strain into a double rocks glass over one large ice cube.",
         "note": "I combined traditional and modern styles of aquavit in this Vieux Carré variation: Krogstad is an unaged, American-made aquavit that’s more anise-forward, while Linie is a classic Scandinavian aquavit with big rocks glass over 1 large ice cube. Garnish with the orange This drink started with the name.",
         "creator": "Eryn Reece, 2013",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Orange twist",
+        "glass": "Double rocks glass",
+        "ice": "1 large ice cube",
+        "page": "166"
       }
     ],
     "image": null,
@@ -16373,43 +16511,41 @@
     ],
     "ingredients": [
       {
-        "name": "Tanqueray London Dry Gin",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Tanqueray London Dry Gin"
       },
       {
-        "name": "Krogstad Aquavit",
-        "amount": "4 oz"
+        "amount": "0.5 oz",
+        "name": "Krogstad Aquavit"
       },
       {
-        "name": "Benedictine",
-        "amount": "4 oz"
+        "amount": "0.5 oz",
+        "name": "Linie Aquavit"
       },
       {
-        "name": "Angostura Bitters",
-        "amount": "2 DASHES"
+        "amount": "1 oz",
+        "name": "House Sweet Vermouth"
       },
       {
-        "name": "Plymouth Gin",
-        "amount": "2 oz"
+        "amount": "0.25 oz",
+        "name": "Bénédictine"
       },
       {
-        "name": "Jalapeno-Infused Siembra Azul",
-        "amount": "4 oz"
+        "amount": "2 dashes",
+        "name": "Angostura Bitters"
       },
       {
-        "name": "Green Chartreuse",
-        "amount": "4 oz"
-      },
-      {
-        "name": "Dash Bitter Truth Celery Bitters",
-        "amount": "1"
+        "amount": "2 dashes",
+        "name": "House Peychaud's Bitters"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into a double Stir all the ingredients over ice, then strain into a coupe.",
+    "instructions": "Stir all ingredients over ice, then strain into a double rocks glass over one large ice cube.",
     "note": "I combined traditional and modern styles of aquavit in this Vieux Carré variation: Krogstad is an unaged, American-made aquavit that’s more anise-forward, while Linie is a classic Scandinavian aquavit with big rocks glass over 1 large ice cube. Garnish with the orange This drink started with the name.",
     "family": "Other",
-    "garnish": "1 Orange Twist",
-    "quality": "limited"
+    "garnish": "Orange twist",
+    "quality": "verified",
+    "glass": "Double rocks glass",
+    "ice": "1 large ice cube"
   },
   {
     "id": "mekhong-buck",
@@ -18901,7 +19037,7 @@
     "name": "Nitty-Gritty",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Build",
+    "method": "Stir",
     "tags": [
       "book",
       "death-co",
@@ -18914,23 +19050,42 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Benedictine",
-            "amount": "4 oz"
+            "amount": "1.5 oz",
+            "name": "Del Maguey Espadín Especial Mezcal"
           },
           {
-            "name": "Rothman & Winter Pear Liqueur",
-            "amount": "4 tsp"
+            "amount": "1.5 oz",
+            "name": "La Cigarrera Manzanilla Sherry"
           },
           {
-            "name": "Agave Nectar",
-            "amount": "4 tsp"
+            "amount": "0.25 oz",
+            "name": "Bénédictine"
+          },
+          {
+            "amount": "0.5 tsp",
+            "name": "Rothman & Winter Pear Liqueur"
+          },
+          {
+            "amount": "0.5 tsp",
+            "name": "Agave nectar"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Bar Code Baked Apple Bitters"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Bitter Truth Aromatic Bitters"
           }
         ],
-        "instructions": "",
+        "instructions": "Stir all ingredients over ice, then strain into a coupe.",
         "note": "In this riff on the Fitty-Fitty martini, the combination of mezcal and sherry was so drying that the cocktail needed some texture and sweetness. The smallest amount of pear liqueur and agave nectar made a huge difference.—JS",
-        "creator": "Joaquin Simo, 2011",
+        "creator": "Joaquin Simó, 2011",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Lemon twist",
+        "glass": "Coupe",
+        "page": "192-193"
       }
     ],
     "image": null,
@@ -18940,29 +19095,47 @@
     ],
     "ingredients": [
       {
-        "name": "Benedictine",
-        "amount": "4 oz"
+        "amount": "1.5 oz",
+        "name": "Del Maguey Espadín Especial Mezcal"
       },
       {
-        "name": "Rothman & Winter Pear Liqueur",
-        "amount": "4 tsp"
+        "amount": "1.5 oz",
+        "name": "La Cigarrera Manzanilla Sherry"
       },
       {
-        "name": "Agave Nectar",
-        "amount": "4 tsp"
+        "amount": "0.25 oz",
+        "name": "Bénédictine"
+      },
+      {
+        "amount": "0.5 tsp",
+        "name": "Rothman & Winter Pear Liqueur"
+      },
+      {
+        "amount": "0.5 tsp",
+        "name": "Agave nectar"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Bar Code Baked Apple Bitters"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Bitter Truth Aromatic Bitters"
       }
     ],
-    "instructions": "",
+    "instructions": "Stir all ingredients over ice, then strain into a coupe.",
     "note": "In this riff on the Fitty-Fitty martini, the combination of mezcal and sherry was so drying that the cocktail needed some texture and sweetness. The smallest amount of pear liqueur and agave nectar made a huge difference.—JS",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "Lemon twist",
+    "glass": "Coupe"
   },
   {
     "id": "north-by-northwest",
     "name": "North by Northwest",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Shake",
+    "method": "Shake + top",
     "tags": [
       "book",
       "death-co",
@@ -18975,19 +19148,33 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Lemon Juice",
-            "amount": "¾ oz"
+            "amount": "1.5 oz",
+            "name": "Aviation Gin"
           },
           {
-            "name": "Dry Champagne",
-            "amount": "to taste"
+            "amount": "0.25 oz",
+            "name": "St. George Absinthe"
+          },
+          {
+            "amount": "0.75 oz",
+            "name": "Lemon juice"
+          },
+          {
+            "amount": "0.75 oz",
+            "name": "Simple syrup"
+          },
+          {
+            "amount": "to top",
+            "name": "Dry Champagne"
           }
         ],
-        "instructions": "Shake all the ingredients (except the champagne)",
+        "instructions": "Shake all ingredients except the Champagne with ice, then strain into a flute. Top with Champagne.",
         "note": "When developing this cocktail, I tried to imagine something Cary Grant would drink at the Plaza Hotel. The name comes from the title of the movie in which he fittingly says, “I've got a job, a secretary, a mother, two ex-wives, and several bartenders that depend on me...’—BM with ice, then strain into a flute. Top with champagne.",
         "creator": "Brian Miller, 2008",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Flute",
+        "page": "226"
       }
     ],
     "image": null,
@@ -18997,18 +19184,31 @@
     ],
     "ingredients": [
       {
-        "name": "Lemon Juice",
-        "amount": "¾ oz"
+        "amount": "1.5 oz",
+        "name": "Aviation Gin"
       },
       {
-        "name": "Dry Champagne",
-        "amount": "to taste"
+        "amount": "0.25 oz",
+        "name": "St. George Absinthe"
+      },
+      {
+        "amount": "0.75 oz",
+        "name": "Lemon juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "name": "Simple syrup"
+      },
+      {
+        "amount": "to top",
+        "name": "Dry Champagne"
       }
     ],
-    "instructions": "Shake all the ingredients (except the champagne)",
+    "instructions": "Shake all ingredients except the Champagne with ice, then strain into a flute. Top with Champagne.",
     "note": "When developing this cocktail, I tried to imagine something Cary Grant would drink at the Plaza Hotel. The name comes from the title of the movie in which he fittingly says, “I've got a job, a secretary, a mother, two ex-wives, and several bartenders that depend on me...’—BM with ice, then strain into a flute. Top with champagne.",
     "family": "Sparkling",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Flute"
   },
   {
     "id": "oaxaca-express",
@@ -21063,7 +21263,7 @@
     "name": "Pina Colada Deconstruction",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Build",
+    "method": "Stir",
     "tags": [
       "book",
       "death-co",
@@ -21076,19 +21276,33 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Pineapple-Infused Flor De Cana",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Pineapple-Infused Flor de Caña Extra-Dry White Rum"
           },
           {
-            "name": "Kalani Ron De Coco Coconut",
-            "amount": "1 tsp"
+            "amount": "1 tsp",
+            "name": "Kalani Ron de Coco Coconut Liqueur"
+          },
+          {
+            "amount": "1.5 oz",
+            "name": "Coconut water"
+          },
+          {
+            "amount": "0.5 tsp",
+            "name": "Cane sugar syrup"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Angostura Bitters"
           }
         ],
-        "instructions": "",
+        "instructions": "Stir all ingredients with ice, then strain into a coupe.",
         "note": "",
-        "creator": "Joaquin Simo, 2008",
+        "creator": "Joaquin Simó, 2008",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Coupe",
+        "page": "179"
       }
     ],
     "image": null,
@@ -21098,18 +21312,31 @@
     ],
     "ingredients": [
       {
-        "name": "Pineapple-Infused Flor De Cana",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Pineapple-Infused Flor de Caña Extra-Dry White Rum"
       },
       {
-        "name": "Kalani Ron De Coco Coconut",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "name": "Kalani Ron de Coco Coconut Liqueur"
+      },
+      {
+        "amount": "1.5 oz",
+        "name": "Coconut water"
+      },
+      {
+        "amount": "0.5 tsp",
+        "name": "Cane sugar syrup"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Angostura Bitters"
       }
     ],
-    "instructions": "",
+    "instructions": "Stir all ingredients with ice, then strain into a coupe.",
     "note": "",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "pineapple-princess",
@@ -22772,27 +22999,30 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Old Grand-Dad 114 Bourbon",
-            "amount": "144 oz"
+            "amount": "1.5 oz",
+            "name": "Old Grand-Dad 114 Bourbon"
           },
           {
-            "name": "Carpano Antica Formula Vermouth",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Carpano Antica Formula Vermouth"
           },
           {
-            "name": "Dash Bitter Truth Aromatic Bitters",
-            "amount": "1"
+            "amount": "0.25 oz",
+            "name": "Bénédictine"
           },
           {
-            "name": "Garnish: 1 Orange Twist",
-            "amount": "to taste"
+            "amount": "1 dash",
+            "name": "Bitter Truth Aromatic Bitters"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
+        "instructions": "Stir all ingredients over ice, then strain into a coupe.",
         "note": "",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Orange twist",
+        "glass": "Coupe",
+        "page": "149"
       }
     ],
     "image": null,
@@ -22802,23 +23032,28 @@
     ],
     "ingredients": [
       {
-        "name": "Old Grand-Dad 114 Bourbon",
-        "amount": "144 oz"
+        "amount": "1.5 oz",
+        "name": "Old Grand-Dad 114 Bourbon"
       },
       {
-        "name": "Carpano Antica Formula Vermouth",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Carpano Antica Formula Vermouth"
       },
       {
-        "name": "Dash Bitter Truth Aromatic Bitters",
-        "amount": "1"
+        "amount": "0.25 oz",
+        "name": "Bénédictine"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Bitter Truth Aromatic Bitters"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
+    "instructions": "Stir all ingredients over ice, then strain into a coupe.",
     "note": "",
     "family": "Other",
-    "garnish": "1 Orange Twist",
-    "quality": "limited"
+    "garnish": "Orange twist",
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "pretty-bird",
@@ -22838,23 +23073,39 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Rhum Clement Creole Shrubb",
-            "amount": "4 oz"
+            "amount": "1.5 oz",
+            "name": "Bombay London Dry Gin"
           },
           {
-            "name": "Grapefruit Juice",
-            "amount": "¾ oz"
+            "amount": "0.5 oz",
+            "name": "Rhum Clément Créole Shrubb"
           },
           {
-            "name": "Garnish: 1 Lime Wheel And Cherry Flag",
-            "amount": "to taste"
+            "amount": "0.75 oz",
+            "name": "Grapefruit juice"
+          },
+          {
+            "amount": "0.5 oz",
+            "name": "Lime juice"
+          },
+          {
+            "amount": "0.25 oz",
+            "name": "Grenadine"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "Cinnamon bark syrup"
           }
         ],
-        "instructions": "Shake all the ingredients, then strain into a double rocks",
+        "instructions": "Shake all ingredients with ice, then strain into a double rocks glass over one large ice cube.",
         "note": "Some drinks are so popular that we cant stand them after a while. One of these drinks is Joaquin’s Little Birdy (page 213), which became a running joke that spawned glass over 1 large ice cube. Garnish with the lime wheel",
         "creator": "Thomas Waugh, 2011",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Lime wheel and cherry flag",
+        "glass": "Double rocks glass",
+        "ice": "1 large ice cube",
+        "page": "159"
       }
     ],
     "image": null,
@@ -22864,19 +23115,37 @@
     ],
     "ingredients": [
       {
-        "name": "Rhum Clement Creole Shrubb",
-        "amount": "4 oz"
+        "amount": "1.5 oz",
+        "name": "Bombay London Dry Gin"
       },
       {
-        "name": "Grapefruit Juice",
-        "amount": "¾ oz"
+        "amount": "0.5 oz",
+        "name": "Rhum Clément Créole Shrubb"
+      },
+      {
+        "amount": "0.75 oz",
+        "name": "Grapefruit juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "Lime juice"
+      },
+      {
+        "amount": "0.25 oz",
+        "name": "Grenadine"
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Cinnamon bark syrup"
       }
     ],
-    "instructions": "Shake all the ingredients, then strain into a double rocks",
+    "instructions": "Shake all ingredients with ice, then strain into a double rocks glass over one large ice cube.",
     "note": "Some drinks are so popular that we cant stand them after a while. One of these drinks is Joaquin’s Little Birdy (page 213), which became a running joke that spawned glass over 1 large ice cube. Garnish with the lime wheel",
     "family": "Other",
-    "garnish": "1 Lime Wheel And Cherry Flag",
-    "quality": "limited"
+    "garnish": "Lime wheel and cherry flag",
+    "quality": "verified",
+    "glass": "Double rocks glass",
+    "ice": "1 large ice cube"
   },
   {
     "id": "prima-china",
@@ -24961,31 +25230,29 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Garnish: 1 Grapefruit Twist",
-            "amount": "to taste"
+            "amount": "2 oz",
+            "name": "El Tesoro Reposado Tequila"
           },
           {
-            "name": "El Tesoro Reposado Tequila",
-            "amount": "2 oz"
+            "amount": "0.75 oz",
+            "name": "Carpano Antica Formula Vermouth"
           },
           {
-            "name": "Carpano Antica Formula Vermouth",
-            "amount": "¾ oz"
+            "amount": "0.25 oz",
+            "name": "Solerno Blood Orange Liqueur"
           },
           {
-            "name": "Solerno Blood Orange Liqueur",
-            "amount": "4 oz"
-          },
-          {
-            "name": "Dash Bittermens Xocolatl Mole Bitters",
-            "amount": "1"
+            "amount": "1 dash",
+            "name": "Bittermens Xocolatl Mole Bitters"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into an old- Stir all the ingredients over ice, then strain into a coupe.",
+        "instructions": "Stir all ingredients over ice, then strain into a coupe.",
         "note": "for D&C. It’s based on the spec for a Red Hook.—BM fashioned glass over 1 large ice cube.",
         "creator": "Brian Miller, 2009",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Coupe",
+        "page": "194"
       }
     ],
     "image": null,
@@ -24995,27 +25262,27 @@
     ],
     "ingredients": [
       {
-        "name": "El Tesoro Reposado Tequila",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "El Tesoro Reposado Tequila"
       },
       {
-        "name": "Carpano Antica Formula Vermouth",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Carpano Antica Formula Vermouth"
       },
       {
-        "name": "Solerno Blood Orange Liqueur",
-        "amount": "4 oz"
+        "amount": "0.25 oz",
+        "name": "Solerno Blood Orange Liqueur"
       },
       {
-        "name": "Dash Bittermens Xocolatl Mole Bitters",
-        "amount": "1"
+        "amount": "1 dash",
+        "name": "Bittermens Xocolatl Mole Bitters"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into an old- Stir all the ingredients over ice, then strain into a coupe.",
+    "instructions": "Stir all ingredients over ice, then strain into a coupe.",
     "note": "for D&C. It’s based on the spec for a Red Hook.—BM fashioned glass over 1 large ice cube.",
     "family": "Highball",
-    "garnish": "1 Grapefruit Twist",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "sex-on-the-beach",
@@ -25161,31 +25428,41 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "bitters and one of the bar’s original regulars, asked me",
-            "amount": "to taste"
+            "amount": "1 oz",
+            "name": "El Tesoro Reposado Tequila"
           },
           {
-            "name": "El Tesoro Reposado Tequila",
-            "amount": "1 oz"
+            "amount": "0.5 oz",
+            "name": "Los Amantes Joven Mezcal"
           },
           {
-            "name": "Carpano Antica Formula Vermouth",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Carpano Antica Formula Vermouth"
           },
           {
-            "name": "Benedictine",
-            "amount": "4 oz"
+            "amount": "0.5 oz",
+            "name": "Van Oosten Batavia Arrack"
           },
           {
-            "name": "Bittermens Xocolatl Mole Bitters",
-            "amount": "2 DASHES"
+            "amount": "0.25 oz",
+            "name": "St. Elizabeth Allspice Dram"
+          },
+          {
+            "amount": "0.25 oz",
+            "name": "Bénédictine"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "Bittermens Xocolatl Mole Bitters"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
+        "instructions": "Stir all ingredients over ice, then strain into a coupe.",
         "note": "TI love it when one of our regulars asks us to create a cocktail on the spot based on crazy criteria—and it’s even better when we can pull off a decent drink on the first try. One night Avery Glasser, the man behind Bittermens bitters and one of the bar’s original regulars, asked me to make him a drink that contained all of his favorite ingredients. The problem was that he likes a lot of weird shit. But I gave tt a s",
         "creator": "Phil Ward, 2008",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Coupe",
+        "page": "194"
       }
     ],
     "image": null,
@@ -25195,30 +25472,39 @@
     ],
     "ingredients": [
       {
-        "name": "bitters and one of the bar’s original regulars, asked me",
-        "amount": "to taste"
+        "amount": "1 oz",
+        "name": "El Tesoro Reposado Tequila"
       },
       {
-        "name": "El Tesoro Reposado Tequila",
-        "amount": "1 oz"
+        "amount": "0.5 oz",
+        "name": "Los Amantes Joven Mezcal"
       },
       {
-        "name": "Carpano Antica Formula Vermouth",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Carpano Antica Formula Vermouth"
       },
       {
-        "name": "Benedictine",
-        "amount": "4 oz"
+        "amount": "0.5 oz",
+        "name": "Van Oosten Batavia Arrack"
       },
       {
-        "name": "Bittermens Xocolatl Mole Bitters",
-        "amount": "2 DASHES"
+        "amount": "0.25 oz",
+        "name": "St. Elizabeth Allspice Dram"
+      },
+      {
+        "amount": "0.25 oz",
+        "name": "Bénédictine"
+      },
+      {
+        "amount": "2 dashes",
+        "name": "Bittermens Xocolatl Mole Bitters"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
+    "instructions": "Stir all ingredients over ice, then strain into a coupe.",
     "note": "TI love it when one of our regulars asks us to create a cocktail on the spot based on crazy criteria—and it’s even better when we can pull off a decent drink on the first try. One night Avery Glasser, the man behind Bittermens bitters and one of the bar’s original regulars, asked me to make him a drink that contained all of his favorite ingredients. The problem was that he likes a lot of weird shit. But I gave tt a s",
     "family": "Highball",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "sherry-cobbler",
@@ -25359,19 +25645,29 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Laphroaig 10-Year Scotch",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Laphroaig 10-Year Scotch"
           },
           {
-            "name": "Laird’S Bonded Apple Brandy",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Laird's Bonded Apple Brandy"
+          },
+          {
+            "amount": "0.5 oz",
+            "name": "Bénédictine"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "House Peychaud's Bitters"
           }
         ],
-        "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
+        "instructions": "Stir all ingredients over ice, then strain into a coupe.",
         "note": "Bénédictine can make almost any two ingredients love each other. Here it’s the perfect bridge between peaty Scotch and apply brandy. The result tastes like",
         "creator": "Phil Ward, 2008",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Coupe",
+        "page": "208"
       }
     ],
     "image": null,
@@ -25381,18 +25677,27 @@
     ],
     "ingredients": [
       {
-        "name": "Laphroaig 10-Year Scotch",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Laphroaig 10-Year Scotch"
       },
       {
-        "name": "Laird’S Bonded Apple Brandy",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Laird's Bonded Apple Brandy"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "Bénédictine"
+      },
+      {
+        "amount": "2 dashes",
+        "name": "House Peychaud's Bitters"
       }
     ],
-    "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
+    "instructions": "Stir all ingredients over ice, then strain into a coupe.",
     "note": "Bénédictine can make almost any two ingredients love each other. Here it’s the perfect bridge between peaty Scotch and apply brandy. The result tastes like",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "sidecar",
@@ -25509,7 +25814,7 @@
     "name": "Silver Monk",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Build",
+    "method": "Muddle + Shake",
     "tags": [
       "book",
       "death-co",
@@ -25522,19 +25827,41 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Cucumber Wheels",
-            "amount": "2"
+            "amount": "2",
+            "name": "Cucumber wheels"
           },
           {
-            "name": "Mint Leaves",
-            "amount": "8"
+            "amount": "8",
+            "name": "Mint leaves"
+          },
+          {
+            "amount": "1 pinch",
+            "name": "Kosher salt"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Siembra Azul Blanco Tequila"
+          },
+          {
+            "amount": "0.75 oz",
+            "name": "Yellow Chartreuse"
+          },
+          {
+            "amount": "0.75 oz",
+            "name": "Lime juice"
+          },
+          {
+            "amount": "0.5 oz",
+            "name": "Simple syrup"
           }
         ],
-        "instructions": "",
+        "instructions": "Muddle the cucumber wheels with the mint and salt in a shaker. Add the remaining ingredients and shake with ice. Double strain into a coupe.",
         "note": "At Death & Co, we also make a spicy version of this",
         "creator": "Phil Ward, 2007",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Coupe",
+        "page": "187"
       }
     ],
     "image": null,
@@ -25544,18 +25871,39 @@
     ],
     "ingredients": [
       {
-        "name": "Cucumber Wheels",
-        "amount": "2"
+        "amount": "2",
+        "name": "Cucumber wheels"
       },
       {
-        "name": "Mint Leaves",
-        "amount": "8"
+        "amount": "8",
+        "name": "Mint leaves"
+      },
+      {
+        "amount": "1 pinch",
+        "name": "Kosher salt"
+      },
+      {
+        "amount": "2 oz",
+        "name": "Siembra Azul Blanco Tequila"
+      },
+      {
+        "amount": "0.75 oz",
+        "name": "Yellow Chartreuse"
+      },
+      {
+        "amount": "0.75 oz",
+        "name": "Lime juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "Simple syrup"
       }
     ],
-    "instructions": "",
+    "instructions": "Muddle the cucumber wheels with the mint and salt in a shaker. Add the remaining ingredients and shake with ice. Double strain into a coupe.",
     "note": "At Death & Co, we also make a spicy version of this",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "simple-manhattan",
@@ -26207,7 +26555,7 @@
     "name": "South Sider",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Stir",
+    "method": "Stir + top",
     "tags": [
       "book",
       "death-co",
@@ -26220,31 +26568,34 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "El Dorado 12-Year Rum",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "El Dorado 12-Year Rum"
           },
           {
-            "name": "Carpano Antica Formula Vermouth",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Carpano Antica Formula Vermouth"
           },
           {
-            "name": "Dash Angostura Bitters",
-            "amount": "1"
+            "amount": "1 dash",
+            "name": "Angostura Bitters"
           },
           {
-            "name": "Dry Champagne",
-            "amount": "4 oz"
+            "amount": "1 dash",
+            "name": "House Peychaud's Bitters"
           },
           {
-            "name": "Garnish: 1 Orange Twist",
-            "amount": "to taste"
+            "amount": "0.5 oz",
+            "name": "Dry Champagne"
           }
         ],
-        "instructions": "Stir all the ingredients (except the champagne) over",
+        "instructions": "Stir all ingredients except the Champagne over ice, then strain into a coupe. Top with Champagne.",
         "note": "This drink is inspired by the Chicago Cocktail from the iconic New York speakeasy Milk & Honey, which is essentially a rum Manhattan. The splash of champagne acts more like a garnish, lightening up the drink a ice, then strain into a coupe. Top with the champagne.",
         "creator": "Alex Day, 2009",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Orange twist",
+        "glass": "Coupe",
+        "page": "227"
       }
     ],
     "image": null,
@@ -26254,27 +26605,32 @@
     ],
     "ingredients": [
       {
-        "name": "El Dorado 12-Year Rum",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "El Dorado 12-Year Rum"
       },
       {
-        "name": "Carpano Antica Formula Vermouth",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Carpano Antica Formula Vermouth"
       },
       {
-        "name": "Dash Angostura Bitters",
-        "amount": "1"
+        "amount": "1 dash",
+        "name": "Angostura Bitters"
       },
       {
-        "name": "Dry Champagne",
-        "amount": "4 oz"
+        "amount": "1 dash",
+        "name": "House Peychaud's Bitters"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "Dry Champagne"
       }
     ],
-    "instructions": "Stir all the ingredients (except the champagne) over",
+    "instructions": "Stir all ingredients except the Champagne over ice, then strain into a coupe. Top with Champagne.",
     "note": "This drink is inspired by the Chicago Cocktail from the iconic New York speakeasy Milk & Honey, which is essentially a rum Manhattan. The splash of champagne acts more like a garnish, lightening up the drink a ice, then strain into a coupe. Top with the champagne.",
     "family": "Sparkling",
-    "garnish": "1 Orange Twist",
-    "quality": "limited"
+    "garnish": "Orange twist",
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "southside",
@@ -26651,7 +27007,7 @@
     "name": "Strange Brew",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Build",
+    "method": "Short shake + top",
     "tags": [
       "book",
       "death-co",
@@ -26664,27 +27020,35 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Tanqueray No. Ten Gin",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Tanqueray No. Ten Gin"
           },
           {
-            "name": "Velvet Falernum",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Velvet Falernum"
           },
           {
-            "name": "Pineapple Juice",
-            "amount": "1 oz"
+            "amount": "1 oz",
+            "name": "Pineapple juice"
           },
           {
-            "name": "Garnish: 1 Mint Sprig",
-            "amount": "to taste"
+            "amount": "0.5 oz",
+            "name": "Lemon juice"
+          },
+          {
+            "amount": "to top",
+            "name": "Green Flash IPA"
           }
         ],
-        "instructions": "",
+        "instructions": "Short shake all ingredients except the IPA with 3 ice cubes, then strain into a pilsner glass filled with crushed ice. Top with IPA and serve with a straw.",
         "note": "My friends and I used to go to Dolores Park in San Francisco and drink beer mixed with fresh fruit from the farmers’ market, like the Germans do. My favorite combination was pineapple with IPA, which inspired this drink, named after the B side to EMF’s hit song Short shake all the ingredients (except the IPA) with 3 ice cubes, then strain into a pilsner glass filled with crushed ice. Top with IPA. Garnish with the mi",
         "creator": "Thomas Waugh, 2008",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Mint sprig",
+        "glass": "Pilsner glass",
+        "ice": "Crushed ice",
+        "page": "160"
       }
     ],
     "image": null,
@@ -26694,23 +27058,33 @@
     ],
     "ingredients": [
       {
-        "name": "Tanqueray No. Ten Gin",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Tanqueray No. Ten Gin"
       },
       {
-        "name": "Velvet Falernum",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Velvet Falernum"
       },
       {
-        "name": "Pineapple Juice",
-        "amount": "1 oz"
+        "amount": "1 oz",
+        "name": "Pineapple juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "Lemon juice"
+      },
+      {
+        "amount": "to top",
+        "name": "Green Flash IPA"
       }
     ],
-    "instructions": "",
+    "instructions": "Short shake all ingredients except the IPA with 3 ice cubes, then strain into a pilsner glass filled with crushed ice. Top with IPA and serve with a straw.",
     "note": "My friends and I used to go to Dolores Park in San Francisco and drink beer mixed with fresh fruit from the farmers’ market, like the Germans do. My favorite combination was pineapple with IPA, which inspired this drink, named after the B side to EMF’s hit song Short shake all the ingredients (except the IPA) with 3 ice cubes, then strain into a pilsner glass filled with crushed ice. Top with IPA. Garnish with the mi",
-    "family": "Other",
-    "garnish": "1 Mint Sprig",
-    "quality": "limited"
+    "family": "Highball",
+    "garnish": "Mint sprig",
+    "quality": "verified",
+    "glass": "Pilsner glass",
+    "ice": "Crushed ice"
   },
   {
     "id": "sub-mariner",
@@ -27214,23 +27588,29 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Sugar Snap Pea-Infused Plymouth",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Sugar Snap Pea-Infused Plymouth Gin"
           },
           {
-            "name": "Dolin Genepy Des Alpes Liqueur",
-            "amount": "4 oz"
+            "amount": "0.5 oz",
+            "name": "Dolin Génépy des Alpes Liqueur"
           },
           {
-            "name": "Lemon Juice",
-            "amount": "¾ oz"
+            "amount": "0.75 oz",
+            "name": "Lemon juice"
+          },
+          {
+            "amount": "0.5 oz",
+            "name": "Orgeat"
           }
         ],
-        "instructions": "Shake all the ingredients with ice, then strain into a large",
+        "instructions": "Shake all ingredients with ice, then strain into a large coupe.",
         "note": "Génépy des Alpes is an herbal liqueur flavored with wormwood that tastes like a cross between Chartreuse and absinthe. I usually hate vegetables in cocktails, but peas have afresh aroma and sweet flavor that plays well",
         "creator": "Jillian Vose, 2013",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Large coupe",
+        "page": "161"
       }
     ],
     "image": null,
@@ -27240,22 +27620,27 @@
     ],
     "ingredients": [
       {
-        "name": "Sugar Snap Pea-Infused Plymouth",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Sugar Snap Pea-Infused Plymouth Gin"
       },
       {
-        "name": "Dolin Genepy Des Alpes Liqueur",
-        "amount": "4 oz"
+        "amount": "0.5 oz",
+        "name": "Dolin Génépy des Alpes Liqueur"
       },
       {
-        "name": "Lemon Juice",
-        "amount": "¾ oz"
+        "amount": "0.75 oz",
+        "name": "Lemon juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "Orgeat"
       }
     ],
-    "instructions": "Shake all the ingredients with ice, then strain into a large",
+    "instructions": "Shake all ingredients with ice, then strain into a large coupe.",
     "note": "Génépy des Alpes is an herbal liqueur flavored with wormwood that tastes like a cross between Chartreuse and absinthe. I usually hate vegetables in cocktails, but peas have afresh aroma and sweet flavor that plays well",
     "family": "Sour",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Large coupe"
   },
   {
     "id": "tequila-manhattan",
@@ -27476,7 +27861,7 @@
     "name": "The Commandant",
     "category": "Death & Co",
     "country": "United States",
-    "method": "Build",
+    "method": "Short shake",
     "tags": [
       "book",
       "death-co",
@@ -27489,27 +27874,39 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Lime Juice",
-            "amount": "¾ oz"
+            "amount": "1.5 oz",
+            "name": "Perry's Tot Navy-Strength Gin"
           },
           {
-            "name": "Coco Lopez",
-            "amount": "4 oz"
+            "amount": "0.5 oz",
+            "name": "Kronan Swedish Punsch"
           },
           {
-            "name": "Small Fresh Kaffir Lime Leaf",
-            "amount": "1"
+            "amount": "0.25 oz",
+            "name": "Velvet Falernum"
           },
           {
-            "name": "Garnish: 1 Lime Wheel",
-            "amount": "to taste"
+            "amount": "0.75 oz",
+            "name": "Lime juice"
+          },
+          {
+            "amount": "0.5 oz",
+            "name": "Coco Lopez"
+          },
+          {
+            "amount": "1 small",
+            "name": "Fresh kaffir lime leaf"
           }
         ],
-        "instructions": "",
+        "instructions": "Short shake all ingredients with 3 ice cubes, then strain into a coconut mug filled with crushed ice. Serve with a straw.",
         "note": "Kaffir lime is a great way to add brightness to summer cocktails. The gin in this drink was named after Matthew Perry—not the actor, but the original commandant of the Short shake all the ingredients with 3 ice cubes, then strain into a coconut mug filled with crushed ice. Garnish",
         "creator": "Tyson Buhler, 2013",
         "image": null,
-        "usable": false
+        "usable": true,
+        "garnish": "Lime wheel",
+        "glass": "Coconut mug",
+        "ice": "Crushed ice",
+        "page": "155"
       }
     ],
     "image": null,
@@ -27519,23 +27916,37 @@
     ],
     "ingredients": [
       {
-        "name": "Lime Juice",
-        "amount": "¾ oz"
+        "amount": "1.5 oz",
+        "name": "Perry's Tot Navy-Strength Gin"
       },
       {
-        "name": "Coco Lopez",
-        "amount": "4 oz"
+        "amount": "0.5 oz",
+        "name": "Kronan Swedish Punsch"
       },
       {
-        "name": "Small Fresh Kaffir Lime Leaf",
-        "amount": "1"
+        "amount": "0.25 oz",
+        "name": "Velvet Falernum"
+      },
+      {
+        "amount": "0.75 oz",
+        "name": "Lime juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "Coco Lopez"
+      },
+      {
+        "amount": "1 small",
+        "name": "Fresh kaffir lime leaf"
       }
     ],
-    "instructions": "",
+    "instructions": "Short shake all ingredients with 3 ice cubes, then strain into a coconut mug filled with crushed ice. Serve with a straw.",
     "note": "Kaffir lime is a great way to add brightness to summer cocktails. The gin in this drink was named after Matthew Perry—not the actor, but the original commandant of the Short shake all the ingredients with 3 ice cubes, then strain into a coconut mug filled with crushed ice. Garnish",
     "family": "Other",
-    "garnish": "1 Lime Wheel",
-    "quality": "limited"
+    "garnish": "Lime wheel",
+    "quality": "verified",
+    "glass": "Coconut mug",
+    "ice": "Crushed ice"
   },
   {
     "id": "the-dangerous-summer",
@@ -27555,23 +27966,33 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Dolin Rouge Vermouth",
-            "amount": "¾ oz"
+            "amount": "1.5 oz",
+            "name": "Yamazaki 12-Year Whiskey"
           },
           {
-            "name": "Massenez Kirsch Vieux Cherry",
-            "amount": "4 oz"
+            "amount": "0.75 oz",
+            "name": "Dolin Rouge Vermouth"
           },
           {
-            "name": "Orange Twist",
-            "amount": "1"
+            "amount": "0.5 oz",
+            "name": "Solerno Blood Orange Liqueur"
+          },
+          {
+            "amount": "0.5 oz",
+            "name": "Massenez Kirsch Vieux Cherry Brandy"
+          },
+          {
+            "amount": "1",
+            "name": "Orange twist"
           }
         ],
-        "instructions": "Stir all the ingredients (except the orange twist) over ice,",
+        "instructions": "Stir all ingredients except the orange twist over ice, then strain into a martini glass. Flame the orange twist over the drink and discard it.",
         "note": "This stirred variation of the classic Blood and Sand (page 140) is named after a Hemingway book about bullfighters. I replaced the rich Cherry Heering with dry cherry brandy and the orange juice with blood orange then strain into a martini glass. Flame the orange twist",
-        "creator": "Joaquin Simo, 2009",
+        "creator": "Joaquin Simó, 2009",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Martini glass",
+        "page": "205"
       }
     ],
     "image": null,
@@ -27581,22 +28002,31 @@
     ],
     "ingredients": [
       {
-        "name": "Dolin Rouge Vermouth",
-        "amount": "¾ oz"
+        "amount": "1.5 oz",
+        "name": "Yamazaki 12-Year Whiskey"
       },
       {
-        "name": "Massenez Kirsch Vieux Cherry",
-        "amount": "4 oz"
+        "amount": "0.75 oz",
+        "name": "Dolin Rouge Vermouth"
       },
       {
-        "name": "Orange Twist",
-        "amount": "1"
+        "amount": "0.5 oz",
+        "name": "Solerno Blood Orange Liqueur"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "Massenez Kirsch Vieux Cherry Brandy"
+      },
+      {
+        "amount": "1",
+        "name": "Orange twist"
       }
     ],
-    "instructions": "Stir all the ingredients (except the orange twist) over ice,",
+    "instructions": "Stir all ingredients except the orange twist over ice, then strain into a martini glass. Flame the orange twist over the drink and discard it.",
     "note": "This stirred variation of the classic Blood and Sand (page 140) is named after a Hemingway book about bullfighters. I replaced the rich Cherry Heering with dry cherry brandy and the orange juice with blood orange then strain into a martini glass. Flame the orange twist",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified",
+    "glass": "Martini glass"
   },
   {
     "id": "the-godfather",
@@ -29670,19 +30100,33 @@
         "type": "book",
         "ingredients": [
           {
-            "name": "Old Overholt Rye",
-            "amount": "2 oz"
+            "amount": "2 oz",
+            "name": "Old Overholt Rye"
           },
           {
-            "name": "Pomegranate Molasses",
-            "amount": "1 tsp"
+            "amount": "0.5 oz",
+            "name": "Lemon juice"
+          },
+          {
+            "amount": "0.5 oz",
+            "name": "Orange juice"
+          },
+          {
+            "amount": "0.5 oz",
+            "name": "Simple syrup"
+          },
+          {
+            "amount": "1 tsp",
+            "name": "Pomegranate molasses"
           }
         ],
-        "instructions": "Shake all the ingredients with ice, then strain into a",
+        "instructions": "Shake all ingredients with ice, then strain into a coupe.",
         "note": "",
         "creator": "",
         "image": null,
-        "usable": false
+        "usable": true,
+        "glass": "Coupe",
+        "page": "153"
       }
     ],
     "image": null,
@@ -29692,18 +30136,31 @@
     ],
     "ingredients": [
       {
-        "name": "Old Overholt Rye",
-        "amount": "2 oz"
+        "amount": "2 oz",
+        "name": "Old Overholt Rye"
       },
       {
-        "name": "Pomegranate Molasses",
-        "amount": "1 tsp"
+        "amount": "0.5 oz",
+        "name": "Lemon juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "Orange juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "name": "Simple syrup"
+      },
+      {
+        "amount": "1 tsp",
+        "name": "Pomegranate molasses"
       }
     ],
-    "instructions": "Shake all the ingredients with ice, then strain into a",
+    "instructions": "Shake all ingredients with ice, then strain into a coupe.",
     "note": "",
-    "family": "Other",
-    "quality": "limited"
+    "family": "Sour",
+    "quality": "verified",
+    "glass": "Coupe"
   },
   {
     "id": "wax-and-wane",
