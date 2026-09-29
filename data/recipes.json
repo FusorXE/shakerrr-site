@@ -3616,68 +3616,99 @@
         "type": "movie",
         "ingredients": [
           {
-            "name": "O",
-            "amount": "5"
+            "amount": "5 dashes",
+            "name": "Worcestershire Sauce"
           },
           {
-            "name": "dashes of",
-            "amount": "2"
+            "amount": "1 pinch",
+            "name": "Celery Salt"
           },
           {
-            "name": "vodka",
-            "amount": "2 oz."
+            "amount": "1 pinch",
+            "name": "Sea Salt"
           },
           {
-            "name": "beef broth, chilled",
-            "amount": "6 oz."
+            "amount": "1 pinch",
+            "name": "Freshly Ground Black Pepper"
           },
           {
-            "name": "celery stalk,",
-            "amount": "1"
+            "amount": "2 dashes",
+            "name": "Black Walnut Bitters"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Hot Sauce"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Vodka"
+          },
+          {
+            "amount": "6 oz",
+            "name": "Beef Broth, chilled"
           }
         ],
-        "instructions": "Place all of the shaker filled with ice and shake vigorously. Strain garnish with the celery",
-        "note": "enowned British playwright Noel Coward makes his last on-screen appearance in this famous heist film, as Mr. Bridger, the criminal mastermind who finances the heist dreamed up by Charlie Croker (Michael Caine). Coward is absolutely pitch-perfect in his role, anda key part in helping it age exceptionally well—despite being so ill that Mr. Bridger’s victory lap through the prison had to be filmed in stages, as Coward could only",
+        "instructions": "Shake all ingredients with ice. Strain into an ice-filled tall glass.",
+        "note": "Paired in the book with The Italian Job (1969).",
         "creator": "",
         "image": "assets/recipes/movie-bull-shot.webp",
-        "usable": false
+        "usable": true,
+        "page": "62",
+        "garnish": "1 celery stalk",
+        "glass": "Tall glass",
+        "ice": "Ice"
       }
     ],
     "image": null,
     "movie": {
-      "film": "",
-      "year": "",
-      "fact": "Ina 2003 poll, British film fans voted"
+      "film": "The Italian Job",
+      "year": "1969",
+      "fact": "The book pairs the Bull Shot with The Italian Job."
     },
     "collections": [
       "Cocktails from Movies"
     ],
     "ingredients": [
       {
-        "name": "O",
-        "amount": "5"
+        "amount": "5 dashes",
+        "name": "Worcestershire Sauce"
       },
       {
-        "name": "dashes of",
-        "amount": "2"
+        "amount": "1 pinch",
+        "name": "Celery Salt"
       },
       {
-        "name": "vodka",
-        "amount": "2 oz."
+        "amount": "1 pinch",
+        "name": "Sea Salt"
       },
       {
-        "name": "beef broth, chilled",
-        "amount": "6 oz."
+        "amount": "1 pinch",
+        "name": "Freshly Ground Black Pepper"
       },
       {
-        "name": "celery stalk,",
-        "amount": "1"
+        "amount": "2 dashes",
+        "name": "Black Walnut Bitters"
+      },
+      {
+        "amount": "1 dash",
+        "name": "Hot Sauce"
+      },
+      {
+        "amount": "2 oz",
+        "name": "Vodka"
+      },
+      {
+        "amount": "6 oz",
+        "name": "Beef Broth, chilled"
       }
     ],
-    "instructions": "Place all of the shaker filled with ice and shake vigorously. Strain garnish with the celery",
+    "instructions": "Shake all ingredients with ice. Strain into an ice-filled tall glass.",
     "note": "enowned British playwright Noel Coward makes his last on-screen appearance in this famous heist film, as Mr. Bridger, the criminal mastermind who finances the heist dreamed up by Charlie Croker (Michael Caine). Coward is absolutely pitch-perfect in his role, anda key part in helping it age exceptionally well—despite being so ill that Mr. Bridger’s victory lap through the prison had to be filmed in stages, as Coward could only",
     "family": "Other",
-    "quality": "limited"
+    "quality": "verified",
+    "garnish": "1 celery stalk",
+    "glass": "Tall glass",
+    "ice": "Ice"
   },
   {
     "id": "caesar",
