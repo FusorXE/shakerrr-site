@@ -2668,7 +2668,8 @@
         "instructions": "Add all ingredients to a cocktail NOTE Not all cherry liqueurs are shaker. Add ice and shake. Strain created equal; your best bet for into a chilled coupe or cocktail",
         "note": "Valentino’s 1922 silent film of the same name (which was itself an adaption of a 1909 Spanish novel by Vicente Blasco Ibafiez) about the rise and fall of a bullfighter. This rather unexpected concoction of equal parts Scotch, sweet vermouth, cherry liqueur, and orange juice, shaken and strained, makes for one of the rare classic cocktails that calls for Scotch as a base. Be sure to use fresh- squeezed orange juice here; it gives the right jab of acidity in the context of two sweet liqueurs.",
         "creator": "1 Ounce Scotch,",
-        "usable": true
+        "usable": true,
+        "image": "assets/recipes/blood-and-sand-02.webp"
       },
       {
         "label": "Death & Co",
@@ -2699,7 +2700,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/blood-and-sand-02.webp",
     "movie": null,
     "collections": [
       "Death & Co",
@@ -2965,7 +2966,8 @@
         "instructions": "Add all ingredients to a mixing tin and add ice. Roll back and forth between mixing tins and strain into an ice-filled Collins or highball glass. Garnish with a celery stick, lime wedge, crispy bacon, shrimp, or any other outrageous items you can come up with.",
         "note": "Before there was brunch, there was the Bloody Mary. The drink boasts numerous mythologies, ranging from a start as a warm, nonalcoholic beverage loaded with raw oysters to one named in honor of a barmaid from Chicago’s Buckets of Blood. Whatever the case, the Bloody Mary eventually became a staple of Manhattan’s King Cole Bar at the St. Regis, where it was downed by New York’s toniest barflies. Swapping out vodka for alternate spirits creates the Red Snapper (gin), Bloody Maria (tequila), and Bloody Derby (bourbon), or go the way of the Michelada (page 124) and lighten the whole thing up with a fizzy beer.",
         "creator": "",
-        "usable": true
+        "usable": true,
+        "image": "assets/recipes/bloody-mary-02.webp"
       },
       {
         "label": "Cocktails from Movies",
@@ -2978,7 +2980,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/bloody-mary-02.webp",
     "movie": {
       "film": "",
       "year": "",
@@ -3223,7 +3225,8 @@
         "usable": true,
         "page": "59",
         "garnish": "Orange peel",
-        "glass": "Rocks, coupe, or cocktail glass"
+        "glass": "Rocks, coupe, or cocktail glass",
+        "image": "assets/recipes/boulevardier-02.webp"
       },
       {
         "label": "Death & Co",
@@ -3246,7 +3249,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/boulevardier-02.webp",
     "movie": null,
     "collections": [
       "Death & Co",
@@ -3493,7 +3496,8 @@
         "instructions": "Add all ingredients to a mixing glass. Add ice and stir until chilled. Strain into a coupe.",
         "note": "Everyone knows that Manhattan might be the go-to for luxury and fashion, but if you want something that’s more cutting edge you have to go to Brooklyn. The same is true of the borough- designated cocktails. Although the Prohibition-era Brooklyn shares a similar flavor profile and composition to a Manhattan (page 114), the more esoteric additions of both Amer Picon (largely unavailable in the States) and maraschino liqueur have kept it from taking its place as a top-tier classic drink. But just as Brooklyn has been stealing the spotlight in terms of New York City bars of late, an enthusiasm for DIY Amer Picon has inspired arise in popularity f",
         "creator": "",
-        "usable": true
+        "usable": true,
+        "image": "assets/recipes/brooklyn-02.webp"
       },
       {
         "label": "Death & Co",
@@ -3516,7 +3520,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/brooklyn-02.webp",
     "movie": null,
     "collections": [
       "Death & Co",
@@ -3575,7 +3579,8 @@
         "instructions": "Add all ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into a chilled coupe. Garnish with a grapefruit peel.",
         "note": "Born on the posh Sunset Boulevard in West Hollywood, Los Angeles, the Brown Derby is a vestige of 1930s glitz and glamour. A heady mix of bourbon, grapefruit, and honey, it was created at the Vendéme Club—one of the first celebrity-driven restaurants to appear on the Sunset Strip—which was then owned by Hollywood Reporter founder and playboy Billy Wilkerson. The drink was named in honor of a nearby restaurant, the Brown Derby (best known as the birthplace of the Cobb salad), which was actually built in the shape of a rotund derby hat.",
         "creator": "",
-        "usable": false
+        "usable": false,
+        "image": "assets/recipes/brown-derby-02.webp"
       },
       {
         "label": "Death & Co",
@@ -3606,7 +3611,7 @@
         "usable": true
       }
     ],
-    "image": null,
+    "image": "assets/recipes/brown-derby-02.webp",
     "movie": null,
     "collections": [
       "Death & Co",
@@ -3847,7 +3852,8 @@
         "instructions": "1 LIME, QUARTERED 2 TEASPOONS SUGAR GARNISH LIME WHEEL 2 OUNCES CACHACA To a rocks glass, add lime wedges and sugar and muddle until well juiced. Add cachaga and ice. Stir to mix and garnish with a lime wheel.",
         "note": "A relative of the Daiquiri (page 74), this strong sweet-sour drink calls for cachaca, a Brazilian take on rum that’s distilled from fermented sugarcane juice. The Caipirinha, truly Brazil’s national drink, is a combination of lime juice, sugar, and cachaga, and it was thought to have originated to mask the taste of the crudely produced spirit. Until recently, cachaca was widely considered a peasants’ spirit, but as production techniques have improved,",
         "creator": "1 Lime, Quartered",
-        "usable": true
+        "usable": true,
+        "image": "assets/recipes/caipirinha-02.webp"
       },
       {
         "label": "Tropical Standard",
@@ -3878,7 +3884,7 @@
         "usable": true
       }
     ],
-    "image": null,
+    "image": "assets/recipes/caipirinha-02.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book",
@@ -4444,10 +4450,11 @@
         "instructions": "Add the sugar cube or sugar to _ used can dramatically alter the a flute. Add Angostura bitters drink. While Angostura is classic,",
         "note": "Swap Champagne for whiskey in the Old-Fashioned template, and you’ll get this pedigreed cocktail, which was first mentioned in Jerry Thomas’s 1862 How to Mix Drinks. Its low-alcohol and bubbly constitution make this recipe a good candidate for day drinking. The question as to whether you pony up for the real stuff or choose a down-market sparkling wine depends largely on your opinion of the sanctity of Champagne.",
         "creator": "Long, Curly",
-        "usable": true
+        "usable": true,
+        "image": "assets/recipes/champagne-cocktail-02.webp"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/champagne-cocktail-02.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book"
@@ -4581,10 +4588,11 @@
         "page": "69",
         "garnish": "Lemon and orange slices; freshly grated nutmeg",
         "glass": "Punch cups",
-        "ice": "Ice"
+        "ice": "Ice",
+        "image": "assets/recipes/charles-dickens-s-punch-02.webp"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/charles-dickens-s-punch-02.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book"
@@ -5131,10 +5139,11 @@
         "usable": true,
         "page": "70",
         "garnish": "Skewered raspberry",
-        "glass": "Coupe or cocktail glass"
+        "glass": "Coupe or cocktail glass",
+        "image": "assets/recipes/clover-club-02.webp"
       }
     ],
-    "image": null,
+    "image": "assets/recipes/clover-club-02.webp",
     "movie": null,
     "collections": [
       "Essential Cocktail Book"
@@ -5472,7 +5481,8 @@
         "instructions": "1 OUNCE GIN JOUNCE LILLET BLANC 1 OUNCE LEMON JUICE To a chilled coupe or cocktail glass, add a dash of absinthe. Roll around to coat and discard excess. Add remaining ingredients to a cocktail shaker. Add ice and shake until chilled. Strain into the prepared glass. Garnish with a lemon peel.",
         "note": "Of the entire gruesomely named family of pre-Prohibition era drinks thought to be devoted to rousing oneself in the morning, version No. 2 remains the best known. A lighter-spirited relation to the cognac-heavy Sidecar (page 177), with gin and Lillet in equal proportions to Cointreau, this drink finishes fresh and citrusy, with a hint of herbal complexity from the absinthe. Such a cocktail is a reasonable choice for eye-opening activities if you heed the warning offered in the 1930 Savoy Cocktail Book: “Four of these taken in swift succession will un-revive the corpse again.”",
         "creator": "",
-        "usable": true
+        "usable": true,
+        "image": "assets/recipes/corpse-reviver-no-2-02.webp"
       },
       {
         "label": "Cocktails from Movies",
@@ -5485,7 +5495,7 @@
         "usable": false
       }
     ],
-    "image": null,
+    "image": "assets/recipes/corpse-reviver-no-2-02.webp",
     "movie": {
       "film": "Heaven Can Wait",
       "year": "1978",

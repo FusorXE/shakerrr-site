@@ -550,5 +550,165 @@
     "recipePdfPage": 66,
     "mode": "render",
     "evidence": "Exact named recipe on facing page: BLACK  VELVET "
+  },
+  {
+    "id": "blood-and-sand",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 68,
+    "printedPage": 54,
+    "recipePdfPage": 69,
+    "mode": "render",
+    "crop": [
+      0.03,
+      0.22,
+      0.72,
+      0.89
+    ],
+    "evidence": "Exact named recipe on facing PDF page 69 (printed page 55): BLOOD AND SAND. Dark red drink served up in a coupe, matching the recipe serving instructions."
+  },
+  {
+    "id": "bloody-mary",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 71,
+    "printedPage": 57,
+    "recipePdfPage": 70,
+    "mode": "render",
+    "crop": [
+      0.15,
+      0.09,
+      0.82,
+      0.85
+    ],
+    "evidence": "Exact named recipe on facing PDF page 70 (printed page 56): BLOODY MARY. Red tomato drink in a tall highball with celery and savory garnishes, matching the recipe."
+  },
+  {
+    "id": "boulevardier",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 72,
+    "printedPage": 58,
+    "recipePdfPage": 73,
+    "mode": "render",
+    "crop": [
+      0.27,
+      0.11,
+      0.985,
+      0.63
+    ],
+    "evidence": "Exact named recipe on facing PDF page 73 (printed page 59): BOULEVARDIER. Amber-red drink over ice in a rocks glass with citrus peel, matching the recipe."
+  },
+  {
+    "id": "brooklyn",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 75,
+    "printedPage": 61,
+    "recipePdfPage": 74,
+    "mode": "render",
+    "crop": [
+      0.29,
+      0.3,
+      0.94,
+      0.92
+    ],
+    "evidence": "Exact named recipe on facing PDF page 74 (printed page 60): BROOKLYN. Amber drink served up in a coupe, matching the recipe serving instructions."
+  },
+  {
+    "id": "brown-derby",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 76,
+    "printedPage": 62,
+    "recipePdfPage": 77,
+    "mode": "render",
+    "crop": [
+      0.21,
+      0.28,
+      0.92,
+      0.88
+    ],
+    "evidence": "Exact named recipe on facing PDF page 77 (printed page 63): BROWN DERBY. Golden drink in a coupe with a long grapefruit peel, matching the recipe garnish."
+  },
+  {
+    "id": "caipirinha",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 79,
+    "printedPage": 65,
+    "recipePdfPage": 78,
+    "mode": "render",
+    "crop": [
+      0.1,
+      0.15,
+      0.92,
+      0.78
+    ],
+    "evidence": "Exact named recipe on facing PDF page 78 (printed page 64): CAIPIRINHA. Rocks glass with muddled lime, ice, and a lime wheel, matching the recipe."
+  },
+  {
+    "id": "champagne-cocktail",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 80,
+    "printedPage": 66,
+    "recipePdfPage": 81,
+    "mode": "render",
+    "crop": [
+      0.08,
+      0.035,
+      0.7,
+      0.985
+    ],
+    "evidence": "Exact named recipe on facing PDF page 81 (printed page 67): CHAMPAGNE COCKTAIL. Golden sparkling drink in a flute with a long lemon peel; full stem and base retained."
+  },
+  {
+    "id": "charles-dickens-s-punch",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 82,
+    "printedPage": 68,
+    "recipePdfPage": 83,
+    "mode": "render",
+    "crop": [
+      0.25,
+      0.12,
+      0.99,
+      0.8
+    ],
+    "evidence": "Exact named recipe on facing PDF page 83 (printed page 69): CHARLES DICKENS’S PUNCH. Amber punch served in a handled glass with an orange slice, matching the recipe citrus garnish."
+  },
+  {
+    "id": "clover-club",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 85,
+    "printedPage": 71,
+    "recipePdfPage": 84,
+    "mode": "render",
+    "crop": [
+      0.12,
+      0.2,
+      0.9,
+      0.87
+    ],
+    "evidence": "Exact named recipe on facing PDF page 84 (printed page 70): CLOVER CLUB. Pink drink with egg-white foam in a coupe and a skewered raspberry, matching the recipe."
+  },
+  {
+    "id": "corpse-reviver-no-2",
+    "book": "02",
+    "source": "Essential Cocktail Book",
+    "pdfPage": 86,
+    "printedPage": 72,
+    "recipePdfPage": 87,
+    "mode": "render",
+    "crop": [
+      0.05,
+      0.55,
+      0.76,
+      0.95
+    ],
+    "evidence": "Exact named recipe on facing PDF page 87 (printed page 73): CORPSE REVIVER NO. 2. Pale yellow drink in a coupe with lemon peel, matching the recipe; source hands retained."
   }
 ]

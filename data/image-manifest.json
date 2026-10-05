@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-09-28",
+  "generated": "2026-10-04",
   "byRecipe": {
     "tis-the-seasontini": {
       "name": "'Tis the Seasontini",
@@ -387,7 +387,31 @@
     },
     "blood-and-sand": {
       "name": "Blood and Sand",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "blood-and-sand",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 68,
+          "printedPage": 54,
+          "recipePdfPage": 69,
+          "mode": "render",
+          "crop": [
+            0.03,
+            0.22,
+            0.72,
+            0.89
+          ],
+          "evidence": "Exact named recipe on facing PDF page 69 (printed page 55): BLOOD AND SAND. Dark red drink served up in a coupe, matching the recipe serving instructions.",
+          "path": "assets/recipes/blood-and-sand-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 54,
+          "width": 564,
+          "height": 827,
+          "sha256": "60ef7421ca3dcb10fe8a6b79d6a14dc7e02ec98ac10e5d90e329ed7b75f8ef8a"
+        }
+      ]
     },
     "blood-lust-diamonds": {
       "name": "Blood, Lust & Diamonds",
@@ -415,7 +439,31 @@
     },
     "bloody-mary": {
       "name": "Bloody Mary",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "bloody-mary",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 71,
+          "printedPage": 57,
+          "recipePdfPage": 70,
+          "mode": "render",
+          "crop": [
+            0.15,
+            0.09,
+            0.82,
+            0.85
+          ],
+          "evidence": "Exact named recipe on facing PDF page 70 (printed page 56): BLOODY MARY. Red tomato drink in a tall highball with celery and savory garnishes, matching the recipe.",
+          "path": "assets/recipes/bloody-mary-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 57,
+          "width": 548,
+          "height": 938,
+          "sha256": "0816311582455029cf45305cbec88f283d7ebdd7d34031e275909d80ba41293b"
+        }
+      ]
     },
     "boo-radley": {
       "name": "Boo Radley",
@@ -423,7 +471,31 @@
     },
     "boulevardier": {
       "name": "Boulevardier",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "boulevardier",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 72,
+          "printedPage": 58,
+          "recipePdfPage": 73,
+          "mode": "render",
+          "crop": [
+            0.27,
+            0.11,
+            0.985,
+            0.63
+          ],
+          "evidence": "Exact named recipe on facing PDF page 73 (printed page 59): BOULEVARDIER. Amber-red drink over ice in a rocks glass with citrus peel, matching the recipe.",
+          "path": "assets/recipes/boulevardier-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 58,
+          "width": 585,
+          "height": 643,
+          "sha256": "056e445715e1a88074f8f7f18bb384cce7e9f62ca531547c2aa4dfc9e9de25b8"
+        }
+      ]
     },
     "bramble": {
       "name": "Bramble",
@@ -435,11 +507,59 @@
     },
     "brooklyn": {
       "name": "Brooklyn",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "brooklyn",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 75,
+          "printedPage": 61,
+          "recipePdfPage": 74,
+          "mode": "render",
+          "crop": [
+            0.29,
+            0.3,
+            0.94,
+            0.92
+          ],
+          "evidence": "Exact named recipe on facing PDF page 74 (printed page 60): BROOKLYN. Amber drink served up in a coupe, matching the recipe serving instructions.",
+          "path": "assets/recipes/brooklyn-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 61,
+          "width": 532,
+          "height": 765,
+          "sha256": "45caf00c261ed4584eaa7d8ce5b3d48e0b246c6bdc4ddee48e6fa85eb2bdc71c"
+        }
+      ]
     },
     "brown-derby": {
       "name": "Brown Derby",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "brown-derby",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 76,
+          "printedPage": 62,
+          "recipePdfPage": 77,
+          "mode": "render",
+          "crop": [
+            0.21,
+            0.28,
+            0.92,
+            0.88
+          ],
+          "evidence": "Exact named recipe on facing PDF page 77 (printed page 63): BROWN DERBY. Golden drink in a coupe with a long grapefruit peel, matching the recipe garnish.",
+          "path": "assets/recipes/brown-derby-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 62,
+          "width": 581,
+          "height": 741,
+          "sha256": "ae8d0bf406afdd824a0f16833764b38b28f022aaca80c4510f5a59d425d0186e"
+        }
+      ]
     },
     "bull-shot": {
       "name": "Bull Shot",
@@ -451,7 +571,31 @@
     },
     "caipirinha": {
       "name": "Caipirinha",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "caipirinha",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 79,
+          "printedPage": 65,
+          "recipePdfPage": 78,
+          "mode": "render",
+          "crop": [
+            0.1,
+            0.15,
+            0.92,
+            0.78
+          ],
+          "evidence": "Exact named recipe on facing PDF page 78 (printed page 64): CAIPIRINHA. Rocks glass with muddled lime, ice, and a lime wheel, matching the recipe.",
+          "path": "assets/recipes/caipirinha-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 65,
+          "width": 671,
+          "height": 778,
+          "sha256": "e85deebea5ebb3707a61d3cf8c4e12d9292a7db1f03562874b33a734e2eddf19"
+        }
+      ]
     },
     "campari-radler": {
       "name": "Campari Radler",
@@ -467,11 +611,59 @@
     },
     "champagne-cocktail": {
       "name": "Champagne Cocktail",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "champagne-cocktail",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 80,
+          "printedPage": 66,
+          "recipePdfPage": 81,
+          "mode": "render",
+          "crop": [
+            0.08,
+            0.035,
+            0.7,
+            0.985
+          ],
+          "evidence": "Exact named recipe on facing PDF page 81 (printed page 67): CHAMPAGNE COCKTAIL. Golden sparkling drink in a flute with a long lemon peel; full stem and base retained.",
+          "path": "assets/recipes/champagne-cocktail-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 66,
+          "width": 507,
+          "height": 1172,
+          "sha256": "531e5419a9d4071ddaf6985c0e6881272ab7ba15dfee9c7af2414921e4df3d97"
+        }
+      ]
     },
     "charles-dickens-s-punch": {
       "name": "Charles Dickens's Punch",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "charles-dickens-s-punch",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 82,
+          "printedPage": 68,
+          "recipePdfPage": 83,
+          "mode": "render",
+          "crop": [
+            0.25,
+            0.12,
+            0.99,
+            0.8
+          ],
+          "evidence": "Exact named recipe on facing PDF page 83 (printed page 69): CHARLES DICKENS’S PUNCH. Amber punch served in a handled glass with an orange slice, matching the recipe citrus garnish.",
+          "path": "assets/recipes/charles-dickens-s-punch-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 68,
+          "width": 605,
+          "height": 839,
+          "sha256": "fcc06656bde87a2deb111c18684f599c57c57107fc794ef88a6b0f7fc388511e"
+        }
+      ]
     },
     "chartreuse-swizzle": {
       "name": "Chartreuse Swizzle",
@@ -511,7 +703,31 @@
     },
     "clover-club": {
       "name": "Clover Club",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "clover-club",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 85,
+          "printedPage": 71,
+          "recipePdfPage": 84,
+          "mode": "render",
+          "crop": [
+            0.12,
+            0.2,
+            0.9,
+            0.87
+          ],
+          "evidence": "Exact named recipe on facing PDF page 84 (printed page 70): CLOVER CLUB. Pink drink with egg-white foam in a coupe and a skewered raspberry, matching the recipe.",
+          "path": "assets/recipes/clover-club-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 71,
+          "width": 638,
+          "height": 828,
+          "sha256": "7dc731d95f6ca5affc3d073099bdcac51d8d4125632644f9fd56aa8a37a48a2b"
+        }
+      ]
     },
     "coconut-creamsicle": {
       "name": "Coconut Creamsicle",
@@ -543,7 +759,31 @@
     },
     "corpse-reviver-no-2": {
       "name": "Corpse Reviver No. 2",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "corpse-reviver-no-2",
+          "book": "02",
+          "source": "Essential Cocktail Book",
+          "pdfPage": 86,
+          "printedPage": 72,
+          "recipePdfPage": 87,
+          "mode": "render",
+          "crop": [
+            0.05,
+            0.55,
+            0.76,
+            0.95
+          ],
+          "evidence": "Exact named recipe on facing PDF page 87 (printed page 73): CORPSE REVIVER NO. 2. Pale yellow drink in a coupe with lemon peel, matching the recipe; source hands retained.",
+          "path": "assets/recipes/corpse-reviver-no-2-02.webp",
+          "available": true,
+          "status": "exact-book",
+          "page": 72,
+          "width": 581,
+          "height": 494,
+          "sha256": "f1d0375ea56002b09106ad40c56cd8cd86294b06f223fc9557c1b31af82d6d6d"
+        }
+      ]
     },
     "cosmopolitan": {
       "name": "Cosmopolitan",
