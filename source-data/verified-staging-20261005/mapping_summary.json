@@ -1,0 +1,21 @@
+{
+  "canonicalRecipesInCurrentCatalog": 398,
+  "currentlyCommittedImageRecipes": 68,
+  "currentlyMissingImageRecipes": 330,
+  "verifiedStagingImageFiles": 293,
+  "verifiedStagingUniqueTitles": 275,
+  "stagingImageFilesMappedToCurrentCatalog": 262,
+  "uniqueCanonicalRecipesCoveredByMappedStaging": 235,
+  "stagedTitlesWithoutCurrentCanonicalTarget": 31,
+  "potentialNewRecipeCoverageBeyondCurrent68": 167,
+  "potentialCoverageAfterIntegration": 235,
+  "potentialCoveragePercentAfterIntegration": 59.0,
+  "remainingImageGapsAfterIntegratingMappedStaging": 163,
+  "remainingGapPercent": 41.0,
+  "notes": [
+    "This is a mapping/inventory pass only. No GitHub files were modified.",
+    "31 verified source-image titles were retained in staging but have no current canonical target; they are not discarded and can be used later if those recipes are added.",
+    "Alias/source-version mappings collapse multiple book titles into the same canonical recipe, so 275 unique staging titles resolve to fewer canonical recipe IDs.",
+    "Current repository coverage is 68/398. Integration should deduplicate against those already-committed recipes rather than re-add them."
+  ]
+}

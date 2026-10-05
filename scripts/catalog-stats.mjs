@@ -1,4 +1,7 @@
 import fs from 'node:fs';
+import { auditImages } from './validate-images.mjs';
+const imageAudit = auditImages();
+if (imageAudit.errors.length) throw new Error('Refusing to publish catalog counts for invalid images: ' + JSON.stringify(imageAudit.errors));
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const r=read('data/recipes.json'),m=read('data/image-manifest.json'),old=read('data/catalog-meta.json');
 const candidates=Object.values(m.byRecipe).flatMap(x=>x.candidates);

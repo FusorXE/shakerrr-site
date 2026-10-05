@@ -1,0 +1,575 @@
+{
+  "generated": "2026-10-05T21:05:59.990Z",
+  "definition": "A covered canonical recipe selects a verified available manifest candidate whose local WebP structure, dimensions and SHA-256 match. Counts are calculated from the current catalog and files, not historical staging claims.",
+  "counts": {
+    "canonicalRecipes": 398,
+    "manifestCandidates": 207,
+    "availableCandidates": 207,
+    "verifiedImageCandidates": 207,
+    "uniqueVerifiedImageFiles": 207,
+    "uniqueVerifiedImageHashes": 207,
+    "recipesWithVerifiedCandidates": 183,
+    "committedImageRecipes": 183,
+    "exactBookImages": 207,
+    "exactBookImageRecipes": 183,
+    "otherVerifiedImages": 0,
+    "missingImageRecipes": 215,
+    "imageCoveragePercent": 46,
+    "staleImageReferences": 0
+  },
+  "validationErrors": [],
+  "warnings": [
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "7-7",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "a-dark-art",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "a-promise-s-ghost",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "absolut-bitch",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "admiral-cocktail",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "alternative-aviation",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "americano",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "americano-perfecto",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "angel-s-kiss",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "archangel",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "banana-punch",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "be-my-wine",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "bee-s-knees",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "boo-radley",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "brancolada",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "buttermaker",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "chicago-cocktail",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "coconut-basil-cream",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "death-in-the-afternoon",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "dirty-martini",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "espresso-martini",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "everybody-s-girl",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "flatiron-martini",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "florodora",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "french-negroni",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "garibaldi",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "gentleman-caller",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "gentleman-s-manhattan",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "gin-and-tonic",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "gin-blossom",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "grasshopper",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "haze-for-days",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "jalapeno-rosemary-syrup",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "joggling-board",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "long-island-iced-tea",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "manhattan-sour",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "mexican-tricycle",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "michelada",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "mimosa",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "mott-and-mulberry",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "new-york-sour",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "old-timer",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "original-french-75",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "pear-pressure",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "pimms-cup",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "planters-punch",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "purple-rain",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "red-ice-cube",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "rome-with-a-view",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "rose-water-sour",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "sazerac",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "screwdriver",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "serrano-salt",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "sherry-flip",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "show-me-state",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "sunset-strip",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "tamarind-syrup",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "tequila-sunrise",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "the-dirty-spy",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "the-fleur-du-mal",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "the-moontower",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "the-smoking-gun",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "thunder-punch",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "ti-punch",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "true-romance",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "turmeric-ginger-honey-syrup",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    },
+    {
+      "code": "historical-empty-manifest-entry",
+      "recipeId": "vodka-blush",
+      "message": "Empty historical manifest entry has no current canonical recipe"
+    }
+  ],
+  "unresolvedCanonicalRecipeIds": [
+    "agua-de-valencia",
+    "all-purpose-margarita",
+    "angies-secret",
+    "arrack-strap",
+    "batanga",
+    "batida-de-coco",
+    "battle-for-pueblo",
+    "bellini",
+    "black-market-brandy",
+    "black-market-manhattan",
+    "blazing-saddles",
+    "blood-lust-diamonds",
+    "blue-leilani",
+    "bobby-burns",
+    "bronze-swizzle",
+    "bull-shot",
+    "caesar",
+    "canelazo",
+    "cantarito",
+    "capitan",
+    "carajillo-43",
+    "caribou",
+    "chacmool-hibol",
+    "champs-elysees",
+    "chilcano",
+    "cilantro-bravo",
+    "classic-rum-punch",
+    "coconut-creamsicle",
+    "corn-n-oil",
+    "corpse-reviver-2",
+    "cuba-libre",
+    "cynaro-de-bergerac",
+    "dark-and-stormy",
+    "dark-star",
+    "de-ville",
+    "deadpan-fix",
+    "death-to-el-gusano",
+    "derby-daiquiri",
+    "division-bell",
+    "docs-dram",
+    "doctor-funkenstein",
+    "donga-punch",
+    "donns-demon",
+    "earl-grey-paloma",
+    "ees-berry-berry-good",
+    "el-ardido",
+    "el-conde-de-san-dionisio",
+    "el-embarcadero",
+    "el-presidente",
+    "elote-margarita",
+    "elotero",
+    "espresso-mezcaltini",
+    "exit-music",
+    "fancy-free",
+    "fernandito",
+    "fitzgerald",
+    "flamenco",
+    "flaquita",
+    "flor-de-jalisco",
+    "flor-de-jerez",
+    "floridita-daiquiri",
+    "french-95",
+    "frozen-derby-daiquiri",
+    "frozen-strawberry-daiquiri",
+    "full-fathom-five",
+    "glandula-del-mono",
+    "golden-gate",
+    "hadleys-tears",
+    "hanky-panky",
+    "hearthside-punch",
+    "heirloom-tomato-highball",
+    "honeysuckle",
+    "hot-buttered-rum",
+    "hotel-nacional",
+    "howl-on-the-hill",
+    "improved-rum-cocktail",
+    "incantation",
+    "irish-coffee",
+    "its-a-bittersweet-life",
+    "jack-rose",
+    "japanese-slipper",
+    "kalimotxo",
+    "kingston-zing",
+    "kir",
+    "kir-royale",
+    "kiwi-margarita",
+    "knight-takes-bishop",
+    "la-dolce-vita",
+    "la-otra-palabra",
+    "la-parka",
+    "la-penca",
+    "la-rosita",
+    "lawyers-guns-money",
+    "lemon-drop",
+    "lemon-lime-and-bitters",
+    "light-and-day",
+    "little-miss-annabelle",
+    "little-sparrow",
+    "london-sour",
+    "maggie-smith",
+    "manhattan-dry",
+    "manhattan-perfect",
+    "maple-nettle-hot-toddy",
+    "maquina-verde",
+    "margarita-bitter-orange",
+    "margarita-cadillac",
+    "margarita-frozen",
+    "margarita-hibiscus",
+    "margarita-smoky-chili",
+    "margarita-spritz-strawberry",
+    "margarita-tamarind",
+    "maximillian-affair",
+    "may-fair",
+    "mekhong-buck",
+    "mezcal-bloody-mary",
+    "mezcal-con-pepino",
+    "mezcal-floater",
+    "mezcal-martini",
+    "mezcal-mule",
+    "mezcal-paloma",
+    "mezcal-rita",
+    "mezcal-sipping-broth",
+    "mezcalrita",
+    "milano-torino",
+    "miss-ruda",
+    "mortal-enemy",
+    "myrtle-bank-rum-punch",
+    "negroni-sour",
+    "negroni-tequila",
+    "nitty-gritty",
+    "north-by-northwest",
+    "oaxaca-express",
+    "oaxacan-dream",
+    "oaxacan-old-fashioned",
+    "one-way-to-oaxaca",
+    "our-man-in-havana",
+    "paper-moon",
+    "passing-aden",
+    "pearls-before-swine",
+    "penang-punch",
+    "pendennis-club-cocktail",
+    "pic-a-de-crop-punch",
+    "picosito",
+    "pimms-tropicale",
+    "pina-brava",
+    "pina-colada-deconstruction",
+    "pina-margarita",
+    "pisco-punch",
+    "piscola",
+    "pkny",
+    "planters-punch-rum",
+    "poblano-escobar",
+    "poncha",
+    "port-au-prince",
+    "porto-tonico",
+    "possession",
+    "preakness",
+    "pretty-bird",
+    "prima-china",
+    "rabo-de-galo",
+    "rays-mystique",
+    "rebujito",
+    "red-head",
+    "refajo",
+    "rgos",
+    "rigadoon",
+    "rosemary-cranberry-holiday-margarita",
+    "rum-and-tonic",
+    "rum-swizzle",
+    "santa-domingo",
+    "scarlet-fog",
+    "sergio-leone",
+    "sgroppino",
+    "shattered-glasser",
+    "short-rib",
+    "shruffs-end",
+    "silver-monk",
+    "simple-mezcal-margarita",
+    "simplemente-delicioso",
+    "smoky-bandit",
+    "smoky-ginger-margarita",
+    "so-danco-samba",
+    "somaek",
+    "south-sider",
+    "speed-of-delight",
+    "spicy-paloma",
+    "strange-brew",
+    "sub-mariner",
+    "sweet-lips",
+    "te-amo",
+    "tenement-yard",
+    "the-brave",
+    "the-commandant",
+    "the-dangerous-summer",
+    "the-green-mile",
+    "the-lulu",
+    "the-minty-mezcal",
+    "the-misfit",
+    "the-olivia",
+    "the-whoa-mama",
+    "there-will-be-blood-orange",
+    "time-in-tulum",
+    "tipperary",
+    "tis-the-seasontini",
+    "tommy-and-the-ron-dels",
+    "tommys-margarita",
+    "under-the-volcano",
+    "uxmal-city",
+    "vejk-sling",
+    "ward-8",
+    "wax-and-wane",
+    "western-sour",
+    "whisky-highball",
+    "yacht-rock",
+    "zombie-punch"
+  ]
+}

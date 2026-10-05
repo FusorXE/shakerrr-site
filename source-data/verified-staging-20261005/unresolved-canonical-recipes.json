@@ -1,0 +1,2582 @@
+[
+  {
+    "id": "agua-de-valencia",
+    "name": "Agua de Valencia",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "all-purpose-margarita",
+    "name": "All-Purpose Margarita",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "angies-secret",
+    "name": "Angie’s Secret",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "arrack-strap",
+    "name": "Arrack Strap",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "batanga",
+    "name": "Batanga",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "batida-de-coco",
+    "name": "Batida de Coco",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "battle-for-pueblo",
+    "name": "Battle For Pueblo",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "bellini",
+    "name": "Bellini",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "black-market-brandy",
+    "name": "Black Market Brandy",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "black-market-manhattan",
+    "name": "Black Market Manhattan",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "blazing-saddles",
+    "name": "Blazing Saddles",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "blood-lust-diamonds",
+    "name": "Blood, Lust & Diamonds",
+    "category": "Movies",
+    "collections": [
+      "Cocktails from Movies"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "blue-leilani",
+    "name": "Blue Leilani",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "bobby-burns",
+    "name": "Bobby Burns",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "bronze-swizzle",
+    "name": "Bronze Swizzle",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "bull-shot",
+    "name": "Bull Shot",
+    "category": "Movies",
+    "collections": [
+      "Cocktails from Movies"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "caesar",
+    "name": "Caesar",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "canelazo",
+    "name": "Canelazo",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "cantarito",
+    "name": "Cantarito",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "capitan",
+    "name": "Capitán",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "carajillo-43",
+    "name": "Carajillo 43",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "caribou",
+    "name": "Caribou",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "chacmool-hibol",
+    "name": "Chacmool Hibol",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "champs-elysees",
+    "name": "Champs-Elysées",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "chilcano",
+    "name": "Chilcano",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "cilantro-bravo",
+    "name": "Cilantro Bravo",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "classic-rum-punch",
+    "name": "Classic Rum Punch",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "coconut-creamsicle",
+    "name": "Coconut Creamsicle",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "corn-n-oil",
+    "name": "Corn ’n’ Oil",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "corpse-reviver-2",
+    "name": "Corpse Reviver #2",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "cuba-libre",
+    "name": "Cuba Libre",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "cynaro-de-bergerac",
+    "name": "Cynaro de Bergerac",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "dark-and-stormy",
+    "name": "Dark and Stormy",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "dark-star",
+    "name": "Dark Star",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "de-ville",
+    "name": "De Ville",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "deadpan-fix",
+    "name": "Deadpan Fix",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "death-to-el-gusano",
+    "name": "Death To El Gusano",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "derby-daiquiri",
+    "name": "Derby Daiquiri",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "division-bell",
+    "name": "Division Bell",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "docs-dram",
+    "name": "Doc’s Dram",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "doctor-funkenstein",
+    "name": "Doctor Funkenstein",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "donga-punch",
+    "name": "Donga Punch",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "donns-demon",
+    "name": "Donn’s Demon",
+    "category": "Tropical",
+    "collections": [
+      "Shakerrr"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "earl-grey-paloma",
+    "name": "Earl Grey Paloma",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "ees-berry-berry-good",
+    "name": "Ees Berry Berry Good",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "el-ardido",
+    "name": "El Ardido",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "el-conde-de-san-dionisio",
+    "name": "El Conde De San Dionisio",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "el-embarcadero",
+    "name": "El Embarcadero",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "el-presidente",
+    "name": "El Presidente",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "elote-margarita",
+    "name": "Elote Margarita",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "elotero",
+    "name": "Elotero",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "espresso-mezcaltini",
+    "name": "Espresso Mezcaltini",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "exit-music",
+    "name": "Exit Music",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "fancy-free",
+    "name": "Fancy-Free",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "fernandito",
+    "name": "Fernandito",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "fitzgerald",
+    "name": "Fitzgerald",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "flamenco",
+    "name": "Flamenco",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "flaquita",
+    "name": "Flaquita",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "flor-de-jalisco",
+    "name": "Flor de Jalisco",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "flor-de-jerez",
+    "name": "Flor de Jerez",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "floridita-daiquiri",
+    "name": "Floridita Daiquiri",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "french-95",
+    "name": "French 95",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "frozen-derby-daiquiri",
+    "name": "Frozen Derby Daiquiri",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "frozen-strawberry-daiquiri",
+    "name": "Frozen Strawberry Daiquiri",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "full-fathom-five",
+    "name": "Full Fathom Five",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "glandula-del-mono",
+    "name": "Glandula del Mono",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "golden-gate",
+    "name": "Golden Gate",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "hadleys-tears",
+    "name": "Hadley’s Tears",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "hanky-panky",
+    "name": "Hanky-Panky",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "hearthside-punch",
+    "name": "Hearthside Punch",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "heirloom-tomato-highball",
+    "name": "Heirloom Tomato Highball",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "honeysuckle",
+    "name": "Honeysuckle",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "hot-buttered-rum",
+    "name": "Hot Buttered Rum",
+    "category": "Movies",
+    "collections": [
+      "Cocktails from Movies"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "hotel-nacional",
+    "name": "Hotel Nacional",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "howl-on-the-hill",
+    "name": "Howl on the Hill",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "improved-rum-cocktail",
+    "name": "Improved Rum Cocktail",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "incantation",
+    "name": "Incantation",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "irish-coffee",
+    "name": "Irish Coffee",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "its-a-bittersweet-life",
+    "name": "It’s A Bittersweet Life",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "jack-rose",
+    "name": "Jack Rose",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "japanese-slipper",
+    "name": "Japanese Slipper",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "kalimotxo",
+    "name": "Kalimotxo",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "kingston-zing",
+    "name": "Kingston Zing",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "kir",
+    "name": "Kir",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "kir-royale",
+    "name": "Kir Royale",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "kiwi-margarita",
+    "name": "Kiwi Margarita",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "knight-takes-bishop",
+    "name": "Knight Takes Bishop",
+    "category": "Movies",
+    "collections": [
+      "Cocktails from Movies"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "la-dolce-vita",
+    "name": "La Dolce Vita",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "la-otra-palabra",
+    "name": "La Otra Palabra",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "la-parka",
+    "name": "La Parka",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "la-penca",
+    "name": "La Penca",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "la-rosita",
+    "name": "La Rosita",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "lawyers-guns-money",
+    "name": "Lawyers, Guns & Money",
+    "category": "Movies",
+    "collections": [
+      "Cocktails from Movies"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "lemon-drop",
+    "name": "Lemon Drop",
+    "category": "Movies",
+    "collections": [
+      "Cocktails from Movies"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "lemon-lime-and-bitters",
+    "name": "Lemon Lime & Bitters",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "light-and-day",
+    "name": "Light and Day",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "little-miss-annabelle",
+    "name": "Little Miss Annabelle",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "little-sparrow",
+    "name": "Little Sparrow",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "london-sour",
+    "name": "London Sour",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "maggie-smith",
+    "name": "Maggie Smith",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "manhattan-dry",
+    "name": "Manhattan Dry",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "manhattan-perfect",
+    "name": "Manhattan Perfect",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "maple-nettle-hot-toddy",
+    "name": "Maple Nettle Hot Toddy",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "maquina-verde",
+    "name": "Máquina Verde",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "margarita-bitter-orange",
+    "name": "Margarita Bitter Orange",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "margarita-cadillac",
+    "name": "Margarita Cadillac",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "margarita-frozen",
+    "name": "Margarita Frozen",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "margarita-hibiscus",
+    "name": "Margarita Hibiscus",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "margarita-smoky-chili",
+    "name": "Margarita Smoky Chili",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "margarita-spritz-strawberry",
+    "name": "Margarita Spritz Strawberry",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "margarita-tamarind",
+    "name": "Margarita Tamarind",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "maximillian-affair",
+    "name": "Maximillian Affair",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "may-fair",
+    "name": "May Fair",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "mekhong-buck",
+    "name": "Mekhong Buck",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "mezcal-bloody-mary",
+    "name": "Mezcal Bloody Mary",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "mezcal-con-pepino",
+    "name": "Mezcal Con Pepino",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "mezcal-floater",
+    "name": "Mezcal Floater",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "mezcal-martini",
+    "name": "Mezcal Martini",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "mezcal-mule",
+    "name": "Mezcal Mule",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "mezcal-paloma",
+    "name": "Mezcal Paloma",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "mezcal-rita",
+    "name": "Mezcal-Rita",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "mezcal-sipping-broth",
+    "name": "Mezcal Sipping Broth",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "mezcalrita",
+    "name": "Mezcalrita",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "milano-torino",
+    "name": "Milano-Torino",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "miss-ruda",
+    "name": "Miss Ruda",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "mortal-enemy",
+    "name": "Mortal Enemy",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "myrtle-bank-rum-punch",
+    "name": "Myrtle Bank Rum Punch",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "negroni-sour",
+    "name": "Negroni Sour",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "negroni-tequila",
+    "name": "Negroni Tequila",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "nitty-gritty",
+    "name": "Nitty-Gritty",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "north-by-northwest",
+    "name": "North by Northwest",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "oaxaca-express",
+    "name": "Oaxaca Express",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "oaxacan-dream",
+    "name": "Oaxacan Dream",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "oaxacan-old-fashioned",
+    "name": "Oaxacan Old-Fashioned",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "one-way-to-oaxaca",
+    "name": "One Way To Oaxaca",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "our-man-in-havana",
+    "name": "Our Man in Havana",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "paper-moon",
+    "name": "Paper Moon",
+    "category": "Movies",
+    "collections": [
+      "Cocktails from Movies"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "passing-aden",
+    "name": "Passing Aden",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "pearls-before-swine",
+    "name": "Pearls before Swine",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "penang-punch",
+    "name": "Penang Punch",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "pendennis-club-cocktail",
+    "name": "Pendennis Club Cocktail",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "pic-a-de-crop-punch",
+    "name": "Pic-a-de-Crop Punch",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "picosito",
+    "name": "Picosito",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "pimms-tropicale",
+    "name": "Pimm’s Tropicale",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "pina-brava",
+    "name": "Piña Brava",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "pina-colada-deconstruction",
+    "name": "Pina Colada Deconstruction",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "pina-margarita",
+    "name": "Piña Margarita",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "pisco-punch",
+    "name": "Pisco Punch",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "piscola",
+    "name": "Piscola",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "pkny",
+    "name": "PKNY",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "planters-punch-rum",
+    "name": "Planter’s Punch Rum",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "poblano-escobar",
+    "name": "Poblano Escobar",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "poncha",
+    "name": "Poncha",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "port-au-prince",
+    "name": "Port au Prince",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "porto-tonico",
+    "name": "Porto Tónico",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "possession",
+    "name": "Possession*",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "preakness",
+    "name": "Preakness",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "pretty-bird",
+    "name": "Pretty Bird",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "prima-china",
+    "name": "Prima China",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "rabo-de-galo",
+    "name": "Rabo de Galo",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "rays-mystique",
+    "name": "Ray’s Mystique",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "rebujito",
+    "name": "Rebujito",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "red-head",
+    "name": "Red Head",
+    "category": "Movies",
+    "collections": [
+      "Cocktails from Movies"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "refajo",
+    "name": "Refajo",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "rgos",
+    "name": "Los Amargos",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "rigadoon",
+    "name": "Rigadoon",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "rosemary-cranberry-holiday-margarita",
+    "name": "Rosemary-Cranberry Holiday Margarita",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "rum-and-tonic",
+    "name": "Rum and Tonic",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "rum-swizzle",
+    "name": "Rum Swizzle",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "santa-domingo",
+    "name": "Santa Domingo",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "scarlet-fog",
+    "name": "Scarlet Fog",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "sergio-leone",
+    "name": "Sergio Leone",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "sgroppino",
+    "name": "Sgroppino",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "shattered-glasser",
+    "name": "Shattered Glasser",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "short-rib",
+    "name": "Short Rib",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "shruffs-end",
+    "name": "Shruff’s End",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "silver-monk",
+    "name": "Silver Monk",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "simple-mezcal-margarita",
+    "name": "Simple Mezcal Margarita",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "simplemente-delicioso",
+    "name": "Simplemente Delicioso",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "smoky-bandit",
+    "name": "Smoky Bandit*",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "smoky-ginger-margarita",
+    "name": "Smoky Ginger Margarita",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "so-danco-samba",
+    "name": "Só Danço Samba",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "somaek",
+    "name": "Somaek",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "south-sider",
+    "name": "South Sider",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "speed-of-delight",
+    "name": "Speed Of Delight",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "spicy-paloma",
+    "name": "Spicy Paloma",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "strange-brew",
+    "name": "Strange Brew",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "sub-mariner",
+    "name": "Sub-Mariner",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "sweet-lips",
+    "name": "Sweet Lips*",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "te-amo",
+    "name": "Te Amo",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "tenement-yard",
+    "name": "Tenement Yard",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "the-brave",
+    "name": "The Brave",
+    "category": "Movies",
+    "collections": [
+      "Cocktails from Movies"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "the-commandant",
+    "name": "The Commandant",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "the-dangerous-summer",
+    "name": "The Dangerous Summer",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "the-green-mile",
+    "name": "The Green Mile",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "the-lulu",
+    "name": "The Lulu",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "the-minty-mezcal",
+    "name": "The Minty Mezcal",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "the-misfit",
+    "name": "The Misfit",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "the-olivia",
+    "name": "The Olivia",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "the-whoa-mama",
+    "name": "The Whoa Mama",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "there-will-be-blood-orange",
+    "name": "There Will Be Blood (Orange)",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "time-in-tulum",
+    "name": "Time In Tulum",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "tipperary",
+    "name": "Tipperary",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "tis-the-seasontini",
+    "name": "'Tis the Seasontini",
+    "category": "Movies",
+    "collections": [
+      "Cocktails from Movies"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "tommy-and-the-ron-dels",
+    "name": "Tommy and the Ron-Dels",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "tommys-margarita",
+    "name": "Tommy’s Margarita",
+    "category": "Book",
+    "collections": [
+      "Essential Cocktails 2021"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "under-the-volcano",
+    "name": "Under The Volcano",
+    "category": "Mezcal",
+    "collections": [
+      "Shakerrr Mezcal Library"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "uxmal-city",
+    "name": "Uxmal City",
+    "category": "Mezcal",
+    "collections": [
+      "Agave Companion"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "vejk-sling",
+    "name": "Vejk Sling",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "ward-8",
+    "name": "Ward 8",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "wax-and-wane",
+    "name": "Wax and Wane",
+    "category": "Movies",
+    "collections": [
+      "Cocktails from Movies"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "western-sour",
+    "name": "Western Sour",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "whisky-highball",
+    "name": "Whisky Highball",
+    "category": "International",
+    "collections": [
+      "Shakerrr World"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "yacht-rock",
+    "name": "Yacht Rock",
+    "category": "Tropical",
+    "collections": [
+      "Tropical Standard"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  },
+  {
+    "id": "zombie-punch",
+    "name": "Zombie Punch",
+    "category": "Death & Co",
+    "collections": [
+      "Death & Co"
+    ],
+    "image": null,
+    "verifiedCandidates": 0,
+    "covered": false,
+    "reason": "no-image-candidate"
+  }
+]

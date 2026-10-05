@@ -1,4 +1,4 @@
-const CACHE = "shakerrr-v20260925-1";
+const CACHE = "shakerrr-v20261005-verified-staging";
 const CORE = [
   "./",
   "./index.html",

@@ -1,0 +1,22 @@
+{
+  "verifiedTotal": 293,
+  "uniqueNormalizedTitles": 275,
+  "bySource": {
+    "Agave Companion": 8,
+    "Death & Co": 13,
+    "Essential Cocktail Book": 149,
+    "Essential Cocktails 2021": 29,
+    "Hollywood Cocktails": 70,
+    "Tropical Standard": 24
+  },
+  "rejectedCandidates": 46,
+  "notes": [
+    "Strict exact-recipe policy: generic, ambiguous, text-only, section-opener, and unverified adjacent images are excluded rather than guessed.",
+    "Essential Cocktail Book 2017: 149 exact recipe-photo mappings retained after full contact-sheet audit.",
+    "Essential Cocktails 2021: 29 actual cocktail photos retained; 16 page/text screenshots rejected.",
+    "Tropical Standard: 24 exact recipe-photo mappings retained; blank/text-only candidates rejected.",
+    "Agave Companion: 8 exact-caption cocktail images retained; generic Margarita illustration rejected.",
+    "Hollywood Cocktails: all 95 named recipe pages checked; 70 same-page cocktail photographs retained, 25 pages excluded because no verified standalone drink photo was present.",
+    "Death & Co: only 13 captioned/same-page photographs with exact title evidence were retained in this pass; unlabeled atmospheric drink photos were deliberately excluded."
+  ]
+}

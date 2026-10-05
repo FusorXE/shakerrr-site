@@ -17,6 +17,10 @@ Book/reference versions stay distinct. Personal and social versions never overwr
 ## Images
 `data/image-manifest.json` records catalog image mappings. Historical paths whose binary assets were never committed remain marked unavailable until exact authorized book or verified catalog images are extracted and committed. Missing is preferred over a wrong cocktail image.
 
+The 2026-10-05 verified staging checkpoint covers 183 of 398 canonical recipes
+(46.0%), with 215 unresolved. See [the integration audit](source-data/verified-staging-20261005/README.md)
+for provenance, corrected mapping accounting, and the exact unresolved list.
+
 ## Personal data
 Favorites, My Bar, personal/social recipes, preferences and custom photos stay private in browser storage. Tools provides versioned Export/Import backup. No GitHub write token is exposed client-side.
 
