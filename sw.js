@@ -1,9 +1,11 @@
-const CACHE = "shakerrr-v20261005-verified-staging";
+const CACHE = "shakerrr-v20261007-canonical-cards";
 const CORE = [
   "./",
   "./index.html",
   "./styles.css",
   "./app.js",
+  "./src/catalog-model.js",
+  "./src/catalog-bootstrap.js",
   "./data/recipes.json",
   "./data/collections.json",
   "./data/world.json",
