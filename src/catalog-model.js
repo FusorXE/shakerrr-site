@@ -26,21 +26,93 @@ export const REFERENCE_SOURCES = [
   "MJ Personal Version",
 ];
 
-// Only records that are the same cocktail identity are collapsed into one card.
-// Named riffs remain separate cards unless explicitly listed here.
+// A canonical classic card can contain source specs and named variants. The variant
+// name remains on the version tab, so the underlying recipe is never flattened away.
+// Search aliases preserve the old recipe IDs/names.
 export const GROUP_RULES = {
+  // Manhattan
   "manhattan-classic": { cardId: "manhattan", cardName: "Manhattan", variant: "Classic" },
   "manhattan-dry": { cardId: "manhattan", cardName: "Manhattan", variant: "Dry" },
   "manhattan-perfect": { cardId: "manhattan", cardName: "Manhattan", variant: "Perfect" },
   "simple-manhattan": { cardId: "manhattan", cardName: "Manhattan", variant: "Simple Manhattan" },
+  "black-market-manhattan": { cardId: "manhattan", cardName: "Manhattan", variant: "Black Market" },
+
+  // Martini family. Espresso-style drinks stay separate because they are a different identity.
+  "fitty-fitty-martini": { cardId: "martini", cardName: "Martini", variant: "Fitty-Fitty" },
+  "gibson": { cardId: "martini", cardName: "Martini", variant: "Gibson" },
+  "mezcal-martini": { cardId: "martini", cardName: "Martini", variant: "Mezcal Martini" },
+
+  // Margarita family. Visually distinct variants keep their own version-level image.
+  "all-purpose-margarita": { cardId: "margarita", cardName: "Margarita", variant: "All-Purpose" },
+  "margarita-classic": { cardId: "margarita", cardName: "Margarita", variant: "Classic" },
+  "margarita-bitter-orange": { cardId: "margarita", cardName: "Margarita", variant: "Bitter Orange" },
+  "margarita-cadillac": { cardId: "margarita", cardName: "Margarita", variant: "Cadillac" },
+  "margarita-frozen": { cardId: "margarita", cardName: "Margarita", variant: "Frozen" },
+  "margarita-hibiscus": { cardId: "margarita", cardName: "Margarita", variant: "Hibiscus" },
+  "margarita-smoky-chili": { cardId: "margarita", cardName: "Margarita", variant: "Smoky Chili" },
+  "margarita-spritz-strawberry": { cardId: "margarita", cardName: "Margarita", variant: "Strawberry Spritz" },
+  "margarita-tamarind": { cardId: "margarita", cardName: "Margarita", variant: "Tamarind" },
+  "tommys-margarita": { cardId: "margarita", cardName: "Margarita", variant: "Tommy’s" },
+  "simple-mezcal-margarita": { cardId: "margarita", cardName: "Margarita", variant: "Simple Mezcal" },
+  "mezcal-rita": { cardId: "margarita", cardName: "Margarita", variant: "Mezcal-Rita" },
+  "mezcalrita": { cardId: "margarita", cardName: "Margarita", variant: "Mezcalrita" },
+  "kiwi-margarita": { cardId: "margarita", cardName: "Margarita", variant: "Kiwi" },
+  "elote-margarita": { cardId: "margarita", cardName: "Margarita", variant: "Elote" },
+  "mangito-sonidero-margarita": { cardId: "margarita", cardName: "Margarita", variant: "Mangito Sonidero" },
+  "pina-margarita": { cardId: "margarita", cardName: "Margarita", variant: "Piña" },
+  "rosemary-cranberry-holiday-margarita": { cardId: "margarita", cardName: "Margarita", variant: "Rosemary-Cranberry Holiday" },
+  "smoky-ginger-margarita": { cardId: "margarita", cardName: "Margarita", variant: "Smoky Ginger" },
+
+  // Daiquiri family
   "daiquiri-classic": { cardId: "daiquiri", cardName: "Daiquiri", variant: "Classic" },
+  "daiquiri-mulata": { cardId: "daiquiri", cardName: "Daiquiri", variant: "Mulata" },
+  "daiquiri-strawberry": { cardId: "daiquiri", cardName: "Daiquiri", variant: "Strawberry" },
+  "frozen-strawberry-daiquiri": { cardId: "daiquiri", cardName: "Daiquiri", variant: "Frozen Strawberry" },
+  "derby-daiquiri": { cardId: "daiquiri", cardName: "Daiquiri", variant: "Derby" },
+  "frozen-derby-daiquiri": { cardId: "daiquiri", cardName: "Daiquiri", variant: "Frozen Derby" },
+  "floridita-daiquiri": { cardId: "daiquiri", cardName: "Daiquiri", variant: "Floridita" },
+  "hemingway-daiquiri": { cardId: "daiquiri", cardName: "Daiquiri", variant: "Hemingway" },
+
+  // Mojito family
   "mojito-classic": { cardId: "mojito", cardName: "Mojito", variant: "Classic" },
   "mojito-basic": { cardId: "mojito", cardName: "Mojito", variant: "Basic" },
-  "margarita-classic": { cardId: "margarita", cardName: "Margarita", variant: "Classic" },
-  "margarita-cadillac": { cardId: "margarita", cardName: "Margarita", variant: "Cadillac" },
+  "mojito-a-mi-manera": { cardId: "mojito", cardName: "Mojito", variant: "A Mi Manera" },
+  "mojito-tequila": { cardId: "mojito", cardName: "Mojito", variant: "Tequila" },
+
+  // Negroni family
+  "beachcomber-negroni": { cardId: "negroni", cardName: "Negroni", variant: "Beachcomber" },
+  "frozen-negroni": { cardId: "negroni", cardName: "Negroni", variant: "Frozen" },
+  "mezcal-negroni": { cardId: "negroni", cardName: "Negroni", variant: "Mezcal" },
+  "negroni-sbagliato": { cardId: "negroni", cardName: "Negroni", variant: "Sbagliato" },
+  "negroni-sour": { cardId: "negroni", cardName: "Negroni", variant: "Sour" },
+  "negroni-tequila": { cardId: "negroni", cardName: "Negroni", variant: "Tequila" },
+  "white-negroni": { cardId: "negroni", cardName: "Negroni", variant: "White" },
+  "white-negroni-sbagliato": { cardId: "negroni", cardName: "Negroni", variant: "White Sbagliato" },
+
+  // Old-Fashioned family
+  "oaxaca-old-fashioned": { cardId: "old-fashioned", cardName: "Old-Fashioned", variant: "Oaxaca" },
+  "oaxacan-old-fashioned": { cardId: "old-fashioned", cardName: "Old-Fashioned", variant: "Oaxacan" },
+
+  // French 75 family
   "original-french-75": { cardId: "french-75", cardName: "French 75", variant: "Original" },
+  "french-95": { cardId: "french-75", cardName: "French 75", variant: "French 95" },
+
+  // Bloody Mary family
+  "bloody-maria": { cardId: "bloody-mary", cardName: "Bloody Mary", variant: "Bloody Maria" },
+  "mezcal-bloody-mary": { cardId: "bloody-mary", cardName: "Bloody Mary", variant: "Mezcal" },
+
+  // Paloma family
+  "earl-grey-paloma": { cardId: "paloma", cardName: "Paloma", variant: "Earl Grey" },
+  "mezcal-paloma": { cardId: "paloma", cardName: "Paloma", variant: "Mezcal" },
+  "spicy-paloma": { cardId: "paloma", cardName: "Paloma", variant: "Spicy" },
+
+  // Mule family
+  "mezcal-mule": { cardId: "moscow-mule", cardName: "Moscow Mule", variant: "Mezcal" },
+
+  // Other source/name variants of the same classic
   "classic-cosmopolitan": { cardId: "cosmopolitan", cardName: "Cosmopolitan", variant: "Classic" },
   "planters-punch-rum": { cardId: "planters-punch", cardName: "Planter’s Punch", variant: "Rum" },
+  "zombie-punch": { cardId: "zombie", cardName: "Zombie", variant: "Zombie Punch" },
 };
 
 const GROUP_TARGETS = new Map();
@@ -49,29 +121,16 @@ for (const rule of Object.values(GROUP_RULES)) {
 }
 
 // Separate named riffs can share the same photograph when the finished visual is
-// effectively the same. A card with its own verified photograph always wins.
+// effectively the same. Grouped variants never need an entry here because their
+// version image already falls back to the canonical card image.
 export const VISUAL_FALLBACKS = {
-  "margarita-bitter-orange": "margarita",
-  "margarita-smoky-chili": "margarita",
-  "margarita-tamarind": "margarita",
-  "simple-mezcal-margarita": "margarita",
-  "mezcal-rita": "margarita",
-  mezcalrita: "margarita",
-  "tommys-margarita": "margarita",
-  "negroni-tequila": "negroni",
-  "oaxacan-old-fashioned": "old-fashioned",
-  "oaxaca-old-fashioned": "old-fashioned",
-  "mezcal-paloma": "paloma",
-  "spicy-paloma": "paloma",
-  "mezcal-bloody-mary": "bloody-mary",
-  "mezcal-mule": "moscow-mule",
-  "mezcal-martini": "martini",
-  "mojito-tequila": "mojito",
-  "french-95": "french-75",
+  "oaxacan-dream": "margarita",
+  "simplemente-delicioso": "margarita",
 };
 
 const sourcePriority = [
   "Shakerrr House Spec",
+  "Shakerrr",
   "IBA",
   "Difford’s Guide",
   "Liquor.com",
@@ -81,9 +140,21 @@ const sourcePriority = [
   "Essential Cocktails 2021",
   "Agave Companion",
   "Holy Smoke! It’s Mezcal!",
+  "Shakerrr Mezcal Library",
   "Liquid Intelligence",
   "Cocktails from Movies",
 ];
+
+// Known extraction contamination that should never surface as a tab. This does
+// not delete source data; it only keeps the bad version out of production.
+function validSourceVersion(recipe, version) {
+  if (
+    recipe.id === "martini" &&
+    version?.label === "Essential Cocktails 2021" &&
+    clean(version?.note).includes("daiquiri mulata")
+  ) return false;
+  return version?.usable !== false;
+}
 
 const unique = (values) => [...new Set(values.filter(Boolean))];
 
@@ -137,7 +208,7 @@ function representativeScore(recipe, desiredId) {
   if (slug(recipe.name) === desiredId) score += 400;
   if (recipe.image) score += 100;
   if (recipe.category === "Classic") score += 40;
-  score += (recipe.versions || []).filter((v) => v.usable !== false).length * 5;
+  score += (recipe.versions || []).filter((v) => validSourceVersion(recipe, v)).length * 5;
   return score;
 }
 
@@ -173,8 +244,10 @@ export function normalizeCatalog(rawRecipes = []) {
 
     for (const recipe of members) {
       const rule = GROUP_RULES[recipe.id] || null;
-      const sourceVersions = (recipe.versions || []).filter((v) => v.usable !== false);
-      const usable = sourceVersions.length ? sourceVersions : [versionFromRecipe(recipe)];
+      const sourceVersions = (recipe.versions || []).filter((v) => validSourceVersion(recipe, v));
+      const usable = sourceVersions.length ? sourceVersions : (
+        (recipe.versions || []).length ? [] : [versionFromRecipe(recipe)]
+      );
       for (const rawVersion of usable) {
         const version = decorateVersion(rawVersion, recipe, rule);
         const fingerprint = versionFingerprint(version);
