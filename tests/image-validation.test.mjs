@@ -139,3 +139,37 @@ test('detects stale image counts in catalog-meta', (t) => {
   assert.equal(checked.errors[0].code, 'catalog-meta-mismatch');
   assert.match(checked.errors[0].message, /committedImageRecipes/);
 });
+
+test('accepts verified external named-drink images with source URLs', (t) => {
+  const { audit } = fixture(t, ({ candidate }) => {
+    delete candidate.book;
+    delete candidate.printedPage;
+    candidate.status = 'verified-external';
+    candidate.source = 'Named recipe page';
+    candidate.sourceUrl = 'https://example.com/recipes/alpha';
+    candidate.evidence = 'The source page explicitly names Alpha and shows the finished drink.';
+  });
+  assert.deepEqual(audit.errors, []);
+  assert.equal(audit.counts.exactBookImages, 0);
+  assert.equal(audit.counts.otherVerifiedImages, 1);
+});
+
+test('accepts recipe-matched fallback images only with transparent provenance', (t) => {
+  const { audit } = fixture(t, ({ candidate }) => {
+    candidate.status = 'recipe-matched';
+    candidate.sourceImageRecipe = 'Reference Cocktail';
+    candidate.matchBasis = 'Same rocks glass, pale citrus build, salted rim, ice, and lime garnish.';
+    candidate.evidence = 'Authorized book photograph selected as the closest honest visual match, not an exact photo of Alpha.';
+  });
+  assert.deepEqual(audit.errors, []);
+  assert.equal(audit.counts.otherVerifiedImages, 1);
+});
+
+test('rejects recipe-matched fallbacks that hide what is actually pictured', (t) => {
+  const { audit } = fixture(t, ({ candidate }) => {
+    candidate.status = 'recipe-matched';
+    candidate.matchBasis = 'Similar service.';
+  });
+  assert.ok(audit.errors.some((issue) => issue.code === 'missing-source-image-recipe'));
+  assert.equal(audit.counts.verifiedImageCandidates, 0);
+});
