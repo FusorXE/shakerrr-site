@@ -26,8 +26,8 @@ export const REFERENCE_SOURCES = [
   "MJ Personal Version",
 ];
 
-// Only recipes that are the same cocktail identity are collapsed into one card.
-// Named riffs remain separate cards unless the user explicitly wants them as a tab.
+// Only records that are the same cocktail identity are collapsed into one card.
+// Named riffs remain separate cards unless explicitly listed here.
 export const GROUP_RULES = {
   "manhattan-classic": { cardId: "manhattan", cardName: "Manhattan", variant: "Classic" },
   "manhattan-dry": { cardId: "manhattan", cardName: "Manhattan", variant: "Dry" },
@@ -43,8 +43,13 @@ export const GROUP_RULES = {
   "planters-punch-rum": { cardId: "planters-punch", cardName: "Planter’s Punch", variant: "Rum" },
 };
 
-// Separate named riffs can share the same photograph when their finished visual is
-// effectively the same. A version/card with its own verified photograph always wins.
+const GROUP_TARGETS = new Map();
+for (const rule of Object.values(GROUP_RULES)) {
+  if (!GROUP_TARGETS.has(rule.cardId)) GROUP_TARGETS.set(rule.cardId, rule);
+}
+
+// Separate named riffs can share the same photograph when the finished visual is
+// effectively the same. A card with its own verified photograph always wins.
 export const VISUAL_FALLBACKS = {
   "margarita-bitter-orange": "margarita",
   "margarita-smoky-chili": "margarita",
@@ -114,13 +119,12 @@ function decorateVersion(version, recipe, rule) {
   const variant = rule?.variant || null;
   const movie = recipe.movie?.film ? `${recipe.movie.film}${recipe.movie.year ? ` (${recipe.movie.year})` : ""}` : null;
   const parts = [source];
-  if (variant && clean(variant) !== clean(recipe.name) && !clean(source).includes(clean(variant))) parts.push(variant);
-  else if (variant && !clean(source).includes(clean(variant))) parts.push(variant);
+  if (variant && !clean(source).includes(clean(variant))) parts.push(variant);
   if (movie && !clean(source).includes(clean(movie))) parts.push(movie);
   v.label = unique(parts).join(" · ");
   v.sourceRecipeId = recipe.id;
   v.sourceRecipeName = recipe.name;
-  v.variant = variant || (rule ? recipe.name : null);
+  v.variant = variant || null;
   v.collections = recipe.collections || [];
   v.movie = recipe.movie || null;
   if (!v.image && recipe.image) v.image = recipe.image;
@@ -139,8 +143,10 @@ function representativeScore(recipe, desiredId) {
 
 function groupIdentity(recipe) {
   const rule = GROUP_RULES[recipe.id];
-  if (rule) return { key: `explicit:${rule.cardId}`, cardId: rule.cardId, cardName: rule.cardName, rule };
-  return { key: `name:${clean(recipe.name)}`, cardId: null, cardName: recipe.name, rule: null };
+  if (rule) return { key: `explicit:${rule.cardId}`, cardId: rule.cardId, cardName: rule.cardName };
+  const target = GROUP_TARGETS.get(recipe.id);
+  if (target) return { key: `explicit:${recipe.id}`, cardId: recipe.id, cardName: target.cardName };
+  return { key: `name:${clean(recipe.name)}`, cardId: null, cardName: recipe.name };
 }
 
 export function normalizeCatalog(rawRecipes = []) {
@@ -229,7 +235,6 @@ export function normalizeCatalog(rawRecipes = []) {
 
   cards.sort((a, b) => a.name.localeCompare(b.name));
 
-  // Populate related cards from visual-family relationships without collapsing them.
   const byId = new Map(cards.map((r) => [r.id, r]));
   for (const card of cards) {
     const parent = VISUAL_FALLBACKS[card.id];
@@ -283,7 +288,6 @@ export function normalizeImageManifest(manifest = {}, catalog) {
     };
   }
 
-  // Reuse a visually equivalent classic image only when the card has no verified image.
   for (const card of catalog.recipes) {
     const current = byRecipe[card.id]?.candidates || [];
     if (current.some((x) => x.available && x.path)) continue;
