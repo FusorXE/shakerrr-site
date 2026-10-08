@@ -1,0 +1,46 @@
+name: Source enrichment batch
+
+on:
+  push:
+    branches: ['source-enrichment-*']
+    paths:
+      - '.github/workflows/source-enrichment.yml'
+      - 'source-data/run-source-enrichment.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install project dependencies
+        run: npm ci
+      - name: Install source tooling
+        run: python -m pip install --quiet requests beautifulsoup4 pillow
+      - name: Enrich public cocktail sources
+        run: python scripts/enrich-public-sources.py
+      - name: Refresh catalog metadata
+        run: npm run catalog:stats
+      - name: Validate enriched catalog
+        run: npm run validate
+      - name: Commit durable source enrichment
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add app.js data assets/recipes source-data/source-enrichment-20261008-report.json
+          if git diff --cached --quiet; then
+            echo 'No changes to commit'
+          else
+            git commit -m 'Enrich Barsys world mezcal and Turkish cocktail sources'
+            git push origin HEAD:${{ github.ref_name }}
+          fi
