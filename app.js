@@ -287,6 +287,7 @@ const REGION_BY_COUNTRY = {
   Argentina: "Latin America",
   Australia: "Oceania",
   Barbados: "Caribbean",
+  Belgium: "Western Europe",
   Bermuda: "Caribbean",
   Brazil: "Latin America",
   "British Virgin Islands": "Caribbean",
@@ -296,17 +297,22 @@ const REGION_BY_COUNTRY = {
   Cuba: "Caribbean",
   Ecuador: "Latin America",
   France: "Western Europe",
+  Germany: "Western Europe",
   Ireland: "Western Europe",
+  Hong Kong: "East Asia",
   Italy: "Mediterranean",
+  Jamaica: "Caribbean",
   Japan: "East Asia",
   Malaysia: "Southeast Asia",
   Mexico: "Latin America",
   Peru: "Latin America",
   Portugal: "Mediterranean",
+  "Puerto Rico": "Caribbean",
   Singapore: "Southeast Asia",
   "South Korea": "East Asia",
   Spain: "Mediterranean",
   Thailand: "Southeast Asia",
+  Turkey: "Mediterranean",
   "Trinidad and Tobago": "Caribbean",
   "United Kingdom": "Western Europe",
   "United States": "North America",
@@ -764,7 +770,7 @@ function renderBooks() {
   if (state.book && groups[state.book]) {
     const arr = groups[state.book];
     $("#main").innerHTML =
-      `<section class="page"><div class="shell"><button class="back" data-action="book-back">← All books</button><div class="toolbar"><div><h1>${esc(state.book)}</h1><p class="subtitle">${esc(BOOK_DESCRIPTIONS[state.book] || "Recipe collection")}</p></div></div><div class="countline">${arr.length} recipes</div><div class="cards">${arr.map(card).join("")}</div></div></section>`;
+      `<section class="page"><div class="shell"><button class="back" data-action="book-back">← All books</button><div class="toolbar"><div><h1>${esc(state.book)}</h1><p class="subtitle">${esc(BOOK_DESCRIPTIONS[state.book] || (state.book.startsWith("Barsys ·") ? "Barsys mixlist with source-backed recipes, context and exact drink photography." : "Recipe collection"))}</p></div></div><div class="countline">${arr.length} recipes</div><div class="cards">${arr.map(card).join("")}</div></div></section>`;
     hydratePhotos();
     return;
   }
@@ -776,7 +782,7 @@ function renderBooks() {
       .sort((a, b) => b[1].length - a[1].length)
       .map(
         ([c, a]) =>
-          `<button class="collection" data-book="${encodeURIComponent(c)}"><b>${a.length}</b><h3>${esc(c)}</h3><p>${esc(BOOK_DESCRIPTIONS[c] || "Recipe collection")}</p></button>`,
+          `<button class="collection" data-book="${encodeURIComponent(c)}"><b>${a.length}</b><h3>${esc(c)}</h3><p>${esc(BOOK_DESCRIPTIONS[c] || (c.startsWith("Barsys ·") ? "Barsys mixlist with source-backed recipes, context and exact drink photography." : "Recipe collection"))}</p></button>`,
       )
       .join("")}</div></div></section>`;
 }

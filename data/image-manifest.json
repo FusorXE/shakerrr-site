@@ -143,6 +143,19 @@
               }
             }
           ]
+        },
+        {
+          "id": "adonis",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/adonis",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Adonis.",
+          "path": "assets/recipes/adonis__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 8384,
+          "sha256": "a524575f999aa9ba837fca5d1a8ec2f0f2d44e4777eb7d112a14d7476686913f"
         }
       ]
     },
@@ -335,7 +348,34 @@
     },
     "americano": {
       "name": "Americano",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "americano",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/americano",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Americano.",
+          "path": "assets/recipes/americano__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 12522,
+          "sha256": "4470ca96f48f9336fa2394f2480c7f224d262b9ac0ca15bbd5105434cc6ae4ec"
+        },
+        {
+          "id": "americano",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a71099991/best-americano-cocktail-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Americano.",
+          "path": "assets/recipes/americano__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1199,
+          "bytes": 209752,
+          "sha256": "e52785306dfe8a687dbfbbfa3dac47b850c8f96c1be505c6a776a8ac3327b31f"
+        }
+      ]
     },
     "americano-perfecto": {
       "name": "Americano Perfecto",
@@ -463,6 +503,19 @@
               }
             }
           ]
+        },
+        {
+          "id": "aperol-spritz",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/aperol-spritz-2",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Aperol Spritz.",
+          "path": "assets/recipes/aperol-spritz__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 209,
+          "height": 261,
+          "bytes": 22792,
+          "sha256": "26cc587200d5f8f5591e6c09aba053c40064caacff7dfffbf71cee965450d8d4"
         }
       ]
     },
@@ -643,6 +696,19 @@
               }
             }
           ]
+        },
+        {
+          "id": "aviation",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/aviation",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Aviation.",
+          "path": "assets/recipes/aviation__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9452,
+          "sha256": "765c73fe6384d8e4bacc17156f29e3de0a9b9e4a1782d99cd2ac0dd3b1daacf3"
         }
       ]
     },
@@ -703,6 +769,19 @@
               }
             }
           ]
+        },
+        {
+          "id": "bamboo",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/bamboo-cocktail",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Bamboo.",
+          "path": "assets/recipes/bamboo__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 190,
+          "height": 261,
+          "bytes": 8886,
+          "sha256": "a973d54ac94f3e3c580a700dbdf41fb7b05ea07be8117ced67c25846ad228f04"
         }
       ]
     },
@@ -1791,6 +1870,19 @@
               }
             }
           ]
+        },
+        {
+          "id": "caipirinha",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a40364952/caipirinha-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Caipirinha.",
+          "path": "assets/recipes/caipirinha__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1194,
+          "bytes": 121714,
+          "sha256": "8de2cba512d7d633b054e40c6edeaf67b27c556c3e4ffebe3b2eb6602a866c52"
         }
       ]
     },
@@ -5558,7 +5650,34 @@
     },
     "long-island-iced-tea": {
       "name": "Long Island Iced Tea",
-      "candidates": []
+      "candidates": [
+        {
+          "id": "long-island-iced-tea",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com//recipe/long-island-iced-tea",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Long Island Iced Tea.",
+          "path": "assets/recipes/long-island-iced-tea__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 11700,
+          "sha256": "1d923c72c9be46d08966e78038c71a25c9b93a8fb43ca08f3368d40b7fa8680a"
+        },
+        {
+          "id": "long-island-iced-tea",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a39587219/long-island-ice-tea-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Long Island Iced Tea.",
+          "path": "assets/recipes/long-island-iced-tea__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1155,
+          "height": 1150,
+          "bytes": 169640,
+          "sha256": "8dcf747d2537b320a9e5739444f12fb94c0f94b132eeea5d6e66f42b2ff0a71a"
+        }
+      ]
     },
     "mai-tai": {
       "name": "Mai Tai",
@@ -5724,6 +5843,19 @@
           "printedPage": 113,
           "sourceYear": 2017,
           "page": 113
+        },
+        {
+          "id": "mai-tai",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a43402365/classic-mai-tai-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Mai Tai.",
+          "path": "assets/recipes/mai-tai__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 245168,
+          "sha256": "597b689a2abab716937065ef8a96315f4690c4921d37b144cc5435ad7586c907"
         }
       ]
     },
@@ -6677,6 +6809,19 @@
           "recipePdfPage": 75,
           "sourceYear": 2021,
           "page": 75
+        },
+        {
+          "id": "mint-julep",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a71168205/mint-julep-cocktail-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Mint Julep.",
+          "path": "assets/recipes/mint-julep__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1195,
+          "bytes": 225442,
+          "sha256": "699f4bff0e9e61c4abdf6ea08e462f5e26ad909c9fdf2107e430a84fe17c3769"
         }
       ]
     },
@@ -6795,6 +6940,19 @@
           "printedPage": 131,
           "sourceYear": 2017,
           "page": 131
+        },
+        {
+          "id": "mojito",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a39819415/classic-mojito-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Mojito.",
+          "path": "assets/recipes/mojito__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1199,
+          "bytes": 134992,
+          "sha256": "d68feb43174e9a71b6a121bada888270ffd1e9bf0fe81836603d629ed05ed226"
         }
       ]
     },
@@ -7861,6 +8019,19 @@
           "printedPage": 147,
           "sourceYear": 2017,
           "page": 147
+        },
+        {
+          "id": "paloma",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a43758194/paloma-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Paloma.",
+          "path": "assets/recipes/paloma__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1201,
+          "bytes": 114918,
+          "sha256": "24a49146b72843c581f17c94ca14b78e697bf0a4917a18aa86b8e5498c9132e6"
         }
       ]
     },
@@ -8308,7 +8479,7 @@
       ]
     },
     "pina-colada": {
-      "name": "Piña Colada",
+      "name": "Pina Colada",
       "candidates": [
         {
           "id": "pina-colada",
@@ -8471,6 +8642,19 @@
           "printedPage": 154,
           "sourceYear": 2017,
           "page": 154
+        },
+        {
+          "id": "pina-colada",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a43555195/pina-colada-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Pina Colada.",
+          "path": "assets/recipes/pina-colada__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1195,
+          "bytes": 180600,
+          "sha256": "6823a7499ffdb7bb204306b78fad0d3b254de882e52ba865fb548e64384e8667"
         }
       ]
     },
@@ -9916,6 +10100,19 @@
           "printedPage": 129,
           "sourceYear": 2020,
           "page": 129
+        },
+        {
+          "id": "sidecar",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/a36985243/classic-sidecar-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Sidecar.",
+          "path": "assets/recipes/sidecar__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1198,
+          "bytes": 139944,
+          "sha256": "8efafe733c7dd8c4d30ab36ad97ff312cfc9c82cb18c814eb35765dd5133b3f2"
         }
       ]
     },
@@ -9977,6 +10174,19 @@
           "printedPage": 178,
           "sourceYear": 2017,
           "page": 178
+        },
+        {
+          "id": "singapore-sling",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a41004730/singapore-sling-drink-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Singapore Sling.",
+          "path": "assets/recipes/singapore-sling__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1197,
+          "bytes": 169028,
+          "sha256": "4a096fa28c39e83ccff5f73c12dee77d1490c6f89bf319a60fa30ca5a8e6e0b1"
         }
       ]
     },
@@ -13119,6 +13329,2130 @@
           "height": 800,
           "bytes": 20824,
           "sha256": "25dea7c7c219544b5814a789d6f4a3810f1cd17b867c01882979a15a5be63087"
+        }
+      ]
+    },
+    "13-friday-avenue": {
+      "name": "13 Friday Avenue",
+      "candidates": [
+        {
+          "id": "13-friday-avenue",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/13-friday-avenue",
+          "evidence": "Exact named-drink photograph on the Barsys source page for 13 Friday Avenue.",
+          "path": "assets/recipes/13-friday-avenue__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 7954,
+          "sha256": "920f5650872744040184e0f934010732b4e37a8a22bd072d626cfa19dfbaa336"
+        }
+      ]
+    },
+    "3ps-passion-plus-punch": {
+      "name": "3P’S : PASSION PLUS PUNCH",
+      "candidates": [
+        {
+          "id": "3ps-passion-plus-punch",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/3p-s-passion-plus-punch",
+          "evidence": "Exact named-drink photograph on the Barsys source page for 3P’S : PASSION PLUS PUNCH.",
+          "path": "assets/recipes/3ps-passion-plus-punch__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 196,
+          "height": 261,
+          "bytes": 9182,
+          "sha256": "6502e107572ba9ac780f5de1865c9caeaf02860b8a0c4d7dbc4ccf36ca9c18a4"
+        }
+      ]
+    },
+    "50-50-martini": {
+      "name": "50/50 Martini",
+      "candidates": [
+        {
+          "id": "50-50-martini",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/50-50-martini",
+          "evidence": "Exact named-drink photograph on the Barsys source page for 50/50 Martini.",
+          "path": "assets/recipes/50-50-martini__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 5614,
+          "sha256": "d76c68055026262c685684b32a3c95f7dfcbdb78dcce170cc528433b6ef4470a"
+        }
+      ]
+    },
+    "a-summer-evening": {
+      "name": "A summer Evening",
+      "candidates": [
+        {
+          "id": "a-summer-evening",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/a-summer-evening",
+          "evidence": "Exact named-drink photograph on the Barsys source page for A summer Evening.",
+          "path": "assets/recipes/a-summer-evening__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 196,
+          "height": 261,
+          "bytes": 13162,
+          "sha256": "23fb9a5afaa9107f606f7d647ed001c47af62b1b76046baf8e20ce2c90df0eed"
+        }
+      ]
+    },
+    "aam-jhatka": {
+      "name": "Aam Jhatka",
+      "candidates": [
+        {
+          "id": "aam-jhatka",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/aam-jhatka",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Aam Jhatka.",
+          "path": "assets/recipes/aam-jhatka__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 17362,
+          "sha256": "a43b56b8a4fea90d2060f5998d18e8edc1baec4c220fd74706d54104a3e107a4"
+        }
+      ]
+    },
+    "absinthe": {
+      "name": "Absinthe Cocktail",
+      "candidates": [
+        {
+          "id": "absinthe",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/absinthe-cocktail",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Absinthe Cocktail.",
+          "path": "assets/recipes/absinthe__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10944,
+          "sha256": "4a718c7392539d8fc652dcba32b3694c687789ac94fb55280decca65cf80c4e7"
+        }
+      ]
+    },
+    "achievement-aperol-spritz": {
+      "name": "Achievement Aperol Spritz",
+      "candidates": [
+        {
+          "id": "achievement-aperol-spritz",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/achievement-aperol-spritz",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Achievement Aperol Spritz.",
+          "path": "assets/recipes/achievement-aperol-spritz__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 7818,
+          "sha256": "edfc8b2a4d52c368a180b4ff66daddd02fa7b0d8ac7a127e703ef225faf95045"
+        }
+      ]
+    },
+    "affinity": {
+      "name": "Affinity",
+      "candidates": [
+        {
+          "id": "affinity",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/affinity",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Affinity.",
+          "path": "assets/recipes/affinity__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 8312,
+          "sha256": "ccd2f67015a290c1d1b8a8881b123575e0b3cc838e0410203ddbdba148ee3250"
+        }
+      ]
+    },
+    "after-8": {
+      "name": "After 8",
+      "candidates": [
+        {
+          "id": "after-8",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/after-8",
+          "evidence": "Exact named-drink photograph on the Barsys source page for After 8.",
+          "path": "assets/recipes/after-8__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9198,
+          "sha256": "bce9d7b370cd7cbaa12a16df3653c2b65200da631533ec592476a8239f3c14dd"
+        }
+      ]
+    },
+    "afternoon-delight": {
+      "name": "Afternoon Delight",
+      "candidates": [
+        {
+          "id": "afternoon-delight",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/afternoon-delight",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Afternoon Delight.",
+          "path": "assets/recipes/afternoon-delight__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9812,
+          "sha256": "2872d60e6f73d58603e5bd793bd2e21bcbf928822197ec481c74eb394f85c300"
+        }
+      ]
+    },
+    "agave-bloom": {
+      "name": "Agave Bloom",
+      "candidates": [
+        {
+          "id": "agave-bloom",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/agave-bloom",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Agave Bloom.",
+          "path": "assets/recipes/agave-bloom__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 8760,
+          "sha256": "f7d7d10a5b02eed6b1f2f5b0c7f8d2efd9e9482f046422ef91b55e2e37b0d12c"
+        }
+      ]
+    },
+    "agave-de-oro-sour": {
+      "name": "Agave de Oro Sour",
+      "candidates": [
+        {
+          "id": "agave-de-oro-sour",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/agave-de-oro-sour",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Agave de Oro Sour.",
+          "path": "assets/recipes/agave-de-oro-sour__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10894,
+          "sha256": "bb519e58272987b97dcdf0189d510341b33e00296d02dff59ee188dd9779b5b3"
+        }
+      ]
+    },
+    "agave-sazerac": {
+      "name": "Agave Sazerac",
+      "candidates": [
+        {
+          "id": "agave-sazerac",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/agave-sazerac",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Agave Sazerac.",
+          "path": "assets/recipes/agave-sazerac__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9566,
+          "sha256": "063cbfd50f91279ce9979aeeea1693ef7c0d58e2917eb33ef5b1e92418155a83"
+        }
+      ]
+    },
+    "agave-silk": {
+      "name": "Agave Silk",
+      "candidates": [
+        {
+          "id": "agave-silk",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/agave-silk",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Agave Silk.",
+          "path": "assets/recipes/agave-silk__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 12758,
+          "sha256": "daad7f34661f6eaff9d18e39e25fad098284ec210da6824d51ab33f1c0c9c271"
+        }
+      ]
+    },
+    "agave-sunrise": {
+      "name": "Agave Sunrise",
+      "candidates": [
+        {
+          "id": "agave-sunrise",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/agave-sunrise",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Agave Sunrise.",
+          "path": "assets/recipes/agave-sunrise__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 6566,
+          "sha256": "fc38a77b9c1ae6387199254a37a87365a17853987e86c45a2656e4c589dc1028"
+        }
+      ]
+    },
+    "alabama-slammer": {
+      "name": "Alabama Slammer",
+      "candidates": [
+        {
+          "id": "alabama-slammer",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/alabama-slammer",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Alabama Slammer.",
+          "path": "assets/recipes/alabama-slammer__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10436,
+          "sha256": "9af78507d71419248016d09b9baa103be32337cbc94149e65da5d8d5ac1b907b"
+        }
+      ]
+    },
+    "algonquin": {
+      "name": "Algonquin Cocktail",
+      "candidates": [
+        {
+          "id": "algonquin",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/algonquin-cocktail",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Algonquin Cocktail.",
+          "path": "assets/recipes/algonquin__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 142,
+          "height": 232,
+          "bytes": 2544,
+          "sha256": "0e3bbab912996c6c845b21917090aa7793ad1bea64f3e23caf1216c0606670cf"
+        }
+      ]
+    },
+    "alibi": {
+      "name": "Alibi",
+      "candidates": [
+        {
+          "id": "alibi",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/alibi",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Alibi.",
+          "path": "assets/recipes/alibi__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 8114,
+          "sha256": "8ce4a9b6286da8e39b68af246c317c39caf17f4d25a596be0a849bcc5a41ae3f"
+        }
+      ]
+    },
+    "almanac-finale": {
+      "name": "Almanac Finale",
+      "candidates": [
+        {
+          "id": "almanac-finale",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/almanac-finale",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Almanac Finale.",
+          "path": "assets/recipes/almanac-finale__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 11834,
+          "sha256": "3b2b3cd8b563156ef74f952389f08fca090c9a034177596de7499a7dfd42482d"
+        }
+      ]
+    },
+    "almave-spirit-free-pineapple-highball": {
+      "name": "Almave Spirit Free Pineapple Highball",
+      "candidates": [
+        {
+          "id": "almave-spirit-free-pineapple-highball",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/almave-spirit-free-pineapple-highball",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Almave Spirit Free Pineapple Highball.",
+          "path": "assets/recipes/almave-spirit-free-pineapple-highball__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9232,
+          "sha256": "3bcef2b25294914c3246039f6422467b4600811a11795207f856d6ccfc28e8d1"
+        }
+      ]
+    },
+    "almond-citrus": {
+      "name": "Almond Citrus",
+      "candidates": [
+        {
+          "id": "almond-citrus",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/almond-citrus",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Almond Citrus.",
+          "path": "assets/recipes/almond-citrus__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 196,
+          "height": 261,
+          "bytes": 9762,
+          "sha256": "136e8b6f48078b20310fb4573c4ac641f28a36b6db217d4eb922003c9ad06ae6"
+        }
+      ]
+    },
+    "almond-field-goal": {
+      "name": "Almond Field Goal",
+      "candidates": [
+        {
+          "id": "almond-field-goal",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/almond-field-goal",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Almond Field Goal.",
+          "path": "assets/recipes/almond-field-goal__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 11820,
+          "sha256": "2feffe3a8d016f93392c4198f6f27b998613827e3d72b820f8a24f507cf7537b"
+        }
+      ]
+    },
+    "almost-a-collins": {
+      "name": "Almost a Collins",
+      "candidates": [
+        {
+          "id": "almost-a-collins",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/almost-a-collins",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Almost a Collins.",
+          "path": "assets/recipes/almost-a-collins__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 275,
+          "height": 183,
+          "bytes": 8638,
+          "sha256": "8c3dc9a8e85d95a3ce9ed52d01592e46bbc5cbf294af19f58b4dfc499a3b3b48"
+        }
+      ]
+    },
+    "aloha-almond": {
+      "name": "Aloha Almond",
+      "candidates": [
+        {
+          "id": "aloha-almond",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/aloha-almond",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Aloha Almond.",
+          "path": "assets/recipes/aloha-almond__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10744,
+          "sha256": "7eeb1a927372badf7febb10fad9b4dfd6b473d6b0c10a867375124338da29431"
+        }
+      ]
+    },
+    "alpine-glow": {
+      "name": "Alpine Glow",
+      "candidates": [
+        {
+          "id": "alpine-glow",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/alpine-glow",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Alpine Glow.",
+          "path": "assets/recipes/alpine-glow__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 13860,
+          "sha256": "ce23896ae00a0a8308cec60db9948d2d4ac4af0d55f010c68f58372a31fe6526"
+        }
+      ]
+    },
+    "alpine-hot-chocolate": {
+      "name": "Alpine Hot Chocolate",
+      "candidates": [
+        {
+          "id": "alpine-hot-chocolate",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/alpine-hot-chocolate",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Alpine Hot Chocolate.",
+          "path": "assets/recipes/alpine-hot-chocolate__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 12034,
+          "sha256": "b83ec0fd99bb0799e8f7aa438028d78302f7d7ad3e0dd1a3b698cce24f2be9f5"
+        }
+      ]
+    },
+    "alpine-spritz": {
+      "name": "Alpine Spritz",
+      "candidates": [
+        {
+          "id": "alpine-spritz",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/alpine-spritz",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Alpine Spritz.",
+          "path": "assets/recipes/alpine-spritz__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9104,
+          "sha256": "7903fcc4a7c746ee0755c78bf93fd79983610ec27dedd3efdab0a04c3dbe8666"
+        }
+      ]
+    },
+    "amaretto-hot-chocolate": {
+      "name": "Amaretto Hot Chocolate",
+      "candidates": [
+        {
+          "id": "amaretto-hot-chocolate",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/amaretto-hot-chocolate",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Amaretto Hot Chocolate.",
+          "path": "assets/recipes/amaretto-hot-chocolate__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10920,
+          "sha256": "b6583e2db8d5d72cf3c10bee51c117590b5be5b4ecf5fbd1c6001e38104ffa80"
+        }
+      ]
+    },
+    "amaretto-maple-smash": {
+      "name": "Amaretto Maple Smash",
+      "candidates": [
+        {
+          "id": "amaretto-maple-smash",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/amaretto-maple-smash",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Amaretto Maple Smash.",
+          "path": "assets/recipes/amaretto-maple-smash__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9858,
+          "sha256": "c08736e75ac18ecdd3302e226347ff29dfe5c0f8a3b2cfa20124f6780f5f6f30"
+        }
+      ]
+    },
+    "amaretto-rum-chai": {
+      "name": "Amaretto Rum Chai",
+      "candidates": [
+        {
+          "id": "amaretto-rum-chai",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/amaretto-rum-chai",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Amaretto Rum Chai.",
+          "path": "assets/recipes/amaretto-rum-chai__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 196,
+          "height": 261,
+          "bytes": 16702,
+          "sha256": "314de0eef27bb8abbce079c116a7d6277f0f6d59529c2b1662c397e4cf21ef3f"
+        }
+      ]
+    },
+    "amaretto-spiced-cider": {
+      "name": "Amaretto Spiced Cider",
+      "candidates": [
+        {
+          "id": "amaretto-spiced-cider",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/amaretto-spiced-cider",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Amaretto Spiced Cider.",
+          "path": "assets/recipes/amaretto-spiced-cider__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10812,
+          "sha256": "c50531264abcc9a1be9a4bb672b7491bf46211a125f850f2b567d9e62718fd1e"
+        }
+      ]
+    },
+    "amaro-margarita": {
+      "name": "Amaro Margarita",
+      "candidates": [
+        {
+          "id": "amaro-margarita",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/amaro-margarita",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Amaro Margarita.",
+          "path": "assets/recipes/amaro-margarita__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 11402,
+          "sha256": "3c60354a5fbda18b2cec0929ca1e1c32072b65b13abd90975d3187ad14cdf5c1"
+        }
+      ]
+    },
+    "amarula-and-eve": {
+      "name": "Amarula and Eve",
+      "candidates": [
+        {
+          "id": "amarula-and-eve",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/amarula-and-eve",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Amarula and Eve.",
+          "path": "assets/recipes/amarula-and-eve__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 225,
+          "height": 225,
+          "bytes": 3460,
+          "sha256": "cf08e85d050679c85618431c73a22719675a12b51fafd8b5ad114ac571a7d417"
+        }
+      ]
+    },
+    "amber-eclipse": {
+      "name": "Amber Eclipse",
+      "candidates": [
+        {
+          "id": "amber-eclipse",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/amber-eclipse",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Amber Eclipse.",
+          "path": "assets/recipes/amber-eclipse__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 17260,
+          "sha256": "2e51a975a78751a8f67959a1fd7d93f1ec40bc71239db794ffebca6b6a71db9b"
+        }
+      ]
+    },
+    "amber-flare": {
+      "name": "Amber Flare",
+      "candidates": [
+        {
+          "id": "amber-flare",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/amber-flare",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Amber Flare.",
+          "path": "assets/recipes/amber-flare__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 7088,
+          "sha256": "31cce84d4f8d89268231f4acd90caff585885b6f4c5ab1006e36e98ca375eff2"
+        }
+      ]
+    },
+    "american-apple-mule": {
+      "name": "American Apple Mule",
+      "candidates": [
+        {
+          "id": "american-apple-mule",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/american-apple-mule",
+          "evidence": "Exact named-drink photograph on the Barsys source page for American Apple Mule.",
+          "path": "assets/recipes/american-apple-mule__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10742,
+          "sha256": "610e23ca965a50b1f2c9e94f30e39459597441c0493316845aacfe7a80f94af9"
+        }
+      ]
+    },
+    "american-collins": {
+      "name": "American Collins",
+      "candidates": [
+        {
+          "id": "american-collins",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/american-collins",
+          "evidence": "Exact named-drink photograph on the Barsys source page for American Collins.",
+          "path": "assets/recipes/american-collins__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 8568,
+          "sha256": "26fd557e96571ba64dc224d4bd5435fe8b15b495d2ac750d6a87f9f68200834a"
+        }
+      ]
+    },
+    "american-dream": {
+      "name": "American Dream",
+      "candidates": [
+        {
+          "id": "american-dream",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/american-dream",
+          "evidence": "Exact named-drink photograph on the Barsys source page for American Dream.",
+          "path": "assets/recipes/american-dream__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10088,
+          "sha256": "85f5abc5a2a3db69d10e0db9e6b841000b04cbdcb79359f8cd544c4b21d4e82f"
+        }
+      ]
+    },
+    "anejo-date-old-fashioned": {
+      "name": "Añejo Date Old Fashioned",
+      "candidates": [
+        {
+          "id": "anejo-date-old-fashioned",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/anejo-date-old-fashioned-2",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Añejo Date Old Fashioned.",
+          "path": "assets/recipes/anejo-date-old-fashioned__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 13338,
+          "sha256": "655adb3c48af09420622bdf76955bf30d537dd5bec482bbd023e5109f07800c8"
+        }
+      ]
+    },
+    "anejo-old-fashioned": {
+      "name": "Añejo Old Fashioned",
+      "candidates": [
+        {
+          "id": "anejo-old-fashioned",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/anejo-old-fashioned",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Añejo Old Fashioned.",
+          "path": "assets/recipes/anejo-old-fashioned__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 14746,
+          "sha256": "da6e7d9f9da6eae9af2d455b5ef5c802f6f33c1ab2a8f2aee49ed51dd4aa0a0c"
+        }
+      ]
+    },
+    "angel-s-delight": {
+      "name": "Angel's Delight",
+      "candidates": [
+        {
+          "id": "angel-s-delight",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/angel-s-delight",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Angel's Delight.",
+          "path": "assets/recipes/angel-s-delight__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 8894,
+          "sha256": "97c095aff95a5ecf95538fe9fbc905fa170c1a9fce4f89044266f8919927c5f5"
+        }
+      ]
+    },
+    "angel-s-tit": {
+      "name": "Angel's Tit",
+      "candidates": [
+        {
+          "id": "angel-s-tit",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/angel-s-tit",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Angel's Tit.",
+          "path": "assets/recipes/angel-s-tit__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 186,
+          "height": 261,
+          "bytes": 2636,
+          "sha256": "b4654b38277aa9bb526f8517e3965756b7bac96be4900614ad027fd7f941afcf"
+        }
+      ]
+    },
+    "anogo": {
+      "name": "Añogo",
+      "candidates": [
+        {
+          "id": "anogo",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/anogo",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Añogo.",
+          "path": "assets/recipes/anogo__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 19234,
+          "sha256": "ef7de5ab572b6ec4dc2d6aaf3f52020c3105155483c8bbc3d56a9d18d27915d9"
+        }
+      ]
+    },
+    "apple-bean": {
+      "name": "Apple Bean",
+      "candidates": [
+        {
+          "id": "apple-bean",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-bean",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Bean.",
+          "path": "assets/recipes/apple-bean__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 8904,
+          "sha256": "64d17c52f1720aa4c87533e0f0a45bd4917d56d0245e681c1d50284505ac7290"
+        }
+      ]
+    },
+    "apple-bitter": {
+      "name": "Apple Bitter",
+      "candidates": [
+        {
+          "id": "apple-bitter",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-bitter",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Bitter.",
+          "path": "assets/recipes/apple-bitter__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 7320,
+          "sha256": "4d2b59fdbaa9500d76cfe004eade89bb4c8cb992d9675c77c392cd2240fb9c84"
+        }
+      ]
+    },
+    "apple-bourbon-punch": {
+      "name": "Apple Bourbon Punch",
+      "candidates": [
+        {
+          "id": "apple-bourbon-punch",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-bourbon-punch",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Bourbon Punch.",
+          "path": "assets/recipes/apple-bourbon-punch__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 8994,
+          "sha256": "30ec43e4e0e4f745503aead2bb041f500d69a62a4368d42c1156847a6d85c03d"
+        }
+      ]
+    },
+    "apple-brandy-toddy": {
+      "name": "Apple Brandy Toddy",
+      "candidates": [
+        {
+          "id": "apple-brandy-toddy",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-brandy-toddy",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Brandy Toddy.",
+          "path": "assets/recipes/apple-brandy-toddy__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 14196,
+          "sha256": "e6fa9e134df8231c4c8358677eafb5ac24e1def5af867f9c123f91e39716b3a5"
+        }
+      ]
+    },
+    "apple-business": {
+      "name": "Apple Business",
+      "candidates": [
+        {
+          "id": "apple-business",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-business",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Business.",
+          "path": "assets/recipes/apple-business__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 11892,
+          "sha256": "9a2207b7e0c3bea2f5fde0f0b298457be7bc05c3051dbc0c5c7f16cc68a6ad9b"
+        }
+      ]
+    },
+    "apple-cider-mule": {
+      "name": "Apple Cider Mule",
+      "candidates": [
+        {
+          "id": "apple-cider-mule",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-cider-mule-2",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Cider Mule.",
+          "path": "assets/recipes/apple-cider-mule__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 14538,
+          "sha256": "253eb4f0d1f62abe37b38f117389a2228f3533916f4c62fbca091d8c2a57de35"
+        }
+      ]
+    },
+    "apple-cider-old-fashioned": {
+      "name": "Apple Cider Old Fashioned",
+      "candidates": [
+        {
+          "id": "apple-cider-old-fashioned",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-cider-old-fashioned",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Cider Old Fashioned.",
+          "path": "assets/recipes/apple-cider-old-fashioned__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 13958,
+          "sha256": "d1f6e47f8b4e164190682cca02dec7852c78587ec0ae6cd8be281ec34ae82075"
+        }
+      ]
+    },
+    "apple-cider-shandy-sour": {
+      "name": "Apple Cider Shandy Sour",
+      "candidates": [
+        {
+          "id": "apple-cider-shandy-sour",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-cider-shandy-sour",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Cider Shandy Sour.",
+          "path": "assets/recipes/apple-cider-shandy-sour__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10850,
+          "sha256": "270768369915b6be3cfd1e088067725673b612e047198328ce7b7b535ec81336"
+        }
+      ]
+    },
+    "apple-cider-spritz": {
+      "name": "Apple Cider Spritz",
+      "candidates": [
+        {
+          "id": "apple-cider-spritz",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-cider-spritz",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Cider Spritz.",
+          "path": "assets/recipes/apple-cider-spritz__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 6340,
+          "sha256": "d91a44fda267c7537302470d8305e56a7e942f930517443c01a9ef10d381e347"
+        }
+      ]
+    },
+    "apple-cinnamon-fizz": {
+      "name": "Apple Cinnamon Fizz",
+      "candidates": [
+        {
+          "id": "apple-cinnamon-fizz",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-cinnamon-fizz",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Cinnamon Fizz.",
+          "path": "assets/recipes/apple-cinnamon-fizz__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 14002,
+          "sha256": "1ae7bc7d21580e77bd33f479bf9f37723bd34f253c9e2303e05207cdd6a28334"
+        }
+      ]
+    },
+    "apple-cranberry-moscow-mule": {
+      "name": "Apple Cranberry Moscow Mule",
+      "candidates": [
+        {
+          "id": "apple-cranberry-moscow-mule",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-cranberry-moscow-mule",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Cranberry Moscow Mule.",
+          "path": "assets/recipes/apple-cranberry-moscow-mule__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 7464,
+          "sha256": "779e4b3f4dd3431082a7f96d8e4ac0373a698d76ca4b711b111b3a5f02d04802"
+        }
+      ]
+    },
+    "apple-ginger-sparkle": {
+      "name": "Apple Ginger Sparkle",
+      "candidates": [
+        {
+          "id": "apple-ginger-sparkle",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-ginger-sparkle",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Ginger Sparkle.",
+          "path": "assets/recipes/apple-ginger-sparkle__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 13580,
+          "sha256": "2f155c3514abc01e06de2481987c79202818224ae02460c62c3e27719b7f6356"
+        }
+      ]
+    },
+    "apple-mule": {
+      "name": "Apple Mule",
+      "candidates": [
+        {
+          "id": "apple-mule",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-mule",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Mule.",
+          "path": "assets/recipes/apple-mule__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 8822,
+          "sha256": "2dab45bcf6745b5504692c98a748ddf58bd89d84583d9f55ae1f917a2fc1dad9"
+        }
+      ]
+    },
+    "apple-of-my-eye": {
+      "name": "Apple of My Eye",
+      "candidates": [
+        {
+          "id": "apple-of-my-eye",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-of-my-eye",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple of My Eye.",
+          "path": "assets/recipes/apple-of-my-eye__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 314,
+          "height": 261,
+          "bytes": 11966,
+          "sha256": "59d97588445cf5125a0d0bf0c88ccb248c2ed8683d47ce4857fcfa061aa7a9a8"
+        }
+      ]
+    },
+    "apple-pie-martini": {
+      "name": "Apple Pie Martini",
+      "candidates": [
+        {
+          "id": "apple-pie-martini",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-pie-martini",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Pie Martini.",
+          "path": "assets/recipes/apple-pie-martini__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 196,
+          "height": 261,
+          "bytes": 3432,
+          "sha256": "e96876239761ff6b3ff7aa031effc7b009db4699558925f785f1e85c0bd659cb"
+        }
+      ]
+    },
+    "apple-spice-old-fashioned": {
+      "name": "Apple Spice Old Fashioned",
+      "candidates": [
+        {
+          "id": "apple-spice-old-fashioned",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apple-spice-old-fashioned",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apple Spice Old Fashioned.",
+          "path": "assets/recipes/apple-spice-old-fashioned__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 7958,
+          "sha256": "0b51ebb97acc8ef4984a38f8ee2a83715028e9dfe7faa12acb49b71f3eb4aff4"
+        }
+      ]
+    },
+    "apples-and-pears": {
+      "name": "Apples and Pears",
+      "candidates": [
+        {
+          "id": "apples-and-pears",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apples-and-pears",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apples and Pears.",
+          "path": "assets/recipes/apples-and-pears__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9954,
+          "sha256": "e29c4e517bb3d08591648366221898457a64bca0dd751743a80c1d98596f2040"
+        }
+      ]
+    },
+    "appletini": {
+      "name": "Appletini",
+      "candidates": [
+        {
+          "id": "appletini",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/appletini",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Appletini.",
+          "path": "assets/recipes/appletini__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 8778,
+          "sha256": "1b77478553e13189f4b649c6bdb4031cb3fd76dc00db65e86b283c195adf0e8b"
+        }
+      ]
+    },
+    "apricot-rosemary-sour": {
+      "name": "Apricot Rosemary Sour",
+      "candidates": [
+        {
+          "id": "apricot-rosemary-sour",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apricot-rosemary-sour",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apricot Rosemary Sour.",
+          "path": "assets/recipes/apricot-rosemary-sour__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 7746,
+          "sha256": "09f95576bdb3b6803d202d8cd6a74539956644f45ced24657f57064bf718e933"
+        }
+      ]
+    },
+    "apricot-rosemary-vodka-sour": {
+      "name": "Apricot Rosemary Vodka Sour",
+      "candidates": [
+        {
+          "id": "apricot-rosemary-vodka-sour",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/apricot-rosemary-vodka-sour",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Apricot Rosemary Vodka Sour.",
+          "path": "assets/recipes/apricot-rosemary-vodka-sour__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9434,
+          "sha256": "5b1a43b23dc4ab07a49daefa58e6ff63ed74ec93a76c548183cfb59c699cc78e"
+        }
+      ]
+    },
+    "april-fool-s-margarita": {
+      "name": "April Fool's Margarita",
+      "candidates": [
+        {
+          "id": "april-fool-s-margarita",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/april-fool-s-margarita",
+          "evidence": "Exact named-drink photograph on the Barsys source page for April Fool's Margarita.",
+          "path": "assets/recipes/april-fool-s-margarita__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 7406,
+          "sha256": "af245f0a122f51b906d9b4b7fb53c6b9496f18cef10cc3d0ae67872ea4dc2f0f"
+        }
+      ]
+    },
+    "april-rain": {
+      "name": "April Rain",
+      "candidates": [
+        {
+          "id": "april-rain",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/april-rain",
+          "evidence": "Exact named-drink photograph on the Barsys source page for April Rain.",
+          "path": "assets/recipes/april-rain__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 7432,
+          "sha256": "e5f23be63fdc83f5bd70b167b892f1a8ccb9a8f2a553f6757dea11f8b7864595"
+        }
+      ]
+    },
+    "arctic-chill-cucumber-cooler": {
+      "name": "Arctic Chill Cucumber Cooler",
+      "candidates": [
+        {
+          "id": "arctic-chill-cucumber-cooler",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/arctic-chill-cucumber-cooler",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Arctic Chill Cucumber Cooler.",
+          "path": "assets/recipes/arctic-chill-cucumber-cooler__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10468,
+          "sha256": "bbab4da811c1c5b815fe3e5219404526019adf40a62808173b75fad3b8ada774"
+        }
+      ]
+    },
+    "aristocrat": {
+      "name": "Aristocrat",
+      "candidates": [
+        {
+          "id": "aristocrat",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/aristocrat",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Aristocrat.",
+          "path": "assets/recipes/aristocrat__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 174,
+          "height": 261,
+          "bytes": 4350,
+          "sha256": "233bc3a0a2e3f24f454948f6dea756881da6307ccab10aafe360449b8220796f"
+        }
+      ]
+    },
+    "arnold-palmer-mocktail": {
+      "name": "Arnold Palmer Mocktail",
+      "candidates": [
+        {
+          "id": "arnold-palmer-mocktail",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/arnold-palmer-mocktail",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Arnold Palmer Mocktail.",
+          "path": "assets/recipes/arnold-palmer-mocktail__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 13056,
+          "sha256": "e5d6890d9cf3c16b3b7a7800641eac103d9ecfbfab7552925932c0545ada2671"
+        }
+      ]
+    },
+    "aromatic-highball": {
+      "name": "Aromatic Highball",
+      "candidates": [
+        {
+          "id": "aromatic-highball",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/aromatic-highball",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Aromatic Highball.",
+          "path": "assets/recipes/aromatic-highball__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9792,
+          "sha256": "0eb892f1cc85aafd54947ea6571db5cb50907542a1279a365ca83f4cd3a4dfda"
+        }
+      ]
+    },
+    "artic-chill-cucumber-cooler": {
+      "name": "Artic Chill Cucumber Cooler",
+      "candidates": [
+        {
+          "id": "artic-chill-cucumber-cooler",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/artic-chill-cucumber-cooler",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Artic Chill Cucumber Cooler.",
+          "path": "assets/recipes/artic-chill-cucumber-cooler__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10468,
+          "sha256": "bbab4da811c1c5b815fe3e5219404526019adf40a62808173b75fad3b8ada774"
+        }
+      ]
+    },
+    "artichoke-martini": {
+      "name": "Artichoke Martini",
+      "candidates": [
+        {
+          "id": "artichoke-martini",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/artichoke-martini",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Artichoke Martini.",
+          "path": "assets/recipes/artichoke-martini__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 7848,
+          "sha256": "22315ed00061d7c8b3edbea509d63fa8f6146f39a2592d48cf11028b2ba3f6be"
+        }
+      ]
+    },
+    "ash-and-amber": {
+      "name": "Ash & Amber",
+      "candidates": [
+        {
+          "id": "ash-and-amber",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/ash-amber",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Ash & Amber.",
+          "path": "assets/recipes/ash-and-amber__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 13530,
+          "sha256": "0cfcbd4f3867bf09d73ad1ad94fe42dd589ecf683d8f6106783368067d698d8d"
+        }
+      ]
+    },
+    "atomic-fusion": {
+      "name": "Atomic Fusion",
+      "candidates": [
+        {
+          "id": "atomic-fusion",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/atomic-fusion",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Atomic Fusion.",
+          "path": "assets/recipes/atomic-fusion__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 5882,
+          "sha256": "2b048766aa1fb910753c308f3d9010d757318cb09f059c181a93625cdf84024d"
+        }
+      ]
+    },
+    "aurora-glow-mule": {
+      "name": "Aurora Glow Mule",
+      "candidates": [
+        {
+          "id": "aurora-glow-mule",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/aurora-glow-mule",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Aurora Glow Mule.",
+          "path": "assets/recipes/aurora-glow-mule__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 8006,
+          "sha256": "e344e4d07d14f1c13d3ae6b94cf84fade8634415ea714b9c5e2345dcfcc31946"
+        }
+      ]
+    },
+    "autonomous-but-emotional": {
+      "name": "Autonomous but Emotional",
+      "candidates": [
+        {
+          "id": "autonomous-but-emotional",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/autonomous-but-emotional",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Autonomous but Emotional.",
+          "path": "assets/recipes/autonomous-but-emotional__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9422,
+          "sha256": "0c282c4e43e985a6701412d1b6c513ae14c8e422756ca969ea91c9d774cab089"
+        }
+      ]
+    },
+    "autumn-ale-shandy": {
+      "name": "Autumn Ale Shandy",
+      "candidates": [
+        {
+          "id": "autumn-ale-shandy",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/autumn-ale-shandy",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Autumn Ale Shandy.",
+          "path": "assets/recipes/autumn-ale-shandy__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 726,
+          "sha256": "a8542da675ff07be0debd8cdbf7ff94aff5f522717bea132a0d8968daa8d7bfa"
+        }
+      ]
+    },
+    "autumn-apple-martini": {
+      "name": "Autumn Apple Martini",
+      "candidates": [
+        {
+          "id": "autumn-apple-martini",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/autumn-apple-martini",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Autumn Apple Martini.",
+          "path": "assets/recipes/autumn-apple-martini__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 11406,
+          "sha256": "b583364536c720f3d347a05c725a2f37ef73dc32ab7e1d2c69747b59a7bf64d7"
+        }
+      ]
+    },
+    "autumn-delight": {
+      "name": "Autumn Delight",
+      "candidates": [
+        {
+          "id": "autumn-delight",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/autumn-delight",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Autumn Delight.",
+          "path": "assets/recipes/autumn-delight__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 12354,
+          "sha256": "7a5d76d910b52de669da291008bd16eec941ebf4f5febf0e307bf13bfb4f8599"
+        }
+      ]
+    },
+    "autumn-harvest-spice-punch": {
+      "name": "Autumn Harvest Spice Punch",
+      "candidates": [
+        {
+          "id": "autumn-harvest-spice-punch",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/autumn-harvest-spice-punch",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Autumn Harvest Spice Punch.",
+          "path": "assets/recipes/autumn-harvest-spice-punch__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 14870,
+          "sha256": "d7c5e33d554dc63897a57987ace30f415fccf949c741567a18a5f403629c7ff5"
+        }
+      ]
+    },
+    "autumn-orchard-delight": {
+      "name": "Autumn Orchard Delight",
+      "candidates": [
+        {
+          "id": "autumn-orchard-delight",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/autumn-orchard-delight",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Autumn Orchard Delight.",
+          "path": "assets/recipes/autumn-orchard-delight__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 15936,
+          "sha256": "64ef940947e7ff13bdc99c14d77bb54e108e81d043373900e22aa00f80fded5c"
+        }
+      ]
+    },
+    "autumn-orchard-highball": {
+      "name": "Autumn Orchard Highball",
+      "candidates": [
+        {
+          "id": "autumn-orchard-highball",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/autumn-orchard-highball",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Autumn Orchard Highball.",
+          "path": "assets/recipes/autumn-orchard-highball__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 14958,
+          "sha256": "aeb30fb4a0cc16e68c3604f7b76d70e9cbd20120888df40c71bb12b933b467c8"
+        }
+      ]
+    },
+    "autumn-romance": {
+      "name": "Autumn Romance",
+      "candidates": [
+        {
+          "id": "autumn-romance",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/autumn-romance",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Autumn Romance.",
+          "path": "assets/recipes/autumn-romance__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 183,
+          "height": 261,
+          "bytes": 9002,
+          "sha256": "c47287acda3d64bb663d36049937eb63c5bec189a986e80771bf3491669d3331"
+        }
+      ]
+    },
+    "autumn-sangria": {
+      "name": "Autumn Sangria",
+      "candidates": [
+        {
+          "id": "autumn-sangria",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/autumn-sangria",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Autumn Sangria.",
+          "path": "assets/recipes/autumn-sangria__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10414,
+          "sha256": "c12dd70db6c0944a2d7d9c6eb3bcde2609c1ca4311419dcde6dfeab23c291d3f"
+        }
+      ]
+    },
+    "autumn-sparkler": {
+      "name": "Autumn Sparkler",
+      "candidates": [
+        {
+          "id": "autumn-sparkler",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/autumn-sparkler",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Autumn Sparkler.",
+          "path": "assets/recipes/autumn-sparkler__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9332,
+          "sha256": "de14d26a3aeb2deb7dc5ca940b8953fc95dc9a42469d8e77dd031651b21445e7"
+        }
+      ]
+    },
+    "autumn-wassail": {
+      "name": "Autumn Wassail",
+      "candidates": [
+        {
+          "id": "autumn-wassail",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/autumn-wassail",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Autumn Wassail.",
+          "path": "assets/recipes/autumn-wassail__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 275,
+          "height": 183,
+          "bytes": 14448,
+          "sha256": "fa6e9309a097ba7401be5af9e504ba544023017c1c3150a347d16a6cda8e067d"
+        }
+      ]
+    },
+    "avant-garde-amaretto-affair": {
+      "name": "Avant-Garde Amaretto Affair",
+      "candidates": [
+        {
+          "id": "avant-garde-amaretto-affair",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/avant-garde-amaretto-affair",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Avant-Garde Amaretto Affair.",
+          "path": "assets/recipes/avant-garde-amaretto-affair__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 726,
+          "sha256": "a8542da675ff07be0debd8cdbf7ff94aff5f522717bea132a0d8968daa8d7bfa"
+        }
+      ]
+    },
+    "avo-colada": {
+      "name": "Avo Colada",
+      "candidates": [
+        {
+          "id": "avo-colada",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/avo-colada",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Avo Colada.",
+          "path": "assets/recipes/avo-colada__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 15500,
+          "sha256": "f387154701f64a3714fdec9b94b33bae2ead688bfa9277ef2c0a570490dbada3"
+        }
+      ]
+    },
+    "azadi-party-punch": {
+      "name": "Azadi Party Punch",
+      "candidates": [
+        {
+          "id": "azadi-party-punch",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/azadi-party-punch",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Azadi Party Punch.",
+          "path": "assets/recipes/azadi-party-punch__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9758,
+          "sha256": "da1c96b8a567ee42bd99e5b66c2772d91e32183d35eb82b223ec2199125fc35a"
+        }
+      ]
+    },
+    "azalea-drive": {
+      "name": "Azalea Drive",
+      "candidates": [
+        {
+          "id": "azalea-drive",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/azalea-drive",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Azalea Drive.",
+          "path": "assets/recipes/azalea-drive__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9156,
+          "sha256": "4fa111ed22dfa96efc94c80a70f2d21c81de2a2703802afc429520fb9ff22036"
+        }
+      ]
+    },
+    "aztec-coffee-bliss": {
+      "name": "Aztec Coffee Bliss",
+      "candidates": [
+        {
+          "id": "aztec-coffee-bliss",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/aztec-coffee-bliss",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Aztec Coffee Bliss.",
+          "path": "assets/recipes/aztec-coffee-bliss__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 11754,
+          "sha256": "c35638c76650d14f243fcea2b0f5030575e83e6ef1d4691b6b7b3b0305a995ec"
+        }
+      ]
+    },
+    "azure-sun": {
+      "name": "Azure Sun",
+      "candidates": [
+        {
+          "id": "azure-sun",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/azure-sun",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Azure Sun.",
+          "path": "assets/recipes/azure-sun__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 11184,
+          "sha256": "c1e61ebb0c04654d66e15f0527933f03f269dfc27e50dc948a12532f08c45020"
+        }
+      ]
+    },
+    "azure-tide": {
+      "name": "Azure Tide",
+      "candidates": [
+        {
+          "id": "azure-tide",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/azure-tide",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Azure Tide.",
+          "path": "assets/recipes/azure-tide__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9010,
+          "sha256": "74b48fb8f3818bf98597bc9e5cf38ef300462f5a7530fba1ec3541697561dfdc"
+        }
+      ]
+    },
+    "babes-and-brawn": {
+      "name": "Babes & Brawn",
+      "candidates": [
+        {
+          "id": "babes-and-brawn",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/babes-brawn",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Babes & Brawn.",
+          "path": "assets/recipes/babes-and-brawn__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 10774,
+          "sha256": "bb36205fecd6225aa5da3310e038932de1ce274819a5e52259754c3c4d4ae7a6"
+        }
+      ]
+    },
+    "bacardi-lime-and-soda": {
+      "name": "BACARDÍ Lime & Soda",
+      "candidates": [
+        {
+          "id": "bacardi-lime-and-soda",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/bacardi-lime-soda",
+          "evidence": "Exact named-drink photograph on the Barsys source page for BACARDÍ Lime & Soda.",
+          "path": "assets/recipes/bacardi-lime-and-soda__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 348,
+          "height": 261,
+          "bytes": 17242,
+          "sha256": "9a3c8f8875ae5950fc66f3fa16488c5c4eaf4ec42005e53a6772cb12a9263e23"
+        }
+      ]
+    },
+    "bacardi-ocho-negroni": {
+      "name": "Bacardí Ocho Negroni",
+      "candidates": [
+        {
+          "id": "bacardi-ocho-negroni",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/bacardi-ocho-negroni",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Bacardí Ocho Negroni.",
+          "path": "assets/recipes/bacardi-ocho-negroni__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 11466,
+          "sha256": "d2ec1a44647ef8f2af4d932726af66e0e13d5bec6c99b1e8c0f544d855889dbf"
+        }
+      ]
+    },
+    "back-nine-buck": {
+      "name": "Back Nine Buck",
+      "candidates": [
+        {
+          "id": "back-nine-buck",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/back-nine-buck",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Back Nine Buck.",
+          "path": "assets/recipes/back-nine-buck__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 11622,
+          "sha256": "e1aa48fe3eed5c38431f87b857e95eafa155720bb10a4a995124bed646ba8391"
+        }
+      ]
+    },
+    "bae-breeze": {
+      "name": "Bae Breeze",
+      "candidates": [
+        {
+          "id": "bae-breeze",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/bae-breeze",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Bae Breeze.",
+          "path": "assets/recipes/bae-breeze__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9010,
+          "sha256": "ff43d9ee85c3055b55f2dd4363e07ef9024e75b74cc9733b88f11e08ef94ccbe"
+        }
+      ]
+    },
+    "bahama-mama": {
+      "name": "Bahama Mama",
+      "candidates": [
+        {
+          "id": "bahama-mama",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/bahama-mama",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Bahama Mama.",
+          "path": "assets/recipes/bahama-mama__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 8810,
+          "sha256": "9896f8102b279a34760ae6532f5ad7f0384be782dcc37f1a2592c52640d6cb35"
+        }
+      ]
+    },
+    "bailando": {
+      "name": "Bailando",
+      "candidates": [
+        {
+          "id": "bailando",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/bailando",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Bailando.",
+          "path": "assets/recipes/bailando__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 188,
+          "height": 261,
+          "bytes": 6828,
+          "sha256": "b49d7bbbed3893116898d406d855ce864c3de31f55d4a8fc62132fa2eed8ca26"
+        }
+      ]
+    },
+    "baileys-vanilla-mudslide": {
+      "name": "Baileys Vanilla Mudslide",
+      "candidates": [
+        {
+          "id": "baileys-vanilla-mudslide",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/baileys-vanilla-mudslide",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Baileys Vanilla Mudslide.",
+          "path": "assets/recipes/baileys-vanilla-mudslide__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 13932,
+          "sha256": "7987446bccbc36577f05ce2924ea707c3ccf73744054894d96e6ce4d6ba0c86e"
+        }
+      ]
+    },
+    "baltimore-bang": {
+      "name": "Baltimore Bang",
+      "candidates": [
+        {
+          "id": "baltimore-bang",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/baltimore-bang",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Baltimore Bang.",
+          "path": "assets/recipes/baltimore-bang__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 209,
+          "height": 261,
+          "bytes": 7212,
+          "sha256": "3abef33b35750ef8ab7ec31b00416211bfad04a5e4f38b78c56d536ad307d47b"
+        }
+      ]
+    },
+    "banana-daiquiri": {
+      "name": "Banana Daiquiri",
+      "candidates": [
+        {
+          "id": "banana-daiquiri",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/banana-daiquiri",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Banana Daiquiri.",
+          "path": "assets/recipes/banana-daiquiri__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 4996,
+          "sha256": "8efc0dcde9c64e351efcd113c476fb4040951e9b01139e537e5001e58fe59a15"
+        }
+      ]
+    },
+    "banana-foster-rum-punch": {
+      "name": "Banana Foster Rum Punch",
+      "candidates": [
+        {
+          "id": "banana-foster-rum-punch",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/banana-foster-rum-punch",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Banana Foster Rum Punch.",
+          "path": "assets/recipes/banana-foster-rum-punch__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 7050,
+          "sha256": "d7bfc02a8436ae2f3dfcb174143c58af0632b856e9ba84cdaec8acf31391041d"
+        }
+      ]
+    },
+    "banana-margarita": {
+      "name": "Banana Margarita",
+      "candidates": [
+        {
+          "id": "banana-margarita",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/banana-margarita",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Banana Margarita.",
+          "path": "assets/recipes/banana-margarita__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 20264,
+          "sha256": "2db1fa4da0570fff7138f590c350d5d4c8437684a34c26b83a7c3637e520dfc7"
+        }
+      ]
+    },
+    "banana-split-sunrise": {
+      "name": "Banana Split Sunrise",
+      "candidates": [
+        {
+          "id": "banana-split-sunrise",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/banana-split-sunrise",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Banana Split Sunrise.",
+          "path": "assets/recipes/banana-split-sunrise__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 7692,
+          "sha256": "f2e4ba4e3f620e11aefd95a1b3554db39ab57a78cf247d3df74c3cf19b942306"
+        }
+      ]
+    },
+    "bane-s-toxin-shot": {
+      "name": "Bane's Toxin (Shot)",
+      "candidates": [
+        {
+          "id": "bane-s-toxin-shot",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/bane-s-toxin-shot",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Bane's Toxin (Shot).",
+          "path": "assets/recipes/bane-s-toxin-shot__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9814,
+          "sha256": "eb48649ec42feec3160e99bcce973c9022646e69eb57be8e5487a7584ecdfd0e"
+        }
+      ]
+    },
+    "banshee": {
+      "name": "Banshee",
+      "candidates": [
+        {
+          "id": "banshee",
+          "source": "Barsys",
+          "sourceUrl": "https://barsys.com/recipe/banshee",
+          "evidence": "Exact named-drink photograph on the Barsys source page for Banshee.",
+          "path": "assets/recipes/banshee__barsys.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 261,
+          "height": 261,
+          "bytes": 9164,
+          "sha256": "3322cfc66d34c8601a1146ecdbee3868063014cad0b8d315536d8505c8414503"
+        }
+      ]
+    },
+    "rum-punch": {
+      "name": "Rum Punch",
+      "candidates": [
+        {
+          "id": "rum-punch",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a65281470/classic-rum-punch-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Rum Punch.",
+          "path": "assets/recipes/rum-punch__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1193,
+          "bytes": 298666,
+          "sha256": "ebc772af517d209ab6e204b8c5c7f46c93393fdfb191eaf9b42c6ff2b6f83fbc"
+        }
+      ]
+    },
+    "kalimotxo": {
+      "name": "Kalimotxo",
+      "candidates": [
+        {
+          "id": "kalimotxo",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a36791527/kalimotxo-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Kalimotxo.",
+          "path": "assets/recipes/kalimotxo__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1199,
+          "bytes": 221376,
+          "sha256": "b41ad243fbae05e3ec4b2aa48a855b3901266183e7ab85738e00149a5776cefd"
+        }
+      ]
+    },
+    "midori-sour": {
+      "name": "Midori Sour",
+      "candidates": [
+        {
+          "id": "midori-sour",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a42831107/midori-sour-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Midori Sour.",
+          "path": "assets/recipes/midori-sour__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1075,
+          "height": 1071,
+          "bytes": 192328,
+          "sha256": "60d2fd1d4a4ec6f113ca6b5f266e8a85577520251e74fa0ae7116d935e56a2bd"
+        }
+      ]
+    },
+    "black-russian": {
+      "name": "Black Russian",
+      "candidates": [
+        {
+          "id": "black-russian",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a42444080/black-russian-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Black Russian.",
+          "path": "assets/recipes/black-russian__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1194,
+          "bytes": 240644,
+          "sha256": "6c0917c401186fa5f6d498219352ccd074fbcf5fc42a268d2e5f89eed19675ed"
+        }
+      ]
+    },
+    "bourbon-peach-iced-tea": {
+      "name": "Bourbon Peach Iced Tea",
+      "candidates": [
+        {
+          "id": "bourbon-peach-iced-tea",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a60569601/bourbon-peach-iced-tea-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Bourbon Peach Iced Tea.",
+          "path": "assets/recipes/bourbon-peach-iced-tea__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1196,
+          "bytes": 420530,
+          "sha256": "c1d4bf3cd126bc1ac4c758404f7c3063cbcb758124eeb5ffa8af535e6dc530dc"
+        }
+      ]
+    },
+    "rum-runner": {
+      "name": "Rum Runner",
+      "candidates": [
+        {
+          "id": "rum-runner",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a39456776/rum-runner-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Rum Runner.",
+          "path": "assets/recipes/rum-runner__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 293830,
+          "sha256": "8ed76d7ecdf62cf1a88c01c4bdf46ceccc96c08f9a934df59902a7d384eb94c0"
+        }
+      ]
+    },
+    "pimm-s-cup": {
+      "name": "Pimm's Cup",
+      "candidates": [
+        {
+          "id": "pimm-s-cup",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a32784166/frozen-pimms-cup-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Pimm's Cup.",
+          "path": "assets/recipes/pimm-s-cup__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1198,
+          "bytes": 121132,
+          "sha256": "69d0da18dd66db6352c81408af2e5d60b6facb0aef573af9fc8b6c3bf610f7ca"
+        }
+      ]
+    },
+    "dark-and-stormy": {
+      "name": "Dark and Stormy",
+      "candidates": [
+        {
+          "id": "dark-and-stormy",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a38885892/dark-and-stormy-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Dark and Stormy.",
+          "path": "assets/recipes/dark-and-stormy__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1200,
+          "height": 1194,
+          "bytes": 220860,
+          "sha256": "cc1368bcc6faaebbd8881c1be460b95806ef5eefa638450cc387c2a837733805"
+        }
+      ]
+    },
+    "spezi-meister": {
+      "name": "Spezi-Meister",
+      "candidates": [
+        {
+          "id": "spezi-meister",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a61699051/the-spezi-meister-cocktail-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Spezi-Meister.",
+          "path": "assets/recipes/spezi-meister__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 588,
+          "height": 587,
+          "bytes": 38396,
+          "sha256": "7df65d800ebf87878f4bb2e40ce00dc2cd5f511cc7c41363489d56e0dc000164"
+        }
+      ]
+    },
+    "lemon-lime-and-bitters-tom-collins": {
+      "name": "Lemon, Lime, & Bitters Tom Collins",
+      "candidates": [
+        {
+          "id": "lemon-lime-and-bitters-tom-collins",
+          "source": "Delish Version",
+          "sourceUrl": "https://www.delish.com/cooking/recipe-ideas/a61700547/lemon-lime-and-bitters-tom-collins-recipe/",
+          "evidence": "Exact named-drink photograph on the Delish Version source page for Lemon, Lime, & Bitters Tom Collins.",
+          "path": "assets/recipes/lemon-lime-and-bitters-tom-collins__delish-version.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 1066,
+          "height": 1066,
+          "bytes": 99642,
+          "sha256": "6df9fabdb4f8a869280780dbbe9dddef48576d9d81e07474f58c753684bd0a43"
+        }
+      ]
+    },
+    "swinging-sultan": {
+      "name": "Swinging Sultan",
+      "candidates": [
+        {
+          "id": "swinging-sultan",
+          "source": "Panning The Globe",
+          "sourceUrl": "https://www.panningtheglobe.com/swinging-sultan-cocktail/",
+          "evidence": "Exact named-drink photograph on the Panning The Globe source page for Swinging Sultan.",
+          "path": "assets/recipes/swinging-sultan__panning-globe.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 225,
+          "height": 225,
+          "bytes": 14790,
+          "sha256": "e982db6b67fd80153d7d6187453dd904a4ef423f1a918ce5f2e85cc820f0a657"
         }
       ]
     }
