@@ -1,7 +1,7 @@
 name: Shakerrr CI
 on:
   push:
-    branches: [main, finish-shakerrr-20260925, reconstruct-shakerrr-20260928]
+    branches: [main, finish-shakerrr-20260925, reconstruct-shakerrr-20260928, 'fix-*']
   pull_request:
     branches: [main]
 permissions:
@@ -20,7 +20,5 @@ jobs:
         run: npm run validate
       - name: Install Chromium
         run: npx playwright install --with-deps chromium
-      - name: Start site
-        run: python3 -m http.server 4173 >/tmp/shakerrr-http.log 2>&1 &
       - name: Browser smoke tests
         run: npm test

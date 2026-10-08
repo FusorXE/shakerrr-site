@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "validate": "node scripts/validate.mjs && node scripts/validate-images.mjs && node --test tests/image-validation.test.mjs tests/catalog-model.test.mjs",
+    "validate": "node scripts/validate.mjs && node scripts/validate-images.mjs && node --test tests/*.test.mjs",
     "test": "playwright test",
     "catalog:stats": "node scripts/catalog-stats.mjs",
     "catalog:cards": "node --test tests/catalog-model.test.mjs",
