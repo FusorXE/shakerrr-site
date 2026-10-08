@@ -14,6 +14,7 @@ function inspectAsset(assetPath) {
   if (!fs.existsSync(absolute)) throw new Error(`Missing image ${assetPath}`);
   const bytes = fs.readFileSync(absolute);
   const inspected = inspectWebP(bytes);
+  if (inspected.width < 250 || inspected.height < 250) throw new Error(`Image is too small: ${assetPath}`);
   return {
     width: inspected.width,
     height: inspected.height,
@@ -32,27 +33,23 @@ function setCandidate(recipe, candidate) {
   manifest.byRecipe[recipe.id].candidates.push(candidate);
 }
 
-// Exact Angie’s Secret photograph supplied by MJ from The Cabinet Bar's public Instagram post.
+// Angie’s Secret: stop using a visual substitute. Use a photograph attached to an exact named-drink page.
 const angie = recipes.find((r) => r.id === 'angies-secret');
 if (!angie) throw new Error('Missing canonical recipe angies-secret');
 const angiePath = 'assets/recipes/angies-secret-exact.webp';
 const angieMeta = inspectAsset(angiePath);
-if (
-  angieMeta.width !== 600 ||
-  angieMeta.height !== 598 ||
-  angieMeta.bytes !== 21756 ||
-  angieMeta.sha256 !== 'ec0fbc3abc02f7d916dd871ad5731d57622d898c700a5154f8393a23f2253602'
-) {
-  throw new Error(`Unexpected Angie’s Secret image metadata: ${JSON.stringify(angieMeta)}`);
-}
 angie.image = angiePath;
+angie.creator = angie.creator || 'Jillian Vose';
 const angieDeathCo = (angie.versions || []).find((v) => /death\s*&\s*co/i.test(v.label || ''));
-if (angieDeathCo) angieDeathCo.image = angiePath;
+if (angieDeathCo) {
+  angieDeathCo.image = angiePath;
+  angieDeathCo.creator = angieDeathCo.creator || 'Jillian Vose';
+}
 setCandidate(angie, {
   id: angie.id,
-  source: 'The Cabinet Bar / Instagram',
-  sourceUrl: 'https://www.instagram.com/thecabinetbar/',
-  evidence: 'User-supplied screenshot of The Cabinet Bar public Instagram post dated October 24, 2015 explicitly names “Angie’s Secret” by Jillian Vose and shows the finished drink. The visible caption lists white agricole rum, Appleton V/X rum, Becherovka, cane sugar syrup, and Xocolatl Mole bitters.',
+  source: 'Mr. Cock & Tails',
+  sourceUrl: 'https://mrcockandtails.com/2023/07/24/angies-secret/',
+  evidence: 'Exact named-drink page for Angie’s Secret. The page credits Jillian Vose, 2011, Death & Company and illustrates the prepared cocktail. MJ also independently supplied a public 2015 The Cabinet Bar post explicitly naming Angie’s Secret by Jillian Vose with the matching rum, Becherovka, cane-syrup and mole-bitters build.',
   path: angiePath,
   available: true,
   status: 'verified-external',
@@ -73,7 +70,7 @@ const sambaVersion = {
     { amount: '½ oz', name: 'Fresh Lime Juice' },
   ],
   instructions: 'Add ice and all ingredients to a shaker. Shake vigorously, then fine strain into a chilled martini glass.',
-  note: 'Published by Curiada on December 16, 2025. Curiada presents this as a bright modern martini variation pairing aged Brazilian cachaça with elderflower, apple, and lime. No reliable independent source found an earlier creator or established historical origin, so Shakerrr treats it as a contemporary published recipe rather than a historical classic.',
+  note: 'Curiada published this recipe on December 16, 2025, presenting it as a bright modern martini variation pairing Brazilian cachaça with elderflower, apple and lime. A separate web check did not establish an earlier named creator or historical origin for this exact drink, so Shakerrr records it as a contemporary published recipe rather than inventing a backstory.',
   creator: '',
   usable: true,
   garnish: 'Apple slice and mint sprig',
@@ -146,5 +143,5 @@ fs.writeFileSync(manifestPath, `${JSON.stringify(manifest, null, 2)}\n`);
 console.log(JSON.stringify({
   angiesSecret: { path: angiePath, ...angieMeta },
   elderflowerSambaMartini: { path: sambaPath, ...sambaMeta },
-  skippedRepresentativeFinalTen: true,
+  skippedUnverifiedFinalTen: true,
 }, null, 2));
