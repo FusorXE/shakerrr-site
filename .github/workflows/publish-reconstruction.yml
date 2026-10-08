@@ -1,0 +1,61 @@
+name: Publish exact Angie and Elderflower Samba
+on:
+  push:
+    branches: [reconstruct-shakerrr-20260928]
+    paths:
+      - .shakerrr-publish-reconstruction
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: reconstruct-shakerrr-20260928
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install project dependencies
+        run: npm ci
+      - name: Download and convert exact Curiada photograph
+        run: |
+          python -m pip install --quiet pillow
+          python - <<'PY'
+          from io import BytesIO
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+          from PIL import Image
+
+          url = 'https://curiada.com/cdn/shop/articles/1e31fe5b-a4c3-4916-951c-9765fef50856_800x.png?v=1770221671'
+          request = Request(url, headers={
+              'User-Agent': 'Mozilla/5.0 (compatible; ShakerrrRecipeArchive/1.0)',
+              'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+              'Referer': 'https://curiada.com/blogs/cocktail-library/elderflower-samba-martini',
+          })
+          body = urlopen(request, timeout=45).read()
+          image = Image.open(BytesIO(body)).convert('RGB')
+          image.thumbnail((1200, 1200), Image.Resampling.LANCZOS)
+          out = Path('assets/recipes/elderflower-samba-martini-curiada.webp')
+          out.parent.mkdir(parents=True, exist_ok=True)
+          image.save(out, 'WEBP', quality=88, method=6)
+          print(f'Wrote {out}: {image.width}x{image.height}, {out.stat().st_size} bytes')
+          PY
+      - name: Persist exact sources and new recipe
+        run: node scripts/publish-reconstruction.mjs
+      - name: Refresh catalog metadata
+        run: node scripts/catalog-stats.mjs
+      - name: Validate catalog
+        run: npm run validate
+      - name: Check diff
+        run: git diff --check
+      - name: Commit durable reconstruction changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/recipes/angies-secret-exact.webp assets/recipes/elderflower-samba-martini-curiada.webp data/recipes.json data/image-manifest.json data/catalog-meta.json data/collections.json
+          git rm -f .github/workflows/finalize-final10-images.yml .shakerrr-final10-images.zip .shakerrr-finalize-final10 scripts/finalize-final10-images.mjs || true
+          git rm -f .github/workflows/publish-reconstruction.yml .shakerrr-publish-reconstruction scripts/publish-reconstruction.mjs
+          git commit -m "Add exact Angie image and Elderflower Samba Martini"
+          git push origin HEAD:reconstruct-shakerrr-20260928
