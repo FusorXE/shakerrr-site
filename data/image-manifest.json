@@ -12961,6 +12961,166 @@
           "sha256": "93bcbfd0c42addb0c33339cfdecd24493eebf071879e18035dce1a19095ba66d"
         }
       ]
+    },
+    "the-celery-sour": {
+      "name": "The Celery Sour",
+      "candidates": [
+        {
+          "id": "the-celery-sour",
+          "source": "Curiada",
+          "path": "assets/recipes/the-celery-sour-curiada.webp",
+          "available": true,
+          "status": "verified-external",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/the-celery-sour",
+          "sourceImageUrl": "https://curiada.com/cdn/shop/articles/cocktail-recImsTKVgcLVI5bp-1777500828022_800x.jpg?v=1778190486",
+          "sourceImageRecipe": "The Celery Sour",
+          "evidence": "Named article Recipe schema identifies The Celery Sour and this image; recipe facts reviewed 2026-10-08.",
+          "width": 800,
+          "height": 800,
+          "bytes": 24436,
+          "sha256": "84bd5dfe19deaf7360f51f1c2d091ab3ab4ff61d05722470b67390ed26f86237"
+        }
+      ]
+    },
+    "tomato-blossom-daiquiri": {
+      "name": "Tomato Blossom Daiquiri",
+      "candidates": [
+        {
+          "id": "tomato-blossom-daiquiri",
+          "source": "Curiada",
+          "path": "assets/recipes/tomato-blossom-daiquiri-curiada.webp",
+          "available": true,
+          "status": "verified-external",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/tomato-blossom-daiquiri",
+          "sourceImageUrl": "https://curiada.com/cdn/shop/articles/cocktail-recPGAXVxs5MrARSv-1777502201906_800x.jpg?v=1778190426",
+          "sourceImageRecipe": "Tomato Blossom Daiquiri",
+          "evidence": "Named article Recipe schema identifies Tomato Blossom Daiquiri and this image; recipe facts reviewed 2026-10-08.",
+          "width": 800,
+          "height": 800,
+          "bytes": 19250,
+          "sha256": "4f996b64a9875acc7428162abee9e29e3a3253ad9e5c9420c3edd03abe8c1318"
+        }
+      ]
+    },
+    "dublin-rusty-mule": {
+      "name": "Dublin Rusty Mule",
+      "candidates": [
+        {
+          "id": "dublin-rusty-mule",
+          "source": "Curiada",
+          "path": "assets/recipes/dublin-rusty-mule-curiada.webp",
+          "available": true,
+          "status": "verified-external",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/dublin-rusty-mule",
+          "sourceImageUrl": "https://curiada.com/cdn/shop/articles/cocktail-recybgCH2uVunhl98-1777502540208_800x.jpg?v=1778190395",
+          "sourceImageRecipe": "Dublin Rusty Mule",
+          "evidence": "Named article Recipe schema identifies Dublin Rusty Mule and this image; recipe facts reviewed 2026-10-08.",
+          "width": 800,
+          "height": 800,
+          "bytes": 35762,
+          "sha256": "cb8a7e6e4220803107f096bb0532b968952a93f487d2b6b72b932b9852a65794"
+        }
+      ]
+    },
+    "sloe-burn-sipper": {
+      "name": "Sloe Burn Sipper",
+      "candidates": [
+        {
+          "id": "sloe-burn-sipper",
+          "source": "Curiada",
+          "path": "assets/recipes/sloe-burn-sipper-curiada.webp",
+          "available": true,
+          "status": "verified-external",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/sloe-burn-sipper",
+          "sourceImageUrl": "https://curiada.com/cdn/shop/articles/cocktail-recW52rqJ73ksDtAr-1777500723299_800x.jpg?v=1778190361",
+          "sourceImageRecipe": "Sloe Burn Sipper",
+          "evidence": "Named article Recipe schema identifies Sloe Burn Sipper and this image; recipe facts reviewed 2026-10-08.",
+          "width": 800,
+          "height": 800,
+          "bytes": 55182,
+          "sha256": "f51297a33dfec342aa362dfc078a01451ffe19d47ebc6381ef1294e05a34c3ff"
+        }
+      ]
+    },
+    "cherry-gin-buck": {
+      "name": "Cherry Gin Buck",
+      "candidates": [
+        {
+          "id": "cherry-gin-buck",
+          "source": "Curiada",
+          "path": "assets/recipes/cherry-gin-buck-curiada.webp",
+          "available": true,
+          "status": "verified-external",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/cherry-gin-buck",
+          "sourceImageUrl": "https://curiada.com/cdn/shop/articles/cocktail-recTK3eqKnWsSzYMz-1777494450817_800x.jpg?v=1778190387",
+          "sourceImageRecipe": "Cherry Gin Buck",
+          "evidence": "Named article Recipe schema identifies Cherry Gin Buck and this image; recipe facts reviewed 2026-10-08.",
+          "width": 800,
+          "height": 800,
+          "bytes": 28584,
+          "sha256": "6ad5dc612795dbd75f24ff9d4bd24f5f4cb841a82b02f9e14ecf6a225aeba001"
+        }
+      ]
+    },
+    "spiced-rum-cooler": {
+      "name": "Spiced Rum Cooler",
+      "candidates": [
+        {
+          "id": "spiced-rum-cooler",
+          "source": "Curiada",
+          "path": "assets/recipes/spiced-rum-cooler-curiada.webp",
+          "available": true,
+          "status": "verified-external",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/spiced-rum-cooler",
+          "sourceImageUrl": "https://curiada.com/cdn/shop/articles/cocktail-rec3Twh19GEVs18cG-1777498927147_800x.jpg?v=1778190353",
+          "sourceImageRecipe": "Spiced Rum Cooler",
+          "evidence": "Named article Recipe schema identifies Spiced Rum Cooler and this image; recipe facts reviewed 2026-10-08.",
+          "width": 800,
+          "height": 800,
+          "bytes": 38746,
+          "sha256": "60354021c1f2f7bd1997d848571e809b4cef60890ffe50bd173035ded0fb9b1e"
+        }
+      ]
+    },
+    "gilded-bitter": {
+      "name": "Gilded Bitter",
+      "candidates": [
+        {
+          "id": "gilded-bitter",
+          "source": "Curiada",
+          "path": "assets/recipes/gilded-bitter-curiada.webp",
+          "available": true,
+          "status": "verified-external",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/gilded-bitter",
+          "sourceImageUrl": "https://curiada.com/cdn/shop/articles/cocktail-recEPu55IL6hMz11N-1777488505878_800x.jpg?v=1778190300",
+          "sourceImageRecipe": "Gilded Bitter",
+          "evidence": "Named article Recipe schema identifies Gilded Bitter and this image; recipe facts reviewed 2026-10-08.",
+          "width": 800,
+          "height": 800,
+          "bytes": 32266,
+          "sha256": "b5f93350f10a9cdde6f2cf2df235a02de484bc39da47960a5d9c316defeedc2a"
+        }
+      ]
+    },
+    "golden-fizz-royale": {
+      "name": "Golden Fizz Royale",
+      "candidates": [
+        {
+          "id": "golden-fizz-royale",
+          "source": "Curiada",
+          "path": "assets/recipes/golden-fizz-royale-curiada.webp",
+          "available": true,
+          "status": "verified-external",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/golden-fizz-royale",
+          "sourceImageUrl": "https://curiada.com/cdn/shop/articles/cocktail-recLFJIYkxfCgnUWi-1777502792930_800x.jpg?v=1778190402",
+          "sourceImageRecipe": "Golden Fizz Royale",
+          "evidence": "Named article Recipe schema identifies Golden Fizz Royale and this image; recipe facts reviewed 2026-10-08.",
+          "width": 800,
+          "height": 800,
+          "bytes": 20824,
+          "sha256": "25dea7c7c219544b5814a789d6f4a3810f1cd17b867c01882979a15a5be63087"
+        }
+      ]
     }
   }
 }

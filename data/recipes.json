@@ -31427,5 +31427,664 @@
     "family": "Other",
     "garnish": "1 Mint Sprig",
     "quality": "verified"
+  },
+  {
+    "id": "the-celery-sour",
+    "name": "The Celery Sour",
+    "category": "Modern",
+    "country": null,
+    "method": "Shake",
+    "family": "Sour",
+    "tags": [
+      "curiada",
+      "gin",
+      "savory",
+      "sour"
+    ],
+    "versions": [
+      {
+        "label": "Curiada",
+        "key": "curiada",
+        "type": "Published Reference",
+        "ingredients": [
+          {
+            "amount": "1.50 fl oz",
+            "name": "Hendrick's Gin"
+          },
+          {
+            "amount": "0.67 fl oz",
+            "name": "Freshly squeezed lemon juice"
+          },
+          {
+            "amount": "0.33 fl oz",
+            "name": "Fresh pressed pineapple juice"
+          },
+          {
+            "amount": "0.33 fl oz",
+            "name": "Giffard Sugar Cane Syrup (Sirop Sucre de Canne)"
+          },
+          {
+            "amount": "0.08 fl oz",
+            "name": "Fee Brother's Celery Bitters"
+          },
+          {
+            "amount": "0.50 fl oz",
+            "name": "Fee Brothers Fee Foam Egg White Alternative"
+          }
+        ],
+        "instructions": "Shake everything vigorously with ice. Double-strain into a cold coupe and add a celery stick.",
+        "note": "Published in Curiada's Cocktail Library on 2026-09-30.",
+        "creator": "",
+        "usable": true,
+        "garnish": "Celery stick",
+        "glass": "Coupe glass",
+        "image": "assets/recipes/the-celery-sour-curiada.webp",
+        "url": "https://curiada.com/blogs/cocktail-library/the-celery-sour",
+        "sourceUrl": "https://curiada.com/blogs/cocktail-library/the-celery-sour",
+        "published": "2026-09-30"
+      }
+    ],
+    "image": "assets/recipes/the-celery-sour-curiada.webp",
+    "movie": null,
+    "collections": [
+      "Curiada"
+    ],
+    "ingredients": [
+      {
+        "amount": "1.50 fl oz",
+        "name": "Hendrick's Gin"
+      },
+      {
+        "amount": "0.67 fl oz",
+        "name": "Freshly squeezed lemon juice"
+      },
+      {
+        "amount": "0.33 fl oz",
+        "name": "Fresh pressed pineapple juice"
+      },
+      {
+        "amount": "0.33 fl oz",
+        "name": "Giffard Sugar Cane Syrup (Sirop Sucre de Canne)"
+      },
+      {
+        "amount": "0.08 fl oz",
+        "name": "Fee Brother's Celery Bitters"
+      },
+      {
+        "amount": "0.50 fl oz",
+        "name": "Fee Brothers Fee Foam Egg White Alternative"
+      }
+    ],
+    "instructions": "Shake everything vigorously with ice. Double-strain into a cold coupe and add a celery stick.",
+    "note": "Published in Curiada's Cocktail Library on 2026-09-30.",
+    "quality": "verified",
+    "garnish": "Celery stick",
+    "glass": "Coupe glass"
+  },
+  {
+    "id": "tomato-blossom-daiquiri",
+    "name": "Tomato Blossom Daiquiri",
+    "category": "Modern",
+    "country": null,
+    "method": "Shake",
+    "family": "Sour",
+    "tags": [
+      "curiada",
+      "rum",
+      "elderflower",
+      "savory",
+      "sour"
+    ],
+    "versions": [
+      {
+        "label": "Curiada",
+        "key": "curiada",
+        "type": "Published Reference",
+        "ingredients": [
+          {
+            "amount": "1.00 fresh",
+            "name": "Cherry tomato (chopped)"
+          },
+          {
+            "amount": "4.00 fresh",
+            "name": "Basil leaves"
+          },
+          {
+            "amount": "1.67 fl oz",
+            "name": "Planteray 3 Stars White Rum"
+          },
+          {
+            "amount": "0.83 fl oz",
+            "name": "Freshly squeezed lemon juice"
+          },
+          {
+            "amount": "0.83 fl oz",
+            "name": "St-Germain Elderflower Liqueur"
+          },
+          {
+            "amount": "0.17 fl oz",
+            "name": "Giffard Sugar Cane Syrup (Sirop Sucre de Canne)"
+          }
+        ],
+        "instructions": "Crush the tomato and basil in a shaker. Add the liquids and ice, then shake thoroughly. Double-strain into a cold coupe; garnish the rim with half a cherry tomato and a small basil sprig.",
+        "note": "Published in Curiada's Cocktail Library on 2026-09-30.",
+        "creator": "",
+        "usable": true,
+        "garnish": "Half a cherry tomato and a small basil sprig",
+        "glass": "Coupe glass",
+        "image": "assets/recipes/tomato-blossom-daiquiri-curiada.webp",
+        "url": "https://curiada.com/blogs/cocktail-library/tomato-blossom-daiquiri",
+        "sourceUrl": "https://curiada.com/blogs/cocktail-library/tomato-blossom-daiquiri",
+        "published": "2026-09-30"
+      }
+    ],
+    "image": "assets/recipes/tomato-blossom-daiquiri-curiada.webp",
+    "movie": null,
+    "collections": [
+      "Curiada"
+    ],
+    "ingredients": [
+      {
+        "amount": "1.00 fresh",
+        "name": "Cherry tomato (chopped)"
+      },
+      {
+        "amount": "4.00 fresh",
+        "name": "Basil leaves"
+      },
+      {
+        "amount": "1.67 fl oz",
+        "name": "Planteray 3 Stars White Rum"
+      },
+      {
+        "amount": "0.83 fl oz",
+        "name": "Freshly squeezed lemon juice"
+      },
+      {
+        "amount": "0.83 fl oz",
+        "name": "St-Germain Elderflower Liqueur"
+      },
+      {
+        "amount": "0.17 fl oz",
+        "name": "Giffard Sugar Cane Syrup (Sirop Sucre de Canne)"
+      }
+    ],
+    "instructions": "Crush the tomato and basil in a shaker. Add the liquids and ice, then shake thoroughly. Double-strain into a cold coupe; garnish the rim with half a cherry tomato and a small basil sprig.",
+    "note": "Published in Curiada's Cocktail Library on 2026-09-30.",
+    "quality": "verified",
+    "garnish": "Half a cherry tomato and a small basil sprig",
+    "glass": "Coupe glass"
+  },
+  {
+    "id": "dublin-rusty-mule",
+    "name": "Dublin Rusty Mule",
+    "category": "Modern",
+    "country": null,
+    "method": "Shake",
+    "family": "Highball",
+    "tags": [
+      "curiada",
+      "whiskey",
+      "ginger",
+      "highball"
+    ],
+    "versions": [
+      {
+        "label": "Curiada",
+        "key": "curiada",
+        "type": "Published Reference",
+        "ingredients": [
+          {
+            "amount": "2.00 fl oz",
+            "name": "Jameson Irish Whiskey"
+          },
+          {
+            "amount": "1.00 fl oz",
+            "name": "Drambuie Liqueur"
+          },
+          {
+            "amount": "2.00 dash",
+            "name": "Angostura Orange Bitters"
+          },
+          {
+            "amount": "4.00 dash",
+            "name": "Angostura Aromatic Bitters"
+          },
+          {
+            "amount": "0.25 fl oz",
+            "name": "Freshly squeezed lemon juice"
+          },
+          {
+            "amount": "2.50 fl oz",
+            "name": "Ginger ale"
+          }
+        ],
+        "instructions": "Shake the whiskey, Drambuie, both bitters and lemon juice with ice. Strain over fresh ice in a Collins glass, then add the ginger ale.",
+        "note": "Published in Curiada's Cocktail Library on 2026-09-23.",
+        "creator": "",
+        "usable": true,
+        "garnish": "",
+        "glass": "Collins glass",
+        "image": "assets/recipes/dublin-rusty-mule-curiada.webp",
+        "url": "https://curiada.com/blogs/cocktail-library/dublin-rusty-mule",
+        "sourceUrl": "https://curiada.com/blogs/cocktail-library/dublin-rusty-mule",
+        "published": "2026-09-23"
+      }
+    ],
+    "image": "assets/recipes/dublin-rusty-mule-curiada.webp",
+    "movie": null,
+    "collections": [
+      "Curiada"
+    ],
+    "ingredients": [
+      {
+        "amount": "2.00 fl oz",
+        "name": "Jameson Irish Whiskey"
+      },
+      {
+        "amount": "1.00 fl oz",
+        "name": "Drambuie Liqueur"
+      },
+      {
+        "amount": "2.00 dash",
+        "name": "Angostura Orange Bitters"
+      },
+      {
+        "amount": "4.00 dash",
+        "name": "Angostura Aromatic Bitters"
+      },
+      {
+        "amount": "0.25 fl oz",
+        "name": "Freshly squeezed lemon juice"
+      },
+      {
+        "amount": "2.50 fl oz",
+        "name": "Ginger ale"
+      }
+    ],
+    "instructions": "Shake the whiskey, Drambuie, both bitters and lemon juice with ice. Strain over fresh ice in a Collins glass, then add the ginger ale.",
+    "note": "Published in Curiada's Cocktail Library on 2026-09-23.",
+    "quality": "verified",
+    "garnish": "",
+    "glass": "Collins glass"
+  },
+  {
+    "id": "sloe-burn-sipper",
+    "name": "Sloe Burn Sipper",
+    "category": "Modern",
+    "country": null,
+    "method": "Stir",
+    "family": "Negroni",
+    "tags": [
+      "curiada",
+      "gin",
+      "sherry",
+      "aperitif"
+    ],
+    "versions": [
+      {
+        "label": "Curiada",
+        "key": "curiada",
+        "type": "Published Reference",
+        "ingredients": [
+          {
+            "amount": "1.33 fl oz",
+            "name": "Hayman's Sloe Gin"
+          },
+          {
+            "amount": "1.00 fl oz",
+            "name": "Valdespino Inocente Fino Sherry"
+          },
+          {
+            "amount": "0.67 fl oz",
+            "name": "Suze Aperitif"
+          }
+        ],
+        "instructions": "Combine the sloe gin, sherry and Suze over ice in an old-fashioned glass. Stir to mix and chill. Finish with pink grapefruit and a scorched rosemary sprig.",
+        "note": "Published in Curiada's Cocktail Library on 2026-09-16.",
+        "creator": "",
+        "usable": true,
+        "garnish": "Pink grapefruit wedge and scorched rosemary sprig",
+        "glass": "Old-fashioned glass",
+        "image": "assets/recipes/sloe-burn-sipper-curiada.webp",
+        "url": "https://curiada.com/blogs/cocktail-library/sloe-burn-sipper",
+        "sourceUrl": "https://curiada.com/blogs/cocktail-library/sloe-burn-sipper",
+        "published": "2026-09-16"
+      }
+    ],
+    "image": "assets/recipes/sloe-burn-sipper-curiada.webp",
+    "movie": null,
+    "collections": [
+      "Curiada"
+    ],
+    "ingredients": [
+      {
+        "amount": "1.33 fl oz",
+        "name": "Hayman's Sloe Gin"
+      },
+      {
+        "amount": "1.00 fl oz",
+        "name": "Valdespino Inocente Fino Sherry"
+      },
+      {
+        "amount": "0.67 fl oz",
+        "name": "Suze Aperitif"
+      }
+    ],
+    "instructions": "Combine the sloe gin, sherry and Suze over ice in an old-fashioned glass. Stir to mix and chill. Finish with pink grapefruit and a scorched rosemary sprig.",
+    "note": "Published in Curiada's Cocktail Library on 2026-09-16.",
+    "quality": "verified",
+    "garnish": "Pink grapefruit wedge and scorched rosemary sprig",
+    "glass": "Old-fashioned glass"
+  },
+  {
+    "id": "cherry-gin-buck",
+    "name": "Cherry Gin Buck",
+    "category": "Modern",
+    "country": null,
+    "method": "Shake",
+    "family": "Highball",
+    "tags": [
+      "curiada",
+      "gin",
+      "cherry",
+      "ginger",
+      "highball"
+    ],
+    "versions": [
+      {
+        "label": "Curiada",
+        "key": "curiada",
+        "type": "Published Reference",
+        "ingredients": [
+          {
+            "amount": "2.00 fl oz",
+            "name": "Beefeater London Dry Gin"
+          },
+          {
+            "amount": "0.75 fl oz",
+            "name": "Heering Cherry Liqueur"
+          },
+          {
+            "amount": "1.50 fl oz",
+            "name": "Freshly squeezed orange juice"
+          },
+          {
+            "amount": "To top",
+            "name": "Three Cents Ginger Beer"
+          }
+        ],
+        "instructions": "Shake the gin, cherry liqueur and orange juice with ice. Strain over fresh ice in a Collins glass. Add ginger beer to fill and garnish with an orange slice.",
+        "note": "Published in Curiada's Cocktail Library on 2026-09-23.",
+        "creator": "",
+        "usable": true,
+        "garnish": "Orange slice",
+        "glass": "Collins glass",
+        "image": "assets/recipes/cherry-gin-buck-curiada.webp",
+        "url": "https://curiada.com/blogs/cocktail-library/cherry-gin-buck",
+        "sourceUrl": "https://curiada.com/blogs/cocktail-library/cherry-gin-buck",
+        "published": "2026-09-23"
+      }
+    ],
+    "image": "assets/recipes/cherry-gin-buck-curiada.webp",
+    "movie": null,
+    "collections": [
+      "Curiada"
+    ],
+    "ingredients": [
+      {
+        "amount": "2.00 fl oz",
+        "name": "Beefeater London Dry Gin"
+      },
+      {
+        "amount": "0.75 fl oz",
+        "name": "Heering Cherry Liqueur"
+      },
+      {
+        "amount": "1.50 fl oz",
+        "name": "Freshly squeezed orange juice"
+      },
+      {
+        "amount": "To top",
+        "name": "Three Cents Ginger Beer"
+      }
+    ],
+    "instructions": "Shake the gin, cherry liqueur and orange juice with ice. Strain over fresh ice in a Collins glass. Add ginger beer to fill and garnish with an orange slice.",
+    "note": "Published in Curiada's Cocktail Library on 2026-09-23.",
+    "quality": "verified",
+    "garnish": "Orange slice",
+    "glass": "Collins glass"
+  },
+  {
+    "id": "spiced-rum-cooler",
+    "name": "Spiced Rum Cooler",
+    "category": "Modern",
+    "country": null,
+    "method": "Build",
+    "family": "Highball",
+    "tags": [
+      "curiada",
+      "rum",
+      "ginger",
+      "highball"
+    ],
+    "versions": [
+      {
+        "label": "Curiada",
+        "key": "curiada",
+        "type": "Published Reference",
+        "ingredients": [
+          {
+            "amount": "2.00 fl oz",
+            "name": "Don Q Oak Barrel Spiced Rum"
+          },
+          {
+            "amount": "0.50 fl oz",
+            "name": "Freshly squeezed lime juice"
+          },
+          {
+            "amount": "0.50 fl oz",
+            "name": "Giffard Sugar Cane Syrup (Sirop Sucre de Canne)"
+          },
+          {
+            "amount": "2.50 fl oz",
+            "name": "Three Cents Ginger Beer"
+          }
+        ],
+        "instructions": "Combine the rum, lime juice, cane syrup and ginger beer over ice in a Collins glass. Stir gently and finish with a wedge of lime.",
+        "note": "Published in Curiada's Cocktail Library on 2026-09-23.",
+        "creator": "",
+        "usable": true,
+        "garnish": "Lime wedge",
+        "glass": "Collins glass",
+        "image": "assets/recipes/spiced-rum-cooler-curiada.webp",
+        "url": "https://curiada.com/blogs/cocktail-library/spiced-rum-cooler",
+        "sourceUrl": "https://curiada.com/blogs/cocktail-library/spiced-rum-cooler",
+        "published": "2026-09-23"
+      }
+    ],
+    "image": "assets/recipes/spiced-rum-cooler-curiada.webp",
+    "movie": null,
+    "collections": [
+      "Curiada"
+    ],
+    "ingredients": [
+      {
+        "amount": "2.00 fl oz",
+        "name": "Don Q Oak Barrel Spiced Rum"
+      },
+      {
+        "amount": "0.50 fl oz",
+        "name": "Freshly squeezed lime juice"
+      },
+      {
+        "amount": "0.50 fl oz",
+        "name": "Giffard Sugar Cane Syrup (Sirop Sucre de Canne)"
+      },
+      {
+        "amount": "2.50 fl oz",
+        "name": "Three Cents Ginger Beer"
+      }
+    ],
+    "instructions": "Combine the rum, lime juice, cane syrup and ginger beer over ice in a Collins glass. Stir gently and finish with a wedge of lime.",
+    "note": "Published in Curiada's Cocktail Library on 2026-09-23.",
+    "quality": "verified",
+    "garnish": "Lime wedge",
+    "glass": "Collins glass"
+  },
+  {
+    "id": "gilded-bitter",
+    "name": "Gilded Bitter",
+    "category": "Modern",
+    "country": null,
+    "method": "Stir",
+    "family": "Negroni",
+    "tags": [
+      "curiada",
+      "gin",
+      "aperitif",
+      "bitter"
+    ],
+    "versions": [
+      {
+        "label": "Curiada",
+        "key": "curiada",
+        "type": "Published Reference",
+        "ingredients": [
+          {
+            "amount": "1.00 fl oz",
+            "name": "Beefeater London Dry Gin"
+          },
+          {
+            "amount": "2.00 fl oz",
+            "name": "Tempus Fugit Kina L'Aero d'Or"
+          },
+          {
+            "amount": "0.50 fl oz",
+            "name": "Suze Aperitif"
+          }
+        ],
+        "instructions": "Combine the gin, Kina and Suze over ice in an old-fashioned glass. Stir to mix and chill, then add a twist of orange zest.",
+        "note": "Published in Curiada's Cocktail Library on 2026-09-16.",
+        "creator": "",
+        "usable": true,
+        "garnish": "Orange zest twist",
+        "glass": "Old-fashioned glass",
+        "image": "assets/recipes/gilded-bitter-curiada.webp",
+        "url": "https://curiada.com/blogs/cocktail-library/gilded-bitter",
+        "sourceUrl": "https://curiada.com/blogs/cocktail-library/gilded-bitter",
+        "published": "2026-09-16"
+      }
+    ],
+    "image": "assets/recipes/gilded-bitter-curiada.webp",
+    "movie": null,
+    "collections": [
+      "Curiada"
+    ],
+    "ingredients": [
+      {
+        "amount": "1.00 fl oz",
+        "name": "Beefeater London Dry Gin"
+      },
+      {
+        "amount": "2.00 fl oz",
+        "name": "Tempus Fugit Kina L'Aero d'Or"
+      },
+      {
+        "amount": "0.50 fl oz",
+        "name": "Suze Aperitif"
+      }
+    ],
+    "instructions": "Combine the gin, Kina and Suze over ice in an old-fashioned glass. Stir to mix and chill, then add a twist of orange zest.",
+    "note": "Published in Curiada's Cocktail Library on 2026-09-16.",
+    "quality": "verified",
+    "garnish": "Orange zest twist",
+    "glass": "Old-fashioned glass"
+  },
+  {
+    "id": "golden-fizz-royale",
+    "name": "Golden Fizz Royale",
+    "category": "Modern",
+    "country": null,
+    "method": "Shake",
+    "family": "Sour",
+    "tags": [
+      "curiada",
+      "vodka",
+      "orange",
+      "ginger",
+      "sour"
+    ],
+    "versions": [
+      {
+        "label": "Curiada",
+        "key": "curiada",
+        "type": "Published Reference",
+        "ingredients": [
+          {
+            "amount": "1.00 fl oz",
+            "name": "Ketel One Vodka"
+          },
+          {
+            "amount": "1.00 fl oz",
+            "name": "Grand Marnier"
+          },
+          {
+            "amount": "0.50 fl oz",
+            "name": "Freshly squeezed lemon juice"
+          },
+          {
+            "amount": "0.25 fl oz",
+            "name": "Giffard Sugar Cane Syrup (Sirop Sucre de Canne)"
+          },
+          {
+            "amount": "1.50 fl oz",
+            "name": "Ginger ale"
+          }
+        ],
+        "instructions": "Shake the vodka, Grand Marnier, lemon juice and cane syrup with ice. Strain into a cold flute. Add ginger ale, stir gently and finish with a cape gooseberry.",
+        "note": "Published in Curiada's Cocktail Library on 2026-09-23.",
+        "creator": "",
+        "usable": true,
+        "garnish": "Physalis (cape gooseberry)",
+        "glass": "Flute glass",
+        "image": "assets/recipes/golden-fizz-royale-curiada.webp",
+        "url": "https://curiada.com/blogs/cocktail-library/golden-fizz-royale",
+        "sourceUrl": "https://curiada.com/blogs/cocktail-library/golden-fizz-royale",
+        "published": "2026-09-23"
+      }
+    ],
+    "image": "assets/recipes/golden-fizz-royale-curiada.webp",
+    "movie": null,
+    "collections": [
+      "Curiada"
+    ],
+    "ingredients": [
+      {
+        "amount": "1.00 fl oz",
+        "name": "Ketel One Vodka"
+      },
+      {
+        "amount": "1.00 fl oz",
+        "name": "Grand Marnier"
+      },
+      {
+        "amount": "0.50 fl oz",
+        "name": "Freshly squeezed lemon juice"
+      },
+      {
+        "amount": "0.25 fl oz",
+        "name": "Giffard Sugar Cane Syrup (Sirop Sucre de Canne)"
+      },
+      {
+        "amount": "1.50 fl oz",
+        "name": "Ginger ale"
+      }
+    ],
+    "instructions": "Shake the vodka, Grand Marnier, lemon juice and cane syrup with ice. Strain into a cold flute. Add ginger ale, stir gently and finish with a cape gooseberry.",
+    "note": "Published in Curiada's Cocktail Library on 2026-09-23.",
+    "quality": "verified",
+    "garnish": "Physalis (cape gooseberry)",
+    "glass": "Flute glass"
   }
 ]

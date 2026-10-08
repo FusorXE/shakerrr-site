@@ -1,0 +1,53 @@
+{
+  "checked": "2026-10-08",
+  "recipes": [
+    {
+      "id": "the-celery-sour",
+      "action": "added",
+      "sourceUrl": "https://curiada.com/blogs/cocktail-library/the-celery-sour",
+      "image": "assets/recipes/the-celery-sour-curiada.webp"
+    },
+    {
+      "id": "tomato-blossom-daiquiri",
+      "action": "added",
+      "sourceUrl": "https://curiada.com/blogs/cocktail-library/tomato-blossom-daiquiri",
+      "image": "assets/recipes/tomato-blossom-daiquiri-curiada.webp"
+    },
+    {
+      "id": "dublin-rusty-mule",
+      "action": "added",
+      "sourceUrl": "https://curiada.com/blogs/cocktail-library/dublin-rusty-mule",
+      "image": "assets/recipes/dublin-rusty-mule-curiada.webp"
+    },
+    {
+      "id": "sloe-burn-sipper",
+      "action": "added",
+      "sourceUrl": "https://curiada.com/blogs/cocktail-library/sloe-burn-sipper",
+      "image": "assets/recipes/sloe-burn-sipper-curiada.webp"
+    },
+    {
+      "id": "cherry-gin-buck",
+      "action": "added",
+      "sourceUrl": "https://curiada.com/blogs/cocktail-library/cherry-gin-buck",
+      "image": "assets/recipes/cherry-gin-buck-curiada.webp"
+    },
+    {
+      "id": "spiced-rum-cooler",
+      "action": "added",
+      "sourceUrl": "https://curiada.com/blogs/cocktail-library/spiced-rum-cooler",
+      "image": "assets/recipes/spiced-rum-cooler-curiada.webp"
+    },
+    {
+      "id": "gilded-bitter",
+      "action": "added",
+      "sourceUrl": "https://curiada.com/blogs/cocktail-library/gilded-bitter",
+      "image": "assets/recipes/gilded-bitter-curiada.webp"
+    },
+    {
+      "id": "golden-fizz-royale",
+      "action": "added",
+      "sourceUrl": "https://curiada.com/blogs/cocktail-library/golden-fizz-royale",
+      "image": "assets/recipes/golden-fizz-royale-curiada.webp"
+    }
+  ]
+}
