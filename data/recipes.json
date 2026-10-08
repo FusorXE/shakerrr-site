@@ -1,5 +1,86 @@
 [
   {
+    "id": "elderflower-samba-martini",
+    "name": "Elderflower Samba Martini",
+    "category": "Modern",
+    "country": "Brazil",
+    "method": "Shake",
+    "family": "Sour",
+    "tags": [
+      "modern",
+      "international",
+      "brazil",
+      "cachaça",
+      "elderflower",
+      "floral"
+    ],
+    "versions": [
+      {
+        "label": "Curiada",
+        "key": "curiada",
+        "type": "Published Reference",
+        "ingredients": [
+          {
+            "amount": "2 oz",
+            "name": "Novo Fogo Chameleon Cachaça"
+          },
+          {
+            "amount": "½ oz",
+            "name": "St-Germain Elderflower Liqueur"
+          },
+          {
+            "amount": "1½ oz",
+            "name": "Pressed Apple Juice"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Fresh Lime Juice"
+          }
+        ],
+        "instructions": "Add ice and all ingredients to a shaker. Shake vigorously, then fine strain into a chilled martini glass.",
+        "note": "Curiada published this recipe on December 16, 2025, presenting it as a bright modern martini variation pairing Brazilian cachaça with elderflower, apple and lime. A separate web check did not establish an earlier named creator or historical origin for this exact drink, so Shakerrr records it as a contemporary published recipe rather than inventing a backstory.",
+        "creator": "",
+        "usable": true,
+        "garnish": "Apple slice and mint sprig",
+        "glass": "Martini glass",
+        "ice": "Shaken with ice; served up",
+        "image": "assets/recipes/elderflower-samba-martini-curiada.webp",
+        "url": "https://curiada.com/blogs/cocktail-library/elderflower-samba-martini",
+        "sourceUrl": "https://curiada.com/blogs/cocktail-library/elderflower-samba-martini",
+        "published": "2025-12-16"
+      }
+    ],
+    "image": "assets/recipes/elderflower-samba-martini-curiada.webp",
+    "movie": null,
+    "collections": [
+      "Curiada"
+    ],
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "name": "Novo Fogo Chameleon Cachaça"
+      },
+      {
+        "amount": "½ oz",
+        "name": "St-Germain Elderflower Liqueur"
+      },
+      {
+        "amount": "1½ oz",
+        "name": "Pressed Apple Juice"
+      },
+      {
+        "amount": "½ oz",
+        "name": "Fresh Lime Juice"
+      }
+    ],
+    "instructions": "Add ice and all ingredients to a shaker. Shake vigorously, then fine strain into a chilled martini glass.",
+    "note": "Curiada published this recipe on December 16, 2025, presenting it as a bright modern martini variation pairing Brazilian cachaça with elderflower, apple and lime. A separate web check did not establish an earlier named creator or historical origin for this exact drink, so Shakerrr records it as a contemporary published recipe rather than inventing a backstory.",
+    "quality": "verified",
+    "garnish": "Apple slice and mint sprig",
+    "glass": "Martini glass",
+    "ice": "Shaken with ice; served up"
+  },
+  {
     "id": "tis-the-seasontini",
     "name": "'Tis the Seasontini",
     "category": "Movies",
@@ -611,11 +692,11 @@
         "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
         "note": "Every D&C bartender hates certain drinks others make. Joaquin hates this one, but I love it because it tastes like Christmas—more specifically, a plate of Christmas",
         "creator": "Jillian Vose, 2011",
-        "image": null,
+        "image": "assets/recipes/angies-secret-exact.webp",
         "usable": true
       }
     ],
-    "image": null,
+    "image": "assets/recipes/angies-secret-exact.webp",
     "movie": null,
     "collections": [
       "Death & Co"
@@ -641,7 +722,8 @@
     "instructions": "Stir all the ingredients over ice, then strain into a coupe.",
     "note": "Every D&C bartender hates certain drinks others make. Joaquin hates this one, but I love it because it tastes like Christmas—more specifically, a plate of Christmas",
     "family": "Highball",
-    "quality": "verified"
+    "quality": "verified",
+    "creator": "Jillian Vose"
   },
   {
     "id": "angostura-colada",

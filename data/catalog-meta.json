@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "generated": "2026-10-05",
+  "generated": "2026-10-08",
   "rawRecords": 606,
-  "canonicalRecipes": 398,
-  "verifiedRecipes": 398,
-  "recipesWithInstructions": 371,
-  "usableVersions": 414,
+  "canonicalRecipes": 399,
+  "verifiedRecipes": 399,
+  "recipesWithInstructions": 372,
+  "usableVersions": 415,
   "recipesWithMultipleUsableVersions": 15,
-  "committedImageRecipes": 183,
+  "committedImageRecipes": 185,
   "exactBookImages": 207,
   "exactBookImageRecipes": 183,
-  "otherVerifiedImages": 0,
-  "missingImageRecipes": 215,
-  "imageCoveragePercent": 46,
+  "otherVerifiedImages": 2,
+  "missingImageRecipes": 214,
+  "imageCoveragePercent": 46.4,
   "staleImageReferences": 0,
   "movieCocktails": 43,
   "countries": [
@@ -44,5 +44,5 @@
     "United States"
   ],
   "regions": [],
-  "collections": 10
+  "collections": 11
 }

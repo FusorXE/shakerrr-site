@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-05",
+  "generated": "2026-10-08",
   "byRecipe": {
     "tis-the-seasontini": {
       "name": "'Tis the Seasontini",
@@ -12923,6 +12923,42 @@
           "printedPage": 159,
           "sourceYear": 2020,
           "page": 159
+        }
+      ]
+    },
+    "angies-secret": {
+      "name": "Angie’s Secret",
+      "candidates": [
+        {
+          "id": "angies-secret",
+          "source": "Mr. Cock & Tails",
+          "sourceUrl": "https://mrcockandtails.com/2023/07/24/angies-secret/",
+          "evidence": "Exact named-drink page for Angie’s Secret. The page credits Jillian Vose, 2011, Death & Company and illustrates the prepared cocktail. MJ also independently supplied a public 2015 The Cabinet Bar post explicitly naming Angie’s Secret by Jillian Vose with the matching rum, Becherovka, cane-syrup and mole-bitters build.",
+          "path": "assets/recipes/angies-secret-exact.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 750,
+          "height": 500,
+          "bytes": 33476,
+          "sha256": "cf3a47b6280e1175e55b26dcf8a88f6b621c527b9481b2be73d669d7aef380d2"
+        }
+      ]
+    },
+    "elderflower-samba-martini": {
+      "name": "Elderflower Samba Martini",
+      "candidates": [
+        {
+          "id": "elderflower-samba-martini",
+          "source": "Curiada",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/elderflower-samba-martini",
+          "evidence": "Curiada’s named Elderflower Samba Martini recipe page, published December 16, 2025, includes the finished-drink photograph and exact four-ingredient build.",
+          "path": "assets/recipes/elderflower-samba-martini-curiada.webp",
+          "available": true,
+          "status": "verified-external",
+          "width": 800,
+          "height": 800,
+          "bytes": 33672,
+          "sha256": "93bcbfd0c42addb0c33339cfdecd24493eebf071879e18035dce1a19095ba66d"
         }
       ]
     }
