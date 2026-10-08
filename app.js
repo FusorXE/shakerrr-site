@@ -13,6 +13,7 @@ import {
   validateBackup,
   allowedKey,
 } from "./src/storage.js";
+import { publishedNote } from "./src/content.js";
 ("use strict");
 const $ = (s, r = document) => r.querySelector(s),
   $$ = (s, r = document) => [...r.querySelectorAll(s)];
@@ -407,6 +408,13 @@ function wireGlobal() {
       e.preventDefault();
       openRecipe(e.target.dataset.recipe);
     }
+    if (
+      (e.key === "Enter" || e.key === " ") &&
+      e.target.matches("[role=button][data-country]")
+    ) {
+      e.preventDefault();
+      selectCountry(e.target.dataset.country);
+    }
   });
   $("#searchInput").addEventListener("input", (e) => search(e.target.value));
   $("#searchInput").addEventListener("keydown", (e) => {
@@ -718,16 +726,17 @@ function renderVersion(i) {
     pane.innerHTML = recipeForm(v, !!v.addsocial);
     return;
   }
-  pane.innerHTML = `<div class="version-pane"><div class="source-head"><b>${esc(v.label)}</b><span>${esc(v.type || "Published reference")}</span></div>${v.page ? `<p>Source page ${esc(v.page)}</p>` : ""}${v.creator ? `<p>${esc(v.creator)}</p>` : ""}${validURL(v.url) ? `<a href="${attr(validURL(v.url))}" target="_blank" rel="noopener">Original source ↗</a>` : ""}<table class="ingredient-table"><tbody>${(v.ingredients || []).map((x) => `<tr><td>${esc(x.name)}</td><td>${esc(displayAmt(x.amount))}</td></tr>`).join("")}</tbody></table><div class="method-box"><b>Preparation</b>${esc(v.instructions || "")}</div>${[
+  const note = v.type === "Social" ? v.note : publishedNote(v.note);
+  pane.innerHTML = `<div class="version-pane"><div class="source-head"><b>${esc(v.label)}</b><span>${esc(v.type || "Published reference")}</span></div>${v.page ? `<p>Source page ${esc(v.page)}</p>` : ""}${v.creator ? `<p>${esc(v.creator)}</p>` : ""}${validURL(v.url) ? `<a href="${attr(validURL(v.url))}" target="_blank" rel="noopener">Original source ↗</a>` : ""}<table class="ingredient-table"><tbody>${(v.ingredients || []).map((x) => `<tr><td>${esc(x.name)}</td><td>${esc(displayAmt(x.amount))}</td></tr>`).join("")}</tbody></table><div class="method-box"><b>Preparation</b>${esc(v.instructions?.trim() || (v.type === "Social" ? "No preparation notes saved." : "Preparation details are not available in this source."))}</div>${[
     "glass",
     "ice",
     "garnish",
     "note",
   ]
-    .filter((k) => v[k])
+    .filter((k) => (k === "note" ? note : v[k]))
     .map(
       (k) =>
-        `<div class="note-box"><b>${esc(k === "note" ? "Notes" : k)}</b>${esc(v[k])}</div>`,
+        `<div class="note-box"><b>${esc(k === "note" ? "Notes" : k)}</b>${esc(k === "note" ? note : v[k])}</div>`,
     )
     .join(
       "",
@@ -767,7 +776,7 @@ function renderMovies() {
     (r) => r.movie || r.collections?.includes("Cocktails from Movies"),
   );
   $("#main").innerHTML =
-    `<section class="page"><div class="shell"><div class="toolbar"><div><h1>Cocktails from Movies</h1><p class="subtitle">Cocktail + film pairing with a compact film note.</p></div></div><div class="countline">${a.length} movie cocktails</div><div class="movies-grid">${a.map((r) => `<button class="movie-card" data-recipe="${r.id}"><div class="card-photo"><span class="photo-status">finding photo</span><img data-photo-id="${r.id}" alt="${attr(r.name)}"></div><div class="movie-meta"><small>${esc([r.movie?.film, r.movie?.year].filter(Boolean).join(" · ") || "Cinema")}</small><h3>${esc(r.name)}</h3><p>${esc(r.note || r.movie?.fact || "")}</p></div></button>`).join("")}</div></div></section>`;
+    `<section class="page"><div class="shell"><div class="toolbar"><div><h1>Cocktails from Movies</h1><p class="subtitle">Cocktail + film pairing with a compact film note.</p></div></div><div class="countline">${a.length} movie cocktails</div><div class="movies-grid">${a.map((r) => `<button class="movie-card" data-recipe="${r.id}"><div class="card-photo"><span class="photo-status">finding photo</span><img data-photo-id="${r.id}" alt="${attr(r.name)}"></div><div class="movie-meta"><small>${esc([r.movie?.film, r.movie?.year].filter(Boolean).join(" · ") || "Cinema")}</small><h3>${esc(r.name)}</h3><p>${esc(publishedNote(r.note) || publishedNote(r.movie?.fact))}</p></div></button>`).join("")}</div></div></section>`;
   hydratePhotos();
 }
 function renderMezcal() {
@@ -891,7 +900,7 @@ function renderAtlas() {
         esc(x) +
         "</button>",
     ).join("") +
-    '</div></div><svg id="worldSvg" class="world-svg" viewBox="0 0 1000 500" aria-label="Cocktail world map"></svg></div><aside class="atlas-side"><h2>Country index</h2><input id="countrySearch" class="country-search" placeholder="Find country or region..." aria-label="Find country or region"><div id="countryList" class="country-list"></div><div id="countryDetail" class="country-detail"></div></aside></div></div></section>';
+    '</div></div><svg id="worldSvg" class="world-svg" viewBox="0 0 1000 500" aria-label="Cocktail world map"></svg></div><aside class="atlas-side"><h2>Country index</h2><input id="countrySearch" class="country-search" placeholder="Find country or region..." aria-label="Find country or region"><section id="countryDetail" class="country-detail" aria-labelledby="countryDetailTitle" tabindex="-1"></section><div id="countryList" class="country-list"></div></aside></div></div></section>';
   drawWorld();
   renderCountryList("");
   $("#countrySearch").addEventListener("input", (e) =>
@@ -918,7 +927,7 @@ function drawWorld() {
               `${i ? "L" : "M"}${(((p[0] + 180) / 360) * 1000).toFixed(1)},${(((90 - p[1]) / 180) * 500).toFixed(1)}`,
           )
           .join(" ") + " Z";
-      html += `<path d="${d}" class="country-path ${cm.has(n) ? "has" : ""} ${state.country === n ? "focus" : ""}" ${cm.has(n) ? `data-country="${attr(n)}"` : ""}></path>`;
+      html += `<path d="${d}" class="country-path ${cm.has(n) ? "has" : ""} ${state.country === n ? "focus" : ""}" ${cm.has(n) ? `data-country="${attr(n)}" role="button" tabindex="0" aria-label="Show ${attr(n)} recipes" aria-pressed="${state.country === n}"` : ""}></path>`;
     });
   });
   svg.innerHTML = html;
@@ -935,11 +944,17 @@ function renderCountryList(q = "") {
             regionFor(n).toLowerCase().includes(t)),
       )
       .sort((a, b) => a[0].localeCompare(b[0]));
+  if (arr.length && (!state.country || !arr.some(([n]) => n === state.country)))
+    state.country = arr[0][0];
   $("#countryList").innerHTML = arr.length
     ? arr
         .map(
           ([n, a]) =>
-            '<button class="country-row" data-country="' +
+            '<button class="country-row' +
+            (state.country === n ? " active" : "") +
+            '" aria-pressed="' +
+            (state.country === n) +
+            '" data-country="' +
             attr(n) +
             '"><span><b>' +
             esc(n) +
@@ -951,14 +966,24 @@ function renderCountryList(q = "") {
         )
         .join("")
     : '<div class="empty compact">No country matches this region/search.</div>';
-  if (arr.length && (!state.country || !arr.some(([n]) => n === state.country)))
-    state.country = arr[0][0];
+  drawWorld();
   renderCountryDetail();
 }
 function selectCountry(n) {
+  if (!recipeCountByCountry().has(n)) return;
   state.country = n;
   drawWorld();
   renderCountryDetail();
+  $$(".country-row").forEach((button) => {
+    const selected = button.dataset.country === n;
+    button.classList.toggle("active", selected);
+    button.setAttribute("aria-pressed", String(selected));
+  });
+  const detail = $("#countryDetail");
+  // The former results were below the entire country index, so clicks only
+  // appeared to color the map. Bring the actual recipe links into view.
+  detail.focus({ preventScroll: true });
+  detail.scrollIntoView({ block: "start", behavior: "instant" });
 }
 function renderCountryDetail() {
   const cm = recipeCountByCountry(),
@@ -966,7 +991,7 @@ function renderCountryDetail() {
       .slice()
       .sort((x, y) => x.name.localeCompare(y.name));
   $("#countryDetail").innerHTML =
-    "<h3>" +
+    '<h3 id="countryDetailTitle">' +
     esc(state.country || "") +
     '</h3><p class="subtitle">' +
     esc(regionFor(state.country)) +
@@ -1190,16 +1215,29 @@ async function action(name, el, e) {
     return;
   }
   if (name === "save-my-recipe") {
+    const key = "shakerrr_my_" + state.current;
+    const previous = allVersions(state.byId.get(state.current)).find((v) => v.mine);
+    el.disabled = true;
+    el.textContent = "Saving…";
     try {
-      if (save("shakerrr_my_" + state.current, await readSpec()))
-        el.textContent = "Saved";
+      el.textContent = save(key, await readSpec(previous))
+        ? "Saved"
+        : "Save my recipe";
     } catch (e) {
-      alert(e.message);
+      el.textContent = "Save my recipe";
+      alert(e.message || "The photo could not be read. Choose another image and try again. Your saved recipe is unchanged.");
+    } finally {
+      el.disabled = false;
     }
     return;
   }
   if (name === "save-social") {
-    await saveSocial();
+    el.disabled = true;
+    try {
+      await saveSocial();
+    } finally {
+      el.disabled = false;
+    }
     return;
   }
   if (name === "upload-photo") {
@@ -1333,23 +1371,24 @@ function openIngredients() {
   );
 }
 async function saveSocial() {
+  const id = state.current;
+  const details = Object.fromEntries(
+    ["Platform", "Creator", "Url", "Date"].map((n) => [
+      n.toLowerCase(),
+      $("#social" + n).value.trim(),
+    ]),
+  );
   try {
-    const spec = await readSpec();
-    for (const n of ["Platform", "Creator", "Url", "Date"])
-      spec[n.toLowerCase()] = $("#social" + n).value.trim();
-    if (spec.url && !validURL(spec.url))
-      throw Error("Use an http or https source URL");
-    spec.type = "Social";
-    const key = "shakerrr_social_" + state.current,
+    const spec = { ...(await readSpec()), ...details, type: "Social" };
+    const key = "shakerrr_social_" + id,
       a = readJSON(key, []);
     a.push(spec);
-    if (save(key, a)) {
-      state.versionIndex =
-        allVersions(state.byId.get(state.current)).length - 2;
-      renderVersions(state.byId.get(state.current));
+    if (save(key, a) && state.current === id && state.page === "detail") {
+      state.versionIndex = allVersions(state.byId.get(id)).length - 2;
+      renderVersions(state.byId.get(id));
     }
   } catch (e) {
-    alert(e.message);
+    alert(e.message || "The photo could not be read. Choose another image and try again. Your saved recipes are unchanged.");
   }
 }
 function fileToDataURL(file) {
@@ -1487,23 +1526,30 @@ async function loadPhoto(id, img) {
   if (c) c.textContent = credit;
 }
 function recipeForm(v, social = false) {
-  return `<div class="form-grid">${social ? ["Platform", "Creator", "Url", "Date"].map((n) => `<div class="field"><label for="social${n}">${n === "Url" ? "Original URL" : n}</label><input id="social${n}" class="form-control" ${n === "Date" ? 'type="date"' : ""}></div>`).join("") : ""}<div class="field full"><label for="specIngredients">Ingredients: one quantity | ingredient per line</label><textarea id="specIngredients">${esc((v.ingredients || []).map((i) => `${i.amount} | ${i.name}`).join("\n"))}</textarea></div>${["instructions", "garnish", "glass", "ice", "note"].map((n) => `<div class="field full"><label for="spec-${n}">${{ instructions: "Preparation method", note: "Notes" }[n] || n}</label><textarea id="spec-${n}">${esc(v[n] || "")}</textarea></div>`).join("")}<div class="field full"><label for="specPhoto">Version photograph</label><input id="specPhoto" type="file" accept="image/png,image/jpeg,image/webp"></div></div><button class="mini-btn" data-action="${social ? "save-social" : "save-my-recipe"}">${social ? "Save social version" : "Save my recipe"}</button>`;
+  const ingredientText = v.ingredientText ?? (v.ingredients || [])
+    .map((i) => [i.amount, i.name].filter(Boolean).join(" "))
+    .join("\n");
+  const hasPhoto = /^data:image\/(png|jpeg|webp);base64,/.test(v.photo || "");
+  return `<div class="form-grid">${social ? ["Platform", "Creator", "Url", "Date"].map((n) => `<div class="field"><label for="social${n}">${n === "Url" ? "Original URL" : n} (optional)</label><input id="social${n}" class="form-control" ${n === "Date" ? 'type="date"' : ""}></div>`).join("") : ""}<div class="field full"><label for="specIngredients">Ingredients (optional): one per line, in your own words</label><textarea id="specIngredients" placeholder="1 oz Gin&#10;0.75 oz Sweet Vermouth&#10;3 dashes of cardamom bitters">${esc(ingredientText)}</textarea></div>${["instructions", "garnish", "glass", "ice", "note"].map((n) => `<div class="field full"><label for="spec-${n}">${{ instructions: "Preparation method", note: "Notes" }[n] || n} (optional)</label><textarea id="spec-${n}">${esc(v[n] || "")}</textarea></div>`).join("")}<div class="field full"><label for="specPhoto">Version photograph (optional)</label>${hasPhoto ? `<img class="version-photo" src="${attr(v.photo)}" alt="Your saved version photograph"><p>Your saved photo stays unless you choose a replacement.</p>` : ""}<input id="specPhoto" type="file" accept="image/*"></div></div><button class="mini-btn" data-action="${social ? "save-social" : "save-my-recipe"}">${social ? "Save social version" : "Save my recipe"}</button>`;
 }
-async function readSpec() {
-  const ingredients = $("#specIngredients")
-    .value.split("\n")
-    .filter((x) => x.trim())
-    .map((x) => {
-      const p = x.indexOf("|");
-      if (p < 0) throw Error("Use quantity | ingredient on each line");
-      return { amount: x.slice(0, p).trim(), name: x.slice(p + 1).trim() };
-    });
-  if (!ingredients.length || ingredients.some((i) => !i.name))
-    throw Error("Add valid ingredients");
-  const spec = { ingredients, updatedAt: new Date().toISOString() };
+function personalIngredient(line) {
+  const text = line.trim();
+  const pipe = text.indexOf("|");
+  if (pipe >= 0 && text.slice(pipe + 1).trim()) {
+    return { amount: text.slice(0, pipe).trim(), name: text.slice(pipe + 1).trim() };
+  }
+  // Parse familiar quantities when possible, but keep every other line as written.
+  const match = text.match(/^((?:\d+\s+\d+\/\d+|\d+\/\d+|\d+(?:[.,]\d+)?[¼½¾⅓⅔⅛⅜⅝⅞]?|[¼½¾⅓⅔⅛⅜⅝⅞])(?:\s*(?:oz|ounces?|ml|milliliters?|cl|liters?|litres?|l|tsp|teaspoons?|tbsp|tablespoons?|cups?|dashes?|drops?|bar\s?spoons?|parts?|pinches?|splashes?)\.?)?)\s+(?:of\s+)?(.+)$/i);
+  return match ? { amount: match[1], name: match[2] } : { amount: "", name: text };
+}
+async function readSpec(previous = {}) {
+  const ingredientText = $("#specIngredients").value;
+  const ingredients = ingredientText.split("\n").filter((x) => x.trim()).map(personalIngredient);
+  // Preserve stored photos and any legacy metadata while updating only editable fields.
+  const { label, key, mine, ...stored } = previous || {};
+  const spec = { ...stored, ingredientText, ingredients, updatedAt: new Date().toISOString() };
   for (const n of ["instructions", "garnish", "glass", "ice", "note"])
     spec[n] = $("#spec-" + n).value.trim();
-  if (!spec.instructions) throw Error("Add a preparation method");
   const file = $("#specPhoto").files[0];
   if (file) spec.photo = await compressImage(file);
   return spec;
