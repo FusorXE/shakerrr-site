@@ -8,7 +8,8 @@ const nativeFetch = window.fetch.bind(window);
 
 async function jsonFrom(url) {
   const response = await nativeFetch(url, { cache: "no-store" });
-  if (!response.ok) throw new Error(`Unable to load ${url}: ${response.status}`);
+  if (!response.ok)
+    throw new Error(`Unable to load ${url}: ${response.status}`);
   return response.json();
 }
 
@@ -20,15 +21,21 @@ const catalogPromise = jsonFrom("data/recipes.json").then((raw) => {
   return catalog;
 });
 
-const manifestPromise = Promise.all([
-  catalogPromise,
-  jsonFrom("data/image-manifest.json"),
-]).then(([catalog, manifest]) => {
-  const normalized = normalizeImageManifest(manifest, catalog);
-  window.__SHAKERRR_IMAGE_COVERAGE__ = normalized.canonicalCardCoverage;
-  console.info("Shakerrr canonical image coverage", normalized.canonicalCardCoverage);
-  return normalized;
-});
+function loadManifest() {
+  return Promise.all([
+    catalogPromise,
+    jsonFrom("data/image-manifest.json"),
+  ]).then(([catalog, manifest]) => {
+    const normalized = normalizeImageManifest(manifest, catalog);
+    window.__SHAKERRR_IMAGE_COVERAGE__ = normalized.canonicalCardCoverage;
+    console.info(
+      "Shakerrr canonical image coverage",
+      normalized.canonicalCardCoverage,
+    );
+    return normalized;
+  });
+}
+let manifestPromise = loadManifest();
 
 function pathOf(input) {
   try {
@@ -53,6 +60,8 @@ window.fetch = async function shakerrrCanonicalFetch(input, init) {
     return jsonResponse(catalog.recipes);
   }
   if (path.endsWith("/data/image-manifest.json")) {
+    if (["reload", "no-store"].includes(init?.cache))
+      manifestPromise = loadManifest();
     return jsonResponse(await manifestPromise);
   }
   return nativeFetch(input, init);

@@ -14,6 +14,7 @@ import {
   allowedKey,
 } from "./src/storage.js";
 import { publishedNote } from "./src/content.js";
+import { photoCandidates, photoCredit } from "./src/photos.js";
 ("use strict");
 const $ = (s, r = document) => r.querySelector(s),
   $$ = (s, r = document) => [...r.querySelectorAll(s)];
@@ -36,6 +37,7 @@ const state = {
   images: {},
   region: "All",
   versionIndex: 0,
+  moviePhoto: false,
 };
 const NAV = [
   ["discover", "Discover"],
@@ -64,6 +66,7 @@ const BOOK_DESCRIPTIONS = {
   "Cocktails from Movies":
     "Cocktails paired with Paramount films and brief film context.",
   "Shakerrr World": "Country-specific drinks used by the Atlas.",
+  "Curiada Cocktail Library": "Named cocktails with exact photographs, recipes and links to Curiada.",
 };
 const AMARO = [
   ["Campari", 9, 3, 6, "orange, gentian, herbs", "Negroni / aperitivo"],
@@ -342,7 +345,8 @@ async function boot() {
     $("#unitBtn").textContent = state.unit;
     if ("serviceWorker" in navigator)
       navigator.serviceWorker
-        .register("./sw.js")
+        .register("./sw.js", { updateViaCache: "none" })
+        .then((registration) => registration.update())
         .catch((e) => console.warn("Offline cache unavailable", e));
   } catch (e) {
     console.error(e);
@@ -379,6 +383,7 @@ function wireGlobal() {
     }
     const ver = e.target.closest("[data-version]");
     if (ver) {
+      state.moviePhoto = false;
       renderVersion(+ver.dataset.version);
       return;
     }
@@ -545,7 +550,6 @@ function recipeCountByCountry() {
 function card(r) {
   return `<article class="card" role="button" tabindex="0" data-recipe="${r.id}"><div class="card-photo"><span class="photo-status">finding photo</span><img data-photo-id="${r.id}" alt="${attr(r.name)}"><span class="badge">${esc(r.category)}</span><button class="heart" data-action="fav" data-id="${r.id}" aria-label="Favourite">${state.favs.has(r.id) ? "♥" : "♡"}</button></div><div class="card-body"><div class="origin">${esc(r.country || r.collections?.[0] || "Shakerrr")}</div><h3>${esc(r.name)}</h3><div class="ingredient-line">${esc(
     (r.ingredients || [])
-      .slice(0, 5)
       .map((i) => i.name)
       .join(" · "),
   )}</div><div class="tags"><span class="tag gold">${esc(r.method || "Recipe")}</span>${r.family ? `<span class="tag blue">${esc(r.family)}</span>` : ""}${r.versions?.length > 1 ? `<span class="tag">${r.versions.length} versions</span>` : ""}</div></div></article>`;
@@ -645,9 +649,12 @@ function openRecipe(id) {
   closeDrawer();
   closeModal();
   if (state.page !== "detail") state.prevPage = state.page;
+  state.moviePhoto = state.page === "movies";
   state.current = id;
   state.page = "detail";
-  state.versionIndex = 0;
+  state.versionIndex = state.moviePhoto
+    ? Math.max(0, allVersions(state.byId.get(id)).findIndex((v) => v.key === "movies"))
+    : 0;
   closeSearch();
   renderDetail(id);
   scrollTo(0, 0);
@@ -724,6 +731,8 @@ function renderVersion(i) {
   const pane = $("#versionPane");
   if (v.mine || v.addsocial) {
     pane.innerHTML = recipeForm(v, !!v.addsocial);
+    const img = $(".detail-photo img");
+    if (img) loadPhoto(r.id, img);
     return;
   }
   const note = v.type === "Social" ? v.note : publishedNote(v.note);
@@ -776,7 +785,7 @@ function renderMovies() {
     (r) => r.movie || r.collections?.includes("Cocktails from Movies"),
   );
   $("#main").innerHTML =
-    `<section class="page"><div class="shell"><div class="toolbar"><div><h1>Cocktails from Movies</h1><p class="subtitle">Cocktail + film pairing with a compact film note.</p></div></div><div class="countline">${a.length} movie cocktails</div><div class="movies-grid">${a.map((r) => `<button class="movie-card" data-recipe="${r.id}"><div class="card-photo"><span class="photo-status">finding photo</span><img data-photo-id="${r.id}" alt="${attr(r.name)}"></div><div class="movie-meta"><small>${esc([r.movie?.film, r.movie?.year].filter(Boolean).join(" · ") || "Cinema")}</small><h3>${esc(r.name)}</h3><p>${esc(publishedNote(r.note) || publishedNote(r.movie?.fact))}</p></div></button>`).join("")}</div></div></section>`;
+    `<section class="page"><div class="shell"><div class="toolbar"><div><h1>Cocktails from Movies</h1><p class="subtitle">Film pairings with the book’s exact cocktail photographs where available. These are not film stills; verified scene images are not available in this collection.</p></div></div><div class="countline">${a.length} movie cocktails</div><div class="movies-grid">${a.map((r) => `<button class="movie-card" data-recipe="${r.id}"><div class="card-photo" data-photo-context="movie"><span class="photo-status">finding photo</span><img data-photo-id="${r.id}" alt="${attr(r.name)}"></div><div class="movie-meta"><small>${esc([r.movie?.film, r.movie?.year].filter(Boolean).join(" · ") || "Cinema")}</small><h3>${esc(r.name)}</h3><p>${esc(publishedNote(r.note) || publishedNote(r.movie?.fact))}</p></div></button>`).join("")}</div></div></section>`;
   hydratePhotos();
 }
 function renderMezcal() {
@@ -1272,14 +1281,23 @@ async function action(name, el, e) {
     return;
   }
   if (name === "refresh-photo") {
-    state.images = (
-      await fetch("data/image-manifest.json", { cache: "reload" }).then((r) =>
-        r.json(),
-      )
-    ).byRecipe;
-    state.photoMode[el.dataset.id] = "system";
-    savePhotoModes();
-    renderDetail(el.dataset.id);
+    el.disabled = true;
+    el.textContent = "Refreshing…";
+    try {
+      const response = await fetch("data/image-manifest.json", { cache: "reload" });
+      if (!response.ok) throw Error("The photo list could not be refreshed. Please try again.");
+      state.images = (await response.json()).byRecipe;
+      state.photoMode[el.dataset.id] = "system";
+      savePhotoModes();
+      // Refresh only the photograph; rebuilding the page would discard a draft.
+      const img = $(".detail-photo img");
+      if (img?.dataset.photoId === el.dataset.id) await loadPhoto(el.dataset.id, img);
+    } catch (error) {
+      alert(error.message || "The photo list could not be refreshed.");
+    } finally {
+      el.disabled = false;
+      el.textContent = "Refresh system photo";
+    }
     return;
   }
   if (name === "amaro-recipes") {
@@ -1479,52 +1497,60 @@ function regionFor(c) {
 async function loadPhoto(id, img) {
   const r = state.byId.get(id);
   if (!r || !img.isConnected) return;
-  const host = img.closest(".card-photo,.detail-photo,.hero-media"),
-    status = host?.querySelector(".photo-status");
-  let entry = state.images[id]?.candidates?.find((x) => x.available && x.path),
-    url = entry?.path,
-    credit = entry
-      ? `${entry.source}${entry.page ? " · p. " + entry.page : ""}`
-      : "";
-  if (host?.classList.contains("detail-photo")) {
-    const v = allVersions(r)[state.versionIndex || 0];
-    if (v?.image) {
-      const candidate = state.images[id]?.candidates?.find(
-        (x) => x.path === v.image && x.available,
-      );
-      if (candidate) {
-        url = candidate.path;
-        credit = `${candidate.source}${candidate.page ? " · p. " + candidate.page : ""}`;
-      }
-    }
-  }
+  const request = Symbol("photo");
+  img.photoRequest = request;
+  const host = img.closest(".card-photo,.detail-photo,.hero-media");
+  const status = host?.querySelector(".photo-status");
+  const credit = host?.querySelector(".photo-credit");
+  const version = host?.classList.contains("detail-photo")
+    ? allVersions(r)[state.versionIndex || 0] : null;
+  const movie = host?.dataset.photoContext === "movie" || version?.key === "movies" ||
+    (host?.classList.contains("detail-photo") && state.moviePhoto);
+  const choices = photoCandidates(r, state.images[id], { version, movie })
+    .map((candidate) => ({ url: candidate.path, credit: photoCredit(candidate) }));
+  const active = () => img.isConnected && img.photoRequest === request;
+  if (/^data:image\/(png|jpeg|webp);base64,/.test(version?.photo || ""))
+    choices.unshift({ url: version.photo, credit: "Your version photograph" });
   if (state.photoMode[id] === "custom") {
     const photo = await getCustomPhoto(id);
-    if (photo) {
-      url = URL.createObjectURL(photo);
-      credit = "Your photo";
+    if (!active()) return;
+    if (photo) choices.unshift({ url: URL.createObjectURL(photo), credit: "Your photo", objectURL: true });
+  }
+  if (!active()) return;
+  if (img.photoObjectURL) URL.revokeObjectURL(img.photoObjectURL);
+  img.photoObjectURL = null;
+  host?.classList.remove("photo-loaded");
+  img.hidden = true;
+  if (status) { status.hidden = false; status.textContent = "Loading photograph"; }
+  if (credit) credit.textContent = "";
+  let current;
+  const next = () => {
+    if (!active()) return;
+    if (current?.objectURL) URL.revokeObjectURL(current.url);
+    current = choices.shift();
+    if (!current) {
+      img.removeAttribute("src");
+      img.hidden = true;
+      if (status) status.textContent = movie
+        ? "No verified movie-book photograph"
+        : "No verified photograph available";
+      return;
     }
-  }
-  if (!img.isConnected) return;
+    img.src = current.url;
+  };
   img.onload = () => {
-    if (status) status.textContent = "";
+    if (!active() || !img.naturalWidth) return;
     img.hidden = false;
+    host?.classList.add("photo-loaded");
+    // Clearing the text alone left an opaque full-size layer over the photo.
+    if (status) { status.hidden = true; status.textContent = ""; }
+    if (credit) credit.textContent = current.credit;
+    if (current.objectURL) img.photoObjectURL = current.url;
   };
-  img.onerror = () => {
-    img.hidden = true;
-    if (status) status.textContent = "Photograph unavailable";
-  };
-  if (url) {
-    img.src = url;
-    img.hidden = false;
-  } else {
-    img.removeAttribute("src");
-    img.hidden = true;
-    if (status) status.textContent = "No verified photograph";
-  }
-  const c = host?.querySelector(".photo-credit");
-  if (c) c.textContent = credit;
+  img.onerror = next;
+  next();
 }
+
 function recipeForm(v, social = false) {
   const ingredientText = v.ingredientText ?? (v.ingredients || [])
     .map((i) => [i.amount, i.name].filter(Boolean).join(" "))

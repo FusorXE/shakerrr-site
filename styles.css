@@ -1707,11 +1707,10 @@ body:before {
 /* Cards: ingredient summaries should read, not look arbitrarily chopped. */
 .ingredient-line {
   white-space: normal;
-  overflow: hidden;
+  overflow: visible;
   text-overflow: clip;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  display: block;
+  overflow-wrap: anywhere;
   line-height: 1.45;
   min-height: 2.9em;
 }
@@ -1735,6 +1734,12 @@ body:before {
   letter-spacing: 0.07em;
   text-transform: uppercase;
 }
+.photo-status[hidden],
+.photo-loaded > .photo-status,
+img[data-photo-id][hidden] {
+  display: none;
+}
+.photo-status { pointer-events: none; }
 .card-photo img,
 .detail-photo > img,
 .hero-media img {
@@ -1749,6 +1754,13 @@ body:before {
 }
 .photo-credit:empty {
   display: none;
+}
+.detail-photo .photo-credit {
+  bottom: 76px;
+  max-width: calc(100% - 36px);
+  color: #eee8de;
+  font-size: 11px;
+  line-height: 1.4;
 }
 
 /* Detail page: book OCR must never create layout overflow or half-hidden copy. */
@@ -2012,3 +2024,37 @@ body:before {
     flex: 0 0 auto;
   }
 }
+
+/* Read the complete names and recipe text at every screen width. */
+.card-body, .movie-meta, .collection, .version-pane, .field { min-width: 0; }
+.origin { height: auto; min-height: 13px; overflow-wrap: anywhere; }
+.collection h3, .collection p, .movie-meta, .chip, [data-bar], .version-tab {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  max-width: 100%;
+}
+.ingredient-line, .movie-meta p, .collection p { font-size: 12px; line-height: 1.5; }
+.chip, [data-bar] { font-size: 12px; line-height: 1.5; text-align: left; }
+.ingredient-table td, .note-box, .method-box { font-size: 13px; line-height: 1.6; }
+.form-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; margin: 16px 0; }
+.field.full { grid-column: 1 / -1; }
+.field label { display: block; margin-bottom: 6px; font-size: 12px; line-height: 1.5; }
+.field textarea, .field input { box-sizing: border-box; width: 100%; max-width: 100%; }
+.field textarea, .field .form-control {
+  border: 1px solid var(--line); border-radius: 8px; padding: 12px;
+  background: #0d0f12; color: #eee8de; font: 14px/1.6 var(--sans);
+}
+.field textarea { min-height: 96px; resize: vertical; }
+#specIngredients { min-height: 160px; }
+.version-photo { display: block; width: auto; max-width: 100%; max-height: 320px; object-fit: contain; margin: 12px 0; }
+#countryDetail { scroll-margin-top: 100px; margin-bottom: 18px; }
+.country-row.active { border-color: var(--gold); background: #282014; }
+.country-drink { white-space: normal; overflow-wrap: anywhere; }
+@media (max-width: 760px) {
+  .form-grid { grid-template-columns: minmax(0, 1fr); }
+  .field textarea, .field .form-control { font-size: 16px; }
+  .detail-photo .photo-credit { bottom: 92px; font-size: 10px; }
+  #countryDetail { scroll-margin-top: 100px; }
+}
+
+.detail-photo > img { object-fit: contain; }
