@@ -1529,7 +1529,7 @@ async function loadPhoto(id, img) {
   const choices = [
     ...candidates.filter((c) => c.status === "web-curated"),
     ...candidates.filter((c) => c.status !== "web-curated"),
-  ].map((candidate) => ({ url: candidate.path, credit: photoCredit(candidate) }));
+  ].map((candidate) => ({ url: candidate.path, credit: photoCredit(candidate), sourceUrl: candidate.sourceUrl, licenseUrl: candidate.licenseUrl }));
   const active = () => img.isConnected && img.photoRequest === request;
   if (/^data:image\/(png|jpeg|webp);base64,/.test(version?.photo || ""))
     choices.unshift({ url: version.photo, credit: "Your version photograph" });
@@ -1566,7 +1566,25 @@ async function loadPhoto(id, img) {
     host?.classList.add("photo-loaded");
     // Clearing the text alone left an opaque full-size layer over the photo.
     if (status) { status.hidden = true; status.textContent = ""; }
-    if (credit) credit.textContent = current.credit;
+    if (credit) {
+      credit.textContent = current.credit;
+      for (const [link, label, allowed] of [
+        [current.sourceUrl, "Photo source", ["commons.wikimedia.org", "www.pexels.com"]],
+        [current.licenseUrl, "License", ["creativecommons.org", "www.pexels.com"]],
+      ]) {
+        if (!link) continue;
+        try {
+          const u = new URL(link);
+          if (u.protocol !== "https:" || !allowed.includes(u.hostname)) continue;
+          const anchor = document.createElement("a");
+          anchor.href = u.href;
+          anchor.target = "_blank";
+          anchor.rel = "noopener noreferrer";
+          anchor.textContent = label;
+          credit.append(document.createTextNode(" · "), anchor);
+        } catch {}
+      }
+    }
     if (current.objectURL) img.photoObjectURL = current.url;
   };
   img.onerror = next;
