@@ -709,7 +709,7 @@
           "source": "Wikimedia Commons · James West",
           "sourceTitle": "File:Agua de Valencia - 49904410267.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agua_de_Valencia_-_49904410267.jpg",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Agua_de_Valencia_-_49904410267.jpg",
+          "path": "assets/recipes/web/agua-de-valencia.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Agua_de_Valencia_-_49904410267.jpg",
           "artist": "James West",
           "license": "CC BY-SA 2.0",
@@ -720,7 +720,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; attribution and ShareAlike license retained.",
           "review": "Visual contact-sheet audit rejected previous image as an inferior composition; updated replacement is a named cocktail photo under verified Commons license. Corrected Wikimedia size to an explicitly offered original/resolution after rejecting the first thumbnail.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -947,7 +949,7 @@
           "source": "Wikimedia Commons · Don LaVange",
           "sourceTitle": "File:The Last Word cocktail raised.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Last_Word_cocktail_raised.jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/The_Last_Word_cocktail_raised.jpg/3840px-The_Last_Word_cocktail_raised.jpg",
+          "path": "assets/recipes/web/last-word.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/The_Last_Word_cocktail_raised.jpg/3840px-The_Last_Word_cocktail_raised.jpg",
           "artist": "Don LaVange",
           "license": "CC BY-SA 2.0",
@@ -958,7 +960,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; attribution and ShareAlike license retained.",
           "review": "Visual contact-sheet audit rejected previous image as an inferior composition; updated replacement is a named cocktail photo under verified Commons license. Corrected Wikimedia size to an explicitly offered original/resolution after rejecting the first thumbnail.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     }
