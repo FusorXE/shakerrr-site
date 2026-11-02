@@ -47,8 +47,8 @@ test('Manhattan retains its published Simple Manhattan version independent of ph
   await page.locator('#searchInput').fill('Simple Manhattan');
   await page.locator('.search-item[data-recipe="manhattan"]').click();
   await expect(page.locator('.detail-copy h1')).toHaveText('Manhattan');
-  const tab = page.locator('.version-tab').filter({ hasText: 'Simple Manhattan' }).first();
-  await tab.click();
-  await expect(tab).toHaveAttribute('aria-selected', 'true');
+  const picker = page.locator("#versionSelect");
+  await picker.selectOption({ label: "Simple Manhattan" });
+  await expect(picker.locator("option:checked")).toHaveText("Simple Manhattan");
   await expect(page.locator('.ingredient-table')).toBeVisible();
 });
