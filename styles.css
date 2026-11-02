@@ -2058,3 +2058,82 @@ img[data-photo-id][hidden] {
 }
 
 .detail-photo > img { object-fit: contain; }
+
+
+/* 2026-11 editorial redesign: web photography is the visual source of truth. */
+:root { --gold: #d4ad78; --ink: #f5f1ea; --muted: #a3a2a0; --r: 20px; }
+.cards { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+.card { overflow: hidden; border-radius: 20px; background: #101217; }
+.card-photo { height: clamp(250px, 29vw, 360px); background: radial-gradient(circle at 50% 30%, #292a29, #141414 75%); }
+.card-photo img { object-fit: cover; object-position: center; }
+.card-photo:after { background: linear-gradient(0deg, #08090bab, transparent 55%); pointer-events: none; }
+.card-body { padding: 16px 19px 21px; min-height: 150px; }
+.card h3 { font: 400 clamp(24px, 2.5vw, 31px)/1.1 var(--serif); margin: 6px 0 10px; }
+.card .origin { font-size: 10px; letter-spacing: .11em; }
+.card .ingredient-line { font-size: 13px; line-height: 1.45; color: #aaa6a0; white-space: normal; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+.card .tag { font-size: 10px; padding: 4px 7px; }
+.detail { grid-template-columns: minmax(0, 1.04fr) minmax(0, .96fr); border-color: #ffffff20; }
+.detail-photo { min-height: 700px; overflow: hidden; isolation: isolate; }
+.detail-photo > img { object-fit: cover; object-position: center; }
+.detail-photo:after { background: linear-gradient(180deg, #04040644 0%, transparent 26%, transparent 50%, #060608e6 100%); z-index: 1; }
+.detail-copy { padding: 40px 38px; }
+.detail h1 { font-size: clamp(42px, 4vw, 62px); }
+.detail .eyebrow { font-size: 11px; }
+.photo-status { font-size: 12px; line-height: 1.6; text-align: center; padding: 24px; }
+.detail-photo.photo-loaded .ingredient-overlay { opacity: 1; }
+.ingredient-overlay {
+  opacity: 0; position: absolute; z-index: 5; bottom: 20px; left: 20px; right: 20px;
+  color: #fff; pointer-events: none; transition: opacity .25s ease;
+  font-family: var(--sans); text-shadow: 0 1px 8px #000b;
+}
+.ingredient-overlay-kicker {
+  margin-bottom: 10px; font: 600 10px/1 var(--sans); text-transform: uppercase;
+  letter-spacing: .19em; color: #e7dac5; text-align: center;
+}
+.ingredient-overlay-grid {
+  display: grid; grid-template-columns: repeat(var(--ingredient-count, 4), minmax(0, 1fr));
+  gap: 10px; align-items: end;
+}
+.ingredient-overlay-item {
+  display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 0;
+  font-size: clamp(10px, .94vw, 14px); line-height: 1.22; overflow-wrap: anywhere;
+}
+.ingredient-pin { width: 7px; height: 7px; flex: 0 0 auto; border-radius: 50%; background: #fff; box-shadow: 0 0 0 2px #0003; }
+.ingredient-stem { display: block; height: clamp(36px, 7vw, 96px); width: 1px; margin-bottom: 9px; background: linear-gradient(#fff, #fffa); }
+.ingredient-overlay-item b { display: block; font-size: clamp(12px, 1.35vw, 18px); font-weight: 650; margin-bottom: 4px; }
+.ingredient-overlay-name { display: block; max-width: 100%; min-height: 2.4em; }
+.detail-photo .photo-credit { top: 15px; bottom: auto; left: 16px; right: auto; z-index: 6; max-width: 52%; font-size: 10px; }
+.detail-photo .photo-controls { top: 14px; bottom: auto; right: 12px; left: auto; max-width: 44%; z-index: 7; }
+.detail-photo .photo-controls button { font-size: 9px; padding: 7px 9px; }
+.detail-photo .photo-controls button:not([data-action="upload-photo"]):not([data-action="use-system-photo"]) { display: none; }
+@media (max-width: 1150px) {
+  .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .detail-photo { min-height: 600px; }
+}
+@media (max-width: 760px) {
+  .detail { display: block; }
+  .detail-photo { min-height: 560px; height: min(75vh, 660px); }
+  .detail-copy { padding: 27px 22px; }
+  .detail-photo .photo-credit { top: 13px; bottom: auto; left: 12px; font-size: 9px; max-width: 50%; }
+  .detail-photo .photo-controls { top: 12px; bottom: auto; right: 10px; left: auto; max-width: 46%; justify-content: flex-end; }
+  .ingredient-overlay { left: 12px; right: 12px; bottom: 18px; }
+  .ingredient-overlay-grid { gap: 6px; }
+  .ingredient-overlay-item { font-size: 11px; }
+  .ingredient-overlay-item b { font-size: 14px; }
+  .ingredient-stem { height: clamp(62px, 14vw, 98px); }
+  .card-photo { height: 310px; }
+}
+@media (max-width: 470px) {
+  .cards { grid-template-columns: minmax(0, 1fr); }
+  .card-photo { height: 300px; }
+  .detail-photo { min-height: 470px; height: 60vh; }
+  .ingredient-overlay-item { font-size: 10px; }
+  .ingredient-overlay-item b { font-size: 13px; }
+  .ingredient-overlay-kicker { font-size: 9px; }
+  .ingredient-stem { height: 70px; }
+  .detail-photo .photo-controls button { font-size: 8px; padding: 6px 8px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ingredient-overlay { transition: none; }
+  .card-photo img { transition: none; }
+}
