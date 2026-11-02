@@ -685,7 +685,7 @@
           "source": "Wikimedia Commons · Edsel L",
           "sourceTitle": "File:VTR - Mai Tai.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:VTR_-_Mai_Tai.jpg",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/VTR_-_Mai_Tai.jpg/1920px-VTR_-_Mai_Tai.jpg",
+          "path": "assets/recipes/web/mai-tai.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/VTR_-_Mai_Tai.jpg/1920px-VTR_-_Mai_Tai.jpg",
           "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/VTR_-_Mai_Tai.jpg",
           "license": "CC BY-SA 2.0",
@@ -697,7 +697,9 @@
           "modified": "Cropped/resized to WebP; attribution and share-alike terms retained.",
           "review": "Exact Mai Tai named Commons file; licensed Flickr photo confirmed with Commons and direct 1920px source preview.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -708,7 +710,7 @@
           "source": "Wikimedia Commons · James West  from UK",
           "sourceTitle": "File:Agua de Valencia (49903591358).jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agua_de_Valencia_(49903591358).jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Agua_de_Valencia_%2849903591358%29.jpg/1920px-Agua_de_Valencia_%2849903591358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "path": "assets/recipes/web/agua-de-valencia.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Agua_de_Valencia_%2849903591358%29.jpg/1920px-Agua_de_Valencia_%2849903591358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Agua_de_Valencia_%2849903591358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "license": "CC BY-SA 2.0",
@@ -721,7 +723,9 @@
           "modified": "Cropped/resized to WebP; attribution and share-alike terms retained.",
           "review": "Exact Agua de Valencia cocktail in title and ingredients description, licensed Commons photo.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     }
