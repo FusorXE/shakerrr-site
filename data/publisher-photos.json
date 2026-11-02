@@ -704,6 +704,294 @@
           "verified": "publisher-cocktail-search-result"
         }
       ]
+    },
+    "padang-swizzle": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/08/Padang-Swizzle.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/padang-swizzle/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "bicicletta": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/r4ax8O/lifestyle/0/1024x.webp",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/4877/bicicletta-spritz",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "american-trilogy": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/O7E2ZA/lifestyle/0/1024x.webp",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/6227/american-trilogy",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "cards-on-the-table": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__cards-on-the-table__p054.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 50,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "ferrari-named-desire": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__ferrari-named-desire__p126.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 122,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "innuendo": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__innuendo__p145.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 141,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "kitchen-sink": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__kitchen-sink__p149.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 145,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "lady-day": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__lady-day__p074.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 70,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "pink-lady": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__pink-lady__p101.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 97,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "room-with-a-view": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__room-with-a-view__p026.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 22,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "sakura-martini": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__sakura-martini__p034.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 30,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "scotch-and-salt": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__scotch-and-salt__p049.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 45,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "sunday-morning-coming-down": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__sunday-morning-coming-down__p013.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 9,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "the-bronx": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__the-bronx__p105.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 101,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "the-godfather": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__the-godfather__p073.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 69,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "the-hardest-walk": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__the-hardest-walk__p125.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 121,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "the-high-roller": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__the-high-roller__p050.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 46,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "the-slammer": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__the-slammer__p030.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 26,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "tom-jerry": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__tom-and-jerry__p069.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 65,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "when-you-re-a-jet": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__when-you-re-a-jet__p129.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 125,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "whiskey-danger": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__whiskey-danger__p157.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 153,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
     }
   },
   "stats": {
