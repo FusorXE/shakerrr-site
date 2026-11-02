@@ -754,9 +754,14 @@ body:before {
   border: 1px solid #2d333a;
   background: #0f1115;
   border-radius: 7px;
-  padding: 7px 8px;
-  font-size: 8px;
-  color: #86898d;
+  padding: 10px 12px;
+  font-size: 12px;
+  line-height: 1.2;
+  color: #a1a5ac;
+}
+.version-tab:focus-visible {
+  outline: 2px solid #ddb775;
+  outline-offset: 2px;
 }
 .version-tab.active {
   border-color: #665031;
