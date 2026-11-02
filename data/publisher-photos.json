@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-02T02:52:53.521Z",
+  "description": "Cocktail images linked directly to verified publisher recipe pages; no photos downloaded.",
+  "byRecipe": {
+    "cherry-gin-buck": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recTK3eqKnWsSzYMz-1777494450817.jpg?v=1778190387",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/cherry-gin-buck",
+          "source": "curiada.com",
+          "title": "Cherry Gin Buck",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "dublin-rusty-mule": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recybgCH2uVunhl98-1777502540208.jpg?v=1778190395",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/dublin-rusty-mule",
+          "source": "curiada.com",
+          "title": "Dublin Rusty Mule",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "elderflower-samba-martini": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/1e31fe5b-a4c3-4916-951c-9765fef50856.png?v=1770221671",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/elderflower-samba-martini",
+          "source": "curiada.com",
+          "title": "Elderflower Samba Martini",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "gilded-bitter": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recEPu55IL6hMz11N-1777488505878.jpg?v=1778190300",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/gilded-bitter",
+          "source": "curiada.com",
+          "title": "Gilded Bitter",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "golden-fizz-royale": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recLFJIYkxfCgnUWi-1777502792930.jpg?v=1778190402",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/golden-fizz-royale",
+          "source": "curiada.com",
+          "title": "Golden Fizz Royale",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "sloe-burn-sipper": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recW52rqJ73ksDtAr-1777500723299.jpg?v=1778190361",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/sloe-burn-sipper",
+          "source": "curiada.com",
+          "title": "Sloe Burn Sipper",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "spiced-rum-cooler": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-rec3Twh19GEVs18cG-1777498927147.jpg?v=1778190353",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/spiced-rum-cooler",
+          "source": "curiada.com",
+          "title": "Spiced Rum Cooler",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "the-celery-sour": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recImsTKVgcLVI5bp-1777500828022.jpg?v=1778190486",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/the-celery-sour",
+          "source": "curiada.com",
+          "title": "The Celery Sour",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "tomato-blossom-daiquiri": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recPGAXVxs5MrARSv-1777502201906.jpg?v=1778190426",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/tomato-blossom-daiquiri",
+          "source": "curiada.com",
+          "title": "Tomato Blossom Daiquiri",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "attempted": 354,
+    "matched": 9,
+    "byPublisher": {
+      "curiada.com": 9
+    },
+    "errors": 0,
+    "resolved": 9,
+    "catalogCards": 354
+  }
+}
