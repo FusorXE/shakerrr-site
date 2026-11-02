@@ -1,0 +1,282 @@
+{
+  "version": 1,
+  "description": "Additional sourced Atlas-only mixed drinks; do not alter canonical recipe catalog.",
+  "recipes": [
+    {
+      "id": "atlas-finnish-long-drink",
+      "name": "Finnish Long Drink (Lonkero)",
+      "country": "Finland",
+      "region": "Northern Europe",
+      "category": "World",
+      "family": "Highball",
+      "method": "Build",
+      "geographyNote": "Origin: Finland, created for the 1952 Helsinki Olympics",
+      "versions": [
+        {
+          "label": "Shakerrr · home-style Finnish Long Drink",
+          "type": "House approximation",
+          "url": "https://en.hartwall.fi/inspiration/brand-stories/2019/original-long-drink/",
+          "ingredients": [
+            {
+              "amount": "1½ oz",
+              "name": "Gin"
+            },
+            {
+              "amount": "4½ oz",
+              "name": "Chilled grapefruit soda"
+            }
+          ],
+          "instructions": "Build over ice in a tall glass and stir gently. These home proportions are an approximation, not Hartwall's proprietary formula.",
+          "glass": "Highball",
+          "ice": "Cubed ice",
+          "history": "The Finnish long drink was created to serve visitors efficiently during the 1952 Helsinki Olympics. Gin and grapefruit remain its signature combination."
+        }
+      ],
+      "ingredients": [
+        {
+          "amount": "1½ oz",
+          "name": "Gin"
+        },
+        {
+          "amount": "4½ oz",
+          "name": "Chilled grapefruit soda"
+        }
+      ],
+      "instructions": "Build over ice in a tall glass and stir gently. These home proportions are an approximation, not Hartwall's proprietary formula.",
+      "collections": [
+        "Shakerrr Atlas"
+      ],
+      "baseSource": "Shakerrr · home-style Finnish Long Drink"
+    },
+    {
+      "id": "atlas-yorsh",
+      "name": "Yorsh (Ёрш)",
+      "country": "Russia",
+      "region": "Eastern Europe",
+      "category": "World",
+      "family": "Beer cocktail",
+      "method": "Build",
+      "geographyNote": "Traditional Russian beer-and-vodka mixed drink",
+      "versions": [
+        {
+          "label": "CocktailDB.ru · Yorsh",
+          "type": "Published reference",
+          "url": "https://cocktaildb.ru/index.php/cocktail/yorsh",
+          "ingredients": [
+            {
+              "amount": "50 ml",
+              "name": "Vodka"
+            },
+            {
+              "amount": "300 ml",
+              "name": "Pale lager"
+            }
+          ],
+          "instructions": "Pour vodka into a mug of pale lager and stir gently.",
+          "glass": "Beer mug",
+          "history": "Known in Russia as Yorsh (Ёрш), this straightforward beer-and-vodka mixture has several historical and regional variations."
+        }
+      ],
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Vodka"
+        },
+        {
+          "amount": "300 ml",
+          "name": "Pale lager"
+        }
+      ],
+      "instructions": "Pour vodka into a mug of pale lager and stir gently.",
+      "collections": [
+        "Shakerrr Atlas"
+      ],
+      "baseSource": "CocktailDB.ru · Yorsh"
+    },
+    {
+      "id": "atlas-spicy-pomegranate-istanbul",
+      "name": "Spicy Pomegranate (Istanbul)",
+      "country": "Turkey",
+      "region": "Mediterranean",
+      "category": "World",
+      "family": "Sour",
+      "method": "Shake",
+      "geographyNote": "Documented at Four Seasons Sultanahmet, Istanbul",
+      "versions": [
+        {
+          "label": "Murat Öztürk · Four Seasons Sultanahmet",
+          "type": "Bartender recipe",
+          "url": "https://www.elizabethminchilli.com/2011/02/spicy-pomegranate-cocktail-from-the-four-seasons-sultanahmet/",
+          "creator": "Murat Öztürk",
+          "ingredients": [
+            {
+              "amount": "1½ oz",
+              "name": "Gin"
+            },
+            {
+              "amount": "1 oz",
+              "name": "Pomegranate juice"
+            },
+            {
+              "amount": "1 tsp",
+              "name": "Lemon juice"
+            },
+            {
+              "amount": "1",
+              "name": "Egg white"
+            }
+          ],
+          "instructions": "Shake together with ice, strain into a chilled cocktail glass and finish with freshly ground pepper.",
+          "glass": "Cocktail glass",
+          "garnish": "Freshly ground black pepper",
+          "history": "Shared by Istanbul bartender Murat Öztürk at the Four Seasons Sultanahmet, this gin sour highlights Turkey's fresh pomegranates."
+        }
+      ],
+      "ingredients": [
+        {
+          "amount": "1½ oz",
+          "name": "Gin"
+        },
+        {
+          "amount": "1 oz",
+          "name": "Pomegranate juice"
+        },
+        {
+          "amount": "1 tsp",
+          "name": "Lemon juice"
+        },
+        {
+          "amount": "1",
+          "name": "Egg white"
+        }
+      ],
+      "instructions": "Shake together with ice, strain into a chilled cocktail glass and finish with freshly ground pepper.",
+      "collections": [
+        "Shakerrr Atlas"
+      ],
+      "baseSource": "Murat Öztürk · Four Seasons Sultanahmet"
+    },
+    {
+      "id": "atlas-ouzo-with-water",
+      "name": "Ouzo with Water",
+      "country": "Greece",
+      "region": "Mediterranean",
+      "category": "World",
+      "family": "Traditional mixed drink",
+      "method": "Build",
+      "geographyNote": "Traditional Greek ouzo serve, not an invented shaken cocktail",
+      "versions": [
+        {
+          "label": "Visit Greece · traditional serve",
+          "type": "Traditional serve",
+          "url": "https://www.visitgreece.gr/en/experiences/gastronomy/greek-wines/ouzo",
+          "ingredients": [
+            {
+              "amount": "To taste",
+              "name": "Ouzo"
+            },
+            {
+              "amount": "To taste",
+              "name": "Cold water"
+            }
+          ],
+          "instructions": "Pour ouzo into a small glass and slowly add chilled water to taste. It turns cloudy as the anise oils disperse; ice is optional.",
+          "glass": "Small tall glass",
+          "history": "Ouzo is Greece's anise-flavored aperitif, traditionally sipped slowly with water and meze. Its clouding when diluted is characteristic of anise spirits."
+        }
+      ],
+      "ingredients": [
+        {
+          "amount": "To taste",
+          "name": "Ouzo"
+        },
+        {
+          "amount": "To taste",
+          "name": "Cold water"
+        }
+      ],
+      "instructions": "Pour ouzo into a small glass and slowly add chilled water to taste. It turns cloudy as the anise oils disperse; ice is optional.",
+      "collections": [
+        "Shakerrr Atlas"
+      ],
+      "baseSource": "Visit Greece · traditional serve"
+    },
+    {
+      "id": "atlas-baijiu-sour",
+      "name": "Baijiu Sour",
+      "country": "China",
+      "region": "East Asia",
+      "category": "World",
+      "family": "Sour",
+      "method": "Shake",
+      "geographyNote": "China-inspired baijiu cocktail; the article does not establish that this specific recipe originated in China",
+      "versions": [
+        {
+          "label": "Chinese American Family · Baijiu Sour",
+          "type": "Published modern cocktail",
+          "url": "https://www.chineseamericanfamily.com/cheers-3-chinese-cocktails-worth-celebrating/",
+          "ingredients": [
+            {
+              "amount": "1½ oz",
+              "name": "Vinn baijiu"
+            },
+            {
+              "amount": "½ oz",
+              "name": "Lime juice"
+            },
+            {
+              "amount": "½ oz",
+              "name": "Grapefruit juice"
+            },
+            {
+              "amount": "½ oz",
+              "name": "Rich simple syrup"
+            },
+            {
+              "amount": "¼",
+              "name": "Egg white"
+            },
+            {
+              "amount": "3 drops",
+              "name": "Fee's Old Fashioned bitters"
+            }
+          ],
+          "instructions": "Dry shake the egg white, then shake vigorously with the other ingredients and ice. Strain into a rocks glass, without double-straining, and finish with the bitters.",
+          "glass": "Rocks glass",
+          "history": "This modern sour introduces baijiu, China's distinctive grain spirit, to a familiar citrus-and-egg-white cocktail structure. It is China-inspired rather than a verified Chinese-origin classic."
+        }
+      ],
+      "ingredients": [
+        {
+          "amount": "1½ oz",
+          "name": "Vinn baijiu"
+        },
+        {
+          "amount": "½ oz",
+          "name": "Lime juice"
+        },
+        {
+          "amount": "½ oz",
+          "name": "Grapefruit juice"
+        },
+        {
+          "amount": "½ oz",
+          "name": "Rich simple syrup"
+        },
+        {
+          "amount": "¼",
+          "name": "Egg white"
+        },
+        {
+          "amount": "3 drops",
+          "name": "Fee's Old Fashioned bitters"
+        }
+      ],
+      "instructions": "Dry shake the egg white, then shake vigorously with the other ingredients and ice. Strain into a rocks glass, without double-straining, and finish with the bitters.",
+      "collections": [
+        "Shakerrr Atlas"
+      ],
+      "baseSource": "Chinese American Family · Baijiu Sour"
+    }
+  ]
+}
