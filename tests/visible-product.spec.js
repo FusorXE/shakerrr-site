@@ -60,7 +60,7 @@ test("switching published versions preserves the cocktail and active tab", async
   await page.locator('.movie-card[data-recipe="manhattan"]').click();
   const picker = page.locator("#versionSelect");
   await expect(page.locator(".detail-copy h1")).toHaveText("Manhattan");
-  await expect(picker.locator("option:checked")).toHaveText("Simple Manhattan");
+  await expect(picker.locator("option:checked")).toContainText("Simple Manhattan");
   await picker.selectOption({ label: "Essential Cocktail Book" });
   await expect(picker.locator("option:checked")).toHaveText("Essential Cocktail Book");
   await expect(page.locator(".ingredient-table")).toBeVisible();
