@@ -1,3 +1,5 @@
+import { test, expect } from "@playwright/test";
+
 test("desktop source versions use a compact dropdown instead of an oversized lineup", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/");
