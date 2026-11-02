@@ -223,6 +223,123 @@
           "verified": "exact-publisher-recipe"
         }
       ]
+    },
+    "chartreuse-swizzle": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-chartreuse-swizzle-6695d39b326e0.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/chartreuse-swizzle/",
+          "source": "IBA",
+          "title": "chartreuse-swizzle",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "fernandito": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-fernandito-6695d3a1a3586.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/fernandito/",
+          "source": "IBA",
+          "title": "fernandito",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "hanky-panky": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-hanky-panky-66949112edbf5.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/hanky-panky/",
+          "source": "IBA",
+          "title": "hanky-panky",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "irish-coffee": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-irish-coffee-copy-6695cdbb430cd.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/irish-coffee/",
+          "source": "IBA",
+          "title": "irish-coffee",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "kir": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-kir-6695cdbdbb2e1.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/kir/",
+          "source": "IBA",
+          "title": "kir",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "naked-and-famous": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-naked-and-famous-6695d3ae8e1dc.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/naked-and-famous/",
+          "source": "IBA",
+          "title": "naked-and-famous",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "penicillin": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-penicillin-6695d3b47b79f.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/penicillin/",
+          "source": "IBA",
+          "title": "penicillin",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "pisco-punch": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-pisco-punch-6695d3b74b9f5.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/pisco-punch/",
+          "source": "IBA",
+          "title": "pisco-punch",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "planters-punch": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-planters-punch-66949122d41fb.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/planters-punch/",
+          "source": "IBA",
+          "title": "planters-punch",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
     }
   },
   "stats": {
