@@ -18,15 +18,15 @@ export function publishedNote(value) {
     return "";
 
   const cleaned = note
-    .replace(/\\|(['’](?:ve|m|d|ll)\\b)/g, "I$1")
-    .replace(/\\s*Bourbon became the preferred spirit only aft$/, "")
+    .replace(/\|(['’](?:ve|m|d|ll)\b)/g, "I$1")
+    .replace(/\s*Bourbon became the preferred spirit only aft$/, "")
     .trim();
 
   // Imported book passages were previously truncated to exactly 650
   // characters, often splitting a word. Keep only complete sentences
   // rather than inventing the missing ending or modifying raw source data.
   if (cleaned.length >= 640 && !/[.!?][”"']?$/.test(cleaned)) {
-    const sentences = [...cleaned.matchAll(/[.!?](?=\\s|$)/g)];
+    const sentences = [...cleaned.matchAll(/[.!?](?=\s|$)/g)];
     const last = sentences.filter(match => match.index >= 80).at(-1);
     return last ? cleaned.slice(0, last.index + 1).trim() : "";
   }
