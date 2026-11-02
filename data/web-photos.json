@@ -736,7 +736,7 @@
           "source": "Wikimedia Commons · Will Shenton",
           "sourceTitle": "File:Bee's Knees.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bee's_Knees.jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Bee%27s_Knees.jpg/1280px-Bee%27s_Knees.jpg",
+          "path": "assets/recipes/web/bees-knees.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Bee%27s_Knees.jpg/1280px-Bee%27s_Knees.jpg",
           "license": "CC BY-SA 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -747,7 +747,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image retains original license.",
           "review": "Exact named cocktail and licensed file source verified on Wikimedia Commons; visual crop subject to contact-sheet QC.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -758,7 +760,7 @@
           "source": "Wikimedia Commons · crazybobbles",
           "sourceTitle": "File:Bellini at Harry's Bar.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bellini_at_Harry's_Bar.jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Bellini_at_Harry%27s_Bar.jpg/3840px-Bellini_at_Harry%27s_Bar.jpg",
+          "path": "assets/recipes/web/bellini.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Bellini_at_Harry%27s_Bar.jpg/3840px-Bellini_at_Harry%27s_Bar.jpg",
           "license": "CC BY 2.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
@@ -769,7 +771,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image retains original license.",
           "review": "Exact named cocktail and licensed file source verified on Wikimedia Commons; visual crop subject to contact-sheet QC.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -780,7 +784,7 @@
           "source": "Wikimedia Commons · Will Shenton",
           "sourceTitle": "File:Sazerac Cocktail.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sazerac_Cocktail.jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Sazerac_Cocktail.jpg/1280px-Sazerac_Cocktail.jpg",
+          "path": "assets/recipes/web/sazerac.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Sazerac_Cocktail.jpg/1280px-Sazerac_Cocktail.jpg",
           "license": "CC BY-SA 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -791,7 +795,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image retains original license.",
           "review": "Exact named cocktail and licensed file source verified on Wikimedia Commons; visual crop subject to contact-sheet QC.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -802,7 +808,7 @@
           "source": "Wikimedia Commons · Cocktailmarler",
           "sourceTitle": "File:Blood and Sand.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blood_and_Sand.jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Blood_and_Sand.jpg/1920px-Blood_and_Sand.jpg",
+          "path": "assets/recipes/web/blood-and-sand.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Blood_and_Sand.jpg/1920px-Blood_and_Sand.jpg",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -813,7 +819,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image retains original license.",
           "review": "Exact named cocktail and licensed file source verified on Wikimedia Commons; visual crop subject to contact-sheet QC.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -824,7 +832,7 @@
           "source": "Wikimedia Commons · Chris Palmer",
           "sourceTitle": "File:Bijou Cocktail.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bijou_Cocktail.jpg",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bijou_Cocktail.jpg",
+          "path": "assets/recipes/web/bijou.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bijou_Cocktail.jpg",
           "license": "CC BY-SA 2.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
@@ -835,7 +843,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image retains original license.",
           "review": "Exact named cocktail and licensed file source verified on Wikimedia Commons; visual crop subject to contact-sheet QC.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -846,7 +856,7 @@
           "source": "Wikimedia Commons · Bart Everson",
           "sourceTitle": "File:Pisco Sour Cocktail.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pisco_Sour_Cocktail.jpg",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pisco_Sour_Cocktail.jpg",
+          "path": "assets/recipes/web/pisco-sour.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pisco_Sour_Cocktail.jpg",
           "license": "CC BY 2.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
@@ -857,7 +867,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image retains original license.",
           "review": "Exact named cocktail and licensed file source verified on Wikimedia Commons; visual crop subject to contact-sheet QC.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     }
