@@ -1,19 +1,15 @@
-import { test, expect } from "@playwright/test";
-
-test("many recipe sources scroll horizontally as readable chips instead of vertical text", async ({ page }) => {
+test("desktop source versions use a compact dropdown instead of an oversized lineup", async ({ page }) => {
+  await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto("/");
   await page.locator("#searchInput").fill("Negroni");
   await page.locator('.search-item[data-recipe="negroni"]').click();
-  const tabs = page.locator(".version-tab");
-  expect(await tabs.count()).toBeGreaterThan(7);
-  const widths = await tabs.first().evaluate(button => {
-    const style = getComputedStyle(button);
-    return { shrink: style.flexShrink, whitespace: style.whiteSpace, width: button.getBoundingClientRect().width, height: button.getBoundingClientRect().height };
-  });
-  expect(widths.shrink).toBe("0");
-  expect(widths.whitespace).toBe("nowrap");
-  expect(widths.width).toBeGreaterThan(80);
-  expect(widths.height).toBeLessThan(65);
+  const picker = page.locator("#versionSelect");
+  await expect(picker).toBeVisible();
+  await expect(page.locator(".version-tabs")).toBeHidden();
+  expect(await picker.locator("option").count()).toBeGreaterThan(7);
+  const dimensions = await picker.evaluate(el => ({ width: el.getBoundingClientRect().width, height: el.getBoundingClientRect().height }));
+  expect(dimensions.width).toBeLessThan(470);
+  expect(dimensions.height).toBeLessThan(70);
 });
 
 test("small-screen recipe versions use a working native dropdown", async ({ page }) => {
