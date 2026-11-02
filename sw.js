@@ -1,4 +1,4 @@
-const CACHE = "shakerrr-v20261102-editorial-mezcal";
+const CACHE = "shakerrr-v20261102-units-source";
 const CORE = [
   "./",
   "./index.html",
