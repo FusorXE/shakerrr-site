@@ -324,18 +324,37 @@ const REGION_ORDER = [
   "Southeast Asia",
   "Oceania",
 ];
+function mergePublisherPhotos(publisherImages = {}, webImages = {}) {
+  const merged = {};
+  for (const id of new Set([...Object.keys(publisherImages), ...Object.keys(webImages)])) {
+    merged[id] = { candidates: [
+      ...(publisherImages[id]?.candidates || []),
+      ...(webImages[id]?.candidates || []),
+    ] };
+  }
+  return merged;
+}
+async function loadPublisherImages(cache = "default") {
+  try {
+    const response = await fetch("data/publisher-photos.json", { cache });
+    return response.ok ? (await response.json()).byRecipe || {} : {};
+  } catch {
+    return {};
+  }
+}
 async function boot() {
   try {
-    const [recipes, world, webImages] = await Promise.all(
-      ["recipes", "world", "web-photos"].map(async (name) => {
+    const [recipes, world, webImages, publisherImages] = await Promise.all([
+      ...["recipes", "world", "web-photos"].map(async (name) => {
         const r = await fetch(`data/${name}.json`);
         if (!r.ok) throw Error(name);
         return r.json();
       }),
-    );
+      loadPublisherImages(),
+    ]);
     state.recipes = recipes;
     state.world = world;
-    state.images = webImages.byRecipe || {};
+    state.images = mergePublisherPhotos(publisherImages, webImages.byRecipe || {});
     state.bar = new Set([...state.bar].map(canon));
     state.recipes.forEach((r) => {
       state.byId.set(r.id, r);
@@ -1292,7 +1311,10 @@ async function action(name, el, e) {
     try {
       const webResponse = await fetch("data/web-photos.json", { cache: "reload" });
       if (!webResponse.ok) throw Error("The photo list could not be refreshed. Please try again.");
-      state.images = (await webResponse.json()).byRecipe || {};
+      const [webCatalog, publisherImages] = await Promise.all([
+        webResponse.json(), loadPublisherImages("reload")
+      ]);
+      state.images = mergePublisherPhotos(publisherImages, webCatalog.byRecipe || {});
       resetOnlinePhotoCache();
       state.photoMode[el.dataset.id] = "system";
       savePhotoModes();
@@ -1582,7 +1604,7 @@ async function loadPhoto(id, img) {
     if (credit) {
       credit.textContent = current.credit;
       for (const [link, label, allowed] of [
-        [current.sourceUrl, "Photo source", ["commons.wikimedia.org", "www.pexels.com", "www.thecocktaildb.com", "en.wikipedia.org"]],
+        [current.sourceUrl, "Photo source", ["commons.wikimedia.org", "www.pexels.com", "www.thecocktaildb.com", "en.wikipedia.org", "iba-world.com", "www.diffordsguide.com", "www.liquor.com", "curiada.com", "kindredcocktails.com", "cocktailvirgin.blogspot.com", "www.tastingtable.com"]],
         [current.licenseUrl, "License", ["creativecommons.org", "www.pexels.com"]],
       ]) {
         if (!link) continue;
