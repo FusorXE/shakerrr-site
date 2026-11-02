@@ -527,7 +527,7 @@
         {
           "id": "commons-zombie",
           "source": "Wikimedia Commons · Matthias Friedlein ( www.augustine-bar.de )",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Zombie_Cocktail.jpg/1920px-Zombie_Cocktail.jpg",
+          "path": "assets/recipes/web/zombie.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Zombie_Cocktail.jpg/1920px-Zombie_Cocktail.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zombie_Cocktail.jpg",
           "sourceTitle": "File:Zombie Cocktail.jpg",
@@ -542,7 +542,9 @@
           "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo. Wikimedia explicitly offers this 1920-pixel thumbnail; original image download was rate-limited.",
           "available": true,
           "status": "web-curated",
-          "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Zombie_Cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+          "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Zombie_Cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1200,
+          "height": 1500
         }
       ]
     }
