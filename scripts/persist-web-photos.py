@@ -21,7 +21,8 @@ if len(candidates) > 10:
 processed = 0
 for recipe_id, photo in candidates:
     url = photo["originalUrl"]
-    if not url.startswith("https://images.pexels.com/photos/"):
+    if not (url.startswith("https://images.pexels.com/photos/") or
+            url.startswith("https://upload.wikimedia.org/wikipedia/commons/")):
         raise SystemExit(f"Unapproved image host for {recipe_id}")
     try:
         request = urllib.request.Request(url, headers={"User-Agent": "Shakerrr/1.0 image-curation"})
