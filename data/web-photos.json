@@ -7,13 +7,15 @@
         {
           "id": "pexels-15389024",
           "source": "Pexels · Alex Hoces",
-          "path": "https://images.pexels.com/photos/15389024/pexels-photo-15389024.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/espresso-martini.webp",
           "sourceUrl": "https://www.pexels.com/photo/15389024/",
           "license": "Pexels License",
           "description": "Coupe glass with coffee cocktail",
           "available": true,
           "status": "web-curated",
-          "originalUrl": "https://images.pexels.com/photos/15389024/pexels-photo-15389024.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          "originalUrl": "https://images.pexels.com/photos/15389024/pexels-photo-15389024.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -22,13 +24,15 @@
         {
           "id": "pexels-36580797",
           "source": "Pexels · Caio Niceas",
-          "path": "https://images.pexels.com/photos/36580797/pexels-photo-36580797.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/margarita.webp",
           "sourceUrl": "https://www.pexels.com/photo/36580797/",
           "license": "Pexels License",
           "description": "Margarita with lime and salted rim",
           "available": true,
           "status": "web-curated",
-          "originalUrl": "https://images.pexels.com/photos/36580797/pexels-photo-36580797.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          "originalUrl": "https://images.pexels.com/photos/36580797/pexels-photo-36580797.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -37,13 +41,15 @@
         {
           "id": "pexels-3794291",
           "source": "Pexels · Sebastian Coman Photography",
-          "path": "https://images.pexels.com/photos/3794291/pexels-photo-3794291.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/negroni.webp",
           "sourceUrl": "https://www.pexels.com/photo/3794291/",
           "license": "Pexels License",
           "description": "Negroni with orange peel",
           "available": true,
           "status": "web-curated",
-          "originalUrl": "https://images.pexels.com/photos/3794291/pexels-photo-3794291.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          "originalUrl": "https://images.pexels.com/photos/3794291/pexels-photo-3794291.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -52,13 +58,15 @@
         {
           "id": "pexels-31631265",
           "source": "Pexels · Mediha Ekici",
-          "path": "https://images.pexels.com/photos/31631265/pexels-photo-31631265.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/old-fashioned.webp",
           "sourceUrl": "https://www.pexels.com/photo/31631265/",
           "license": "Pexels License",
           "description": "Old Fashioned with orange peel",
           "available": true,
           "status": "web-curated",
-          "originalUrl": "https://images.pexels.com/photos/31631265/pexels-photo-31631265.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          "originalUrl": "https://images.pexels.com/photos/31631265/pexels-photo-31631265.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -67,13 +75,15 @@
         {
           "id": "pexels-36630819",
           "source": "Pexels · Mohamed Olwy",
-          "path": "https://images.pexels.com/photos/36630819/pexels-photo-36630819.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/mojito.webp",
           "sourceUrl": "https://www.pexels.com/photo/36630819/",
           "license": "Pexels License",
           "description": "Mojito with mint and lime",
           "available": true,
           "status": "web-curated",
-          "originalUrl": "https://images.pexels.com/photos/36630819/pexels-photo-36630819.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          "originalUrl": "https://images.pexels.com/photos/36630819/pexels-photo-36630819.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -82,13 +92,15 @@
         {
           "id": "pexels-20094378",
           "source": "Pexels · Alex Aparicio",
-          "path": "https://images.pexels.com/photos/20094378/pexels-photo-20094378.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/aperol-spritz.webp",
           "sourceUrl": "https://www.pexels.com/photo/20094378/",
           "license": "Pexels License",
           "description": "Aperol Spritz with orange",
           "available": true,
           "status": "web-curated",
-          "originalUrl": "https://images.pexels.com/photos/20094378/pexels-photo-20094378.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          "originalUrl": "https://images.pexels.com/photos/20094378/pexels-photo-20094378.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -97,13 +109,15 @@
         {
           "id": "pexels-29578904",
           "source": "Pexels · Valeria Boltneva",
-          "path": "https://images.pexels.com/photos/29578904/pexels-photo-29578904.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/whiskey-sour.webp",
           "sourceUrl": "https://www.pexels.com/photo/29578904/",
           "license": "Pexels License",
           "description": "Whiskey Sour on a dimly lit bar",
           "available": true,
           "status": "web-curated",
-          "originalUrl": "https://images.pexels.com/photos/29578904/pexels-photo-29578904.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          "originalUrl": "https://images.pexels.com/photos/29578904/pexels-photo-29578904.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "width": 1200,
+          "height": 1500
         }
       ]
     }
