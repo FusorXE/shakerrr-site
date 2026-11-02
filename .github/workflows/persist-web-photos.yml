@@ -28,7 +28,7 @@ jobs:
         run: python scripts/persist-web-photos.py
       - name: Commit and push optimized actual image binaries
         run: |
-          git add data/web-photos.json assets/recipes/web/
+          git add data/web-photos.json data/web-photo-download-failures.json assets/recipes/web/
           if git diff --cached --quiet; then
             echo "No new binary files to commit"
             exit 0
@@ -36,4 +36,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Persist first curated web photo batch as WebP"
+          git pull --rebase origin main
           git push origin HEAD:main
