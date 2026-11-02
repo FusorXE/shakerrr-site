@@ -296,6 +296,236 @@
           "height": 1500
         }
       ]
+    },
+    "daiquiri": {
+      "candidates": [
+        {
+          "id": "commons-daiquiri",
+          "source": "Wikimedia Commons · Will Shenton",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Classic_Daiquiri_in_Cocktail_Glass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Classic_Daiquiri_in_Cocktail_Glass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Classic_Daiquiri_in_Cocktail_Glass.jpg",
+          "sourceTitle": "File:Classic Daiquiri in Cocktail Glass.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Will Shenton",
+          "credit": "https://bevvy.co/cocktail/daiquiri/wbi",
+          "description": "A classic Daiquiri served up in a cocktail glass.",
+          "sourceWidth": 3456,
+          "sourceHeight": 3456,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
+          "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "cosmopolitan": {
+      "candidates": [
+        {
+          "id": "commons-cosmopolitan",
+          "source": "Wikimedia Commons · Melvin Loi  from Macau, Macau",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cosmopolitan_cocktail_%2852272444120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cosmopolitan_cocktail_%2852272444120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosmopolitan_cocktail_(52272444120).jpg",
+          "sourceTitle": "File:Cosmopolitan cocktail (52272444120).jpg",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "artist": "Melvin Loi  from Macau, Macau",
+          "credit": "Cosmopolitan cocktail",
+          "description": "Cosmopolitan cocktail",
+          "sourceWidth": 3235,
+          "sourceHeight": 4853,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
+          "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "manhattan": {
+      "candidates": [
+        {
+          "id": "commons-manhattan",
+          "source": "Wikimedia Commons · Matthias Friedlein ( www.augustine-bar.de )",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Manhattan_%28cocktail%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Manhattan_%28cocktail%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manhattan_(cocktail).png",
+          "sourceTitle": "File:Manhattan (cocktail).png",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Matthias Friedlein ( www.augustine-bar.de )",
+          "credit": "uploaded on behalf of the creator / hochgeladen im Auftrag des Urhebers",
+          "description": "Manhattan (cocktail), garnished with brandied cherries.",
+          "sourceWidth": 2703,
+          "sourceHeight": 4053,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
+          "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "sidecar": {
+      "candidates": [
+        {
+          "id": "commons-sidecar",
+          "source": "Wikimedia Commons · Achim Schleuning",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/1/11/Sidecar_Cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Sidecar_Cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sidecar_Cocktail.jpg",
+          "sourceTitle": "File:Sidecar Cocktail.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Achim Schleuning",
+          "credit": "Own work",
+          "description": "A Sidecar Cocktail.",
+          "sourceWidth": 3955,
+          "sourceHeight": 3094,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
+          "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "gimlet": {
+      "candidates": [
+        {
+          "id": "commons-gimlet",
+          "source": "Wikimedia Commons · Bruno Rijsman",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/f/fd/A_Gimlet_cocktail_%28Isla_Holbox%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/A_Gimlet_cocktail_%28Isla_Holbox%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Gimlet_cocktail_(Isla_Holbox).jpg",
+          "sourceTitle": "File:A Gimlet cocktail (Isla Holbox).jpg",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "artist": "Bruno Rijsman",
+          "credit": "Isla Holbox (Mexico, November 2018) - 98",
+          "description": "Isla Holbox (Mexico, November 2018) - 98",
+          "sourceWidth": 3120,
+          "sourceHeight": 4160,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
+          "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "jungle-bird": {
+      "candidates": [
+        {
+          "id": "commons-jungle-bird",
+          "source": "Wikimedia Commons · BanjoZebra",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jungle_bird_cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jungle_bird_cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jungle_bird_cocktail.jpg",
+          "sourceTitle": "File:Jungle bird cocktail.jpg",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "artist": "BanjoZebra",
+          "credit": "Own work",
+          "description": "Jungle bird cocktail at Satan's Whiskers in London",
+          "sourceWidth": 3024,
+          "sourceHeight": 4032,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
+          "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "paper-plane": {
+      "candidates": [
+        {
+          "id": "commons-paper-plane",
+          "source": "Wikimedia Commons · Missvain",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Taub_Family_Outpost_-_June_11_2021_-_Sarah_Stierch_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Taub_Family_Outpost_-_June_11_2021_-_Sarah_Stierch_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taub_Family_Outpost_-_June_11_2021_-_Sarah_Stierch_02.jpg",
+          "sourceTitle": "File:Taub Family Outpost - June 11 2021 - Sarah Stierch 02.jpg",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "artist": "Missvain",
+          "credit": "Own work",
+          "description": "Paper Plane cocktail at Taub Family Outpost in Sonoma, California.",
+          "sourceWidth": 4032,
+          "sourceHeight": 3024,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
+          "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "white-russian": {
+      "candidates": [
+        {
+          "id": "commons-white-russian",
+          "source": "Wikimedia Commons · Will Shenton",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/9/91/White_Russian_Cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/White_Russian_Cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Russian_Cocktail.jpg",
+          "sourceTitle": "File:White Russian Cocktail.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Will Shenton",
+          "credit": "https://bevvy.co/cocktail/white-russian/upl",
+          "description": "An unmixed White Russian",
+          "sourceWidth": 3325,
+          "sourceHeight": 3325,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
+          "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "aviation": {
+      "candidates": [
+        {
+          "id": "commons-aviation",
+          "source": "Wikimedia Commons · Erich Wagner ( www.eventografie.de )",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Aviation_Cocktail1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Aviation_Cocktail1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aviation_Cocktail1.jpg",
+          "sourceTitle": "File:Aviation Cocktail1.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Erich Wagner ( www.eventografie.de )",
+          "credit": "uploaded on behalf of the creator / hochgeladen im Auftrag des Urhebers",
+          "description": "Aviation Cocktail",
+          "sourceWidth": 3094,
+          "sourceHeight": 3893,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
+          "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "zombie": {
+      "candidates": [
+        {
+          "id": "commons-zombie",
+          "source": "Wikimedia Commons · Matthias Friedlein ( www.augustine-bar.de )",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Zombie_Cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Zombie_Cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zombie_Cocktail.jpg",
+          "sourceTitle": "File:Zombie Cocktail.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Matthias Friedlein ( www.augustine-bar.de )",
+          "credit": "uploaded on behalf of the creator / hochgeladen im Auftrag des Urhebers",
+          "description": "Zombie (cocktail).",
+          "sourceWidth": 2704,
+          "sourceHeight": 4053,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
+          "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
     }
   }
 }
