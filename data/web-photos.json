@@ -302,7 +302,7 @@
         {
           "id": "commons-daiquiri",
           "source": "Wikimedia Commons · Will Shenton",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Classic_Daiquiri_in_Cocktail_Glass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "path": "assets/recipes/web/daiquiri.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Classic_Daiquiri_in_Cocktail_Glass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Classic_Daiquiri_in_Cocktail_Glass.jpg",
           "sourceTitle": "File:Classic Daiquiri in Cocktail Glass.jpg",
@@ -316,7 +316,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
           "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -325,7 +327,7 @@
         {
           "id": "commons-cosmopolitan",
           "source": "Wikimedia Commons · Melvin Loi  from Macau, Macau",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cosmopolitan_cocktail_%2852272444120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "path": "assets/recipes/web/cosmopolitan.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cosmopolitan_cocktail_%2852272444120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosmopolitan_cocktail_(52272444120).jpg",
           "sourceTitle": "File:Cosmopolitan cocktail (52272444120).jpg",
@@ -339,7 +341,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
           "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
