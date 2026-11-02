@@ -2137,3 +2137,8 @@ img[data-photo-id][hidden] {
   .ingredient-overlay { transition: none; }
   .card-photo img { transition: none; }
 }
+
+/* Readable licensing links for Creative Commons recipe photography. */
+.detail-photo .photo-credit a { color: #f7d9ad; text-decoration: underline; text-underline-offset: 2px; }
+.detail-photo .photo-credit a:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+.detail-photo .photo-credit { line-height: 1.5; background: #0a0b0ddd; }
