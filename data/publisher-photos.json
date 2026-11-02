@@ -1200,6 +1200,198 @@
           "verified": "exact-publisher-recipe-result"
         }
       ]
+    },
+    "italian-buck": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/REDzPO/default/0/512x.webp?v=1737701632",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/19258/italian-buck",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "gin-and-juice": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/Ax0P6A/default/0/512x.webp?v=1737701584",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2172/gin-and-juice",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "london-sour": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/A2j7DA/default/0/512x.webp?v=1737701593",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3582/london-sour",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "flor-de-jerez": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/A6qvgR/default/0/512x.webp?v=1737701610",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/8406/flor-de-jerez",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "pendennis-club-cocktail": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/r4ooQA/default/0/512x.webp?v=1737701621",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/13877/pendennis-club-cocktail",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "bull-shot": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RKa6xr/default/0/512x.webp?v=1737701587",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2616/bull-shot",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "hot-buttered-rum": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/jRB5EO/default/0/512x.webp?v=1737701575",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/981/hot-buttered-rum-cocktail",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "lemon-drop": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/AmgnWO/default/0/512x.webp?v=1737701663",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/31603/lemon-drop",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "red-head": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/Ax0zdA/default/0/512x.webp?v=1737701594",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3728/red-head",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "angostura-colada": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/08/Article-Angostura-Colada-Cocktail-Recipe-Rogue-Beta-Cocktails-Book.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/angostura-colada/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "bitter-tom": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2013/06/Article-Bitter-Tom-How-to-Use-Benedictine-in-Cocktails-Drink-Recipe.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/bitter-tom/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "oxford-comma": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/07/Oxford-Comma.jpg?w=1000",
+          "sourceUrl": "https://punchdrink.com/recipes/oxford-comma/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "bitter-intentions": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2015/05/bitter-intentions-recipe.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/bitter-intentions/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "barber-of-seville": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/04/Article-Barber-of-Seville-Recipe.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/barber-of-seville/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "fancy-free": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2024/10/Article2-Fancy-Free-Old-Fashioned-Recipe-Simmer-Down.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/fancy-free/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "champs-elysees": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2024/04/Article2-Champs-Elysees-Cocktail-Recipe-Libertine-NYC.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/champs-elysees/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
     }
   },
   "stats": {
