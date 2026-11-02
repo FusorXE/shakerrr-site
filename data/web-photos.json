@@ -872,6 +872,94 @@
           "height": 1500
         }
       ]
+    },
+    "bramble": {
+      "candidates": [
+        {
+          "id": "commons-bramble",
+          "source": "Wikimedia Commons · Erich Wagner",
+          "sourceTitle": "File:Bramble Cocktail.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bramble_Cocktail.jpg",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bramble_Cocktail.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bramble_Cocktail.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "artist": "Erich Wagner",
+          "description": "Bramble with gin, lemon, sugar syrup and blackberry liqueur",
+          "sourceWidth": 1923,
+          "sourceHeight": 2520,
+          "modified": "Cropped and resized as WebP, original Creative Commons license retained.",
+          "review": "Photo and copyright metadata checked on the original Wikimedia Commons file page.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "singapore-sling": {
+      "candidates": [
+        {
+          "id": "commons-singapore-sling",
+          "source": "Wikimedia Commons · James Cridland",
+          "sourceTitle": "File:Singapore Sling Cocktail.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Singapore_Sling_Cocktail.jpg",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Singapore_Sling_Cocktail.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Singapore_Sling_Cocktail.jpg",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "artist": "James Cridland",
+          "description": "Singapore Sling cocktail from the Raffles Hotel",
+          "sourceWidth": 2136,
+          "sourceHeight": 2848,
+          "modified": "Cropped and resized as WebP, original Creative Commons license retained.",
+          "review": "Photo and copyright metadata checked on the original Wikimedia Commons file page.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "martinez": {
+      "candidates": [
+        {
+          "id": "commons-martinez",
+          "source": "Wikimedia Commons · Will Shenton",
+          "sourceTitle": "File:Martinez Cocktail.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martinez_Cocktail.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinez_Cocktail.jpg/1280px-Martinez_Cocktail.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinez_Cocktail.jpg/1280px-Martinez_Cocktail.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "artist": "Will Shenton",
+          "description": "Martinez gin and sweet vermouth cocktail with lemon twist",
+          "sourceWidth": 3456,
+          "sourceHeight": 3456,
+          "modified": "Cropped and resized as WebP, original Creative Commons license retained.",
+          "review": "Photo and copyright metadata checked on the original Wikimedia Commons file page.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "last-word": {
+      "candidates": [
+        {
+          "id": "commons-last-word",
+          "source": "Wikimedia Commons · Cocktailmarler",
+          "sourceTitle": "File:Last Word.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Last_Word.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Last_Word.jpg/1920px-Last_Word.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Last_Word.jpg/1920px-Last_Word.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "artist": "Cocktailmarler",
+          "description": "Classic gin, Chartreuse and maraschino Last Word cocktail",
+          "sourceWidth": 2651,
+          "sourceHeight": 3977,
+          "modified": "Cropped and resized as WebP, original Creative Commons license retained.",
+          "review": "Photo and copyright metadata checked on the original Wikimedia Commons file page.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
     }
   }
 }
