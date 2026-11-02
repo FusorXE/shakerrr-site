@@ -39,7 +39,8 @@
         "instructions": "Combine in a Pilsner or Collins glass. Add crushed ice and swizzle until cold. Top with crushed ice and garnish with a cinnamon stick through a lime wheel. The publisher suggests a briefly smoking cinnamon garnish; extinguish it before drinking.",
         "garnish": "Cinnamon stick and lime wheel",
         "glass": "Pilsner or Collins glass",
-        "ice": "Crushed ice"
+        "ice": "Crushed ice",
+        "history": "Zac Overman's swizzle layers sherry, aged rum and a little Islay Scotch with citrus and cinnamon, served over crushed ice."
       }
     ],
     "bicicletta": [
@@ -91,6 +92,31 @@
         "instructions": "Combine ingredients with ice in a highball glass and stir gently.",
         "glass": "Highball glass",
         "ice": "Cubed ice"
+      },
+      {
+        "label": "PUNCH",
+        "key": "punch",
+        "type": "Published reference",
+        "url": "https://punchdrink.com/recipes/bicicletta/",
+        "usable": true,
+        "ingredients": [
+          {
+            "amount": "2 oz",
+            "name": "Campari"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Dry Italian white wine"
+          },
+          {
+            "amount": "To top",
+            "name": "Soda water"
+          }
+        ],
+        "instructions": "Combine Campari and white wine in a wine glass, add ice, top with soda, and stir gently.",
+        "garnish": "Orange wheel",
+        "glass": "Wine glass",
+        "history": "The name means 'bicycle' in Italian. Folklore connects it to older café customers cycling home unsteadily after their afternoon aperitivo."
       }
     ],
     "american-trilogy": [
@@ -121,7 +147,8 @@
         "instructions": "Stir all ingredients with ice, then strain into a chilled rocks glass over a large piece of ice. Express an orange twist over the glass.",
         "glass": "Old-fashioned glass",
         "ice": "Large ice cube",
-        "garnish": "Long orange zest twist"
+        "garnish": "Long orange zest twist",
+        "history": "Created by Richard Boccato and Michael McIlroy at Little Branch in New York, the American Trilogy replaces a standard Old-Fashioned's single spirit with rye and bonded applejack."
       },
       {
         "label": "PUNCH",
@@ -151,7 +178,93 @@
         "instructions": "Saturate the brown sugar cube with orange bitters in a rocks glass and muddle to a paste. Add rye and bonded applejack, stir with ice, and garnish with a long orange peel.",
         "glass": "Rocks glass",
         "ice": "Large ice cube",
-        "garnish": "Long, curly orange peel"
+        "garnish": "Long, curly orange peel",
+        "history": "Created by Richard Boccato and Michael McIlroy at Little Branch in New York, the American Trilogy replaces a standard Old-Fashioned's single spirit with rye and bonded applejack."
+      }
+    ],
+    "capitan": [
+      {
+        "label": "PUNCH · Bar Capitán Meléndez",
+        "key": "punch",
+        "type": "Published reference",
+        "url": "https://punchdrink.com/recipes/capitan/",
+        "usable": true,
+        "creator": "Roberto Meléndez",
+        "ingredients": [
+          {
+            "amount": "1½ oz",
+            "name": "Quebranta pisco"
+          },
+          {
+            "amount": "1½ oz",
+            "name": "Sweet vermouth (Cinzano Rosso)"
+          }
+        ],
+        "instructions": "Stir pisco and sweet vermouth briefly with ice in a mixing glass, then strain into a chilled coupe.",
+        "garnish": "Unpitted green olive",
+        "glass": "Coupe",
+        "history": "A Peruvian pisco-and-vermouth classic associated with Lima's Belle Époque drinking culture. This version uses equal parts and an olive."
+      },
+      {
+        "label": "Difford’s Guide · El Capitán",
+        "key": "diffords",
+        "type": "Published reference",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/19910/el-capitan",
+        "usable": true,
+        "ingredients": [
+          {
+            "amount": "1½ oz",
+            "name": "Pisco"
+          },
+          {
+            "amount": "1½ oz",
+            "name": "Sweet red vermouth (Strucchi Rosso)"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Angostura aromatic bitters"
+          }
+        ],
+        "instructions": "Stir with ice, then fine-strain into a chilled coupe.",
+        "garnish": "Skewered green olives",
+        "glass": "Coupe",
+        "history": "The pisco-vermouth combination may trace to Italian immigration to Peru in the nineteenth century; the name is often linked to army captains in Puno in the 1920s, although its exact origin is uncertain."
+      }
+    ],
+    "blazing-saddles": [
+      {
+        "label": "The Jolly Bartender · adaptation",
+        "key": "jolly",
+        "type": "Published adaptation",
+        "url": "https://www.jollybartender.com/2021/09/blazing-saddles-death-co-recipe.html",
+        "usable": true,
+        "creator": "Nate Wilkinson, adapting Brad Farran's Death & Co. recipe",
+        "ingredients": [
+          {
+            "amount": "2 oz",
+            "name": "Catoctin Creek Colossal X malt whiskey (substituted for High West oat whiskey)"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Homemade grapefruit liqueur (substituted for Combier Pamplemousse Rose)"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Fresh lemon juice"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Cinnamon syrup (simple/demerara with a little cinnamon whiskey)"
+          },
+          {
+            "amount": "1 dash",
+            "name": "Angostura bitters (substituted for Elemakule Tiki bitters)"
+          }
+        ],
+        "instructions": "Shake ingredients with ice and strain into a chilled coupe.",
+        "garnish": "Grapefruit twist",
+        "glass": "Coupe",
+        "history": "A cinnamon-and-grapefruit whiskey sour originally created by Brad Farran for Death & Co. This blog version openly substitutes several ingredients; the original book recipe remains a separate tab."
       }
     ]
   }
