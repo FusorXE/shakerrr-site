@@ -485,7 +485,7 @@ function go(page, push = true) {
   state.current = null;
   state.page = page;
   if (push) history.replaceState(null, "", "#" + page);
-  $$("[data-nav]").forEach((b) =>
+  $$$("[data-nav]").forEach((b) =>
     b.classList.toggle("active", b.dataset.nav === page),
   );
   closeSearch();
@@ -749,7 +749,7 @@ function renderVersion(i) {
   state.versionIndex = i;
   const overlay = $(".detail-photo .ingredient-overlay");
   if (overlay) overlay.innerHTML = ingredientOverlay(v.ingredients, displayAmt);
-  $(".version-tab").forEach((b, j) => {
+  $$(".version-tab").forEach((b, j) => {
     b.classList.toggle("active", i === j);
     b.setAttribute("aria-selected", String(i === j));
   });
@@ -1008,7 +1008,7 @@ function selectCountry(n) {
   state.country = n;
   drawWorld();
   renderCountryDetail();
-  $$(".country-row").forEach((button) => {
+  $$$(".country-row").forEach((button) => {
     const selected = button.dataset.country === n;
     button.classList.toggle("active", selected);
     button.setAttribute("aria-pressed", String(selected));
@@ -1068,14 +1068,14 @@ function renderFamilies() {
       .join(
         "",
       )}<div id="familyResult" class="family-result"></div></div></div></div></section>`;
-  $$("[data-family-control]").forEach((x) =>
+  $$$("[data-family-control]").forEach((x) =>
     x.addEventListener("input", () => updateFamily()),
   );
   updateFamily();
 }
 function currentFamilyValues() {
   const o = {};
-  $$("[data-family-control]").forEach((x) => {
+  $$$("[data-family-control]").forEach((x) => {
     o[x.dataset.familyControl] = +x.value;
     $("#fv-" + x.dataset.familyControl).textContent = (+x.value)
       .toFixed(2)
