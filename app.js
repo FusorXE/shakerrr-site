@@ -15,6 +15,7 @@ import {
 } from "./src/storage.js";
 import { publishedNote } from "./src/content.js";
 import { photoCandidates, photoCredit } from "./src/photos.js";
+import { resolveOnlinePhoto, resetOnlinePhotoCache } from "./src/remote-photos.js";
 import { ingredientOverlay } from "./src/ingredient-overlay.js";
 ("use strict");
 const $ = (s, r = document) => r.querySelector(s),
@@ -323,20 +324,10 @@ const REGION_ORDER = [
   "Southeast Asia",
   "Oceania",
 ];
-function mergePhotoSources(bookImages = {}, webImages = {}) {
-  const merged = {};
-  for (const id of new Set([...Object.keys(bookImages), ...Object.keys(webImages)])) {
-    merged[id] = { candidates: [
-      ...(webImages[id]?.candidates || []),
-      ...(bookImages[id]?.candidates || []),
-    ] };
-  }
-  return merged;
-}
 async function boot() {
   try {
-    const [recipes, world, bookImages, webImages] = await Promise.all(
-      ["recipes", "world", "image-manifest", "web-photos"].map(async (name) => {
+    const [recipes, world, webImages] = await Promise.all(
+      ["recipes", "world", "web-photos"].map(async (name) => {
         const r = await fetch(`data/${name}.json`);
         if (!r.ok) throw Error(name);
         return r.json();
@@ -344,7 +335,7 @@ async function boot() {
     );
     state.recipes = recipes;
     state.world = world;
-    state.images = mergePhotoSources(bookImages.byRecipe || {}, webImages.byRecipe || {});
+    state.images = webImages.byRecipe || {};
     state.bar = new Set([...state.bar].map(canon));
     state.recipes.forEach((r) => {
       state.byId.set(r.id, r);
@@ -1299,13 +1290,10 @@ async function action(name, el, e) {
     el.disabled = true;
     el.textContent = "Refreshing…";
     try {
-      const [booksResponse, webResponse] = await Promise.all([
-        fetch("data/image-manifest.json", { cache: "reload" }),
-        fetch("data/web-photos.json", { cache: "reload" }),
-      ]);
-      if (!booksResponse.ok || !webResponse.ok) throw Error("The photo list could not be refreshed. Please try again.");
-      const [books, web] = await Promise.all([booksResponse.json(), webResponse.json()]);
-      state.images = mergePhotoSources(books.byRecipe || {}, web.byRecipe || {});
+      const webResponse = await fetch("data/web-photos.json", { cache: "reload" });
+      if (!webResponse.ok) throw Error("The photo list could not be refreshed. Please try again.");
+      state.images = (await webResponse.json()).byRecipe || {};
+      resetOnlinePhotoCache();
       state.photoMode[el.dataset.id] = "system";
       savePhotoModes();
       // Refresh only the photograph; rebuilding the page would discard a draft.
@@ -1526,10 +1514,18 @@ async function loadPhoto(id, img) {
   const movie = host?.dataset.photoContext === "movie" || version?.key === "movies" ||
     (host?.classList.contains("detail-photo") && state.moviePhoto);
   const candidates = photoCandidates(r, state.images[id], { version, movie: false });
-  const choices = [
-    ...candidates.filter((c) => c.status === "web-curated"),
-    ...candidates.filter((c) => c.status !== "web-curated"),
-  ].map((candidate) => ({ url: candidate.path, credit: photoCredit(candidate), sourceUrl: candidate.sourceUrl, licenseUrl: candidate.licenseUrl }));
+  const choices = candidates.flatMap((candidate) => {
+    const online = candidate.originalUrl || candidate.path;
+    const preferred = {
+      url: online, credit: photoCredit(candidate),
+      sourceUrl: candidate.sourceUrl, licenseUrl: candidate.licenseUrl,
+    };
+    // Already-existing local copies are optional fallbacks, never required
+    // for a new recipe image or online image search.
+    return candidate.path && candidate.path !== online
+      ? [preferred, { ...preferred, url: candidate.path }]
+      : [preferred];
+  });
   const active = () => img.isConnected && img.photoRequest === request;
   if (/^data:image\/(png|jpeg|webp);base64,/.test(version?.photo || ""))
     choices.unshift({ url: version.photo, credit: "Your version photograph" });
@@ -1546,16 +1542,33 @@ async function loadPhoto(id, img) {
   if (status) { status.hidden = false; status.textContent = "Loading photograph"; }
   if (credit) credit.textContent = "";
   let current;
+  let lookedOnline = false;
   const next = () => {
     if (!active()) return;
     if (current?.objectURL) URL.revokeObjectURL(current.url);
     current = choices.shift();
     if (!current) {
+      if (!lookedOnline) {
+        lookedOnline = true;
+        if (status) status.textContent = "Finding cocktail photo online…";
+        resolveOnlinePhoto(r).then((match) => {
+          if (!active()) return;
+          if (match) {
+            choices.push({
+              url: match.path, credit: match.source,
+              sourceUrl: match.sourceUrl, licenseUrl: match.licenseUrl,
+            });
+            if (match.originalUrl && match.originalUrl !== match.path) {
+              choices.push({ url: match.originalUrl, credit: match.source, sourceUrl: match.sourceUrl });
+            }
+          }
+          next();
+        }).catch(() => { if (active()) next(); });
+        return;
+      }
       img.removeAttribute("src");
       img.hidden = true;
-      if (status) status.textContent = movie
-        ? "Web photograph pending curation"
-        : "Web photograph pending curation";
+      if (status) status.textContent = "No matching online photograph found";
       return;
     }
     img.src = current.url;
@@ -1569,7 +1582,7 @@ async function loadPhoto(id, img) {
     if (credit) {
       credit.textContent = current.credit;
       for (const [link, label, allowed] of [
-        [current.sourceUrl, "Photo source", ["commons.wikimedia.org", "www.pexels.com"]],
+        [current.sourceUrl, "Photo source", ["commons.wikimedia.org", "www.pexels.com", "www.thecocktaildb.com"]],
         [current.licenseUrl, "License", ["creativecommons.org", "www.pexels.com"]],
       ]) {
         if (!link) continue;
