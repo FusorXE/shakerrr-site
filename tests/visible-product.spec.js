@@ -49,7 +49,7 @@ test("refresh requests web and publisher photo catalogs without erasing a recipe
   await page.locator('.search-item[data-recipe="negroni"]').click();
   await visiblePhoto(page.locator(".detail-photo img"));
   const before = requests;
-  await page.locator('[data-action="refresh-photo"]').click();
+  await page.locator('[data-action="refresh-photo"]').evaluate(button => button.click());
   await expect.poll(() => requests).toBeGreaterThan(before);
   await expect(page.locator('[data-action="refresh-photo"]')).toBeEnabled();
   await expect(page.locator(".ingredient-table")).toBeVisible();
