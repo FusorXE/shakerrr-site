@@ -1644,6 +1644,42 @@
           "verified": "exact-sourced-drink-image"
         }
       ]
+    },
+    "flor-de-jalisco": {
+      "candidates": [
+        {
+          "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZbZkaBeHLKGugpDy7IsnwqqtpxtFmc4kwO81_Ae2qYglbz-Yqk__jiqB_-aoV_sacffCfVWz3MN3nfCYXXInEY17pAPlwdz7YsncUH0K2GjVmOAJy2TFVUO2Aan9HMCLEsr_YzzepxlL/w480-h640/IMG_1568.jpeg",
+          "sourceUrl": "https://www.jollybartender.com/2021/10/flor-de-jalisco-death-co-recipe.html",
+          "source": "The Jolly Bartender",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-Death-and-Co-recipe-blog-photo"
+        }
+      ]
+    },
+    "prima-china": {
+      "candidates": [
+        {
+          "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2uba2rGExQ7qz9gJRl5UPlwhJ_VPb4NiJTJN_wOTqFYwNg2S6z8ZOOVCp1yzDaHqhaKIkQtdl2y12wVc-zV4sQ4QyqcpQfpwwmzpTPHfUAxPFeydE-OhyK9Rn0JAzrU8J_0zltrKR4tk1/w480-h640/IMG_1610.jpeg",
+          "sourceUrl": "https://www.jollybartender.com/2021/10/prima-china-death-co-recipe.html",
+          "source": "The Jolly Bartender",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-Death-and-Co-recipe-blog-photo"
+        }
+      ]
+    },
+    "pink-elephant": {
+      "candidates": [
+        {
+          "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLpPWDbi9Qax7Ff0XYsQw73VHZURnbjC8aZ4weqIts2VPjjVxjl_o3CfA96AGvLR3ZZr8zVGBsxDz7W5SmzAoeiYCALnFE5pQ68thI4u9OMVADuv11KRGmDDXr3s4spqD8Jz_TPkjqjE6V/w480-h640/IMG_1550.jpeg",
+          "sourceUrl": "https://www.jollybartender.com/2021/09/pink-elephant-death-co-recipe.html",
+          "source": "The Jolly Bartender",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-Death-and-Co-recipe-blog-photo"
+        }
+      ]
     }
   },
   "stats": {
