@@ -340,6 +340,110 @@
           "verified": "exact-iba-recipe-page"
         }
       ]
+    },
+    "rabo-de-galo": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-rabo-de-galo-6695cdcdb2df1.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/rabo-de-galo/",
+          "source": "IBA",
+          "title": "rabo-de-galo",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "remember-the-maine": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-remember-the-main-6694912622959.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/remember-the-maine/",
+          "source": "IBA",
+          "title": "remember-the-maine",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "rusty-nail": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-rusty-nail-66949129acfd1.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/rusty-nail/",
+          "source": "IBA",
+          "title": "rusty-nail",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "sherry-cobbler": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-sherry-cobbler-6695d3ba8bdb7.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/sherry-cobbler/",
+          "source": "IBA",
+          "title": "sherry-cobbler",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "tipperary": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-tipperary-6695d3c453fd3.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/tipperary/",
+          "source": "IBA",
+          "title": "tipperary",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "tuxedo": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-tuxedo-6694912fd3b8f.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/tuxedo/",
+          "source": "IBA",
+          "title": "tuxedo",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "vesper": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-vesper-6695cdd43284b.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/vesper/",
+          "source": "IBA",
+          "title": "vesper",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "vieux-carre": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-vieux-carre-6694913015248.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/vieux-carre/",
+          "source": "IBA",
+          "title": "vieux-carre",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
     }
   },
   "stats": {
