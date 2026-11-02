@@ -555,7 +555,7 @@
           "source": "Wikimedia Commons · SiscoGarcia",
           "sourceTitle": "File:Tom Collins 2.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Collins_2.jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tom_Collins_2.jpg/1920px-Tom_Collins_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "path": "assets/recipes/web/tom-collins.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tom_Collins_2.jpg/1920px-Tom_Collins_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Tom_Collins_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "license": "CC BY-SA 3.0",
@@ -568,7 +568,9 @@
           "modified": "Cropped/resized to WebP; adapted image remains under stated Creative Commons license.",
           "review": "The Commons file name and photo description identify this cocktail; review actual crop in generated contact sheet.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -579,7 +581,7 @@
           "source": "Wikimedia Commons · https://www.flickr.com/people/garyjwood/",
           "sourceTitle": "File:French 75.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:French_75.jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/French_75.jpg/1920px-French_75.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "path": "assets/recipes/web/french-75.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/French_75.jpg/1920px-French_75.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/French_75.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "license": "CC BY-SA 2.0",
@@ -592,7 +594,9 @@
           "modified": "Cropped/resized to WebP; adapted image remains under stated Creative Commons license.",
           "review": "The Commons file name and photo description identify this cocktail; review actual crop in generated contact sheet.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -603,7 +607,7 @@
           "source": "Wikimedia Commons · Gordito1869",
           "sourceTitle": "File:Cocktail Moscow Mule im Kupferbecher mit Minze.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg/1920px-Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "path": "assets/recipes/web/moscow-mule.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg/1920px-Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "license": "CC BY-SA 4.0",
@@ -616,7 +620,9 @@
           "modified": "Cropped/resized to WebP; adapted image remains under stated Creative Commons license.",
           "review": "The Commons file name and photo description identify this cocktail; review actual crop in generated contact sheet.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -627,7 +633,7 @@
           "source": "Wikimedia Commons · RegionVisitor90",
           "sourceTitle": "File:Sex On The Beach Cocktail @ Clare Hotel 20250123-124727.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sex_On_The_Beach_Cocktail_@_Clare_Hotel_20250123-124727.jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sex_On_The_Beach_Cocktail_%40_Clare_Hotel_20250123-124727.jpg/1920px-Sex_On_The_Beach_Cocktail_%40_Clare_Hotel_20250123-124727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "path": "assets/recipes/web/sex-on-the-beach.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sex_On_The_Beach_Cocktail_%40_Clare_Hotel_20250123-124727.jpg/1920px-Sex_On_The_Beach_Cocktail_%40_Clare_Hotel_20250123-124727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sex_On_The_Beach_Cocktail_%40_Clare_Hotel_20250123-124727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "license": "CC0",
@@ -640,7 +646,9 @@
           "modified": "Cropped/resized to WebP; adapted image remains under stated Creative Commons license.",
           "review": "The Commons file name and photo description identify this cocktail; review actual crop in generated contact sheet.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -651,7 +659,7 @@
           "source": "Wikimedia Commons · Will Shenton",
           "sourceTitle": "File:Clover Club.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clover_Club.jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Clover_Club.jpg/1920px-Clover_Club.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "path": "assets/recipes/web/clover-club.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Clover_Club.jpg/1920px-Clover_Club.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Clover_Club.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "license": "CC BY-SA 3.0",
@@ -664,7 +672,9 @@
           "modified": "Cropped/resized to WebP; adapted image remains under stated Creative Commons license.",
           "review": "The Commons file name and photo description identify this cocktail; review actual crop in generated contact sheet.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     }
