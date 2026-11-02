@@ -1495,6 +1495,155 @@
           "available": true
         }
       ]
+    },
+    "el-diablo": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2022/10/Punch_mallory-heyer_thumbnails-r3-1.jpg",
+          "sourceUrl": "https://punchdrink.com/recipes/el-diablo/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "mexican-firing-squad": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2013/12/Mexican-Firing-Squad.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/mexican-firing-squad/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "hotel-nacional": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2024/07/Article-2-Mastering-Hotel-Nacional-Cocktail-Recipe-Fontainebleau-Las-Vegas-Juyoung-Kang.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/hotel-nacional/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "scorpion-bowl": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/08/scorpion-lead.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/scorpion-bowl/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "de-la-louisiane": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/07/Louisiane.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/de-la-louisiane/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "milano-torino": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2018/10/Article-Milano-Torino-Italian-Aperitivo-Negroni-Cocktail-Recipe-Dante-NYC.jpg?w=1000",
+          "sourceUrl": "https://punchdrink.com/recipes/milano-torino/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "philadelphia-fish-house-punch": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/01/Philadelphia-Fish-House.jpg?w=1000",
+          "sourceUrl": "https://punchdrink.com/recipes/philadelphia-fish-house-punch/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "atlas-finnish-long-drink": {
+      "candidates": [
+        {
+          "path": "https://en.hartwall.fi/4902c6/globalassets/hartwall.fi/juomat/long-drink--juomat/original-long-drink/original-gin-brand.jpg?width=1920",
+          "sourceUrl": "https://en.hartwall.fi/inspiration/brand-stories/2019/original-long-drink/",
+          "source": "Hartwall",
+          "title": "Finnish Original Long Drink",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-sourced-drink-image"
+        }
+      ]
+    },
+    "atlas-yorsh": {
+      "candidates": [
+        {
+          "path": "https://img.povar.ru/main-micro/ac/98/4d/cd/kokteil_quotyorshquot-833082.JPG",
+          "sourceUrl": "https://povar.ru/recipes/kokteil_yorsh-94118.html",
+          "source": "Povar.ru",
+          "title": "Ёрш cocktail",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-sourced-drink-image"
+        }
+      ]
+    },
+    "atlas-spicy-pomegranate-istanbul": {
+      "candidates": [
+        {
+          "path": "https://www.elizabethminchilli.com/wp-content/uploads/2011/02/IMG_0202-Version-2.jpg",
+          "sourceUrl": "https://www.elizabethminchilli.com/2011/02/spicy-pomegranate-cocktail-from-the-four-seasons-sultanahmet/",
+          "source": "Elizabeth Minchilli",
+          "title": "Spicy Pomegranate cocktail, Istanbul",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-sourced-drink-image"
+        }
+      ]
+    },
+    "atlas-ouzo-with-water": {
+      "candidates": [
+        {
+          "path": "https://cdn.visitgreece.gr/wp-uploads/shutterstock_1482568790_Ouzo_2000.jpg",
+          "sourceUrl": "https://www.visitgreece.gr/en/experiences/gastronomy/greek-wines/ouzo",
+          "source": "Visit Greece",
+          "title": "Greek ouzo with water",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-sourced-drink-image"
+        }
+      ]
+    },
+    "atlas-baijiu-sour": {
+      "candidates": [
+        {
+          "path": "https://www.chineseamericanfamily.com/wp-content/uploads/2015/04/baiju-sour.jpg",
+          "sourceUrl": "https://www.chineseamericanfamily.com/cheers-3-chinese-cocktails-worth-celebrating/",
+          "source": "Chinese American Family",
+          "title": "Baijiu Sour",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-sourced-drink-image"
+        }
+      ]
     }
   },
   "stats": {
