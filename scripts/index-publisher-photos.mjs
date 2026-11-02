@@ -126,6 +126,23 @@ async function liquor(recipe) {
   const photo = meta(html, "og:image") || meta(html, "twitter:image");
   return hostOk(photo) ? entry(photo, url, "Liquor.com", recipe.name) : null;
 }
+async function punch(recipe) {
+  // PUNCH hosts its recipes at stable name-based URLs. Only use the image
+  // on a confirmed recipe page; never guess image filenames or copy files.
+  const sourceUrl = "https://punchdrink.com/recipes/" + slug(recipe.name) + "/";
+  const html = await fetchHtml(sourceUrl);
+  if (!html || !/single-recipe|recipe-template-default/i.test(html)) return null;
+  const title = clean(html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1]);
+  const prefix = normalize(title.split("|")[0].replace(/\s+(cocktail|aperitivo|pisco)\s+recipe$/i, "")
+    .replace(/\s+recipe$/i, ""));
+  const wanted = normalize(recipe.name);
+  if (prefix !== wanted && prefix !== wanted + " cocktail" && prefix !== wanted + " pisco") return null;
+  const photoTag = html.match(/<img\b[^>]*\bitemprop=["']image["'][^>]*>/i)?.[0];
+  const photo = photoTag ? getAttr(photoTag, "src") : "";
+  if (!/^https:\/\/punchdrink\.com\/wp-content\/uploads\/[^"'<>]+(?:\.jpe?g|\.webp|\.png)(?:\?[^"'<>]*)?$/i.test(photo)) return null;
+  return entry(photo, sourceUrl, "PUNCH", recipe.name);
+}
+
 const work = recipes.slice(offset, offset + limit);
 let active = 0, next = 0, done = 0;
 const stats = { attempted: work.length, matched: 0, byPublisher: {}, errors: 0 };
@@ -135,7 +152,7 @@ async function consume() {
     try {
       if (!byRecipe[recipe.id]?.candidates?.length) {
         const found = await directSource(recipe) || await iba(recipe) ||
-          await difford(recipe) || await liquor(recipe);
+          await punch(recipe) || await difford(recipe) || await liquor(recipe);
         if (found) {
           byRecipe[recipe.id] = found;
           stats.matched++;
