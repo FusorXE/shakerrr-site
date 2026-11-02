@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
 import {
-  normalizedDrinkName, exactCocktailDbMatch, exactCommonsMatch,
+  normalizedDrinkName, exactCocktailDbMatch, exactCommonsMatch, exactWikipediaMatch,
   resolveOnlinePhoto, resetOnlinePhotoCache,
 } from "../src/remote-photos.js";
 
@@ -26,6 +26,17 @@ test("Commons does not confuse a city with the Manhattan cocktail", () => {
   };
   assert.equal(exactCommonsMatch("Manhattan", pages).path, "https://example.com/drink.jpg");
   assert.equal(exactCommonsMatch("Sidecar", pages), null);
+});
+
+test("Wikipedia match requires a cocktail article, not a person or city", () => {
+  const pages = {
+    1: { pageid: 10, title: "Aviation", extract: "Aviation is the process of operating aircraft.",
+      thumbnail: { source: "https://upload.wikimedia.org/aviation.jpg" } },
+    2: { pageid: 20, title: "Aviation (cocktail)", extract: "The Aviation is a classic cocktail made from gin.",
+      thumbnail: { source: "https://upload.wikimedia.org/cocktail.jpg" } },
+  };
+  assert.equal(exactWikipediaMatch("Aviation", pages).path,
+    "https://upload.wikimedia.org/cocktail.jpg");
 });
 
 test("remote cocktail lookup returns an online URL and never downloads a file", async () => {
