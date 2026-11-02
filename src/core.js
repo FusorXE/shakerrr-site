@@ -115,37 +115,50 @@ export function missing(ingredients, inventory) {
     ),
   ].filter((id) => !matches(id, inventory));
 }
-export function amount(value, unit) {
-  const s = String(value || "");
-  const m = s.match(
-    /^([\d\s./¼½¾⅛⅜⅝⅞⅓⅔]+)\s*(oz|ounces?|ml|milliliters?)\b(.*)$/i,
-  );
-  if (!m) return s;
-  const f = {
-    "¼": 0.25,
-    "½": 0.5,
-    "¾": 0.75,
-    "⅛": 0.125,
-    "⅜": 0.375,
-    "⅝": 0.625,
-    "⅞": 0.875,
-    "⅓": 1 / 3,
-    "⅔": 2 / 3,
-  };
-  let n = 0;
-  const num = m[1].trim().replace(/[¼½¾⅛⅜⅝⅞⅓⅔]/g, (c) => " " + f[c]);
-  for (const part of num.split(/\s+/)) {
-    if (part.includes("/")) {
-      const [a, b] = part.split("/").map(Number);
-      n += a / b;
-    } else n += Number(part);
+const fractionValues = {
+  "¼": 0.25, "½": 0.5, "¾": 0.75,
+  "⅛": 0.125, "⅜": 0.375, "⅝": 0.625, "⅞": 0.875,
+  "⅓": 1 / 3, "⅔": 2 / 3,
+};
+function parseVolumeNumber(text) {
+  const expanded = text.trim().replace(/[¼½¾⅛⅜⅝⅞⅓⅔]/g, (char) => " " + fractionValues[char]);
+  const parts = expanded.split(/\s+/);
+  let total = 0;
+  for (const part of parts) {
+    const pieces = part.split("/");
+    const value = pieces.length === 2
+      ? Number(pieces[0]) / Number(pieces[1])
+      : pieces.length === 1 ? Number(part) : NaN;
+    if (!Number.isFinite(value) || value < 0) return null;
+    total += value;
   }
-  if (!Number.isFinite(n)) return s;
-  const from = /^(oz|ounce)/i.test(m[2]) ? "oz" : "ml";
-  if (from === unit) return s;
-  const converted = unit === "ml" ? n * 29.5735295625 : n / 29.5735295625;
-  return `${Number(converted.toFixed(unit === "ml" ? 1 : 2))} ${unit}${m[3]}`;
+  return Number.isFinite(total) ? total : null;
 }
+export function amount(value, unit) {
+  const input = String(value ?? "").trim();
+  if (unit !== "oz" && unit !== "ml") return input;
+  // Source books include mixed fractions, "fluid ounces", and ranges.
+  // Only convert measured liquid volume: dashes, teaspoons, counts and
+  // "to taste" must remain unchanged.
+  const match = input.match(
+    /^(scant\s+|about\s+|approximately\s+|generous\s+)?([\d\s./¼½¾⅛⅜⅝⅞⅓⅔–-]+?)\s*(fluid\s+ounces?|fl\.?\s*oz\.?|ounces?|oz\.?|millilit(?:er|re)s?|ml\.?)(?=\s|$|[,;])(.*)$/i,
+  );
+  if (!match) return input;
+  const original = /^(fluid|fl|ounces?|oz)/i.test(match[3]) ? "oz" : "ml";
+  if (original === unit) return input;
+  const rawRange = match[2].trim().split(/\s*[–-]\s*/);
+  if (rawRange.length > 2) return input;
+  const converted = rawRange.map((part) => {
+    const n = parseVolumeNumber(part);
+    if (n === null) return null;
+    const result = unit === "ml" ? n * 29.5735295625 : n / 29.5735295625;
+    return String(Number(result.toFixed(unit === "ml" ? 1 : 2)));
+  });
+  if (converted.some((part) => part === null)) return input;
+  return (match[1] || "") + converted.join(rawRange.length === 2 ? "–" : "") +
+    " " + unit + match[4];
+}
+
 export function searchText(r) {
   return normalize(
     [
