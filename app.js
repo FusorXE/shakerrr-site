@@ -778,7 +778,7 @@ function renderVersion(i) {
     return;
   }
   const note = v.type === "Social" ? v.note : publishedNote(v.note);
-  pane.innerHTML = `<div class="version-pane"><div class="source-head"><b>${esc(v.label)}</b><span>${esc(v.type || "Published reference")}</span></div>${v.page ? `<p>Source page ${esc(v.page)}</p>` : ""}${v.creator ? `<p>${esc(v.creator)}</p>` : ""}${validURL(v.url) ? `<a href="${attr(validURL(v.url))}" target="_blank" rel="noopener">Original source ↗</a>` : ""}<table class="ingredient-table"><tbody>${(v.ingredients || []).map((x) => `<tr><td>${esc(x.name)}</td><td>${esc(displayAmt(x.amount))}</td></tr>`).join("")}</tbody></table><div class="method-box"><b>Preparation</b>${esc(v.instructions?.trim() || (v.type === "Social" ? "No preparation notes saved." : "Preparation details are not available in this source."))}</div>${[
+  pane.innerHTML = `<div class="version-pane"><div class="source-head"><b>${esc(v.label)}</b><span>${esc(v.type || "Published reference")}</span></div>${v.history ? `<div class="note-box"><b>Story & history</b>${esc(v.history)}</div>` : ""}${v.page ? `<p>Source page ${esc(v.page)}</p>` : ""}${v.creator ? `<p>${esc(v.creator)}</p>` : ""}${validURL(v.url) ? `<a href="${attr(validURL(v.url))}" target="_blank" rel="noopener">Original source ↗</a>` : ""}<table class="ingredient-table"><tbody>${(v.ingredients || []).map((x) => `<tr><td>${esc(x.name)}</td><td>${esc(displayAmt(x.amount))}</td></tr>`).join("")}</tbody></table><div class="method-box"><b>Preparation</b>${esc(v.instructions?.trim() || (v.type === "Social" ? "No preparation notes saved." : "Preparation details are not available in this source."))}</div>${[
     "glass",
     "ice",
     "garnish",
@@ -1621,7 +1621,7 @@ async function loadPhoto(id, img) {
     if (credit) {
       credit.textContent = current.credit;
       for (const [link, label, allowed] of [
-        [current.sourceUrl, "Photo source", ["commons.wikimedia.org", "www.pexels.com", "www.thecocktaildb.com", "en.wikipedia.org", "iba-world.com", "www.diffordsguide.com", "www.liquor.com", "curiada.com", "kindredcocktails.com", "cocktailvirgin.blogspot.com", "www.tastingtable.com"]],
+        [current.sourceUrl, "Photo source", ["commons.wikimedia.org", "www.pexels.com", "www.thecocktaildb.com", "en.wikipedia.org", "iba-world.com", "www.diffordsguide.com", "www.liquor.com", "curiada.com", "kindredcocktails.com", "cocktailvirgin.blogspot.com", "www.tastingtable.com", "punchdrink.com", "www.jollybartender.com"]],
         [current.licenseUrl, "License", ["creativecommons.org", "www.pexels.com"]],
       ]) {
         if (!link) continue;
