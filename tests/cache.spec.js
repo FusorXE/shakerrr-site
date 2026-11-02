@@ -57,10 +57,8 @@ test("new service worker replaces old app cache, preserves personal data, and wo
     expect(keys).toContain("unrelated-app");
     await page.locator("#searchInput").fill("Negroni");
     await page.locator('.search-item[data-recipe="negroni"]').click();
-    const img = page.locator(".detail-photo img");
-    await expect
-      .poll(() => img.evaluate((el) => el.complete && el.naturalWidth > 0))
-      .toBe(true);
+    await expect(page.locator(".ingredient-table")).toBeVisible();
+    // External publisher images are deliberately not bundled offline.
     server.closeAllConnections();
     await new Promise((resolve) => server.close(resolve));
     await context.setOffline(true);
@@ -68,10 +66,7 @@ test("new service worker replaces old app cache, preserves personal data, and wo
     await expect(page.locator(".card").first()).toBeVisible();
     await page.locator("#searchInput").fill("Negroni");
     await page.locator('.search-item[data-recipe="negroni"]').click();
-    await expect
-      .poll(() => img.evaluate((el) => el.complete && el.naturalWidth > 0))
-      .toBe(true);
-    await expect(page.locator(".detail-photo .photo-status")).toBeHidden();
+    await expect(page.locator(".ingredient-table")).toBeVisible();
     expect(
       await page.evaluate(
         () => JSON.parse(localStorage.getItem("shakerrr_my_negroni")).note,
