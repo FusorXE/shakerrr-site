@@ -354,7 +354,7 @@
           "source": "Wikimedia Commons · Melvin Loi",
           "sourceTitle": "File:Manhattan cocktail (52272444825).jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manhattan_cocktail_(52272444825).jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Manhattan_cocktail_%2852272444825%29.jpg/1920px-Manhattan_cocktail_%2852272444825%29.jpg",
+          "path": "assets/recipes/web/manhattan.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Manhattan_cocktail_%2852272444825%29.jpg/1920px-Manhattan_cocktail_%2852272444825%29.jpg",
           "artist": "Melvin Loi",
           "license": "CC BY-SA 2.0",
@@ -365,7 +365,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; attribution and ShareAlike license retained.",
           "review": "Visual contact-sheet audit rejected previous image as an inferior composition; updated replacement is a named cocktail photo under verified Commons license.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
