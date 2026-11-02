@@ -120,6 +120,166 @@
           "height": 1500
         }
       ]
+    },
+    "paloma": {
+      "candidates": [
+        {
+          "id": "pexels-15813473",
+          "source": "Pexels · Dextar Studio ™",
+          "path": "https://images.pexels.com/photos/15813473/pexels-photo-15813473.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "originalUrl": "https://images.pexels.com/photos/15813473/pexels-photo-15813473.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "sourceUrl": "https://www.pexels.com/photo/15813473/",
+          "sourceTitle": "Paloma Drink on a Bar Counter",
+          "license": "Pexels License",
+          "licenseUrl": "https://www.pexels.com/legal-pages/license/",
+          "description": "Paloma with grapefruit slice on bar counter",
+          "sourceWidth": 7008,
+          "sourceHeight": 4672,
+          "available": true,
+          "status": "web-curated",
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+        }
+      ]
+    },
+    "pina-colada": {
+      "candidates": [
+        {
+          "id": "pexels-10986578",
+          "source": "Pexels · Shameel mukkath",
+          "path": "https://images.pexels.com/photos/10986578/pexels-photo-10986578.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "originalUrl": "https://images.pexels.com/photos/10986578/pexels-photo-10986578.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "sourceUrl": "https://www.pexels.com/photo/10986578/",
+          "sourceTitle": "A Glass of Pina Colada",
+          "license": "Pexels License",
+          "licenseUrl": "https://www.pexels.com/legal-pages/license/",
+          "description": "Piña colada with pineapple garnish and straw against a dark background",
+          "sourceWidth": 4480,
+          "sourceHeight": 6720,
+          "available": true,
+          "status": "web-curated",
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+        }
+      ]
+    },
+    "bloody-mary": {
+      "candidates": [
+        {
+          "id": "pexels-7376803",
+          "source": "Pexels · Arina Krasnikova",
+          "path": "https://images.pexels.com/photos/7376803/pexels-photo-7376803.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "originalUrl": "https://images.pexels.com/photos/7376803/pexels-photo-7376803.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "sourceUrl": "https://www.pexels.com/photo/7376803/",
+          "sourceTitle": "A Close-Up Shot of a Bloody Mary",
+          "license": "Pexels License",
+          "licenseUrl": "https://www.pexels.com/legal-pages/license/",
+          "description": "Bloody Mary garnished with lemon, olive and pickle",
+          "sourceWidth": 4000,
+          "sourceHeight": 2670,
+          "available": true,
+          "status": "web-curated",
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+        }
+      ]
+    },
+    "caipirinha": {
+      "candidates": [
+        {
+          "id": "pexels-32435286",
+          "source": "Pexels · Rafaela Freire",
+          "path": "https://images.pexels.com/photos/32435286/pexels-photo-32435286.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "originalUrl": "https://images.pexels.com/photos/32435286/pexels-photo-32435286.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "sourceUrl": "https://www.pexels.com/photo/32435286/",
+          "sourceTitle": "Refreshing Brazilian Caipirinha Cocktail",
+          "license": "Pexels License",
+          "licenseUrl": "https://www.pexels.com/legal-pages/license/",
+          "description": "Brazilian caipirinha with lime and mint",
+          "sourceWidth": 4672,
+          "sourceHeight": 6224,
+          "available": true,
+          "status": "web-curated",
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+        }
+      ]
+    },
+    "martini": {
+      "candidates": [
+        {
+          "id": "pexels-7216002",
+          "source": "Pexels · Damir Mijailovic",
+          "path": "https://images.pexels.com/photos/7216002/pexels-photo-7216002.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "originalUrl": "https://images.pexels.com/photos/7216002/pexels-photo-7216002.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "sourceUrl": "https://www.pexels.com/photo/7216002/",
+          "sourceTitle": "Martini with Olives in Glass on Table",
+          "license": "Pexels License",
+          "licenseUrl": "https://www.pexels.com/legal-pages/license/",
+          "description": "Classic martini with olives on elegant glass surface",
+          "sourceWidth": 2171,
+          "sourceHeight": 3741,
+          "available": true,
+          "status": "web-curated",
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+        }
+      ]
+    },
+    "mint-julep": {
+      "candidates": [
+        {
+          "id": "pexels-18354022",
+          "source": "Pexels · Stephen Leonardi",
+          "path": "https://images.pexels.com/photos/18354022/pexels-photo-18354022.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "originalUrl": "https://images.pexels.com/photos/18354022/pexels-photo-18354022.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "sourceUrl": "https://www.pexels.com/photo/18354022/",
+          "sourceTitle": "Ice and Straw in Cocktail in Silver Cup",
+          "license": "Pexels License",
+          "licenseUrl": "https://www.pexels.com/legal-pages/license/",
+          "description": "Classic mint julep in silver cup with crushed ice and fresh mint",
+          "sourceWidth": 3200,
+          "sourceHeight": 4800,
+          "available": true,
+          "status": "web-curated",
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+        }
+      ]
+    },
+    "tequila-sunrise": {
+      "candidates": [
+        {
+          "id": "pexels-8679426",
+          "source": "Pexels · Timur Weber",
+          "path": "https://images.pexels.com/photos/8679426/pexels-photo-8679426.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "originalUrl": "https://images.pexels.com/photos/8679426/pexels-photo-8679426.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "sourceUrl": "https://www.pexels.com/photo/8679426/",
+          "sourceTitle": "Tequila Sunrise with Lemon and Orange Slices",
+          "license": "Pexels License",
+          "licenseUrl": "https://www.pexels.com/legal-pages/license/",
+          "description": "Tequila sunrise with orange and lemon slices against blue sky",
+          "sourceWidth": 3000,
+          "sourceHeight": 4500,
+          "available": true,
+          "status": "web-curated",
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+        }
+      ]
+    },
+    "mimosa": {
+      "candidates": [
+        {
+          "id": "pexels-1772974",
+          "source": "Pexels · Sabel Blanco",
+          "path": "https://images.pexels.com/photos/1772974/pexels-photo-1772974.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "originalUrl": "https://images.pexels.com/photos/1772974/pexels-photo-1772974.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "sourceUrl": "https://www.pexels.com/photo/1772974/",
+          "sourceTitle": "Mimosa Drink on a Champagne Glass",
+          "license": "Pexels License",
+          "licenseUrl": "https://www.pexels.com/legal-pages/license/",
+          "description": "Mimosa in champagne flute with strawberry garnish",
+          "sourceWidth": 2700,
+          "sourceHeight": 4050,
+          "available": true,
+          "status": "web-curated",
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+        }
+      ]
     }
   }
 }
