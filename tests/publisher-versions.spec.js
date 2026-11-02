@@ -1,7 +1,7 @@
 import { test, expect } from "@playwright/test";
 
 async function open(page, id, name) {
-  await page.route(/^https?:\\/\\/(?!127\\.0\\.0\\.1|localhost)/, route => route.abort());
+  await page.route("**/*", route => { const host = new URL(route.request().url()).hostname; return ["localhost", "127.0.0.1"].includes(host) ? route.continue() : route.abort(); });
   await page.goto("/");
   await page.locator("#searchInput").fill(name);
   await page.locator('.search-item[data-recipe="' + id + '"]').click();
