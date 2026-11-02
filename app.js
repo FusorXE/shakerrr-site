@@ -15,6 +15,7 @@ import {
 } from "./src/storage.js";
 import { publishedNote } from "./src/content.js";
 import { photoCandidates, photoCredit } from "./src/photos.js";
+import { ingredientOverlay } from "./src/ingredient-overlay.js";
 ("use strict");
 const $ = (s, r = document) => r.querySelector(s),
   $$ = (s, r = document) => [...r.querySelectorAll(s)];
@@ -325,7 +326,7 @@ const REGION_ORDER = [
 async function boot() {
   try {
     const [recipes, world, images] = await Promise.all(
-      ["recipes", "world", "image-manifest"].map(async (name) => {
+      ["recipes", "world", "web-photos"].map(async (name) => {
         const r = await fetch(`data/${name}.json`);
         if (!r.ok) throw Error(name);
         return r.json();
@@ -596,7 +597,9 @@ function renderDiscover() {
     )
     .filter(Boolean);
   const hero =
-    featured[0] || state.recipes.find((r) => r.image) || state.recipes[0];
+    featured.find((r) => state.images[r.id]?.candidates?.some((c) => c.available && c.path)) ||
+    state.recipes.find((r) => state.images[r.id]?.candidates?.some((c) => c.available && c.path)) ||
+    featured[0] || state.recipes[0];
   $("#main").innerHTML =
     `<section class="page"><div class="shell"><div class="hero"><div class="hero-media"><img data-photo-id="${hero.id}" alt="${attr(hero.name)}"></div><div class="hero-copy"><div class="kicker">MJ Cocktail Reference</div><h1>Recipes, versions, bottles and the relationships between drinks.</h1><p>${state.recipes.length} recipes are searchable in one place, including modern, obscure, book, movie, mezcal, tropical and international drinks. Open a recipe to compare versions, save your own spec, or use your own photo.</p><div class="btnrow"><button class="primary" data-nav="cocktails">Browse recipes</button><button class="secondary" data-action="surprise">Surprise me</button><button class="secondary" data-nav="families">Open family graph</button></div><div class="hero-stats"><div><b>${state.recipes.length}</b><small>recipes</small></div><div><b>${countryN}</b><small>countries</small></div><div><b>${Object.keys(BOOK_DESCRIPTIONS).length}</b><small>collections</small></div></div></div></div><div class="section-head"><div><h2>Go straight to the useful part</h2></div></div><div class="quick-grid"><button class="quick" data-nav="bar"><b>01</b><h3>My Bar</h3><p>What you can make now, what is one ingredient away, and what a bottle unlocks.</p></button><button class="quick" data-nav="atlas"><b>02</b><h3>World Atlas</h3><p>Actual country-tagged recipes only.</p></button><button class="quick" data-action="swap"><b>03</b><h3>Swap Lab</h3><p>See every recipe affected when you replace an ingredient.</p></button><button class="quick" data-nav="books"><b>04</b><h3>Book shelves</h3><p>Death & Co, Tropical Standard, agave books, Essential Cocktail books and more.</p></button></div><div class="section-head"><div><h2>MJ shelf</h2><p>Famous and less-known drinks mixed together.</p></div><button class="text-link" data-nav="cocktails">All recipes ↗</button></div><div class="cards">${featured.map(card).join("")}</div></div></section>`;
   hydratePhotos();
@@ -664,7 +667,7 @@ function renderDetail(id) {
   if (!r) return;
   state.current = id;
   $("#main").innerHTML =
-    `<section class="page"><div class="shell"><button class="back" data-nav="${state.prevPage || "cocktails"}">← Back</button><div class="detail"><div class="detail-photo"><span class="photo-status">Loading photograph</span><img data-photo-id="${id}" alt="${attr(r.name)}"><div class="photo-credit"></div><div class="photo-controls">${[
+    `<section class="page"><div class="shell"><button class="back" data-nav="${state.prevPage || "cocktails"}">← Back</button><div class="detail"><div class="detail-photo"><span class="photo-status">Loading photograph</span><img data-photo-id="${id}" alt="${attr(r.name)}"><div class="photo-credit"></div><div class="ingredient-overlay" aria-label="Main cocktail ingredients"></div><div class="photo-controls">${[
       ["upload-photo", "Upload my photo"],
       ["use-my-photo", "Use my photo"],
       ["use-system-photo", "Use Shakerrr photo"],
@@ -724,7 +727,9 @@ function renderVersion(i) {
     v = allVersions(r)[i];
   if (!v) return;
   state.versionIndex = i;
-  $$(".version-tab").forEach((b, j) => {
+  const overlay = $(".detail-photo .ingredient-overlay");
+  if (overlay) overlay.innerHTML = ingredientOverlay(v.ingredients, displayAmt);
+  $(".version-tab").forEach((b, j) => {
     b.classList.toggle("active", i === j);
     b.setAttribute("aria-selected", String(i === j));
   });
@@ -770,7 +775,7 @@ function renderBooks() {
   }
   state.book = null;
   $("#main").innerHTML =
-    `<section class="page"><div class="shell"><div class="toolbar"><div><h1>Books</h1><p class="subtitle">Recipes extracted into Shakerrr, with book photographs when available.</p></div></div><div class="collection-grid">${Object.entries(
+    `<section class="page"><div class="shell"><div class="toolbar"><div><h1>Books</h1><p class="subtitle">Recipe references from books, paired with separately curated web photography.</p></div></div><div class="collection-grid">${Object.entries(
       groups,
     )
       .sort((a, b) => b[1].length - a[1].length)
@@ -785,7 +790,7 @@ function renderMovies() {
     (r) => r.movie || r.collections?.includes("Cocktails from Movies"),
   );
   $("#main").innerHTML =
-    `<section class="page"><div class="shell"><div class="toolbar"><div><h1>Cocktails from Movies</h1><p class="subtitle">Film pairings with the book’s exact cocktail photographs where available. These are not film stills; verified scene images are not available in this collection.</p></div></div><div class="countline">${a.length} movie cocktails</div><div class="movies-grid">${a.map((r) => `<button class="movie-card" data-recipe="${r.id}"><div class="card-photo" data-photo-context="movie"><span class="photo-status">finding photo</span><img data-photo-id="${r.id}" alt="${attr(r.name)}"></div><div class="movie-meta"><small>${esc([r.movie?.film, r.movie?.year].filter(Boolean).join(" · ") || "Cinema")}</small><h3>${esc(r.name)}</h3><p>${esc(publishedNote(r.note) || publishedNote(r.movie?.fact))}</p></div></button>`).join("")}</div></div></section>`;
+    `<section class="page"><div class="shell"><div class="toolbar"><div><h1>Cocktails from Movies</h1><p class="subtitle">Film pairings with curated cocktail photography where available. The pictures show drinks, not movie stills.</p></div></div><div class="countline">${a.length} movie cocktails</div><div class="movies-grid">${a.map((r) => `<button class="movie-card" data-recipe="${r.id}"><div class="card-photo" data-photo-context="movie"><span class="photo-status">finding photo</span><img data-photo-id="${r.id}" alt="${attr(r.name)}"></div><div class="movie-meta"><small>${esc([r.movie?.film, r.movie?.year].filter(Boolean).join(" · ") || "Cinema")}</small><h3>${esc(r.name)}</h3><p>${esc(publishedNote(r.note) || publishedNote(r.movie?.fact))}</p></div></button>`).join("")}</div></div></section>`;
   hydratePhotos();
 }
 function renderMezcal() {
@@ -1284,7 +1289,7 @@ async function action(name, el, e) {
     el.disabled = true;
     el.textContent = "Refreshing…";
     try {
-      const response = await fetch("data/image-manifest.json", { cache: "reload" });
+      const response = await fetch("data/web-photos.json", { cache: "reload" });
       if (!response.ok) throw Error("The photo list could not be refreshed. Please try again.");
       state.images = (await response.json()).byRecipe;
       state.photoMode[el.dataset.id] = "system";
@@ -1506,7 +1511,7 @@ async function loadPhoto(id, img) {
     ? allVersions(r)[state.versionIndex || 0] : null;
   const movie = host?.dataset.photoContext === "movie" || version?.key === "movies" ||
     (host?.classList.contains("detail-photo") && state.moviePhoto);
-  const choices = photoCandidates(r, state.images[id], { version, movie })
+  const choices = photoCandidates(r, state.images[id], { version, movie: false })
     .map((candidate) => ({ url: candidate.path, credit: photoCredit(candidate) }));
   const active = () => img.isConnected && img.photoRequest === request;
   if (/^data:image\/(png|jpeg|webp);base64,/.test(version?.photo || ""))
@@ -1532,8 +1537,8 @@ async function loadPhoto(id, img) {
       img.removeAttribute("src");
       img.hidden = true;
       if (status) status.textContent = movie
-        ? "No verified movie-book photograph"
-        : "No verified photograph available";
+        ? "Web photograph pending curation"
+        : "Web photograph pending curation";
       return;
     }
     img.src = current.url;
