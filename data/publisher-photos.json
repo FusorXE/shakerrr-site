@@ -1680,6 +1680,30 @@
           "verified": "publisher-cocktail-search-result"
         }
       ]
+    },
+    "mezcal-mule": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/06/Article-Mezcal-Mule-PDT-Cocktail-Recipe.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/mezcal-mule/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-photo"
+        }
+      ]
+    },
+    "mezcal-negroni": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/A2jXYA/default/0/512x.webp",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3382/mezcal-negroni",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-photo"
+        }
+      ]
     }
   },
   "stats": {
