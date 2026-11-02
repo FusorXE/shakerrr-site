@@ -39,3 +39,10 @@ test("web catalog only contains reviewed and licensed website photographs", () =
     }
   }
 });
+
+test("app uses valid DOM collection selectors without malformed triple-dollar calls", () => {
+  const code = fs.readFileSync(new URL("../app.js", import.meta.url), "utf8");
+  assert.doesNotMatch(code, /\$\$\$\(/);
+  assert.doesNotMatch(code, /(?<!\$)\$\([^\n)]*\)\.forEach\(/);
+  assert.match(code, /\$\$\("\.version-tab"\)\.forEach\(/);
+});
