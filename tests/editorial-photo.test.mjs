@@ -26,12 +26,12 @@ test("web catalog only contains reviewed and licensed website photographs", () =
     for (const photo of record.candidates) {
       assert.equal(photo.status, "web-curated");
       assert.equal(photo.available, true);
-      assert.ok(photo.license === "Pexels License" || /^CC BY(?:-SA)? [234]\.0$/.test(photo.license));
+      assert.ok(photo.license === "Pexels License" || photo.license === "CC0" || /^CC BY(?:-SA)? [234]\.0$/.test(photo.license));
       assert.ok(["www.pexels.com","commons.wikimedia.org"].includes(new URL(photo.sourceUrl).hostname));
       assert.ok(["images.pexels.com","upload.wikimedia.org","thumb.wikimedia.org"].includes(new URL(photo.originalUrl).hostname));
       assert.ok(photo.path.startsWith("assets/recipes/web/") || ["images.pexels.com","upload.wikimedia.org","thumb.wikimedia.org"].includes(new URL(photo.path).hostname));
       if (photo.license !== "Pexels License") {
-        assert.ok(photo.licenseUrl.startsWith("https://creativecommons.org/licenses/"));
+        assert.ok(photo.license === "CC0" ? photo.licenseUrl.startsWith("https://creativecommons.org/publicdomain/zero/") : photo.licenseUrl.startsWith("https://creativecommons.org/licenses/"));
         assert.ok(photo.artist);
         assert.ok(photo.modified);
       }
