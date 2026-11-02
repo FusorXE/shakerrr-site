@@ -37,10 +37,10 @@ test("published source versions actually change content", async ({ page }) => {
   await localOnly(page);
   await page.locator("#searchInput").fill("Manhattan");
   await page.locator(".search-item[data-recipe]").filter({ hasText: "Manhattan" }).first().click();
-  const tabs = page.locator(".version-tab");
-  expect(await tabs.count()).toBeGreaterThan(2);
+  const picker = page.locator("#versionSelect");
+  expect(await picker.locator("option").count()).toBeGreaterThan(2);
   const before = await page.locator("#versionPane").innerText();
-  await tabs.nth(1).click();
+  await picker.selectOption("1");
   expect(await page.locator("#versionPane").innerText()).not.toBe(before);
 });
 
