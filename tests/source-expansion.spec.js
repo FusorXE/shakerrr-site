@@ -5,14 +5,15 @@ test("Capitan switches between publisher specs without changing the cocktail car
   await page.locator("#searchInput").fill("Capitán");
   await page.locator('.search-item[data-recipe="capitan"]').click();
   await expect(page.locator(".detail-copy h1")).toHaveText("Capitán");
-  const tabs = page.locator(".version-tab");
-  await expect(tabs.filter({ hasText: "PUNCH" })).toBeVisible();
-  await expect(tabs.filter({ hasText: "Difford" })).toBeVisible();
-  await expect(tabs.filter({ hasText: "MJ Personal Version" })).toHaveCount(1);
-  await tabs.filter({ hasText: "PUNCH" }).click();
+  const picker = page.locator("#versionSelect");
+  const choices = await picker.locator("option").allTextContents();
+  expect(choices.some(label => label.includes("PUNCH"))).toBe(true);
+  expect(choices.some(label => label.includes("Difford"))).toBe(true);
+  expect(choices.filter(label => label.includes("MJ Personal Version"))).toHaveLength(1);
+  await picker.selectOption(String(choices.findIndex(label => label.includes("PUNCH"))));
   await expect(page.locator(".ingredient-table")).toContainText("Quebranta");
   await expect(page.locator(".version-pane")).toContainText("Story & history");
-  await tabs.filter({ hasText: "Difford" }).click();
+  await picker.selectOption(String(choices.findIndex(label => label.includes("Difford"))));
   await expect(page.locator(".ingredient-table")).toContainText("Angostura");
   await expect(page.locator(".detail-copy h1")).toHaveText("Capitán");
 });
@@ -22,11 +23,11 @@ test("Blazing Saddles keeps the Death & Co book spec separate from the bartender
   await page.locator("#searchInput").fill("Blazing Saddles");
   await page.locator('.search-item[data-recipe="blazing-saddles"]').click();
   await expect(page.locator(".detail-copy h1")).toHaveText("Blazing Saddles");
-  const tabs = page.locator(".version-tab");
-  await expect(tabs.filter({ hasText: "Death & Co" })).toBeVisible();
-  await tabs.filter({ hasText: "The Jolly Bartender" }).click();
+  const picker = page.locator("#versionSelect");
+  await expect(picker.locator("option")).toContainText(["Death & Co", "The Jolly Bartender · adaptation", "MJ Personal Version", "+ Social recipe"]);
+  await picker.selectOption({ label: "The Jolly Bartender · adaptation" });
   await expect(page.locator(".ingredient-table")).toContainText("Catoctin Creek");
-  await tabs.filter({ hasText: "Death & Co" }).click();
+  await picker.selectOption({ label: "Death & Co" });
   await expect(page.locator(".ingredient-table")).toContainText("High West");
 });
 
