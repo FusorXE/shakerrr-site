@@ -28,7 +28,9 @@ PRIORITY = [
     "rum-punch", "mai tai", "bramble", "screwdriver", "sea-breeze",
     "long-island-iced-tea", "gin-and-tonic", "clover-club",
 ]
-BAD_TYPES = re.compile(r"\b(menu|poster|diagram|logo|label|book|recipe card|drawing|illustration|bottle only|packaging)\b", re.I)
+BAD_TYPES = re.compile(r"\b(menu|poster|diagram|logo|label|book|magazine|map|skyline|recipe card|drawing|illustration|bottle only|packaging|screenshot)\b", re.I)
+DRINK_CONTEXT = re.compile(r"\b(cocktail|coctail|mixed drink|drink in a glass|glass of|served up|bar drink)\b", re.I)
+AMBIGUOUS = {"manhattan", "sidecar", "gimlet", "aviation", "zombie", "cosmopolitan", "paper plane", "old fashioned", "screwdriver"}
 ACCEPTABLE_LICENSES = {
     "CC0", "Public domain", "CC BY 4.0", "CC BY 3.0", "CC BY 2.0",
     "CC BY-SA 4.0", "CC BY-SA 3.0", "CC BY-SA 2.0",
@@ -67,7 +69,7 @@ def get_images(name):
     args = {
         "action": "query", "format": "json", "generator": "search",
         "gsrnamespace": "6", "gsrlimit": "12",
-        "gsrsearch": '"' + name.replace('"', "") + '" filetype:bitmap',
+        "gsrsearch": '"' + name.replace('"', "") + '" ' + ("cocktail " if clean(name) in AMBIGUOUS else "") + "filetype:bitmap",
         "prop": "imageinfo", "iiprop": "url|size|mime|extmetadata",
         "iiurlwidth": "540",
     }
@@ -101,6 +103,12 @@ def score_image(name, page):
         return None
     if BAD_TYPES.search(title):
         return None
+    # An exact filename match alone is unsafe: Manhattan, Zombie, Gimlet,
+    # Aviation and Sidecar are also non-drink subjects.
+    if not DRINK_CONTEXT.search(title + " " + photo_desc):
+        return None
+    if BAD_TYPES.search(photo_desc) and not re.search(r"\b(cocktail|coctail)\b", photo_desc, re.I):
+        return None
     score = 0
     if name_clean in title_clean:
         score += 65
@@ -128,6 +136,7 @@ def score_image(name, page):
         "artist": meta(ii, "Artist"), "credit": meta(ii, "Credit"),
         "description": photo_desc[:320],
         "reviewStatus": "pending-visual-review",
+        "matchEvidence": "Name and cocktail context in Commons metadata; human visual verification required.",
     }
 
 def run(offset, limit, output):
