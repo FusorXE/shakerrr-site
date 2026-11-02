@@ -18,7 +18,7 @@ test("ingredient callouts reflect selected version and escape text", () => {
   assert.equal(ingredientOverlay([]), "");
 });
 
-test("new web catalog contains only reviewed Pexels website photos", () => {
+test("web catalog only contains reviewed and licensed website photographs", () => {
   const manifest = JSON.parse(fs.readFileSync(new URL("../data/web-photos.json", import.meta.url), "utf8"));
   assert.ok(Object.keys(manifest.byRecipe).length > 0);
   for (const [id, record] of Object.entries(manifest.byRecipe)) {
@@ -26,10 +26,15 @@ test("new web catalog contains only reviewed Pexels website photos", () => {
     for (const photo of record.candidates) {
       assert.equal(photo.status, "web-curated");
       assert.equal(photo.available, true);
-      assert.equal(photo.license, "Pexels License");
-      assert.equal(new URL(photo.sourceUrl).hostname, "www.pexels.com");
-      assert.equal(new URL(photo.originalUrl).hostname, "images.pexels.com");
-      assert.ok(photo.path.startsWith("assets/recipes/web/") || new URL(photo.path).hostname === "images.pexels.com");
+      assert.ok(photo.license === "Pexels License" || /^CC BY(?:-SA)? [234]\.0$/.test(photo.license));
+      assert.ok(["www.pexels.com","commons.wikimedia.org"].includes(new URL(photo.sourceUrl).hostname));
+      assert.ok(["images.pexels.com","upload.wikimedia.org"].includes(new URL(photo.originalUrl).hostname));
+      assert.ok(photo.path.startsWith("assets/recipes/web/") || ["images.pexels.com","upload.wikimedia.org"].includes(new URL(photo.path).hostname));
+      if (photo.license !== "Pexels License") {
+        assert.ok(photo.licenseUrl.startsWith("https://creativecommons.org/licenses/"));
+        assert.ok(photo.artist);
+        assert.ok(photo.modified);
+      }
       assert.ok(photo.source);
     }
   }
