@@ -2373,3 +2373,35 @@ body::before { display: none; }
   .detail-copy .ingredient-table td { font-size: 13px; }
   .detail-copy .method-box, .detail-copy .note-box { font-size: 13px; }
 }
+
+/* Compact source selection at every viewport. The existing source tabs remain
+   in the DOM for backward compatibility, but the dropdown owns navigation. */
+.detail-copy .version-picker {
+  display: block;
+  width: min(100%, 450px);
+  margin: 0 0 18px;
+}
+.detail-copy .version-picker label {
+  display: block;
+  margin-bottom: 8px;
+  font: 600 11px/1.4 var(--sans);
+  letter-spacing: .1em;
+  color: #566458;
+  text-transform: uppercase;
+}
+.detail-copy .version-picker select {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  min-height: 46px;
+  padding: 11px 38px 11px 14px;
+  border: 1px solid #a8b3a7;
+  border-radius: 4px;
+  background: #fffefa;
+  color: #28352d;
+  font: 500 14px/1.4 var(--sans);
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+.detail-copy .version-tabs { display: none; }
