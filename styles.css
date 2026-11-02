@@ -2147,3 +2147,229 @@ img[data-photo-id][hidden] {
 .detail-photo .photo-credit a { color: #f7d9ad; text-decoration: underline; text-underline-offset: 2px; }
 .detail-photo .photo-credit a:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
 .detail-photo .photo-credit { line-height: 1.5; background: #0a0b0ddd; }
+
+/* Shakerrr editorial refinement: restrained typography, clean photographs,
+   usable source controls and readable long-form cocktail notes. */
+:root {
+  --bg: #101512;
+  --bg2: #151a16;
+  --panel: #1a201b;
+  --ink: #eeeae2;
+  --muted: #b5b8af;
+  --line: #3a423b;
+  --gold: #d3bd94;
+  --amber: #e3c89f;
+  --blue: #bed6c9;
+  --r: 7px;
+}
+body { background: var(--bg); }
+body::before { display: none; }
+.topbar { background: #101512f5; border-bottom: 1px solid #424941; }
+.nav button { font-size: 12px; padding: 8px 10px; }
+.shell { max-width: 1530px; }
+.cards { gap: 17px; }
+.card {
+  background: #191e1b;
+  border: 1px solid #323b33;
+  border-radius: 5px;
+  box-shadow: none;
+}
+.card-photo { border-radius: 0; background: #242c26; }
+.card-body { padding: 18px 19px 22px; }
+.card h3 { letter-spacing: -0.02em; }
+.card .origin, .card .tag { letter-spacing: .07em; }
+.detail {
+  grid-template-columns: minmax(0, 1.03fr) minmax(0, .97fr);
+  border: 1px solid #40463c;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: none;
+  align-items: stretch;
+  background: #f0ede6;
+}
+.detail-photo {
+  min-width: 0;
+  min-height: 700px;
+  background: #1d231e;
+}
+.detail-copy {
+  min-width: 0;
+  padding: clamp(26px, 3vw, 52px);
+  background: #f0ede6;
+  color: #202823;
+}
+.detail-copy .eyebrow {
+  font: 600 11px/1.5 var(--sans);
+  letter-spacing: .15em;
+  color: #6c735f;
+}
+.detail-copy h1 {
+  margin: 14px 0 20px;
+  font: 400 clamp(42px, 4vw, 66px)/1.05 var(--serif);
+  letter-spacing: -.035em;
+  color: #222821;
+}
+.detail-copy .mini-btn {
+  background: transparent;
+  border: 1px solid #aaa99c;
+  color: #283a2d;
+  border-radius: 3px;
+  min-width: 38px;
+  min-height: 38px;
+  font-size: 17px;
+}
+.detail-copy .version-section { margin-top: 30px; }
+.detail-copy .version-section h2 {
+  font: 400 25px/1.15 var(--serif);
+  margin-bottom: 16px;
+  color: #222821;
+}
+.detail-copy .version-tabs {
+  display: flex;
+  align-items: stretch;
+  gap: 7px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
+  min-width: 0;
+  padding-bottom: 12px;
+  margin-bottom: 16px;
+  scrollbar-width: thin;
+  scroll-snap-type: x proximity;
+}
+.detail-copy .version-tab {
+  flex: 0 0 auto;
+  width: max-content;
+  min-width: max-content;
+  max-width: none;
+  white-space: nowrap !important;
+  overflow-wrap: normal !important;
+  word-break: normal !important;
+  writing-mode: horizontal-tb;
+  scroll-snap-align: start;
+  background: transparent;
+  color: #3b483d;
+  border: 1px solid #b9beb4;
+  border-radius: 3px;
+  padding: 10px 13px;
+  font: 500 12px/1.35 var(--sans);
+  letter-spacing: 0;
+}
+.detail-copy .version-tab.active {
+  background: #2b372e;
+  border-color: #2b372e;
+  color: #f6f3eb;
+}
+.detail-copy .version-tab:hover:not(.active) { background: #e4e6de; }
+.detail-copy .version-tab:focus-visible,
+.detail-copy .version-picker select:focus-visible {
+  outline: 2px solid #637862;
+  outline-offset: 3px;
+}
+.version-picker { display: none; }
+.detail-copy .version-pane {
+  background: transparent;
+  border: 0;
+  padding: 4px 0 0;
+  min-height: 120px;
+  border-radius: 0;
+  animation: none;
+}
+.detail-copy .version-pane .source-head {
+  align-items: baseline;
+  padding-bottom: 13px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid #c9cdc3;
+}
+.detail-copy .version-pane .source-head b {
+  font: 600 14px/1.4 var(--sans);
+  color: #29352d;
+}
+.detail-copy .version-pane .source-head span {
+  font: 500 10px var(--sans);
+  color: #657064;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+}
+.detail-copy .version-pane a {
+  display: inline-block;
+  margin: 12px 0 4px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #416150;
+  text-underline-offset: 3px;
+}
+.detail-copy .ingredient-table tr { border-top: 1px solid #d7d9d1; }
+.detail-copy .ingredient-table td {
+  padding: 12px 0;
+  font: 400 14px/1.4 var(--sans);
+  color: #2b342d;
+}
+.detail-copy .ingredient-table td:first-child { width: 75%; }
+.detail-copy .ingredient-table td:last-child {
+  text-align: right;
+  font: 600 13px/1.4 var(--sans);
+  color: #334536;
+  white-space: nowrap;
+}
+.detail-copy .method-box, .detail-copy .note-box {
+  padding: 17px 0 15px;
+  margin-top: 12px;
+  background: transparent;
+  border: 0;
+  border-top: 1px solid #c9cdc3;
+  border-radius: 0;
+  color: #475047;
+  font: 400 14px/1.65 var(--sans);
+  overflow-wrap: break-word;
+}
+.detail-copy .method-box b, .detail-copy .note-box b {
+  margin-bottom: 7px;
+  font: 600 10px/1.4 var(--sans);
+  letter-spacing: .14em;
+  color: #5d715c;
+  text-transform: uppercase;
+}
+.detail-copy .note-box { color: #4c514a; }
+.detail-photo .photo-credit {
+  border: 1px solid #ffffff31;
+  border-radius: 3px;
+  padding: 6px 9px;
+  font-size: 10px;
+  background: #101512d9;
+}
+.detail-photo .photo-controls button { border-radius: 3px; }
+@media (max-width: 1180px) {
+  .detail { grid-template-columns: minmax(0, 1fr); }
+  .detail-photo { min-height: 520px; }
+}
+@media (max-width: 760px) {
+  .detail { display: block; }
+  .detail-copy { padding: 30px 22px 44px; }
+  .detail-photo { min-height: 400px; height: 56vh; }
+  .detail-copy h1 { font-size: clamp(42px, 10vw, 58px); }
+  .detail-copy .version-tabs { display: none; }
+  .detail-copy .version-picker { display: block; margin: 0 0 20px; }
+  .detail-copy .version-picker label {
+    display: block;
+    margin-bottom: 8px;
+    font: 600 11px var(--sans);
+    letter-spacing: .1em;
+    color: #566458;
+    text-transform: uppercase;
+  }
+  .detail-copy .version-picker select {
+    display: block;
+    width: 100%;
+    min-height: 48px;
+    background: #fffefa;
+    color: #28352d;
+    border: 1px solid #8b9a8a;
+    border-radius: 3px;
+    padding: 11px 16px;
+    font: 500 15px var(--sans);
+  }
+  .detail-copy .version-pane .source-head { flex-wrap: wrap; }
+  .detail-copy .ingredient-table td { font-size: 13px; }
+  .detail-copy .method-box, .detail-copy .note-box { font-size: 13px; }
+}
