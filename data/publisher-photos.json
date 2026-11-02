@@ -1704,6 +1704,54 @@
           "verified": "exact-recipe-photo"
         }
       ]
+    },
+    "mezcal-paloma": {
+      "candidates": [
+        {
+          "path": "https://assets.bonappetit.com/photos/57acbbca53e63daf11a4d984/16:9/w_1280,c_limit/mezcal-paloma.jpg",
+          "sourceUrl": "https://www.bonappetit.com/recipe/mezcal-paloma",
+          "source": "Bon Appétit",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "named-cocktail-publisher-recipe-photo"
+        }
+      ]
+    },
+    "mezcal-con-pepino": {
+      "candidates": [
+        {
+          "path": "https://i0.wp.com/foodfamilyfriends.com/wp-content/uploads/2019/08/Photo-Jul-05-5-15-10-PM.jpg?fit=900%2C1200&ssl=1",
+          "sourceUrl": "https://foodfamilyfriends.com/2019/09/27/mezcal-con-pepino/",
+          "source": "Food + Family + Friends",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "named-cocktail-publisher-recipe-photo"
+        }
+      ]
+    },
+    "maximillian-affair": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/O7D3wR/lifestyle/0/1024x.webp",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/14827/maximilian-affair",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "named-cocktail-publisher-recipe-photo"
+        }
+      ]
+    },
+    "spicy-paloma": {
+      "candidates": [
+        {
+          "path": "https://dmlxzvnzyohme.cloudfront.net/2013/07/_1200x630_crop_center-center_82_none_ns/spicy-paloma640x360.jpg?mtime=1697264305",
+          "sourceUrl": "https://www.pbs.org/food/recipes/spicy-paloma",
+          "source": "PBS Food",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "named-cocktail-publisher-recipe-photo"
+        }
+      ]
     }
   },
   "stats": {
