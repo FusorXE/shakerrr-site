@@ -37,6 +37,7 @@ const state = {
   book: null,
   photoMode: readJSON("shakerrr_photo_mode", {}),
   images: {},
+  additionalVersions: {},
   region: "All",
   versionIndex: 0,
   moviePhoto: false,
@@ -342,19 +343,29 @@ async function loadPublisherImages(cache = "default") {
     return {};
   }
 }
+async function loadAdditionalVersions() {
+  try {
+    const response = await fetch("data/source-versions.json");
+    return response.ok ? (await response.json()).byRecipe || {} : {};
+  } catch {
+    return {};
+  }
+}
 async function boot() {
   try {
-    const [recipes, world, webImages, publisherImages] = await Promise.all([
+    const [recipes, world, webImages, publisherImages, additionalVersions] = await Promise.all([
       ...["recipes", "world", "web-photos"].map(async (name) => {
         const r = await fetch(`data/${name}.json`);
         if (!r.ok) throw Error(name);
         return r.json();
       }),
       loadPublisherImages(),
+      loadAdditionalVersions(),
     ]);
     state.recipes = recipes;
     state.world = world;
     state.images = mergePublisherPhotos(publisherImages, webImages.byRecipe || {});
+    state.additionalVersions = additionalVersions;
     state.bar = new Set([...state.bar].map(canon));
     state.recipes.forEach((r) => {
       state.byId.set(r.id, r);
@@ -705,6 +716,12 @@ function renderDetail(id) {
 }
 function allVersions(r) {
   const out = (r.versions || []).filter((v) => v.usable !== false);
+  // Add verified publisher specifications only to the matching cards.
+  // They never replace existing book references or personal versions.
+  for (const version of state.additionalVersions[r.id] || []) {
+    if (version.usable !== false && !out.some(v => v.label === version.label && v.url === version.url))
+      out.push(version);
+  }
   if (!out.length)
     out.push({
       label: r.baseSource || "Recovered reference",
