@@ -496,7 +496,9 @@ function wireGlobal() {
     state.unit = state.unit === "oz" ? "ml" : "oz";
     localStorage.setItem("shakerrr_unit", state.unit);
     $("#unitBtn").textContent = state.unit;
-    if (state.current) renderVersion(state.versionIndex);
+    $("#unitBtn").setAttribute("aria-label", "Units: " + state.unit + ". Switch to " + (state.unit === "oz" ? "milliliters" : "ounces"));
+    // Do not try rendering a recipe when viewing other sections.
+    if (state.current && $("#versionPane")) renderVersion(state.versionIndex);
   });
   $("#toolsBtn").addEventListener("click", openDrawer);
   window.addEventListener("hashchange", () => {
