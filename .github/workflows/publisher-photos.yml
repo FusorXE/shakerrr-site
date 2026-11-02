@@ -1,0 +1,47 @@
+name: Connect publisher recipe images by URL
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/index-publisher-photos.mjs"
+      - ".github/workflows/publisher-photos.yml"
+  workflow_dispatch:
+    inputs:
+      offset:
+        description: "Canonical recipe offset"
+        type: number
+        default: 0
+      limit:
+        description: "Number of recipe names to resolve from publisher pages"
+        type: number
+        default: 354
+permissions:
+  contents: write
+concurrency:
+  group: publisher-image-links
+  cancel-in-progress: false
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Validate indexer syntax
+        run: node --check scripts/index-publisher-photos.mjs
+      - name: Resolve exact recipe images from publisher websites
+        env:
+          OFFSET: ${{ inputs.offset || '0' }}
+          LIMIT: ${{ inputs.limit || '354' }}
+        run: node scripts/index-publisher-photos.mjs --offset "$OFFSET" --limit "$LIMIT"
+      - name: Commit image URLs only, never image binaries
+        run: |
+          git add data/publisher-photos.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Index direct publisher image URLs for Shakerrr recipes"
+          git pull --rebase origin main
+          git push origin HEAD:main
