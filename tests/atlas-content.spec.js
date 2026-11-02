@@ -62,9 +62,9 @@ test("published-note cleanup leaves saved personal and social notes intact", asy
   }, note);
   await openLocal(page, "cocktails");
   await searchRecipe(page, "Battle For Pueblo");
-  await page.getByRole("tab", { name: "MJ Personal Version" }).click();
+  await page.locator("#versionSelect").selectOption({ label: "MJ Personal Version" });
   await expect(page.locator("#spec-note")).toHaveValue(note);
-  await page.getByRole("tab", { name: "Other · My friend" }).click();
+  await page.locator("#versionSelect").selectOption({ label: "Other · My friend" });
   await expect(page.locator("#versionPane")).toContainText(note);
   expect(await page.evaluate(() => JSON.parse(localStorage.getItem("shakerrr_my_battle-for-pueblo")).note)).toBe(note);
 });
