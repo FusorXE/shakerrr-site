@@ -144,6 +144,9 @@ def run(offset, limit, output):
     used = set(live.get("byRecipe", {}))
     catalog = canonical_recipes()
     by_id = {r["id"]: r for r in catalog}
+    invalid_live_ids = sorted(used - set(by_id))
+    if invalid_live_ids:
+        print("WARNING: web photo IDs not found in normalized catalog: " + ", ".join(invalid_live_ids), file=sys.stderr)
     ordered = []
     for candidate in PRIORITY:
         key = candidate.replace(" ", "-")
@@ -174,6 +177,7 @@ def run(offset, limit, output):
         "offset": offset, "limit": limit,
         "catalogSize": len(catalog),
         "alreadyWebCurated": len(used),
+        "unmatchedWebPhotoIds": invalid_live_ids,
         "reviewed": candidates,
     }
     target = ROOT / output
