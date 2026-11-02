@@ -444,6 +444,266 @@
           "verified": "exact-iba-recipe-page"
         }
       ]
+    },
+    "batanga": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/ZAPyyr/default/0/512x.webp?v=1737701573",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/540/batanga",
+          "source": "Difford's Guide",
+          "title": "Batanga",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "batida-de-coco": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/4A2W5r/default/0/512x.webp?v=1737701572",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/182/batida-de-coco",
+          "source": "Difford's Guide",
+          "title": "Batida de Coco",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "corn-n-oil": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/r8a04O/default/0/512x.webp?v=1737701590",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3029/corn-n-oil",
+          "source": "Difford's Guide",
+          "title": "Corn 'n' Oil",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "japanese-slipper": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/VRjNlR/default/0/512x.webp?v=1737701575",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1057/japanese-slipper",
+          "source": "Difford's Guide",
+          "title": "Japanese Slipper",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "kir-royale": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/JRJ4wr/default/0/512x.webp?v=1737701575",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1109/kir-royale",
+          "source": "Difford's Guide",
+          "title": "Kir Royale",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "piscola": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/GRo43A/default/0/512x.webp?v=1737701577",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1564/piscola",
+          "source": "Difford's Guide",
+          "title": "Piscola",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "poncha": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/DAqd3R/default/0/512x.webp?v=1737701577",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1587/poncha",
+          "source": "Difford's Guide",
+          "title": "Poncha",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "queens-park-swizzle": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/AP7ZyR/default/0/512x.webp?v=1737701588",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2740/queens-park-swizzle",
+          "source": "Difford's Guide",
+          "title": "Queen's Park Swizzle",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "rebujito": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/OnlenA/default/0/512x.webp?v=1737701593",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3508/rebujito-cocktail",
+          "source": "Difford's Guide",
+          "title": "Rebujito cocktail",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "rum-swizzle": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RaxqqO/default/0/512x.webp?v=1737701587",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2566/rum-swizzle",
+          "source": "Difford's Guide",
+          "title": "Rum Swizzle",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "improved-whiskey-cocktail": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/rV6wLr/default/0/512x.webp?v=1737701602",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/5083/improved-whiskey-cocktail",
+          "source": "Difford's Guide",
+          "title": "Improved Whiskey Cocktail",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "old-pal": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/Yrg5wR/default/0/512x.webp?v=1737701577",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1430/old-pal",
+          "source": "Difford's Guide",
+          "title": "Old Pal",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "painkiller": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/LR1yaR/default/0/512x.webp?v=1737701577",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1454/painkiller",
+          "source": "Difford's Guide",
+          "title": "Painkiller",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "pegu-club": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/Ax0j8A/default/0/512x.webp?v=1737701588",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2728/pegu-club-cocktail-diffords-recipe",
+          "source": "Difford's Guide",
+          "title": "Pegu Club Cocktail (Difford's recipe)",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "ramos-gin-fizz": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/vAxD8A/default/0/512x.webp?v=1737701578",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1628/ramos-gin-fizz",
+          "source": "Difford's Guide",
+          "title": "Ramos Gin Fizz",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "rob-roy": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/jRBdMr/default/1/512x.webp?v=1769163283",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1681/rob-roy",
+          "source": "Difford's Guide",
+          "title": "Rob Roy",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "sloe-gin-fizz": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/gApywr/default/0/512x.webp?v=1737701581",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1780/sloe-gin-fizz",
+          "source": "Difford's Guide",
+          "title": "Sloe Gin Fizz",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "southside": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/Ov8pBA/default/1/512x.webp?v=1742479144",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2200/southside",
+          "source": "Difford's Guide",
+          "title": "Southside",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "stone-fence": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/AqlzvR/default/0/512x.webp?v=1737701587",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2587/stone-fence",
+          "source": "Difford's Guide",
+          "title": "Stone Fence",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "whiskey-smash": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/AmlbyR/default/0/512x.webp?v=1737701592",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3347/whiskey-smash",
+          "source": "Difford's Guide",
+          "title": "Whiskey Smash",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
     }
   },
   "stats": {
