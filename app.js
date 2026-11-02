@@ -777,7 +777,11 @@ function allVersions(r) {
 function renderVersions(r) {
   const vs = allVersions(r);
   $("#versionMount").innerHTML =
-    `<div class="version-tabs" role="tablist" aria-label="Recipe source">${vs.map((v, i) => `<button class="version-tab" role="tab" aria-selected="false" data-version="${i}">${esc(v.label)}</button>`).join("")}</div><div id="versionPane" role="tabpanel"></div>`;
+    `<div class="version-picker"><label for="versionSelect">Select a recipe source</label><select id="versionSelect" aria-label="Recipe source">${vs.map((v, i) => `<option value="${i}">${esc(v.label)}</option>`).join("")}</select></div><div class="version-tabs" role="tablist" aria-label="Recipe source">${vs.map((v, i) => `<button class="version-tab" role="tab" aria-selected="false" data-version="${i}" title="${attr(v.label)}">${esc(v.label)}</button>`).join("")}</div><div id="versionPane" role="tabpanel"></div>`;
+  $("#versionSelect").addEventListener("change", (event) => {
+    state.moviePhoto = false;
+    renderVersion(Number(event.target.value));
+  });
   renderVersion(Math.min(state.versionIndex || 0, vs.length - 1));
 }
 function renderVersion(i) {
@@ -785,6 +789,8 @@ function renderVersion(i) {
     v = allVersions(r)[i];
   if (!v) return;
   state.versionIndex = i;
+  const sourcePicker = $("#versionSelect");
+  if (sourcePicker) sourcePicker.value = String(i);
   const overlay = $(".detail-photo .ingredient-overlay");
   if (overlay) overlay.innerHTML = ingredientOverlay(v.ingredients, displayAmt);
   $$(".version-tab").forEach((b, j) => {
