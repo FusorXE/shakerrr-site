@@ -87,6 +87,28 @@ def get_images(name):
             time.sleep(2 * (attempt + 1))
     return {}
 
+def category_images(name):
+    """Find exact-named cocktail media categories missed by Commons full-text."""
+    for category in (f"Category:{name} (cocktail)", f"Category:{name}"):
+        args = {
+            "action": "query", "format": "json", "generator": "categorymembers",
+            "gcmtitle": category, "gcmtype": "file", "gcmlimit": "25",
+            "prop": "imageinfo", "iiprop": "url|size|mime|extmetadata",
+            "iiurlwidth": "1800",
+        }
+        url = API + "?" + urllib.parse.urlencode(args)
+        request = urllib.request.Request(url, headers={
+            "User-Agent": USER_AGENT, "Accept": "application/json"})
+        try:
+            with urllib.request.urlopen(request, timeout=25) as response:
+                result = json.load(response).get("query", {}).get("pages", {})
+            if result:
+                return result
+        except (urllib.error.URLError, TimeoutError) as exc:
+            print(f"Category lookup failed for {name}: {exc}", file=sys.stderr)
+        time.sleep(1)
+    return {}
+
 def score_image(name, page):
     ii = (page.get("imageinfo") or [None])[0]
     if not ii or ii.get("mime") not in ("image/jpeg", "image/png", "image/webp"):
@@ -165,6 +187,12 @@ def run(offset, limit, output):
             item = score_image(recipe["name"], page)
             if item:
                 matches.append(item)
+        if not matches:
+            # Category names often preserve exact cocktail identity better than text search.
+            for page in category_images(recipe["name"]).values():
+                item = score_image(recipe["name"], page)
+                if item and not any(other["sourceUrl"] == item["sourceUrl"] for other in matches):
+                    matches.append(item)
         matches.sort(key=lambda x: (-x["matchScore"], x["title"]))
         candidates.append({
             "recipeId": recipe["id"], "recipeName": recipe["name"],
