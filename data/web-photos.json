@@ -352,7 +352,7 @@
         {
           "id": "commons-manhattan",
           "source": "Wikimedia Commons · Matthias Friedlein ( www.augustine-bar.de )",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Manhattan_%28cocktail%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "path": "assets/recipes/web/manhattan.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Manhattan_%28cocktail%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manhattan_(cocktail).png",
           "sourceTitle": "File:Manhattan (cocktail).png",
@@ -366,7 +366,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
           "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -375,7 +377,7 @@
         {
           "id": "commons-sidecar",
           "source": "Wikimedia Commons · Achim Schleuning",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/1/11/Sidecar_Cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "path": "assets/recipes/web/sidecar.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Sidecar_Cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sidecar_Cocktail.jpg",
           "sourceTitle": "File:Sidecar Cocktail.jpg",
@@ -389,7 +391,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
           "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -398,7 +402,7 @@
         {
           "id": "commons-gimlet",
           "source": "Wikimedia Commons · Bruno Rijsman",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/f/fd/A_Gimlet_cocktail_%28Isla_Holbox%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "path": "assets/recipes/web/gimlet.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/A_Gimlet_cocktail_%28Isla_Holbox%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Gimlet_cocktail_(Isla_Holbox).jpg",
           "sourceTitle": "File:A Gimlet cocktail (Isla Holbox).jpg",
@@ -412,7 +416,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
           "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -421,7 +427,7 @@
         {
           "id": "commons-jungle-bird",
           "source": "Wikimedia Commons · BanjoZebra",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jungle_bird_cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "path": "assets/recipes/web/jungle-bird.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jungle_bird_cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jungle_bird_cocktail.jpg",
           "sourceTitle": "File:Jungle bird cocktail.jpg",
@@ -435,7 +441,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
           "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -444,7 +452,7 @@
         {
           "id": "commons-paper-plane",
           "source": "Wikimedia Commons · Missvain",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Taub_Family_Outpost_-_June_11_2021_-_Sarah_Stierch_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "path": "assets/recipes/web/paper-plane.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Taub_Family_Outpost_-_June_11_2021_-_Sarah_Stierch_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taub_Family_Outpost_-_June_11_2021_-_Sarah_Stierch_02.jpg",
           "sourceTitle": "File:Taub Family Outpost - June 11 2021 - Sarah Stierch 02.jpg",
@@ -458,7 +466,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
           "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -467,7 +477,7 @@
         {
           "id": "commons-white-russian",
           "source": "Wikimedia Commons · Will Shenton",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/9/91/White_Russian_Cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "path": "assets/recipes/web/white-russian.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/White_Russian_Cocktail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Russian_Cocktail.jpg",
           "sourceTitle": "File:White Russian Cocktail.jpg",
@@ -481,7 +491,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
           "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -490,7 +502,7 @@
         {
           "id": "commons-aviation",
           "source": "Wikimedia Commons · Erich Wagner ( www.eventografie.de )",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Aviation_Cocktail1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "path": "assets/recipes/web/aviation.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Aviation_Cocktail1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aviation_Cocktail1.jpg",
           "sourceTitle": "File:Aviation Cocktail1.jpg",
@@ -504,7 +516,9 @@
           "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
           "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },

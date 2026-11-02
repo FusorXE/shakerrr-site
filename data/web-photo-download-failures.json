@@ -1,0 +1,10 @@
+{
+  "failures": [
+    {
+      "recipeId": "zombie",
+      "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+      "image": "https://commons.wikimedia.org/wiki/File:Zombie_Cocktail.jpg"
+    }
+  ],
+  "processed": 7
+}
