@@ -1,4 +1,16 @@
 import { test, expect } from "@playwright/test";
+async function chooseVersion(page, name) {
+  const picker = page.locator("#versionSelect");
+  if (await picker.isVisible()) {
+    if (name === "first") await picker.selectOption("0");
+    else await picker.selectOption({ label: name });
+  } else if (name === "first") {
+    await page.getByRole("tab").first().click();
+  } else {
+    await page.getByRole("tab", { name, exact: true }).click();
+  }
+}
+
 
 async function openPersonal(page) {
   await page.route(/^https?:\/\/(?!127\.0\.0\.1|localhost)/, (route) => route.abort());
@@ -8,7 +20,7 @@ async function openPersonal(page) {
   const result = page.locator(".search-item[data-recipe]").filter({ hasText: "Negroni" }).first();
   const id = await result.getAttribute("data-recipe");
   await result.click();
-  await page.getByRole("tab", { name: "MJ Personal Version" }).click();
+  await chooseVersion(page, "MJ Personal Version");
   return "shakerrr_my_" + id;
 }
 
@@ -38,8 +50,8 @@ for (const width of [1280, 390]) {
         { amount: "1/2 oz", name: "lemon juice" },
       ],
     });
-    await page.getByRole("tab").first().click();
-    await page.getByRole("tab", { name: "MJ Personal Version" }).click();
+    await chooseVersion(page, "first");
+    await chooseVersion(page, "MJ Personal Version");
     await expect(page.locator("#specIngredients")).toHaveValue(lines);
     expect(dialogs).toEqual([]);
   });
@@ -63,8 +75,8 @@ test("uploaded version photos survive later edits and old metadata is retained",
     spec.legacyMetadata = "keep me";
     localStorage.setItem(k, JSON.stringify(spec));
   }, key);
-  await page.getByRole("tab").first().click();
-  await page.getByRole("tab", { name: "MJ Personal Version" }).click();
+  await chooseVersion(page, "first");
+  await chooseVersion(page, "MJ Personal Version");
   await expect(page.getByAltText("Your saved version photograph")).toBeVisible();
   await page.locator("#spec-note").fill("Updated notes without another upload");
   await page.locator('[data-action="save-my-recipe"]').click();
@@ -101,7 +113,7 @@ test("failed storage writes leave the existing recipe and current draft intact",
 
 test("social versions can be saved with only notes and an informal source", async ({ page }) => {
   const key = await openPersonal(page);
-  await page.getByRole("tab", { name: "+ Social recipe", exact: true }).click();
+  await chooseVersion(page, "+ Social recipe");
   const dialogs = [];
   page.on("dialog", async (dialog) => { dialogs.push(dialog.message()); await dialog.dismiss(); });
   await page.locator("#spec-note").fill("A friend's variation to try later");
