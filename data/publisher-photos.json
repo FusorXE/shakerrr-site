@@ -992,6 +992,214 @@
           "verified": "existing-exact-cocktail-book-image"
         }
       ]
+    },
+    "benton-s-old-fashioned": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/r4W4zA/default/1/512x.webp?v=1779441534",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2777/bentons-old-fashioned",
+          "source": "Difford’s Guide",
+          "title": "Benton's Old Fashioned",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "red-hook": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/ry8XNA/default/0/512x.webp?v=1737701589",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2892/red-hook",
+          "source": "Difford’s Guide",
+          "title": "Red Hook",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "revolver": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RJ24ER/default/1/512x.webp?v=1752229112",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/5009/revolver",
+          "source": "Difford’s Guide",
+          "title": "Revolver",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "pina-verde": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/A2gmDr/default/0/512x.webp?v=1737701614",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/10138/pina-verde",
+          "source": "Difford’s Guide",
+          "title": "Piña Verde",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "flannel-shirt": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/R1JoNA/default/2/512x.webp?v=1764327224",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/23598/flannel-shirt",
+          "source": "Difford’s Guide",
+          "title": "Flannel Shirt",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "kentucky-buck": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/AGl2Br/default/0/512x.webp?v=1737701597",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/4121/kentucky-buck",
+          "source": "Difford’s Guide",
+          "title": "Kentucky Buck",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "filibuster": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/ry2NbO/default/1/512x.webp?v=1787913895",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/11104/filibuster",
+          "source": "Difford’s Guide",
+          "title": "Filibuster",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "bitter-mai-tai": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RYDd2O/default/0/512x.webp?v=1737701619",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/12890/bitter-mai-tai",
+          "source": "Difford’s Guide",
+          "title": "Bitter Mai Tai",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "navy-grog": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RaLwmO/default/0/512x.webp?v=1737701601",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/4866/navy-grog",
+          "source": "Difford’s Guide",
+          "title": "Navy Grog",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "western-sour": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/AmpvxR/default/0/512x.webp?v=1737701620",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/13347/western-sour",
+          "source": "Difford’s Guide",
+          "title": "Western Sour",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "division-bell": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/OlPaEO/default/0/512x.webp?v=1737701594",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3634/division-bell",
+          "source": "Difford’s Guide",
+          "title": "Division Bell",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "pomegranate-margarita": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/4A2bkA/default/1/512x.webp?v=1738932073",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1582/pomegranate-margarita",
+          "source": "Difford’s Guide",
+          "title": "Pomegranate Margarita",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "bobby-burns": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RJ275R/default/0/512x.webp?v=1737701589",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/4109/bobby-burns-diffords-own",
+          "source": "Difford’s Guide",
+          "title": "Bobby Burns (Difford's own)",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "fitzgerald": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/OnlXnA/default/1/512x.webp?v=1741275161",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2408/fitzgerald",
+          "source": "Difford’s Guide",
+          "title": "Fitzgerald",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "jack-rose": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/BrVLwR/default/1/512x.webp?v=1763654375",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1039/jack-rose-cocktail",
+          "source": "Difford’s Guide",
+          "title": "Jack Rose Cocktail",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "preakness": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RYkplr/default/0/512x.webp?v=1737701591",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3302/preakness-cocktail",
+          "source": "Difford’s Guide",
+          "title": "Preakness Cocktail",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
     }
   },
   "stats": {
