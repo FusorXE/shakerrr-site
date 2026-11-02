@@ -26,7 +26,7 @@ export function photoCandidates(
 }
 
 export function photoCredit(candidate) {
-  const source = `${candidate.source}${candidate.page ? " · p. " + candidate.page : ""}`;
+  const source = `${candidate.source}${candidate.page ? " · p. " + candidate.page : ""}` + (candidate.license && candidate.license !== "Pexels License" ? ` · ${candidate.license} · cropped` : "");
   if (candidate.sharedVisualFrom || candidate.status === "recipe-matched")
     return `${source} · Representative photo: ${candidate.sourceImageRecipe || candidate.sharedVisualFrom}`;
   return isMoviePhoto(candidate)
