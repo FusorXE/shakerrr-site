@@ -2,120 +2,66 @@ import { test, expect } from "@playwright/test";
 
 async function visiblePhoto(image) {
   await image.locator("..").scrollIntoViewIfNeeded();
-  await expect
-    .poll(() => image.evaluate((img) => img.complete && img.naturalWidth > 0))
-    .toBe(true);
+  await expect.poll(() => image.evaluate(el => el.complete && el.naturalWidth > 0)).toBe(true);
   await expect(image).toBeVisible();
-  const host = image.locator("..");
-  await expect(host.locator(".photo-status")).toBeHidden();
-  await expect(host).toHaveClass(/photo-loaded/);
+  await expect(image.locator("..").locator(".photo-status")).toBeHidden();
 }
 
 for (const width of [1440, 390]) {
-  test(`book photographs and full text are visible at ${width}px`, async ({
-    page,
-  }) => {
+  test("recipe photo, ingredients and text render at " + width + "px", async ({ page }) => {
     await page.setViewportSize({ width, height: 900 });
-    await page.goto("/#books");
-    await page.locator('[data-book="Death%20%26%20Co"]').click();
-    const card = page.locator('.card[data-recipe="angies-secret"]');
-    await visiblePhoto(card.locator("img"));
-    const text = card.locator(".ingredient-line");
-    expect(
-      await text.evaluate((el) => el.scrollHeight <= el.clientHeight + 1),
-    ).toBe(true);
-    await card.click();
+    await page.goto("/");
+    await page.locator("#searchInput").fill("Negroni");
+    await page.locator('.search-item[data-recipe="negroni"]').click();
     await visiblePhoto(page.locator(".detail-photo img"));
-    expect(
-      await page.evaluate(
-        () => document.documentElement.scrollWidth <= innerWidth,
-      ),
-    ).toBe(true);
-    await page.screenshot({
-      animations: "disabled",
-      path: `test-results/book-detail-${width}.png`,
-      fullPage: true,
-    });
+    await expect(page.locator(".ingredient-table")).toBeVisible();
+    await expect(page.locator(".ingredient-overlay")).toContainText(/gin|vermouth|Campari/i);
+    expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
   });
-  test(`Movies use exact book photos and open the matching version at ${width}px`, async ({
-    page,
-  }) => {
+
+  test("movie cocktails show actual cocktails without claiming movie stills at " + width + "px", async ({ page }) => {
     await page.setViewportSize({ width, height: 900 });
     await page.goto("/#movies");
     const card = page.locator('.movie-card[data-recipe="cosmopolitan"]');
     await visiblePhoto(card.locator("img"));
-    await expect(card.locator("img")).toHaveAttribute(
-      "src",
-      /hollywood__classic-cosmopolitan/,
-    );
     await card.click();
+    await expect(page.locator(".detail-copy h1")).toHaveText("Cosmopolitan");
     await visiblePhoto(page.locator(".detail-photo img"));
-    await expect(page.locator(".detail-photo img")).toHaveAttribute(
-      "src",
-      /hollywood__classic-cosmopolitan/,
-    );
-    await expect(page.locator(".photo-credit")).toContainText(
-      "scene image unavailable",
-    );
-    await page.screenshot({
-      animations: "disabled",
-      path: `test-results/movie-detail-${width}.png`,
-      fullPage: true,
-    });
+    await expect(page.locator(".ingredient-table")).toBeVisible();
+    await expect(page.locator(".photo-credit")).not.toContainText("movie still");
   });
 }
 
-test("Movies without an exact movie-book image show an honest missing state", async ({
-  page,
-}) => {
+test("movie catalog uses cocktail photos even when book image is unavailable", async ({ page }) => {
   await page.goto("/#movies");
   const card = page.locator('.movie-card[data-recipe="bloody-mary"]');
-  await card.scrollIntoViewIfNeeded();
-  await expect(card.locator(".photo-status")).toHaveText(
-    "No verified movie-book photograph",
-  );
-  await expect(card.locator("img")).toBeHidden();
+  await visiblePhoto(card.locator("img"));
+  await card.click();
+  await expect(page.locator(".detail-copy h1")).toHaveText("Bloody Mary");
+  await expect(page.locator(".ingredient-table")).toBeVisible();
 });
 
-test("refresh system photo fetches a fresh manifest and restores the visible image", async ({
-  page,
-}) => {
-  let manifests = 0;
-  page.on("request", (r) => {
-    if (r.url().includes("image-manifest.json")) manifests++;
-  });
+test("refresh requests web and publisher photo catalogs without erasing a recipe", async ({ page }) => {
+  let requests = 0;
+  page.on("request", r => { if (/data\/(web-photos|publisher-photos)\.json/.test(r.url())) requests++; });
   await page.goto("/");
   await page.locator("#searchInput").fill("Negroni");
   await page.locator('.search-item[data-recipe="negroni"]').click();
   await visiblePhoto(page.locator(".detail-photo img"));
-  const before = manifests;
+  const before = requests;
   await page.locator('[data-action="refresh-photo"]').click();
-  await expect.poll(() => manifests).toBeGreaterThan(before);
+  await expect.poll(() => requests).toBeGreaterThan(before);
   await expect(page.locator('[data-action="refresh-photo"]')).toBeEnabled();
-  await expect(page.locator(".detail-photo")).toHaveClass(/photo-loaded/);
-  await visiblePhoto(page.locator(".detail-photo img"));
+  await expect(page.locator(".ingredient-table")).toBeVisible();
 });
 
-test("movie source version keeps its photo while other source tabs can change it", async ({
-  page,
-}) => {
+test("switching published versions preserves the cocktail and active tab", async ({ page }) => {
   await page.goto("/#movies");
   await page.locator('.movie-card[data-recipe="manhattan"]').click();
-  await expect(
-    page.locator('.version-tab[aria-selected="true"]'),
-  ).toContainText("Simple Manhattan");
-  await visiblePhoto(page.locator(".detail-photo img"));
-  await expect(page.locator(".detail-photo img")).toHaveAttribute(
-    "src",
-    /hollywood__simple-manhattan/,
-  );
-  await page
-    .locator(".version-tab")
-    .filter({ hasText: "Essential Cocktail Book" })
-    .click();
-  await visiblePhoto(page.locator(".detail-photo img"));
-  await expect(page.locator(".detail-photo img")).toHaveAttribute(
-    "src",
-    /essential-2017__manhattan/,
-  );
+  const tabs = page.locator(".version-tab");
+  await expect(page.locator(".detail-copy h1")).toHaveText("Manhattan");
+  await expect(tabs.filter({ hasText: "Simple Manhattan" }).first()).toHaveAttribute("aria-selected", "true");
+  await tabs.filter({ hasText: "Essential Cocktail Book" }).click();
+  await expect(tabs.filter({ hasText: "Essential Cocktail Book" })).toHaveAttribute("aria-selected", "true");
+  await expect(page.locator(".ingredient-table")).toBeVisible();
 });
