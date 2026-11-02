@@ -1,4 +1,4 @@
-const CACHE = "shakerrr-v20261101-online-photo-urls";
+const CACHE = "shakerrr-v20261102-editorial-mezcal";
 const CORE = [
   "./",
   "./index.html",
@@ -9,6 +9,7 @@ const CORE = [
   "./src/content.js",
   "./src/photos.js",
   "./src/remote-photos.js",
+  "./src/mezcal-fallback.js",
   "./src/ingredient-overlay.js",
   "./src/catalog-model.js",
   "./src/catalog-bootstrap.js",
@@ -17,6 +18,9 @@ const CORE = [
   "./data/world.json",
   "./data/image-manifest.json",
   "./data/web-photos.json",
+  "./data/publisher-photos.json",
+  "./data/source-versions.json",
+  "./data/atlas-recipes.json",
   "./data/catalog-meta.json",
   "./manifest.webmanifest",
 ];
