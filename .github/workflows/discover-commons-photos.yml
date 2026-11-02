@@ -1,0 +1,50 @@
+name: Discover rights-cleared cocktail image candidates
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/discover-commons-photos.py"
+      - ".github/workflows/discover-commons-photos.yml"
+  workflow_dispatch:
+    inputs:
+      offset:
+        description: "Start at this uncatalogued recipe index"
+        type: number
+        default: 0
+      limit:
+        description: "Recipes to search (max 25); results require visual review"
+        type: number
+        default: 12
+permissions:
+  contents: write
+concurrency:
+  group: commons-image-discovery
+  cancel-in-progress: false
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate Python source
+        run: python -m py_compile scripts/discover-commons-photos.py
+      - name: Discover licensed and name-matched images
+        env:
+          OFFSET: ${{ inputs.offset || '0' }}
+          LIMIT: ${{ inputs.limit || '12' }}
+        run: |
+          python scripts/discover-commons-photos.py --offset "$OFFSET" --limit "$LIMIT"
+      - name: Commit review queue only, not public photos
+        run: |
+          git add data/commons-image-review.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update Commons photo candidates awaiting exact-drink review"
+          git push origin HEAD:main
