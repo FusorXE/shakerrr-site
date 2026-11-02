@@ -1469,6 +1469,32 @@
           "verified": "recipe-specific-original-illustration"
         }
       ]
+    },
+    "capitan": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2023/09/Article2-El-Capitan-Pisco-Manhattan-Cocktail-Recipe.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/capitan/",
+          "source": "PUNCH",
+          "title": "Capitán",
+          "status": "publisher-online",
+          "verified": "exact-publisher-recipe-page",
+          "available": true
+        }
+      ]
+    },
+    "blazing-saddles": {
+      "candidates": [
+        {
+          "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb8aGVQHnO_1_pdG-F5ArcJNMwVjDUmd3JNQQFTsnTZGAAlyr1TabzxQKMajTRqo8neNeXILYSm3R0VldVLlKuMsGcOuXKsogwY6n2cDmW-uFrUbTjlOoCX7ikgKTyKEgUcr2x_KdT5Eku/w480-h640/IMG_1548.jpeg",
+          "sourceUrl": "https://www.jollybartender.com/2021/09/blazing-saddles-death-co-recipe.html",
+          "source": "The Jolly Bartender",
+          "title": "Blazing Saddles (Death & Co. recipe adaptation)",
+          "status": "publisher-online",
+          "verified": "exact-drink-blog-photograph",
+          "available": true
+        }
+      ]
     }
   },
   "stats": {
