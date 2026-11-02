@@ -880,7 +880,7 @@
           "source": "Wikimedia Commons · Erich Wagner",
           "sourceTitle": "File:Bramble Cocktail.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bramble_Cocktail.jpg",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bramble_Cocktail.jpg",
+          "path": "assets/recipes/web/bramble.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bramble_Cocktail.jpg",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -891,7 +891,9 @@
           "modified": "Cropped and resized as WebP, original Creative Commons license retained.",
           "review": "Photo and copyright metadata checked on the original Wikimedia Commons file page.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -902,7 +904,7 @@
           "source": "Wikimedia Commons · James Cridland",
           "sourceTitle": "File:Singapore Sling Cocktail.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Singapore_Sling_Cocktail.jpg",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Singapore_Sling_Cocktail.jpg",
+          "path": "assets/recipes/web/singapore-sling.webp",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Singapore_Sling_Cocktail.jpg",
           "license": "CC BY 2.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
@@ -913,7 +915,9 @@
           "modified": "Cropped and resized as WebP, original Creative Commons license retained.",
           "review": "Photo and copyright metadata checked on the original Wikimedia Commons file page.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -924,7 +928,7 @@
           "source": "Wikimedia Commons · Will Shenton",
           "sourceTitle": "File:Martinez Cocktail.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martinez_Cocktail.jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinez_Cocktail.jpg/1280px-Martinez_Cocktail.jpg",
+          "path": "assets/recipes/web/martinez.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinez_Cocktail.jpg/1280px-Martinez_Cocktail.jpg",
           "license": "CC BY-SA 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -935,7 +939,9 @@
           "modified": "Cropped and resized as WebP, original Creative Commons license retained.",
           "review": "Photo and copyright metadata checked on the original Wikimedia Commons file page.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -946,7 +952,7 @@
           "source": "Wikimedia Commons · Cocktailmarler",
           "sourceTitle": "File:Last Word.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Last_Word.jpg",
-          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Last_Word.jpg/1920px-Last_Word.jpg",
+          "path": "assets/recipes/web/last-word.webp",
           "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Last_Word.jpg/1920px-Last_Word.jpg",
           "license": "CC BY-SA 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -957,7 +963,9 @@
           "modified": "Cropped and resized as WebP, original Creative Commons license retained.",
           "review": "Photo and copyright metadata checked on the original Wikimedia Commons file page.",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     }

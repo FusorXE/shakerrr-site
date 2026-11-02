@@ -1,8 +1,8 @@
 {
   "catalogCount": 354,
-  "totalWebPhotoRecords": 38,
-  "activePhotoCards": 34,
-  "activeLocalWebP": 34,
+  "totalWebPhotoRecords": 42,
+  "activePhotoCards": 38,
+  "activeLocalWebP": 38,
   "unmatchedPhotoRecords": [
     {
       "imageId": "espresso-martini",
@@ -155,10 +155,6 @@
     {
       "id": "boulevardier",
       "name": "Boulevardier"
-    },
-    {
-      "id": "bramble",
-      "name": "Bramble"
     },
     {
       "id": "bronze-swizzle",
@@ -633,10 +629,6 @@
       "name": "Lady Day"
     },
     {
-      "id": "last-word",
-      "name": "Last Word"
-    },
-    {
       "id": "latin-trifecta",
       "name": "Latin Trifecta"
     },
@@ -699,10 +691,6 @@
     {
       "id": "maraschino-muddle",
       "name": "Maraschino Muddle"
-    },
-    {
-      "id": "martinez",
-      "name": "Martinez"
     },
     {
       "id": "maximillian-affair",
@@ -1071,10 +1059,6 @@
     {
       "id": "simplemente-delicioso",
       "name": "Simplemente Delicioso"
-    },
-    {
-      "id": "singapore-sling",
-      "name": "Singapore Sling"
     },
     {
       "id": "sloe-burn-sipper",
