@@ -547,6 +547,126 @@
           "height": 1500
         }
       ]
+    },
+    "tom-collins": {
+      "candidates": [
+        {
+          "id": "commons-tom-collins",
+          "source": "Wikimedia Commons · SiscoGarcia",
+          "sourceTitle": "File:Tom Collins 2.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Collins_2.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tom_Collins_2.jpg/1920px-Tom_Collins_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tom_Collins_2.jpg/1920px-Tom_Collins_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Tom_Collins_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "SiscoGarcia",
+          "credit": "Own work",
+          "sourceWidth": 4608,
+          "sourceHeight": 3456,
+          "description": "coctail Boadas Barcelona",
+          "modified": "Cropped/resized to WebP; adapted image remains under stated Creative Commons license.",
+          "review": "The Commons file name and photo description identify this cocktail; review actual crop in generated contact sheet.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "french-75": {
+      "candidates": [
+        {
+          "id": "commons-french-75",
+          "source": "Wikimedia Commons · https://www.flickr.com/people/garyjwood/",
+          "sourceTitle": "File:French 75.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:French_75.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/French_75.jpg/1920px-French_75.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/French_75.jpg/1920px-French_75.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/French_75.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "artist": "https://www.flickr.com/people/garyjwood/",
+          "credit": "https://www.flickr.com/photos/garyjwood/5997007332/",
+          "sourceWidth": 3456,
+          "sourceHeight": 5184,
+          "description": "French 75 cocktail",
+          "modified": "Cropped/resized to WebP; adapted image remains under stated Creative Commons license.",
+          "review": "The Commons file name and photo description identify this cocktail; review actual crop in generated contact sheet.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "moscow-mule": {
+      "candidates": [
+        {
+          "id": "commons-moscow-mule",
+          "source": "Wikimedia Commons · Gordito1869",
+          "sourceTitle": "File:Cocktail Moscow Mule im Kupferbecher mit Minze.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg/1920px-Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg/1920px-Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Cocktail_Moscow_Mule_im_Kupferbecher_mit_Minze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Gordito1869",
+          "credit": "Own work",
+          "sourceWidth": 3003,
+          "sourceHeight": 3029,
+          "description": "Cocktail Moscow mule",
+          "modified": "Cropped/resized to WebP; adapted image remains under stated Creative Commons license.",
+          "review": "The Commons file name and photo description identify this cocktail; review actual crop in generated contact sheet.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "sex-on-the-beach": {
+      "candidates": [
+        {
+          "id": "commons-sex-on-the-beach",
+          "source": "Wikimedia Commons · RegionVisitor90",
+          "sourceTitle": "File:Sex On The Beach Cocktail @ Clare Hotel 20250123-124727.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sex_On_The_Beach_Cocktail_@_Clare_Hotel_20250123-124727.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sex_On_The_Beach_Cocktail_%40_Clare_Hotel_20250123-124727.jpg/1920px-Sex_On_The_Beach_Cocktail_%40_Clare_Hotel_20250123-124727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sex_On_The_Beach_Cocktail_%40_Clare_Hotel_20250123-124727.jpg/1920px-Sex_On_The_Beach_Cocktail_%40_Clare_Hotel_20250123-124727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sex_On_The_Beach_Cocktail_%40_Clare_Hotel_20250123-124727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "artist": "RegionVisitor90",
+          "credit": "Own work",
+          "sourceWidth": 2184,
+          "sourceHeight": 3250,
+          "description": "Sex On The Beach cocktail containing vodka, peach schnapps, orange juice, cranberry juice and pineapple juice",
+          "modified": "Cropped/resized to WebP; adapted image remains under stated Creative Commons license.",
+          "review": "The Commons file name and photo description identify this cocktail; review actual crop in generated contact sheet.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "clover-club": {
+      "candidates": [
+        {
+          "id": "commons-clover-club",
+          "source": "Wikimedia Commons · Will Shenton",
+          "sourceTitle": "File:Clover Club.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clover_Club.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Clover_Club.jpg/1920px-Clover_Club.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Clover_Club.jpg/1920px-Clover_Club.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Clover_Club.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Will Shenton",
+          "credit": "https://bevvy.co/cocktail/clover-club-cocktail/spr",
+          "sourceWidth": 3456,
+          "sourceHeight": 3456,
+          "description": "A Clover Club cocktail served at Rye in San Francisco, CA",
+          "modified": "Cropped/resized to WebP; adapted image remains under stated Creative Commons license.",
+          "review": "The Commons file name and photo description identify this cocktail; review actual crop in generated contact sheet.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
     }
   }
 }
