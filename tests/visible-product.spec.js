@@ -58,10 +58,10 @@ test("refresh requests web and publisher photo catalogs without erasing a recipe
 test("switching published versions preserves the cocktail and active tab", async ({ page }) => {
   await page.goto("/#movies");
   await page.locator('.movie-card[data-recipe="manhattan"]').click();
-  const tabs = page.locator(".version-tab");
+  const picker = page.locator("#versionSelect");
   await expect(page.locator(".detail-copy h1")).toHaveText("Manhattan");
-  await expect(tabs.filter({ hasText: "Simple Manhattan" }).first()).toHaveAttribute("aria-selected", "true");
-  await tabs.filter({ hasText: "Essential Cocktail Book" }).click();
-  await expect(tabs.filter({ hasText: "Essential Cocktail Book" })).toHaveAttribute("aria-selected", "true");
+  await expect(picker.locator("option:checked")).toHaveText("Simple Manhattan");
+  await picker.selectOption({ label: "Essential Cocktail Book" });
+  await expect(picker.locator("option:checked")).toHaveText("Essential Cocktail Book");
   await expect(page.locator(".ingredient-table")).toBeVisible();
 });
