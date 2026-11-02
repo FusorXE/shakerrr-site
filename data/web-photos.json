@@ -1043,7 +1043,7 @@
           "sourceTitle": "File:Corpse Reviver 2.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corpse_Reviver_2.jpg",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Corpse_Reviver_2.jpg",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/5/51/Corpse_Reviver_2.jpg",
+          "path": "assets/recipes/web/corpse-reviver-2.webp",
           "license": "CC BY-SA 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
           "artist": "Will Shenton",
@@ -1052,7 +1052,9 @@
           "description": "Photograph of the named cocktail: corpse reviver 2",
           "modified": "Cropped and optimized to portrait WebP for Shakerrr",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -1271,7 +1273,7 @@
           "sourceTitle": "File:Glass of eggnog with cinnamon 01.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glass_of_eggnog_with_cinnamon_01.jpg",
           "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Glass_of_eggnog_with_cinnamon_01.jpg",
-          "path": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Glass_of_eggnog_with_cinnamon_01.jpg",
+          "path": "assets/recipes/web/eggnog.webp",
           "license": "CC BY 2.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
           "artist": "Wheeler Cowperthwaite",
@@ -1280,7 +1282,9 @@
           "description": "Photograph of the named cocktail: eggnog",
           "modified": "Cropped and optimized to portrait WebP for Shakerrr",
           "available": true,
-          "status": "web-curated"
+          "status": "web-curated",
+          "width": 1200,
+          "height": 1500
         }
       ]
     }

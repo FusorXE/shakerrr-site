@@ -1,15 +1,4 @@
 {
-  "failures": [
-    {
-      "recipeId": "corpse-reviver-2",
-      "error": "HTTP Error 400: Use thumbnail sizes listed on https://w.wiki/GHai",
-      "image": "https://commons.wikimedia.org/wiki/File:Corpse_Reviver_2.jpg"
-    },
-    {
-      "recipeId": "eggnog",
-      "error": "HTTP Error 400: Use thumbnail sizes listed on https://w.wiki/GHai",
-      "image": "https://commons.wikimedia.org/wiki/File:Glass_of_eggnog_with_cinnamon_01.jpg"
-    }
-  ],
-  "processed": 12
+  "failures": [],
+  "processed": 2
 }
