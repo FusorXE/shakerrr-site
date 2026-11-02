@@ -965,6 +965,300 @@
           "height": 1500
         }
       ]
+    },
+    "airmail": {
+      "candidates": [
+        {
+          "id": "commons-airmail",
+          "source": "Wikimedia Commons · Matthias Friedlein",
+          "sourceTitle": "File:Air Mail Cocktail.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Air_Mail_Cocktail.png",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Air_Mail_Cocktail.png/1920px-Air_Mail_Cocktail.png",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Air_Mail_Cocktail.png/1920px-Air_Mail_Cocktail.png",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "artist": "Matthias Friedlein",
+          "sourceWidth": 2703,
+          "sourceHeight": 4053,
+          "description": "Photograph of the named cocktail: airmail",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "brooklyn": {
+      "candidates": [
+        {
+          "id": "commons-brooklyn",
+          "source": "Wikimedia Commons · John Phelan",
+          "sourceTitle": "File:Brooklyn cocktail, The Post Brewing Co, Boulder CO.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brooklyn_cocktail%2C_The_Post_Brewing_Co%2C_Boulder_CO.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Brooklyn_cocktail%2C_The_Post_Brewing_Co%2C_Boulder_CO.jpg/1920px-Brooklyn_cocktail%2C_The_Post_Brewing_Co%2C_Boulder_CO.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Brooklyn_cocktail%2C_The_Post_Brewing_Co%2C_Boulder_CO.jpg/1920px-Brooklyn_cocktail%2C_The_Post_Brewing_Co%2C_Boulder_CO.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "artist": "John Phelan",
+          "sourceWidth": 4032,
+          "sourceHeight": 3024,
+          "description": "Photograph of the named cocktail: brooklyn",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "caesar": {
+      "candidates": [
+        {
+          "id": "commons-caesar",
+          "source": "Wikimedia Commons · AirIntake",
+          "sourceTitle": "File:Caesar Cocktail.JPG",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caesar_Cocktail.JPG",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Caesar_Cocktail.JPG/1920px-Caesar_Cocktail.JPG",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Caesar_Cocktail.JPG/1920px-Caesar_Cocktail.JPG",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "artist": "AirIntake",
+          "sourceWidth": 3147,
+          "sourceHeight": 2596,
+          "description": "Photograph of the named cocktail: caesar",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "corpse-reviver-2": {
+      "candidates": [
+        {
+          "id": "commons-corpse-reviver-2",
+          "source": "Wikimedia Commons · Will Shenton",
+          "sourceTitle": "File:Corpse Reviver 2.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corpse_Reviver_2.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Corpse_Reviver_2.jpg/2048px-Corpse_Reviver_2.jpg",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Corpse_Reviver_2.jpg/2048px-Corpse_Reviver_2.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "artist": "Will Shenton",
+          "sourceWidth": 3352,
+          "sourceHeight": 3352,
+          "description": "Photograph of the named cocktail: corpse reviver 2",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "corpse-reviver-no-2": {
+      "candidates": [
+        {
+          "id": "commons-corpse-reviver-no-2",
+          "source": "Wikimedia Commons · Adrian Scottow",
+          "sourceTitle": "File:Corpse Reviver -2.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corpse_Reviver_-2.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Corpse_Reviver_-2.jpg/3840px-Corpse_Reviver_-2.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Corpse_Reviver_-2.jpg/3840px-Corpse_Reviver_-2.jpg",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "artist": "Adrian Scottow",
+          "sourceWidth": 5472,
+          "sourceHeight": 3648,
+          "description": "Photograph of the named cocktail: corpse reviver no 2",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "dark-and-stormy": {
+      "candidates": [
+        {
+          "id": "commons-dark-and-stormy",
+          "source": "Wikimedia Commons · Will Shenton",
+          "sourceTitle": "File:Dark 'N' Stormy.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dark_'N'_Stormy.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Dark_%27N%27_Stormy.jpg/3840px-Dark_%27N%27_Stormy.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Dark_%27N%27_Stormy.jpg/3840px-Dark_%27N%27_Stormy.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "artist": "Will Shenton",
+          "sourceWidth": 5184,
+          "sourceHeight": 3456,
+          "description": "Photograph of the named cocktail: dark and stormy",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "dark-n-stormy": {
+      "candidates": [
+        {
+          "id": "commons-dark-n-stormy",
+          "source": "Wikimedia Commons · Mad City Bastard",
+          "sourceTitle": "File:Dark n Stormy.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dark_n_Stormy.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Dark_n_Stormy.jpg",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/0/00/Dark_n_Stormy.jpg",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "artist": "Mad City Bastard",
+          "sourceWidth": 2016,
+          "sourceHeight": 3024,
+          "description": "Photograph of the named cocktail: dark n stormy",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "boulevardier": {
+      "candidates": [
+        {
+          "id": "commons-boulevardier",
+          "source": "Wikimedia Commons · Paul Lowry",
+          "sourceTitle": "File:Boulevardier in Baton Rouge.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boulevardier_in_Baton_Rouge.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Boulevardier_in_Baton_Rouge.jpg/1920px-Boulevardier_in_Baton_Rouge.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Boulevardier_in_Baton_Rouge.jpg/1920px-Boulevardier_in_Baton_Rouge.jpg",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "artist": "Paul Lowry",
+          "sourceWidth": 3060,
+          "sourceHeight": 4080,
+          "description": "Photograph of the named cocktail: boulevardier",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "cuba-libre": {
+      "candidates": [
+        {
+          "id": "commons-cuba-libre",
+          "source": "Wikimedia Commons · Alcastaro",
+          "sourceTitle": "File:Bebida Cuba Libre.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bebida_Cuba_Libre.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bebida_Cuba_Libre.jpg/1920px-Bebida_Cuba_Libre.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bebida_Cuba_Libre.jpg/1920px-Bebida_Cuba_Libre.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "artist": "Alcastaro",
+          "sourceWidth": 2988,
+          "sourceHeight": 5312,
+          "description": "Photograph of the named cocktail: cuba libre",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "el-presidente": {
+      "candidates": [
+        {
+          "id": "commons-el-presidente",
+          "source": "Wikimedia Commons · Cocktailmarler",
+          "sourceTitle": "File:El Presidente Cocktail.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Presidente_Cocktail.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/El_Presidente_Cocktail.jpg/1920px-El_Presidente_Cocktail.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/El_Presidente_Cocktail.jpg/1920px-El_Presidente_Cocktail.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "artist": "Cocktailmarler",
+          "sourceWidth": 2636,
+          "sourceHeight": 3954,
+          "description": "Photograph of the named cocktail: el presidente",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "champagne-cocktail": {
+      "candidates": [
+        {
+          "id": "commons-champagne-cocktail",
+          "source": "Wikimedia Commons · Melvin Loi",
+          "sourceTitle": "File:Champagne Cocktail (51022805492).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Champagne_Cocktail_(51022805492).jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Champagne_Cocktail_%2851022805492%29.jpg/1920px-Champagne_Cocktail_%2851022805492%29.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Champagne_Cocktail_%2851022805492%29.jpg/1920px-Champagne_Cocktail_%2851022805492%29.jpg",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "artist": "Melvin Loi",
+          "sourceWidth": 3312,
+          "sourceHeight": 4968,
+          "description": "Photograph of the named cocktail: champagne cocktail",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "canelazo": {
+      "candidates": [
+        {
+          "id": "commons-canelazo",
+          "source": "Wikimedia Commons · momentcaptured1",
+          "sourceTitle": "File:Canelazo.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canelazo.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Canelazo.jpg",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Canelazo.jpg",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "artist": "momentcaptured1",
+          "sourceWidth": 1482,
+          "sourceHeight": 1589,
+          "description": "Photograph of the named cocktail: canelazo",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "cantarito": {
+      "candidates": [
+        {
+          "id": "commons-cantarito",
+          "source": "Wikimedia Commons · Photo.MarioVG",
+          "sourceTitle": "File:Cantarito.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cantarito.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Cantarito.jpg/1920px-Cantarito.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Cantarito.jpg/1920px-Cantarito.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "artist": "Photo.MarioVG",
+          "sourceWidth": 3472,
+          "sourceHeight": 4624,
+          "description": "Photograph of the named cocktail: cantarito",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "eggnog": {
+      "candidates": [
+        {
+          "id": "commons-eggnog",
+          "source": "Wikimedia Commons · Wheeler Cowperthwaite",
+          "sourceTitle": "File:Glass of eggnog with cinnamon 01.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glass_of_eggnog_with_cinnamon_01.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Glass_of_eggnog_with_cinnamon_01.jpg/2560px-Glass_of_eggnog_with_cinnamon_01.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Glass_of_eggnog_with_cinnamon_01.jpg/2560px-Glass_of_eggnog_with_cinnamon_01.jpg",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "artist": "Wheeler Cowperthwaite",
+          "sourceWidth": 3888,
+          "sourceHeight": 2592,
+          "description": "Photograph of the named cocktail: eggnog",
+          "modified": "Cropped and optimized to portrait WebP for Shakerrr",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
     }
   }
 }
