@@ -6,6 +6,7 @@ on:
       - "data/web-photos.json"
       - "scripts/persist-web-photos.py"
       - "scripts/build-photo-review.py"
+      - "scripts/audit-web-photo-coverage.mjs"
       - ".github/workflows/persist-web-photos.yml"
   workflow_dispatch:
 permissions:
@@ -20,6 +21,9 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -29,9 +33,11 @@ jobs:
         run: python scripts/persist-web-photos.py
       - name: Generate image review contact sheets
         run: python scripts/build-photo-review.py
+      - name: Audit real recipe card image coverage
+        run: node scripts/audit-web-photo-coverage.mjs
       - name: Commit and push optimized actual image binaries
         run: |
-          git add data/web-photos.json data/web-photo-download-failures.json assets/recipes/web/ assets/review/
+          git add data/web-photos.json data/web-photo-download-failures.json data/web-photo-coverage.json assets/recipes/web/ assets/review/
           if git diff --cached --quiet; then
             echo "No new binary files to commit"
             exit 0
