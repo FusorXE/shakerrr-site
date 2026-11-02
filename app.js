@@ -1582,7 +1582,7 @@ async function loadPhoto(id, img) {
     if (credit) {
       credit.textContent = current.credit;
       for (const [link, label, allowed] of [
-        [current.sourceUrl, "Photo source", ["commons.wikimedia.org", "www.pexels.com", "www.thecocktaildb.com"]],
+        [current.sourceUrl, "Photo source", ["commons.wikimedia.org", "www.pexels.com", "www.thecocktaildb.com", "en.wikipedia.org"]],
         [current.licenseUrl, "License", ["creativecommons.org", "www.pexels.com"]],
       ]) {
         if (!link) continue;
