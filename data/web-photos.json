@@ -126,7 +126,7 @@
         {
           "id": "pexels-15813473",
           "source": "Pexels · Dextar Studio ™",
-          "path": "https://images.pexels.com/photos/15813473/pexels-photo-15813473.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/paloma.webp",
           "originalUrl": "https://images.pexels.com/photos/15813473/pexels-photo-15813473.jpeg?auto=compress&cs=tinysrgb&w=1600",
           "sourceUrl": "https://www.pexels.com/photo/15813473/",
           "sourceTitle": "Paloma Drink on a Bar Counter",
@@ -137,7 +137,9 @@
           "sourceHeight": 4672,
           "available": true,
           "status": "web-curated",
-          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected.",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -146,7 +148,7 @@
         {
           "id": "pexels-10986578",
           "source": "Pexels · Shameel mukkath",
-          "path": "https://images.pexels.com/photos/10986578/pexels-photo-10986578.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/pina-colada.webp",
           "originalUrl": "https://images.pexels.com/photos/10986578/pexels-photo-10986578.jpeg?auto=compress&cs=tinysrgb&w=1600",
           "sourceUrl": "https://www.pexels.com/photo/10986578/",
           "sourceTitle": "A Glass of Pina Colada",
@@ -157,7 +159,9 @@
           "sourceHeight": 6720,
           "available": true,
           "status": "web-curated",
-          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected.",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -166,7 +170,7 @@
         {
           "id": "pexels-7376803",
           "source": "Pexels · Arina Krasnikova",
-          "path": "https://images.pexels.com/photos/7376803/pexels-photo-7376803.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/bloody-mary.webp",
           "originalUrl": "https://images.pexels.com/photos/7376803/pexels-photo-7376803.jpeg?auto=compress&cs=tinysrgb&w=1600",
           "sourceUrl": "https://www.pexels.com/photo/7376803/",
           "sourceTitle": "A Close-Up Shot of a Bloody Mary",
@@ -177,7 +181,9 @@
           "sourceHeight": 2670,
           "available": true,
           "status": "web-curated",
-          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected.",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -186,7 +192,7 @@
         {
           "id": "pexels-32435286",
           "source": "Pexels · Rafaela Freire",
-          "path": "https://images.pexels.com/photos/32435286/pexels-photo-32435286.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/caipirinha.webp",
           "originalUrl": "https://images.pexels.com/photos/32435286/pexels-photo-32435286.jpeg?auto=compress&cs=tinysrgb&w=1600",
           "sourceUrl": "https://www.pexels.com/photo/32435286/",
           "sourceTitle": "Refreshing Brazilian Caipirinha Cocktail",
@@ -197,7 +203,9 @@
           "sourceHeight": 6224,
           "available": true,
           "status": "web-curated",
-          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected.",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -206,7 +214,7 @@
         {
           "id": "pexels-7216002",
           "source": "Pexels · Damir Mijailovic",
-          "path": "https://images.pexels.com/photos/7216002/pexels-photo-7216002.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/martini.webp",
           "originalUrl": "https://images.pexels.com/photos/7216002/pexels-photo-7216002.jpeg?auto=compress&cs=tinysrgb&w=1600",
           "sourceUrl": "https://www.pexels.com/photo/7216002/",
           "sourceTitle": "Martini with Olives in Glass on Table",
@@ -217,7 +225,9 @@
           "sourceHeight": 3741,
           "available": true,
           "status": "web-curated",
-          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected.",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -226,7 +236,7 @@
         {
           "id": "pexels-18354022",
           "source": "Pexels · Stephen Leonardi",
-          "path": "https://images.pexels.com/photos/18354022/pexels-photo-18354022.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/mint-julep.webp",
           "originalUrl": "https://images.pexels.com/photos/18354022/pexels-photo-18354022.jpeg?auto=compress&cs=tinysrgb&w=1600",
           "sourceUrl": "https://www.pexels.com/photo/18354022/",
           "sourceTitle": "Ice and Straw in Cocktail in Silver Cup",
@@ -237,7 +247,9 @@
           "sourceHeight": 4800,
           "available": true,
           "status": "web-curated",
-          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected.",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -246,7 +258,7 @@
         {
           "id": "pexels-8679426",
           "source": "Pexels · Timur Weber",
-          "path": "https://images.pexels.com/photos/8679426/pexels-photo-8679426.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/tequila-sunrise.webp",
           "originalUrl": "https://images.pexels.com/photos/8679426/pexels-photo-8679426.jpeg?auto=compress&cs=tinysrgb&w=1600",
           "sourceUrl": "https://www.pexels.com/photo/8679426/",
           "sourceTitle": "Tequila Sunrise with Lemon and Orange Slices",
@@ -257,7 +269,9 @@
           "sourceHeight": 4500,
           "available": true,
           "status": "web-curated",
-          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected.",
+          "width": 1200,
+          "height": 1500
         }
       ]
     },
@@ -266,7 +280,7 @@
         {
           "id": "pexels-1772974",
           "source": "Pexels · Sabel Blanco",
-          "path": "https://images.pexels.com/photos/1772974/pexels-photo-1772974.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "path": "assets/recipes/web/mimosa.webp",
           "originalUrl": "https://images.pexels.com/photos/1772974/pexels-photo-1772974.jpeg?auto=compress&cs=tinysrgb&w=1600",
           "sourceUrl": "https://www.pexels.com/photo/1772974/",
           "sourceTitle": "Mimosa Drink on a Champagne Glass",
@@ -277,7 +291,9 @@
           "sourceHeight": 4050,
           "available": true,
           "status": "web-curated",
-          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected."
+          "review": "Exact cocktail name and presentation supported by Pexels photo-page description; source individually selected.",
+          "width": 1200,
+          "height": 1500
         }
       ]
     }
