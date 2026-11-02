@@ -498,7 +498,7 @@ function wireGlobal() {
     $("#unitBtn").textContent = state.unit;
     $("#unitBtn").setAttribute("aria-label", "Units: " + state.unit + ". Switch to " + (state.unit === "oz" ? "milliliters" : "ounces"));
     // Do not try rendering a recipe when viewing other sections.
-    if (state.current && $("#versionPane")) renderVersion(state.versionIndex);
+    if (state.current && $("#versionPane")) renderVersion(state.versionIndex, { skipPhoto: true });
   });
   $("#toolsBtn").addEventListener("click", openDrawer);
   window.addEventListener("hashchange", () => {
@@ -787,7 +787,7 @@ function renderVersions(r) {
   });
   renderVersion(Math.min(state.versionIndex || 0, vs.length - 1));
 }
-function renderVersion(i) {
+function renderVersion(i, { skipPhoto = false } = {}) {
   const r = state.byId.get(state.current),
     v = allVersions(r)[i];
   if (!v) return;
@@ -804,7 +804,7 @@ function renderVersion(i) {
   if (v.mine || v.addsocial) {
     pane.innerHTML = recipeForm(v, !!v.addsocial);
     const img = $(".detail-photo img");
-    if (img) loadPhoto(r.id, img);
+    if (img && !skipPhoto) loadPhoto(r.id, img);
     return;
   }
   const note = v.type === "Social" ? v.note : publishedNote(v.note);
@@ -823,7 +823,7 @@ function renderVersion(i) {
       "",
     )}${v.photo && /^data:image\/(png|jpeg|webp);base64,/.test(v.photo) ? `<img class="version-photo" src="${attr(v.photo)}" alt="Personal version photograph">` : ""}</div>`;
   const img = $(".detail-photo img");
-  if (img) loadPhoto(r.id, img);
+  if (img && !skipPhoto) loadPhoto(r.id, img);
 }
 function renderBooks() {
   const groups = {};
