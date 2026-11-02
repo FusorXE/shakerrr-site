@@ -71,7 +71,7 @@ def get_images(name):
         "gsrnamespace": "6", "gsrlimit": "12",
         "gsrsearch": '"' + name.replace('"', "") + '" ' + ("cocktail " if clean(name) in AMBIGUOUS else "") + "filetype:bitmap",
         "prop": "imageinfo", "iiprop": "url|size|mime|extmetadata",
-        "iiurlwidth": "540",
+        "iiurlwidth": "1800",
     }
     url = API + "?" + urllib.parse.urlencode(args)
     request = urllib.request.Request(url, headers={
