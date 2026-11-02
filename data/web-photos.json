@@ -350,25 +350,22 @@
     "manhattan": {
       "candidates": [
         {
-          "id": "commons-manhattan",
-          "source": "Wikimedia Commons · Matthias Friedlein ( www.augustine-bar.de )",
-          "path": "assets/recipes/web/manhattan.webp",
-          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Manhattan_%28cocktail%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manhattan_(cocktail).png",
-          "sourceTitle": "File:Manhattan (cocktail).png",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "artist": "Matthias Friedlein ( www.augustine-bar.de )",
-          "credit": "uploaded on behalf of the creator / hochgeladen im Auftrag des Urhebers",
-          "description": "Manhattan (cocktail), garnished with brandied cherries.",
-          "sourceWidth": 2703,
-          "sourceHeight": 4053,
-          "modified": "Cropped and resized to 1200×1500 WebP; adapted image distributed under original CC license.",
-          "review": "Exact cocktail identity supported by source filename/description and Commons file page; subject-specific match. Not a reference-book photo.",
+          "id": "commons-manhattan-replacement",
+          "source": "Wikimedia Commons · Melvin Loi",
+          "sourceTitle": "File:Manhattan cocktail (52272444825).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manhattan_cocktail_(52272444825).jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Manhattan_cocktail_%2852272444825%29.jpg/1920px-Manhattan_cocktail_%2852272444825%29.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Manhattan_cocktail_%2852272444825%29.jpg/1920px-Manhattan_cocktail_%2852272444825%29.jpg",
+          "artist": "Melvin Loi",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "description": "Manhattan cocktail in darker editorial bar scene; replacing blown-out cocktail image",
+          "sourceWidth": 3394,
+          "sourceHeight": 5091,
+          "modified": "Cropped and resized to 1200×1500 WebP; attribution and ShareAlike license retained.",
+          "review": "Visual contact-sheet audit rejected previous image as an inferior composition; updated replacement is a named cocktail photo under verified Commons license.",
           "available": true,
-          "status": "web-curated",
-          "width": 1200,
-          "height": 1500
+          "status": "web-curated"
         }
       ]
     },
@@ -706,26 +703,22 @@
     "agua-de-valencia": {
       "candidates": [
         {
-          "id": "commons-agua-de-valencia",
-          "source": "Wikimedia Commons · James West  from UK",
-          "sourceTitle": "File:Agua de Valencia (49903591358).jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agua_de_Valencia_(49903591358).jpg",
-          "path": "assets/recipes/web/agua-de-valencia.webp",
-          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Agua_de_Valencia_%2849903591358%29.jpg/1920px-Agua_de_Valencia_%2849903591358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "fullImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Agua_de_Valencia_%2849903591358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "id": "commons-agua-de-valencia-replacement",
+          "source": "Wikimedia Commons · James West",
+          "sourceTitle": "File:Agua de Valencia - 49904410267.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agua_de_Valencia_-_49904410267.jpg",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Agua_de_Valencia_-_49904410267.jpg/1978px-Agua_de_Valencia_-_49904410267.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Agua_de_Valencia_-_49904410267.jpg/1978px-Agua_de_Valencia_-_49904410267.jpg",
+          "artist": "James West",
           "license": "CC BY-SA 2.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-          "artist": "James West  from UK",
-          "credit": "Agua de Valencia",
-          "description": "Sugar, vodka, gin, cava and orange juice make up this delicious Spanish cocktail.",
-          "sourceWidth": 3024,
-          "sourceHeight": 4032,
-          "modified": "Cropped/resized to WebP; attribution and share-alike terms retained.",
-          "review": "Exact Agua de Valencia cocktail in title and ingredients description, licensed Commons photo.",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "description": "Foamy Agua de Valencia cocktail with fresh citrus; replacing prior jug photograph",
+          "sourceWidth": 2869,
+          "sourceHeight": 2970,
+          "modified": "Cropped and resized to 1200×1500 WebP; attribution and ShareAlike license retained.",
+          "review": "Visual contact-sheet audit rejected previous image as an inferior composition; updated replacement is a named cocktail photo under verified Commons license.",
           "available": true,
-          "status": "web-curated",
-          "width": 1200,
-          "height": 1500
+          "status": "web-curated"
         }
       ]
     },
@@ -948,24 +941,22 @@
     "last-word": {
       "candidates": [
         {
-          "id": "commons-last-word",
-          "source": "Wikimedia Commons · Cocktailmarler",
-          "sourceTitle": "File:Last Word.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Last_Word.jpg",
-          "path": "assets/recipes/web/last-word.webp",
-          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Last_Word.jpg/1920px-Last_Word.jpg",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-          "artist": "Cocktailmarler",
-          "description": "Classic gin, Chartreuse and maraschino Last Word cocktail",
-          "sourceWidth": 2651,
-          "sourceHeight": 3977,
-          "modified": "Cropped and resized as WebP, original Creative Commons license retained.",
-          "review": "Photo and copyright metadata checked on the original Wikimedia Commons file page.",
+          "id": "commons-last-word-replacement",
+          "source": "Wikimedia Commons · Don LaVange",
+          "sourceTitle": "File:The Last Word cocktail raised.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Last_Word_cocktail_raised.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/The_Last_Word_cocktail_raised.jpg/1280px-The_Last_Word_cocktail_raised.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/The_Last_Word_cocktail_raised.jpg/1280px-The_Last_Word_cocktail_raised.jpg",
+          "artist": "Don LaVange",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "description": "Finished Last Word cocktail raised to the light, not an ingredient-bottle photograph",
+          "sourceWidth": 3872,
+          "sourceHeight": 2592,
+          "modified": "Cropped and resized to 1200×1500 WebP; attribution and ShareAlike license retained.",
+          "review": "Visual contact-sheet audit rejected previous image as an inferior composition; updated replacement is a named cocktail photo under verified Commons license.",
           "available": true,
-          "status": "web-curated",
-          "width": 1200,
-          "height": 1500
+          "status": "web-curated"
         }
       ]
     }
