@@ -170,7 +170,7 @@ def run(offset, limit, output):
             "recipeId": recipe["id"], "recipeName": recipe["name"],
             "choices": matches[:5],
         })
-        time.sleep(0.5)  # Respect Wikimedia API request cadence.
+        time.sleep(0.9)  # Respect Wikimedia API request cadence.
     payload = {
         "source": "Wikimedia Commons API", "status": "research-only",
         "policy": "NOT approved for website display. Confirm cocktail, crop, license, attribution before publishing.",
@@ -190,9 +190,9 @@ def run(offset, limit, output):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--offset", type=int, default=0)
-    parser.add_argument("--limit", type=int, default=12)
+    parser.add_argument("--limit", type=int, default=40)
     parser.add_argument("--output", default="data/commons-image-review.json")
     args = parser.parse_args()
-    if args.offset < 0 or not 1 <= args.limit <= 25:
-        parser.error("offset must be nonnegative and limit 1..25")
+    if args.offset < 0 or not 1 <= args.limit <= 60:
+        parser.error("offset must be nonnegative and limit 1..60")
     run(args.offset, args.limit, args.output)
