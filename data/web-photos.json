@@ -728,6 +728,138 @@
           "height": 1500
         }
       ]
+    },
+    "bees-knees": {
+      "candidates": [
+        {
+          "id": "commons-bees-knees",
+          "source": "Wikimedia Commons · Will Shenton",
+          "sourceTitle": "File:Bee's Knees.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bee's_Knees.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Bee%27s_Knees.jpg/1280px-Bee%27s_Knees.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Bee%27s_Knees.jpg/1280px-Bee%27s_Knees.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "artist": "Will Shenton",
+          "description": "Bee's Knees cocktail with gin, honey syrup and lemon juice",
+          "sourceWidth": 3456,
+          "sourceHeight": 3456,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image retains original license.",
+          "review": "Exact named cocktail and licensed file source verified on Wikimedia Commons; visual crop subject to contact-sheet QC.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "bellini": {
+      "candidates": [
+        {
+          "id": "commons-bellini",
+          "source": "Wikimedia Commons · crazybobbles",
+          "sourceTitle": "File:Bellini at Harry's Bar.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bellini_at_Harry's_Bar.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Bellini_at_Harry%27s_Bar.jpg/3840px-Bellini_at_Harry%27s_Bar.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Bellini_at_Harry%27s_Bar.jpg/3840px-Bellini_at_Harry%27s_Bar.jpg",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "artist": "crazybobbles",
+          "description": "Bellini cocktail photographed at Harry's Bar, Venice",
+          "sourceWidth": 5134,
+          "sourceHeight": 3422,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image retains original license.",
+          "review": "Exact named cocktail and licensed file source verified on Wikimedia Commons; visual crop subject to contact-sheet QC.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "sazerac": {
+      "candidates": [
+        {
+          "id": "commons-sazerac",
+          "source": "Wikimedia Commons · Will Shenton",
+          "sourceTitle": "File:Sazerac Cocktail.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sazerac_Cocktail.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Sazerac_Cocktail.jpg/1280px-Sazerac_Cocktail.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Sazerac_Cocktail.jpg/1280px-Sazerac_Cocktail.jpg",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "artist": "Will Shenton",
+          "description": "Sazerac cocktail at Rye Bar, San Francisco",
+          "sourceWidth": 3335,
+          "sourceHeight": 3335,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image retains original license.",
+          "review": "Exact named cocktail and licensed file source verified on Wikimedia Commons; visual crop subject to contact-sheet QC.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "blood-and-sand": {
+      "candidates": [
+        {
+          "id": "commons-blood-and-sand",
+          "source": "Wikimedia Commons · Cocktailmarler",
+          "sourceTitle": "File:Blood and Sand.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blood_and_Sand.jpg",
+          "path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Blood_and_Sand.jpg/1920px-Blood_and_Sand.jpg",
+          "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Blood_and_Sand.jpg/1920px-Blood_and_Sand.jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "artist": "Cocktailmarler",
+          "description": "Classic Blood and Sand cocktail with cocktail cherries",
+          "sourceWidth": 2645,
+          "sourceHeight": 3968,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image retains original license.",
+          "review": "Exact named cocktail and licensed file source verified on Wikimedia Commons; visual crop subject to contact-sheet QC.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "bijou": {
+      "candidates": [
+        {
+          "id": "commons-bijou",
+          "source": "Wikimedia Commons · Chris Palmer",
+          "sourceTitle": "File:Bijou Cocktail.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bijou_Cocktail.jpg",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bijou_Cocktail.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bijou_Cocktail.jpg",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "artist": "Chris Palmer",
+          "description": "Bijou cocktail in glass",
+          "sourceWidth": 2028,
+          "sourceHeight": 2472,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image retains original license.",
+          "review": "Exact named cocktail and licensed file source verified on Wikimedia Commons; visual crop subject to contact-sheet QC.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
+    },
+    "pisco-sour": {
+      "candidates": [
+        {
+          "id": "commons-pisco-sour",
+          "source": "Wikimedia Commons · Bart Everson",
+          "sourceTitle": "File:Pisco Sour Cocktail.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pisco_Sour_Cocktail.jpg",
+          "path": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pisco_Sour_Cocktail.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pisco_Sour_Cocktail.jpg",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "artist": "Bart Everson",
+          "description": "Pisco Sour variation photographed by Bart Everson",
+          "sourceWidth": 1960,
+          "sourceHeight": 3171,
+          "modified": "Cropped and resized to 1200×1500 WebP; adapted image retains original license.",
+          "review": "Exact named cocktail and licensed file source verified on Wikimedia Commons; visual crop subject to contact-sheet QC.",
+          "available": true,
+          "status": "web-curated"
+        }
+      ]
     }
   }
 }
