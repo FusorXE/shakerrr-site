@@ -37,5 +37,5 @@ for start in range(0, len(photos), 9):
             draw.text((x + 12, y + 80), "FAILED: " + recipe_id[:16], font=font,
                       fill="#ff7777")
     target = OUT / f"web-photos-{start // 9 + 1:02d}.jpg"
-    sheet.save(target, format="JPEG", quality=56, optimize=True)
+    sheet.save(target, format="JPEG", quality=29, optimize=True)
     print(f"Contact sheet: {target.relative_to(ROOT)} ({target.stat().st_size:,} bytes)")
