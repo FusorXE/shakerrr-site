@@ -22,6 +22,7 @@ const $ = (s, r = document) => r.querySelector(s),
   $$ = (s, r = document) => [...r.querySelectorAll(s)];
 const state = {
   recipes: [],
+  atlasExtras: [],
   byId: new Map(),
   page: "discover",
   prevPage: "cocktails",
@@ -289,6 +290,11 @@ const LABELS = {
 const REGION_BY_COUNTRY = {
   Argentina: "Latin America",
   Australia: "Oceania",
+  China: "East Asia",
+  Finland: "Northern Europe",
+  Greece: "Mediterranean",
+  Russia: "Eastern Europe",
+  Turkey: "Mediterranean",
   Barbados: "Caribbean",
   Bermuda: "Caribbean",
   Brazil: "Latin America",
@@ -321,6 +327,8 @@ const REGION_ORDER = [
   "North America",
   "Mediterranean",
   "Western Europe",
+  "Northern Europe",
+  "Eastern Europe",
   "East Asia",
   "Southeast Asia",
   "Oceania",
@@ -351,9 +359,17 @@ async function loadAdditionalVersions() {
     return {};
   }
 }
+async function loadAtlasExtras() {
+  try {
+    const response = await fetch("data/atlas-recipes.json");
+    return response.ok ? (await response.json()).recipes || [] : [];
+  } catch {
+    return [];
+  }
+}
 async function boot() {
   try {
-    const [recipes, world, webImages, publisherImages, additionalVersions] = await Promise.all([
+    const [recipes, world, webImages, publisherImages, additionalVersions, atlasExtras] = await Promise.all([
       ...["recipes", "world", "web-photos"].map(async (name) => {
         const r = await fetch(`data/${name}.json`);
         if (!r.ok) throw Error(name);
@@ -361,8 +377,10 @@ async function boot() {
       }),
       loadPublisherImages(),
       loadAdditionalVersions(),
+      loadAtlasExtras(),
     ]);
     state.recipes = recipes;
+    state.atlasExtras = atlasExtras;
     state.world = world;
     state.images = mergePublisherPhotos(publisherImages, webImages.byRecipe || {});
     state.additionalVersions = additionalVersions;
@@ -370,6 +388,9 @@ async function boot() {
     state.recipes.forEach((r) => {
       state.byId.set(r.id, r);
       r.searchIndex = searchText(r);
+    });
+    state.atlasExtras.forEach((recipe) => {
+      if (!state.byId.has(recipe.id)) state.byId.set(recipe.id, recipe);
     });
     buildNav();
     wireGlobal();
@@ -571,7 +592,7 @@ function displayAmt(a) {
 }
 function recipeCountByCountry() {
   const m = new Map();
-  state.recipes.forEach((r) => {
+  [...state.recipes, ...state.atlasExtras].forEach((r) => {
     if (r.country) {
       if (!m.has(r.country)) m.set(r.country, []);
       m.get(r.country).push(r);
@@ -710,7 +731,7 @@ function renderDetail(id) {
       )
       .join(
         "",
-      )}</div></div><div class="detail-copy"><div class="eyebrow">${esc([r.family, r.country, r.region].filter(Boolean).join(" · "))}</div><h1>${esc(r.name)}</h1><button class="mini-btn" data-action="fav" data-id="${id}" aria-label="Favourite">${state.favs.has(id) ? "♥" : "♡"}</button>${r.movie ? `<div class="note-box"><b>${esc(r.movie.film)} ${esc(r.movie.year || "")}</b>${esc(r.movie.fact || r.movie.context || "Book pairing; not a claim that the drink appears on screen.")}</div>` : ""}<div class="version-section"><h2>Recipe versions</h2><div id="versionMount"></div></div></div></div></div></section>`;
+      )}</div></div><div class="detail-copy"><div class="eyebrow">${esc([r.family, r.country, r.region].filter(Boolean).join(" · "))}</div><h1>${esc(r.name)}</h1>${r.geographyNote ? `<div class="note-box"><b>Geographic context</b>${esc(r.geographyNote)}</div>` : ""}<button class="mini-btn" data-action="fav" data-id="${id}" aria-label="Favourite">${state.favs.has(id) ? "♥" : "♡"}</button>${r.movie ? `<div class="note-box"><b>${esc(r.movie.film)} ${esc(r.movie.year || "")}</b>${esc(r.movie.fact || r.movie.context || "Book pairing; not a claim that the drink appears on screen.")}</div>` : ""}<div class="version-section"><h2>Recipe versions</h2><div id="versionMount"></div></div></div></div></div></section>`;
   renderVersions(r);
   hydratePhotos();
 }
