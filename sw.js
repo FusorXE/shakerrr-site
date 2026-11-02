@@ -1,4 +1,4 @@
-const CACHE = "shakerrr-v20261008-visible-photos";
+const CACHE = "shakerrr-v20261101-editorial-web-photos";
 const CORE = [
   "./",
   "./index.html",
@@ -8,12 +8,14 @@ const CORE = [
   "./src/storage.js",
   "./src/content.js",
   "./src/photos.js",
+  "./src/ingredient-overlay.js",
   "./src/catalog-model.js",
   "./src/catalog-bootstrap.js",
   "./data/recipes.json",
   "./data/collections.json",
   "./data/world.json",
   "./data/image-manifest.json",
+  "./data/web-photos.json",
   "./data/catalog-meta.json",
   "./manifest.webmanifest",
 ];
