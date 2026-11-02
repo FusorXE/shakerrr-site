@@ -119,6 +119,110 @@
           "verified": "publisher-recipe-page"
         }
       ]
+    },
+    "absinthe-frappe": {
+      "candidates": [
+        {
+          "title": "Absinthe Frappé",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/6/absinthe-frappe",
+          "path": "https://cdn.diffordsguide.com/cocktail/kA6LOn/default/0/512x.webp?v=1737701571",
+          "source": "Difford's Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe"
+        }
+      ]
+    },
+    "adonis": {
+      "candidates": [
+        {
+          "title": "Adonis",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/18/adonis",
+          "path": "https://cdn.diffordsguide.com/cocktail/XOd7r9/default/0/512x.webp?v=1737701571",
+          "source": "Difford's Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe"
+        }
+      ]
+    },
+    "bamboo": {
+      "candidates": [
+        {
+          "title": "Bamboo (Difford's 'Perfect' recipe)",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3388/bamboo-diffords-perfect-recipe",
+          "path": "https://cdn.diffordsguide.com/cocktail/Ov8bBA/default/0/512x.webp?v=1737701573",
+          "source": "Difford's Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe"
+        }
+      ]
+    },
+    "black-velvet": {
+      "candidates": [
+        {
+          "title": "Black Velvet",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/237/black-velvet",
+          "path": "https://cdn.diffordsguide.com/cocktail/jRB71A/default/0/512x.webp?v=1737701572",
+          "source": "Difford's Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe"
+        }
+      ]
+    },
+    "brown-derby": {
+      "candidates": [
+        {
+          "title": "Brown Derby",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3246/brown-derby",
+          "path": "https://cdn.diffordsguide.com/cocktail/RYkv0r/default/0/512x.webp?v=1737701591",
+          "source": "Difford's Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe"
+        }
+      ]
+    },
+    "gin-fizz": {
+      "candidates": [
+        {
+          "title": "Gin Fizz",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/840/gin-fizz",
+          "path": "https://cdn.diffordsguide.com/cocktail/ZAPK6R/default/0/512x.webp?v=1762164109",
+          "source": "Difford's Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe"
+        }
+      ]
+    },
+    "gin-rickey": {
+      "candidates": [
+        {
+          "title": "Gin Rickey",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1676/gin-rickey",
+          "path": "https://cdn.diffordsguide.com/cocktail/Gre90r/default/0/512x.webp?v=1737701579",
+          "source": "Difford's Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe"
+        }
+      ]
+    },
+    "gin-sour": {
+      "candidates": [
+        {
+          "title": "Gin Sour",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/845/gin-sour",
+          "path": "https://cdn.diffordsguide.com/cocktail/KO542r/default/1/512x.webp?v=1752228772",
+          "source": "Difford's Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe"
+        }
+      ]
     }
   },
   "stats": {
