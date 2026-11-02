@@ -12,9 +12,9 @@ on:
         type: number
         default: 0
       limit:
-        description: "Recipes to search (max 25); results require visual review"
+        description: "Recipes to search (max 60); results require visual review"
         type: number
-        default: 12
+        default: 40
 permissions:
   contents: write
 concurrency:
@@ -37,7 +37,7 @@ jobs:
       - name: Discover licensed and name-matched images
         env:
           OFFSET: ${{ inputs.offset || '0' }}
-          LIMIT: ${{ inputs.limit || '12' }}
+          LIMIT: ${{ inputs.limit || '40' }}
         run: |
           python scripts/discover-commons-photos.py --offset "$OFFSET" --limit "$LIMIT"
       - name: Commit review queue only, not public photos
