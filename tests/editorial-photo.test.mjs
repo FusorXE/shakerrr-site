@@ -28,7 +28,8 @@ test("new web catalog contains only reviewed Pexels website photos", () => {
       assert.equal(photo.available, true);
       assert.equal(photo.license, "Pexels License");
       assert.equal(new URL(photo.sourceUrl).hostname, "www.pexels.com");
-      assert.equal(new URL(photo.path).hostname, "images.pexels.com");
+      assert.equal(new URL(photo.originalUrl).hostname, "images.pexels.com");
+      assert.ok(photo.path.startsWith("assets/recipes/web/") || new URL(photo.path).hostname === "images.pexels.com");
       assert.ok(photo.source);
     }
   }
