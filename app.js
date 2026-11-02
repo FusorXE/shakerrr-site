@@ -323,10 +323,20 @@ const REGION_ORDER = [
   "Southeast Asia",
   "Oceania",
 ];
+function mergePhotoSources(bookImages = {}, webImages = {}) {
+  const merged = {};
+  for (const id of new Set([...Object.keys(bookImages), ...Object.keys(webImages)])) {
+    merged[id] = { candidates: [
+      ...(webImages[id]?.candidates || []),
+      ...(bookImages[id]?.candidates || []),
+    ] };
+  }
+  return merged;
+}
 async function boot() {
   try {
-    const [recipes, world, images] = await Promise.all(
-      ["recipes", "world", "web-photos"].map(async (name) => {
+    const [recipes, world, bookImages, webImages] = await Promise.all(
+      ["recipes", "world", "image-manifest", "web-photos"].map(async (name) => {
         const r = await fetch(`data/${name}.json`);
         if (!r.ok) throw Error(name);
         return r.json();
@@ -334,7 +344,7 @@ async function boot() {
     );
     state.recipes = recipes;
     state.world = world;
-    state.images = images.byRecipe || {};
+    state.images = mergePhotoSources(bookImages.byRecipe || {}, webImages.byRecipe || {});
     state.bar = new Set([...state.bar].map(canon));
     state.recipes.forEach((r) => {
       state.byId.set(r.id, r);
@@ -1289,9 +1299,13 @@ async function action(name, el, e) {
     el.disabled = true;
     el.textContent = "Refreshing…";
     try {
-      const response = await fetch("data/web-photos.json", { cache: "reload" });
-      if (!response.ok) throw Error("The photo list could not be refreshed. Please try again.");
-      state.images = (await response.json()).byRecipe;
+      const [booksResponse, webResponse] = await Promise.all([
+        fetch("data/image-manifest.json", { cache: "reload" }),
+        fetch("data/web-photos.json", { cache: "reload" }),
+      ]);
+      if (!booksResponse.ok || !webResponse.ok) throw Error("The photo list could not be refreshed. Please try again.");
+      const [books, web] = await Promise.all([booksResponse.json(), webResponse.json()]);
+      state.images = mergePhotoSources(books.byRecipe || {}, web.byRecipe || {});
       state.photoMode[el.dataset.id] = "system";
       savePhotoModes();
       // Refresh only the photograph; rebuilding the page would discard a draft.
@@ -1511,8 +1525,11 @@ async function loadPhoto(id, img) {
     ? allVersions(r)[state.versionIndex || 0] : null;
   const movie = host?.dataset.photoContext === "movie" || version?.key === "movies" ||
     (host?.classList.contains("detail-photo") && state.moviePhoto);
-  const choices = photoCandidates(r, state.images[id], { version, movie: false })
-    .map((candidate) => ({ url: candidate.path, credit: photoCredit(candidate) }));
+  const candidates = photoCandidates(r, state.images[id], { version, movie: false });
+  const choices = [
+    ...candidates.filter((c) => c.status === "web-curated"),
+    ...candidates.filter((c) => c.status !== "web-curated"),
+  ].map((candidate) => ({ url: candidate.path, credit: photoCredit(candidate) }));
   const active = () => img.isConnected && img.photoRequest === request;
   if (/^data:image\/(png|jpeg|webp);base64,/.test(version?.photo || ""))
     choices.unshift({ url: version.photo, credit: "Your version photograph" });
