@@ -1,0 +1,48 @@
+name: Discover additional Openverse cocktail photographs
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/discover-openverse-photos.py"
+      - ".github/workflows/discover-openverse-photos.yml"
+  workflow_dispatch:
+    inputs:
+      offset:
+        type: number
+        default: 0
+      limit:
+        type: number
+        default: 24
+permissions:
+  contents: write
+concurrency:
+  group: openverse-image-discovery
+  cancel-in-progress: false
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check Python syntax
+        run: python -m py_compile scripts/discover-openverse-photos.py
+      - name: Find license-filtered cocktail candidates
+        env:
+          OFFSET: ${{ inputs.offset || '0' }}
+          LIMIT: ${{ inputs.limit || '24' }}
+        run: python scripts/discover-openverse-photos.py --offset "$OFFSET" --limit "$LIMIT"
+      - name: Commit candidate review queue
+        run: |
+          git add data/openverse-image-review.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update licensed Openverse candidate review queue"
+          git pull --rebase origin main
+          git push origin HEAD:main
