@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Persist up to ten individually curated website photographs as optimized WebP."""
+"""Persist up to twenty curated website photographs as optimized WebP."""
 import io
 import json
 import pathlib
@@ -18,8 +18,8 @@ for recipe_id, record in data["byRecipe"].items():
     for photo in record.get("candidates", []):
         if photo.get("status") == "web-curated" and not photo.get("path", "").startswith("assets/"):
             candidates.append((recipe_id, photo))
-if len(candidates) > 10:
-    raise SystemExit(f"Only 10 pending images per batch are allowed, found {len(candidates)}")
+if len(candidates) > 20:
+    raise SystemExit(f"Only 20 pending images per batch are allowed, found {len(candidates)}")
 processed = 0
 failures = []
 for recipe_id, photo in candidates:
