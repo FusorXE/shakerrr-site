@@ -1,125 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T02:52:53.521Z",
+  "generatedAt": "2026-11-02T04:04:48.524Z",
   "description": "Cocktail images linked directly to verified publisher recipe pages; no photos downloaded.",
   "byRecipe": {
-    "cherry-gin-buck": {
-      "candidates": [
-        {
-          "path": "https://curiada.com/cdn/shop/articles/cocktail-recTK3eqKnWsSzYMz-1777494450817.jpg?v=1778190387",
-          "sourceUrl": "https://curiada.com/blogs/cocktail-library/cherry-gin-buck",
-          "source": "curiada.com",
-          "title": "Cherry Gin Buck",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-recipe-page"
-        }
-      ]
-    },
-    "dublin-rusty-mule": {
-      "candidates": [
-        {
-          "path": "https://curiada.com/cdn/shop/articles/cocktail-recybgCH2uVunhl98-1777502540208.jpg?v=1778190395",
-          "sourceUrl": "https://curiada.com/blogs/cocktail-library/dublin-rusty-mule",
-          "source": "curiada.com",
-          "title": "Dublin Rusty Mule",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-recipe-page"
-        }
-      ]
-    },
-    "elderflower-samba-martini": {
-      "candidates": [
-        {
-          "path": "https://curiada.com/cdn/shop/articles/1e31fe5b-a4c3-4916-951c-9765fef50856.png?v=1770221671",
-          "sourceUrl": "https://curiada.com/blogs/cocktail-library/elderflower-samba-martini",
-          "source": "curiada.com",
-          "title": "Elderflower Samba Martini",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-recipe-page"
-        }
-      ]
-    },
-    "gilded-bitter": {
-      "candidates": [
-        {
-          "path": "https://curiada.com/cdn/shop/articles/cocktail-recEPu55IL6hMz11N-1777488505878.jpg?v=1778190300",
-          "sourceUrl": "https://curiada.com/blogs/cocktail-library/gilded-bitter",
-          "source": "curiada.com",
-          "title": "Gilded Bitter",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-recipe-page"
-        }
-      ]
-    },
-    "golden-fizz-royale": {
-      "candidates": [
-        {
-          "path": "https://curiada.com/cdn/shop/articles/cocktail-recLFJIYkxfCgnUWi-1777502792930.jpg?v=1778190402",
-          "sourceUrl": "https://curiada.com/blogs/cocktail-library/golden-fizz-royale",
-          "source": "curiada.com",
-          "title": "Golden Fizz Royale",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-recipe-page"
-        }
-      ]
-    },
-    "sloe-burn-sipper": {
-      "candidates": [
-        {
-          "path": "https://curiada.com/cdn/shop/articles/cocktail-recW52rqJ73ksDtAr-1777500723299.jpg?v=1778190361",
-          "sourceUrl": "https://curiada.com/blogs/cocktail-library/sloe-burn-sipper",
-          "source": "curiada.com",
-          "title": "Sloe Burn Sipper",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-recipe-page"
-        }
-      ]
-    },
-    "spiced-rum-cooler": {
-      "candidates": [
-        {
-          "path": "https://curiada.com/cdn/shop/articles/cocktail-rec3Twh19GEVs18cG-1777498927147.jpg?v=1778190353",
-          "sourceUrl": "https://curiada.com/blogs/cocktail-library/spiced-rum-cooler",
-          "source": "curiada.com",
-          "title": "Spiced Rum Cooler",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-recipe-page"
-        }
-      ]
-    },
-    "the-celery-sour": {
-      "candidates": [
-        {
-          "path": "https://curiada.com/cdn/shop/articles/cocktail-recImsTKVgcLVI5bp-1777500828022.jpg?v=1778190486",
-          "sourceUrl": "https://curiada.com/blogs/cocktail-library/the-celery-sour",
-          "source": "curiada.com",
-          "title": "The Celery Sour",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-recipe-page"
-        }
-      ]
-    },
-    "tomato-blossom-daiquiri": {
-      "candidates": [
-        {
-          "path": "https://curiada.com/cdn/shop/articles/cocktail-recPGAXVxs5MrARSv-1777502201906.jpg?v=1778190426",
-          "sourceUrl": "https://curiada.com/blogs/cocktail-library/tomato-blossom-daiquiri",
-          "source": "curiada.com",
-          "title": "Tomato Blossom Daiquiri",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-recipe-page"
-        }
-      ]
-    },
     "absinthe-frappe": {
       "candidates": [
         {
@@ -146,6 +29,95 @@
         }
       ]
     },
+    "american-trilogy": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/O7E2ZA/lifestyle/0/1024x.webp",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/6227/american-trilogy",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "angostura-colada": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/08/Article-Angostura-Colada-Cocktail-Recipe-Rogue-Beta-Cocktails-Book.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/angostura-colada/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "atlas-baijiu-sour": {
+      "candidates": [
+        {
+          "path": "https://www.chineseamericanfamily.com/wp-content/uploads/2015/04/baiju-sour.jpg",
+          "sourceUrl": "https://www.chineseamericanfamily.com/cheers-3-chinese-cocktails-worth-celebrating/",
+          "source": "Chinese American Family",
+          "title": "Baijiu Sour",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-sourced-drink-image"
+        }
+      ]
+    },
+    "atlas-finnish-long-drink": {
+      "candidates": [
+        {
+          "path": "https://en.hartwall.fi/4902c6/globalassets/hartwall.fi/juomat/long-drink--juomat/original-long-drink/original-gin-brand.jpg?width=1920",
+          "sourceUrl": "https://en.hartwall.fi/inspiration/brand-stories/2019/original-long-drink/",
+          "source": "Hartwall",
+          "title": "Finnish Original Long Drink",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-sourced-drink-image"
+        }
+      ]
+    },
+    "atlas-ouzo-with-water": {
+      "candidates": [
+        {
+          "path": "https://cdn.visitgreece.gr/wp-uploads/shutterstock_1482568790_Ouzo_2000.jpg",
+          "sourceUrl": "https://www.visitgreece.gr/en/experiences/gastronomy/greek-wines/ouzo",
+          "source": "Visit Greece",
+          "title": "Greek ouzo with water",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-sourced-drink-image"
+        }
+      ]
+    },
+    "atlas-spicy-pomegranate-istanbul": {
+      "candidates": [
+        {
+          "path": "https://www.elizabethminchilli.com/wp-content/uploads/2011/02/IMG_0202-Version-2.jpg",
+          "sourceUrl": "https://www.elizabethminchilli.com/2011/02/spicy-pomegranate-cocktail-from-the-four-seasons-sultanahmet/",
+          "source": "Elizabeth Minchilli",
+          "title": "Spicy Pomegranate cocktail, Istanbul",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-sourced-drink-image"
+        }
+      ]
+    },
+    "atlas-yorsh": {
+      "candidates": [
+        {
+          "path": "https://img.povar.ru/main-micro/ac/98/4d/cd/kokteil_quotyorshquot-833082.JPG",
+          "sourceUrl": "https://povar.ru/recipes/kokteil_yorsh-94118.html",
+          "source": "Povar.ru",
+          "title": "Ёрш cocktail",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-sourced-drink-image"
+        }
+      ]
+    },
     "bamboo": {
       "candidates": [
         {
@@ -156,6 +128,106 @@
           "status": "publisher-online",
           "available": true,
           "verified": "exact-publisher-recipe"
+        }
+      ]
+    },
+    "barber-of-seville": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/04/Article-Barber-of-Seville-Recipe.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/barber-of-seville/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "batanga": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/ZAPyyr/default/0/512x.webp?v=1737701573",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/540/batanga",
+          "source": "Difford's Guide",
+          "title": "Batanga",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "batida-de-coco": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/4A2W5r/default/0/512x.webp?v=1737701572",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/182/batida-de-coco",
+          "source": "Difford's Guide",
+          "title": "Batida de Coco",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "benton-s-old-fashioned": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/r4W4zA/default/1/512x.webp?v=1779441534",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2777/bentons-old-fashioned",
+          "source": "Difford’s Guide",
+          "title": "Benton's Old Fashioned",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "bicicletta": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/r4ax8O/lifestyle/0/1024x.webp",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/4877/bicicletta-spritz",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "bitter-intentions": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2015/05/bitter-intentions-recipe.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/bitter-intentions/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "bitter-mai-tai": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RYDd2O/default/0/512x.webp?v=1737701619",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/12890/bitter-mai-tai",
+          "source": "Difford’s Guide",
+          "title": "Bitter Mai Tai",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "bitter-tom": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2013/06/Article-Bitter-Tom-How-to-Use-Benedictine-in-Cocktails-Drink-Recipe.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/bitter-tom/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
         }
       ]
     },
@@ -172,6 +244,43 @@
         }
       ]
     },
+    "blazing-saddles": {
+      "candidates": [
+        {
+          "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb8aGVQHnO_1_pdG-F5ArcJNMwVjDUmd3JNQQFTsnTZGAAlyr1TabzxQKMajTRqo8neNeXILYSm3R0VldVLlKuMsGcOuXKsogwY6n2cDmW-uFrUbTjlOoCX7ikgKTyKEgUcr2x_KdT5Eku/w480-h640/IMG_1548.jpeg",
+          "sourceUrl": "https://www.jollybartender.com/2021/09/blazing-saddles-death-co-recipe.html",
+          "source": "The Jolly Bartender",
+          "title": "Blazing Saddles (Death & Co. recipe adaptation)",
+          "status": "publisher-online",
+          "verified": "exact-drink-blog-photograph",
+          "available": true
+        }
+      ]
+    },
+    "blood-lust-diamonds": {
+      "candidates": [
+        {
+          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%2341243b%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23130d1e%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23bf593f%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%235b202f%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M235%20470Q245%20680%20450%20720Q655%20680%20665%20470Z%22%20fill%3D%22url(%23liquid)%22%20stroke%3D%22%23e8f1ff%22%20stroke-width%3D%2210%22%20stroke-opacity%3D%22.8%22%2F%3E%3Cellipse%20cx%3D%22450%22%20cy%3D%22468%22%20rx%3D%22210%22%20ry%3D%2243%22%20fill%3D%22%23bf593f%22%20stroke%3D%22%23f5e9e6%22%20stroke-opacity%3D%22.75%22%20stroke-width%3D%229%22%2F%3E%3Cpath%20d%3D%22M450%20700L450%20901M345%20919h210%22%20fill%3D%22none%22%20stroke%3D%22%23dce6ed%22%20stroke-opacity%3D%22.8%22%20stroke-width%3D%2217%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpath%20d%3D%22M535%20455Q533%20380%20611%20360%22%20stroke%3D%22%237caa65%22%20stroke-width%3D%227%22%20fill%3D%22none%22%2F%3E%3Ccircle%20cx%3D%22535%22%20cy%3D%22454%22%20r%3D%2221%22%20fill%3D%22%23d33442%22%20stroke%3D%22%23f58878%22%20stroke-width%3D%226%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3EBlood%2C%20Lust%20%26amp%3B%20Diamonds%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+          "source": "Shakerrr original cocktail illustration",
+          "status": "illustrated",
+          "available": true,
+          "verified": "recipe-specific-original-illustration"
+        }
+      ]
+    },
+    "bobby-burns": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RJ275R/default/0/512x.webp?v=1737701589",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/4109/bobby-burns-diffords-own",
+          "source": "Difford’s Guide",
+          "title": "Bobby Burns (Difford's own)",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
     "brown-derby": {
       "candidates": [
         {
@@ -182,6 +291,286 @@
           "status": "publisher-online",
           "available": true,
           "verified": "exact-publisher-recipe"
+        }
+      ]
+    },
+    "bull-shot": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RKa6xr/default/0/512x.webp?v=1737701587",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2616/bull-shot",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "capitan": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2023/09/Article2-El-Capitan-Pisco-Manhattan-Cocktail-Recipe.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/capitan/",
+          "source": "PUNCH",
+          "title": "Capitán",
+          "status": "publisher-online",
+          "verified": "exact-publisher-recipe-page",
+          "available": true
+        }
+      ]
+    },
+    "cards-on-the-table": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__cards-on-the-table__p054.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 50,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "champs-elysees": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2024/04/Article2-Champs-Elysees-Cocktail-Recipe-Libertine-NYC.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/champs-elysees/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "chartreuse-swizzle": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-chartreuse-swizzle-6695d39b326e0.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/chartreuse-swizzle/",
+          "source": "IBA",
+          "title": "chartreuse-swizzle",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "cherry-gin-buck": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recTK3eqKnWsSzYMz-1777494450817.jpg?v=1778190387",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/cherry-gin-buck",
+          "source": "curiada.com",
+          "title": "Cherry Gin Buck",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "corn-n-oil": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/r8a04O/default/0/512x.webp?v=1737701590",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3029/corn-n-oil",
+          "source": "Difford's Guide",
+          "title": "Corn 'n' Oil",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "de-la-louisiane": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/07/Louisiane.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/de-la-louisiane/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "division-bell": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/OlPaEO/default/0/512x.webp?v=1737701594",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3634/division-bell",
+          "source": "Difford’s Guide",
+          "title": "Division Bell",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "dublin-rusty-mule": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recybgCH2uVunhl98-1777502540208.jpg?v=1778190395",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/dublin-rusty-mule",
+          "source": "curiada.com",
+          "title": "Dublin Rusty Mule",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "el-diablo": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2022/10/Punch_mallory-heyer_thumbnails-r3-1.jpg",
+          "sourceUrl": "https://punchdrink.com/recipes/el-diablo/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "elderflower-samba-martini": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/1e31fe5b-a4c3-4916-951c-9765fef50856.png?v=1770221671",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/elderflower-samba-martini",
+          "source": "curiada.com",
+          "title": "Elderflower Samba Martini",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "fancy-free": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2024/10/Article2-Fancy-Free-Old-Fashioned-Recipe-Simmer-Down.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/fancy-free/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "fernandito": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-fernandito-6695d3a1a3586.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/fernandito/",
+          "source": "IBA",
+          "title": "fernandito",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "ferrari-named-desire": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__ferrari-named-desire__p126.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 122,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "filibuster": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/ry2NbO/default/1/512x.webp?v=1787913895",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/11104/filibuster",
+          "source": "Difford’s Guide",
+          "title": "Filibuster",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "fitzgerald": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/OnlXnA/default/1/512x.webp?v=1741275161",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2408/fitzgerald",
+          "source": "Difford’s Guide",
+          "title": "Fitzgerald",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "flannel-shirt": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/R1JoNA/default/2/512x.webp?v=1764327224",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/23598/flannel-shirt",
+          "source": "Difford’s Guide",
+          "title": "Flannel Shirt",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "flor-de-jalisco": {
+      "candidates": [
+        {
+          "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZbZkaBeHLKGugpDy7IsnwqqtpxtFmc4kwO81_Ae2qYglbz-Yqk__jiqB_-aoV_sacffCfVWz3MN3nfCYXXInEY17pAPlwdz7YsncUH0K2GjVmOAJy2TFVUO2Aan9HMCLEsr_YzzepxlL/w480-h640/IMG_1568.jpeg",
+          "sourceUrl": "https://www.jollybartender.com/2021/10/flor-de-jalisco-death-co-recipe.html",
+          "source": "The Jolly Bartender",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-Death-and-Co-recipe-blog-photo"
+        }
+      ]
+    },
+    "flor-de-jerez": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/A6qvgR/default/0/512x.webp?v=1737701610",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/8406/flor-de-jerez",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "gilded-bitter": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recEPu55IL6hMz11N-1777488505878.jpg?v=1778190300",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/gilded-bitter",
+          "source": "curiada.com",
+          "title": "Gilded Bitter",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "gin-and-juice": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/Ax0P6A/default/0/512x.webp?v=1737701584",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2172/gin-and-juice",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
         }
       ]
     },
@@ -224,29 +613,16 @@
         }
       ]
     },
-    "chartreuse-swizzle": {
+    "golden-fizz-royale": {
       "candidates": [
         {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-chartreuse-swizzle-6695d39b326e0.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/chartreuse-swizzle/",
-          "source": "IBA",
-          "title": "chartreuse-swizzle",
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recLFJIYkxfCgnUWi-1777502792930.jpg?v=1778190402",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/golden-fizz-royale",
+          "source": "curiada.com",
+          "title": "Golden Fizz Royale",
           "status": "publisher-online",
           "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "fernandito": {
-      "candidates": [
-        {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-fernandito-6695d3a1a3586.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/fernandito/",
-          "source": "IBA",
-          "title": "fernandito",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-iba-recipe-page"
+          "verified": "publisher-recipe-page"
         }
       ]
     },
@@ -263,6 +639,57 @@
         }
       ]
     },
+    "hot-buttered-rum": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/jRB5EO/default/0/512x.webp?v=1737701575",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/981/hot-buttered-rum-cocktail",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "hotel-nacional": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2024/07/Article-2-Mastering-Hotel-Nacional-Cocktail-Recipe-Fontainebleau-Las-Vegas-Juyoung-Kang.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/hotel-nacional/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "improved-whiskey-cocktail": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/rV6wLr/default/0/512x.webp?v=1737701602",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/5083/improved-whiskey-cocktail",
+          "source": "Difford's Guide",
+          "title": "Improved Whiskey Cocktail",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "innuendo": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__innuendo__p145.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 141,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
     "irish-coffee": {
       "candidates": [
         {
@@ -276,211 +703,28 @@
         }
       ]
     },
-    "kir": {
+    "italian-buck": {
       "candidates": [
         {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-kir-6695cdbdbb2e1.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/kir/",
-          "source": "IBA",
-          "title": "kir",
+          "path": "https://cdn.diffordsguide.com/cocktail/REDzPO/default/0/512x.webp?v=1737701632",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/19258/italian-buck",
+          "source": "Difford’s Guide",
           "status": "publisher-online",
           "available": true,
-          "verified": "exact-iba-recipe-page"
+          "verified": "exact-publisher-recipe-page"
         }
       ]
     },
-    "naked-and-famous": {
+    "jack-rose": {
       "candidates": [
         {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-naked-and-famous-6695d3ae8e1dc.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/naked-and-famous/",
-          "source": "IBA",
-          "title": "naked-and-famous",
+          "path": "https://cdn.diffordsguide.com/cocktail/BrVLwR/default/1/512x.webp?v=1763654375",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1039/jack-rose-cocktail",
+          "source": "Difford’s Guide",
+          "title": "Jack Rose Cocktail",
           "status": "publisher-online",
           "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "penicillin": {
-      "candidates": [
-        {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-penicillin-6695d3b47b79f.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/penicillin/",
-          "source": "IBA",
-          "title": "penicillin",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "pisco-punch": {
-      "candidates": [
-        {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-pisco-punch-6695d3b74b9f5.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/pisco-punch/",
-          "source": "IBA",
-          "title": "pisco-punch",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "planters-punch": {
-      "candidates": [
-        {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-planters-punch-66949122d41fb.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/planters-punch/",
-          "source": "IBA",
-          "title": "planters-punch",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "rabo-de-galo": {
-      "candidates": [
-        {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-rabo-de-galo-6695cdcdb2df1.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/rabo-de-galo/",
-          "source": "IBA",
-          "title": "rabo-de-galo",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "remember-the-maine": {
-      "candidates": [
-        {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-remember-the-main-6694912622959.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/remember-the-maine/",
-          "source": "IBA",
-          "title": "remember-the-maine",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "rusty-nail": {
-      "candidates": [
-        {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-rusty-nail-66949129acfd1.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/rusty-nail/",
-          "source": "IBA",
-          "title": "rusty-nail",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "sherry-cobbler": {
-      "candidates": [
-        {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-sherry-cobbler-6695d3ba8bdb7.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/sherry-cobbler/",
-          "source": "IBA",
-          "title": "sherry-cobbler",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "tipperary": {
-      "candidates": [
-        {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-tipperary-6695d3c453fd3.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/tipperary/",
-          "source": "IBA",
-          "title": "tipperary",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "tuxedo": {
-      "candidates": [
-        {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-tuxedo-6694912fd3b8f.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/tuxedo/",
-          "source": "IBA",
-          "title": "tuxedo",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "vesper": {
-      "candidates": [
-        {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-vesper-6695cdd43284b.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/vesper/",
-          "source": "IBA",
-          "title": "vesper",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "vieux-carre": {
-      "candidates": [
-        {
-          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-vieux-carre-6694913015248.webp",
-          "sourceUrl": "https://iba-world.com/iba-cocktail/vieux-carre/",
-          "source": "IBA",
-          "title": "vieux-carre",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-iba-recipe-page"
-        }
-      ]
-    },
-    "batanga": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/ZAPyyr/default/0/512x.webp?v=1737701573",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/540/batanga",
-          "source": "Difford's Guide",
-          "title": "Batanga",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-cocktail-search-result"
-        }
-      ]
-    },
-    "batida-de-coco": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/4A2W5r/default/0/512x.webp?v=1737701572",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/182/batida-de-coco",
-          "source": "Difford's Guide",
-          "title": "Batida de Coco",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-cocktail-search-result"
-        }
-      ]
-    },
-    "corn-n-oil": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/r8a04O/default/0/512x.webp?v=1737701590",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3029/corn-n-oil",
-          "source": "Difford's Guide",
-          "title": "Corn 'n' Oil",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-cocktail-search-result"
+          "verified": "exact-publisher-recipe-result"
         }
       ]
     },
@@ -497,6 +741,32 @@
         }
       ]
     },
+    "kentucky-buck": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/AGl2Br/default/0/512x.webp?v=1737701597",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/4121/kentucky-buck",
+          "source": "Difford’s Guide",
+          "title": "Kentucky Buck",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "kir": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-kir-6695cdbdbb2e1.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/kir/",
+          "source": "IBA",
+          "title": "kir",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
     "kir-royale": {
       "candidates": [
         {
@@ -507,6 +777,293 @@
           "status": "publisher-online",
           "available": true,
           "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "kitchen-sink": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__kitchen-sink__p149.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 145,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "knight-takes-bishop": {
+      "candidates": [
+        {
+          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23263b3a%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23101e21%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23e7c981%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23aa8040%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M263%20465h374l-37%20419H300Z%22%20fill%3D%22url(%23liquid)%22%20fill-opacity%3D%22.8%22%20stroke%3D%22%23e5efff%22%20stroke-opacity%3D%22.84%22%20stroke-width%3D%2212%22%20stroke-linejoin%3D%22round%22%2F%3E%3Cellipse%20cx%3D%22450%22%20cy%3D%22492%22%20rx%3D%22171%22%20ry%3D%2225%22%20fill%3D%22%23e7c981%22%20opacity%3D%22.85%22%2F%3E%3Cpath%20d%3D%22M313%20560l86-28%2027%2098-85%2026Zm151%2084%2098-9-7%20102-91%2010Z%22%20fill%3D%22%23ffffff%22%20fill-opacity%3D%22.13%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.27%22%20stroke-width%3D%225%22%2F%3E%3Cpath%20d%3D%22M548%20482q2-95%2022-157%22%20stroke%3D%22%2391af73%22%20stroke-width%3D%227%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M559%20410q-67-65-78-20q10%2045%2078%2020Zm-1-24q71-65%2091-24q-12%2047-91%2024Z%22%20fill%3D%22%2387b57a%22%20stroke%3D%22%23b0c68c%22%20stroke-width%3D%223%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3EKnight%20Takes%20Bishop%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+          "source": "Shakerrr original cocktail illustration",
+          "status": "illustrated",
+          "available": true,
+          "verified": "recipe-specific-original-illustration"
+        }
+      ]
+    },
+    "lady-day": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__lady-day__p074.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 70,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "lawyers-guns-money": {
+      "candidates": [
+        {
+          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%2342292d%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2317131e%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23a64c44%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23482333%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M263%20465h374l-37%20419H300Z%22%20fill%3D%22url(%23liquid)%22%20fill-opacity%3D%22.8%22%20stroke%3D%22%23e5efff%22%20stroke-opacity%3D%22.84%22%20stroke-width%3D%2212%22%20stroke-linejoin%3D%22round%22%2F%3E%3Cellipse%20cx%3D%22450%22%20cy%3D%22492%22%20rx%3D%22171%22%20ry%3D%2225%22%20fill%3D%22%23a64c44%22%20opacity%3D%22.85%22%2F%3E%3Cpath%20d%3D%22M313%20560l86-28%2027%2098-85%2026Zm151%2084%2098-9-7%20102-91%2010Z%22%20fill%3D%22%23ffffff%22%20fill-opacity%3D%22.13%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.27%22%20stroke-width%3D%225%22%2F%3E%3Ccircle%20cx%3D%22555%22%20cy%3D%22432%22%20r%3D%2250%22%20stroke%3D%22%23ffb94c%22%20stroke-width%3D%2214%22%20fill%3D%22%23e88342%22%20fill-opacity%3D%22.78%22%2F%3E%3Ccircle%20cx%3D%22555%22%20cy%3D%22432%22%20r%3D%2228%22%20stroke%3D%22%23ffde8e%22%20stroke-width%3D%223%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M555%20402v60m-28-30h56%22%20stroke%3D%22%23ffdca0%22%20stroke-width%3D%223%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3ELawyers%2C%20Guns%20%26amp%3B%20Money%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+          "source": "Shakerrr original cocktail illustration",
+          "status": "illustrated",
+          "available": true,
+          "verified": "recipe-specific-original-illustration"
+        }
+      ]
+    },
+    "lemon-drop": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/AmgnWO/default/0/512x.webp?v=1737701663",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/31603/lemon-drop",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "london-sour": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/A2j7DA/default/0/512x.webp?v=1737701593",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3582/london-sour",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "mexican-firing-squad": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2013/12/Mexican-Firing-Squad.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/mexican-firing-squad/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "milano-torino": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2018/10/Article-Milano-Torino-Italian-Aperitivo-Negroni-Cocktail-Recipe-Dante-NYC.jpg?w=1000",
+          "sourceUrl": "https://punchdrink.com/recipes/milano-torino/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "naked-and-famous": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-naked-and-famous-6695d3ae8e1dc.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/naked-and-famous/",
+          "source": "IBA",
+          "title": "naked-and-famous",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "navy-grog": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RaLwmO/default/0/512x.webp?v=1737701601",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/4866/navy-grog",
+          "source": "Difford’s Guide",
+          "title": "Navy Grog",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "old-pal": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/Yrg5wR/default/0/512x.webp?v=1737701577",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1430/old-pal",
+          "source": "Difford's Guide",
+          "title": "Old Pal",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "oxford-comma": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/07/Oxford-Comma.jpg?w=1000",
+          "sourceUrl": "https://punchdrink.com/recipes/oxford-comma/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "padang-swizzle": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/08/Padang-Swizzle.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/padang-swizzle/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "painkiller": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/LR1yaR/default/0/512x.webp?v=1737701577",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1454/painkiller",
+          "source": "Difford's Guide",
+          "title": "Painkiller",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "paper-moon": {
+      "candidates": [
+        {
+          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%2329344c%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23121928%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%2397604b%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2335232e%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M313%20320h274l-20%20562H334Z%22%20fill%3D%22url(%23liquid)%22%20stroke%3D%22%23e2efff%22%20stroke-opacity%3D%22.86%22%20stroke-width%3D%2211%22%2F%3E%3Cellipse%20cx%3D%22450%22%20cy%3D%22324%22%20rx%3D%22138%22%20ry%3D%2223%22%20fill%3D%22%2397604b%22%20stroke%3D%22%23eef7ff%22%20stroke-opacity%3D%22.68%22%20stroke-width%3D%227%22%2F%3E%3Ccircle%20cx%3D%22404%22%20cy%3D%22655%22%20r%3D%2211%22%20fill%3D%22%23fff%22%20opacity%3D%22.25%22%2F%3E%3Ccircle%20cx%3D%22498%22%20cy%3D%22570%22%20r%3D%227%22%20fill%3D%22%23fff%22%20opacity%3D%22.35%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22743%22%20r%3D%2210%22%20fill%3D%22%23fff%22%20opacity%3D%22.3%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3EPaper%20Moon%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+          "source": "Shakerrr original cocktail illustration",
+          "status": "illustrated",
+          "available": true,
+          "verified": "recipe-specific-original-illustration"
+        }
+      ]
+    },
+    "pegu-club": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/Ax0j8A/default/0/512x.webp?v=1737701588",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2728/pegu-club-cocktail-diffords-recipe",
+          "source": "Difford's Guide",
+          "title": "Pegu Club Cocktail (Difford's recipe)",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "pendennis-club-cocktail": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/r4ooQA/default/0/512x.webp?v=1737701621",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/13877/pendennis-club-cocktail",
+          "source": "Difford’s Guide",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-page"
+        }
+      ]
+    },
+    "penicillin": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-penicillin-6695d3b47b79f.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/penicillin/",
+          "source": "IBA",
+          "title": "penicillin",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "philadelphia-fish-house-punch": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/01/Philadelphia-Fish-House.jpg?w=1000",
+          "sourceUrl": "https://punchdrink.com/recipes/philadelphia-fish-house-punch/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "pina-verde": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/A2gmDr/default/0/512x.webp?v=1737701614",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/10138/pina-verde",
+          "source": "Difford’s Guide",
+          "title": "Piña Verde",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "pink-elephant": {
+      "candidates": [
+        {
+          "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLpPWDbi9Qax7Ff0XYsQw73VHZURnbjC8aZ4weqIts2VPjjVxjl_o3CfA96AGvLR3ZZr8zVGBsxDz7W5SmzAoeiYCALnFE5pQ68thI4u9OMVADuv11KRGmDDXr3s4spqD8Jz_TPkjqjE6V/w480-h640/IMG_1550.jpeg",
+          "sourceUrl": "https://www.jollybartender.com/2021/09/pink-elephant-death-co-recipe.html",
+          "source": "The Jolly Bartender",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-Death-and-Co-recipe-blog-photo"
+        }
+      ]
+    },
+    "pink-lady": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__pink-lady__p101.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 97,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "pisco-punch": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-pisco-punch-6695d3b74b9f5.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/pisco-punch/",
+          "source": "IBA",
+          "title": "pisco-punch",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
         }
       ]
     },
@@ -523,6 +1080,32 @@
         }
       ]
     },
+    "planters-punch": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-planters-punch-66949122d41fb.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/planters-punch/",
+          "source": "IBA",
+          "title": "planters-punch",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "pomegranate-margarita": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/4A2bkA/default/1/512x.webp?v=1738932073",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1582/pomegranate-margarita",
+          "source": "Difford’s Guide",
+          "title": "Pomegranate Margarita",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
     "poncha": {
       "candidates": [
         {
@@ -536,6 +1119,31 @@
         }
       ]
     },
+    "preakness": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RYkplr/default/0/512x.webp?v=1737701591",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3302/preakness-cocktail",
+          "source": "Difford’s Guide",
+          "title": "Preakness Cocktail",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
+        }
+      ]
+    },
+    "prima-china": {
+      "candidates": [
+        {
+          "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2uba2rGExQ7qz9gJRl5UPlwhJ_VPb4NiJTJN_wOTqFYwNg2S6z8ZOOVCp1yzDaHqhaKIkQtdl2y12wVc-zV4sQ4QyqcpQfpwwmzpTPHfUAxPFeydE-OhyK9Rn0JAzrU8J_0zltrKR4tk1/w480-h640/IMG_1610.jpeg",
+          "sourceUrl": "https://www.jollybartender.com/2021/10/prima-china-death-co-recipe.html",
+          "source": "The Jolly Bartender",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-Death-and-Co-recipe-blog-photo"
+        }
+      ]
+    },
     "queens-park-swizzle": {
       "candidates": [
         {
@@ -543,6 +1151,32 @@
           "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2740/queens-park-swizzle",
           "source": "Difford's Guide",
           "title": "Queen's Park Swizzle",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "rabo-de-galo": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-rabo-de-galo-6695cdcdb2df1.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/rabo-de-galo/",
+          "source": "IBA",
+          "title": "rabo-de-galo",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "ramos-gin-fizz": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/vAxD8A/default/0/512x.webp?v=1737701578",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1628/ramos-gin-fizz",
+          "source": "Difford's Guide",
+          "title": "Ramos Gin Fizz",
           "status": "publisher-online",
           "available": true,
           "verified": "publisher-cocktail-search-result"
@@ -562,81 +1196,54 @@
         }
       ]
     },
-    "rum-swizzle": {
+    "red-head": {
       "candidates": [
         {
-          "path": "https://cdn.diffordsguide.com/cocktail/RaxqqO/default/0/512x.webp?v=1737701587",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2566/rum-swizzle",
-          "source": "Difford's Guide",
-          "title": "Rum Swizzle",
+          "path": "https://cdn.diffordsguide.com/cocktail/Ax0zdA/default/0/512x.webp?v=1737701594",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3728/red-head",
+          "source": "Difford’s Guide",
           "status": "publisher-online",
           "available": true,
-          "verified": "publisher-cocktail-search-result"
+          "verified": "exact-publisher-recipe-page"
         }
       ]
     },
-    "improved-whiskey-cocktail": {
+    "red-hook": {
       "candidates": [
         {
-          "path": "https://cdn.diffordsguide.com/cocktail/rV6wLr/default/0/512x.webp?v=1737701602",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/5083/improved-whiskey-cocktail",
-          "source": "Difford's Guide",
-          "title": "Improved Whiskey Cocktail",
+          "path": "https://cdn.diffordsguide.com/cocktail/ry8XNA/default/0/512x.webp?v=1737701589",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2892/red-hook",
+          "source": "Difford’s Guide",
+          "title": "Red Hook",
           "status": "publisher-online",
           "available": true,
-          "verified": "publisher-cocktail-search-result"
+          "verified": "exact-publisher-recipe-result"
         }
       ]
     },
-    "old-pal": {
+    "remember-the-maine": {
       "candidates": [
         {
-          "path": "https://cdn.diffordsguide.com/cocktail/Yrg5wR/default/0/512x.webp?v=1737701577",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1430/old-pal",
-          "source": "Difford's Guide",
-          "title": "Old Pal",
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-remember-the-main-6694912622959.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/remember-the-maine/",
+          "source": "IBA",
+          "title": "remember-the-maine",
           "status": "publisher-online",
           "available": true,
-          "verified": "publisher-cocktail-search-result"
+          "verified": "exact-iba-recipe-page"
         }
       ]
     },
-    "painkiller": {
+    "revolver": {
       "candidates": [
         {
-          "path": "https://cdn.diffordsguide.com/cocktail/LR1yaR/default/0/512x.webp?v=1737701577",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1454/painkiller",
-          "source": "Difford's Guide",
-          "title": "Painkiller",
+          "path": "https://cdn.diffordsguide.com/cocktail/RJ24ER/default/1/512x.webp?v=1752229112",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/5009/revolver",
+          "source": "Difford’s Guide",
+          "title": "Revolver",
           "status": "publisher-online",
           "available": true,
-          "verified": "publisher-cocktail-search-result"
-        }
-      ]
-    },
-    "pegu-club": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/Ax0j8A/default/0/512x.webp?v=1737701588",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2728/pegu-club-cocktail-diffords-recipe",
-          "source": "Difford's Guide",
-          "title": "Pegu Club Cocktail (Difford's recipe)",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-cocktail-search-result"
-        }
-      ]
-    },
-    "ramos-gin-fizz": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/vAxD8A/default/0/512x.webp?v=1737701578",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1628/ramos-gin-fizz",
-          "source": "Difford's Guide",
-          "title": "Ramos Gin Fizz",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-cocktail-search-result"
+          "verified": "exact-publisher-recipe-result"
         }
       ]
     },
@@ -650,6 +1257,112 @@
           "status": "publisher-online",
           "available": true,
           "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "room-with-a-view": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__room-with-a-view__p026.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 22,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "rum-swizzle": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/RaxqqO/default/0/512x.webp?v=1737701587",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2566/rum-swizzle",
+          "source": "Difford's Guide",
+          "title": "Rum Swizzle",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-cocktail-search-result"
+        }
+      ]
+    },
+    "rusty-nail": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-rusty-nail-66949129acfd1.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/rusty-nail/",
+          "source": "IBA",
+          "title": "rusty-nail",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "sakura-martini": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__sakura-martini__p034.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 30,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "scorpion-bowl": {
+      "candidates": [
+        {
+          "path": "https://punchdrink.com/wp-content/uploads/2014/08/scorpion-lead.jpg?w=800",
+          "sourceUrl": "https://punchdrink.com/recipes/scorpion-bowl/",
+          "source": "PUNCH",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-recipe-hero-image"
+        }
+      ]
+    },
+    "scotch-and-salt": {
+      "candidates": [
+        {
+          "path": "assets/recipes/hollywood__scotch-and-salt__p049.webp",
+          "source": "Hollywood Cocktails",
+          "sourceUrl": null,
+          "status": "exact-book",
+          "book": "05",
+          "available": true,
+          "page": 45,
+          "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "sherry-cobbler": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-sherry-cobbler-6695d3ba8bdb7.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/sherry-cobbler/",
+          "source": "IBA",
+          "title": "sherry-cobbler",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "sloe-burn-sipper": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recW52rqJ73ksDtAr-1777500723299.jpg?v=1778190361",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/sloe-burn-sipper",
+          "source": "curiada.com",
+          "title": "Sloe Burn Sipper",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
         }
       ]
     },
@@ -679,6 +1392,19 @@
         }
       ]
     },
+    "spiced-rum-cooler": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-rec3Twh19GEVs18cG-1777498927147.jpg?v=1778190353",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/spiced-rum-cooler",
+          "source": "curiada.com",
+          "title": "Spiced Rum Cooler",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
     "stone-fence": {
       "candidates": [
         {
@@ -689,181 +1415,6 @@
           "status": "publisher-online",
           "available": true,
           "verified": "publisher-cocktail-search-result"
-        }
-      ]
-    },
-    "whiskey-smash": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/AmlbyR/default/0/512x.webp?v=1737701592",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3347/whiskey-smash",
-          "source": "Difford's Guide",
-          "title": "Whiskey Smash",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "publisher-cocktail-search-result"
-        }
-      ]
-    },
-    "padang-swizzle": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2014/08/Padang-Swizzle.jpg?w=800",
-          "sourceUrl": "https://punchdrink.com/recipes/padang-swizzle/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "bicicletta": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/r4ax8O/lifestyle/0/1024x.webp",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/4877/bicicletta-spritz",
-          "source": "Difford’s Guide",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "american-trilogy": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/O7E2ZA/lifestyle/0/1024x.webp",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/6227/american-trilogy",
-          "source": "Difford’s Guide",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "cards-on-the-table": {
-      "candidates": [
-        {
-          "path": "assets/recipes/hollywood__cards-on-the-table__p054.webp",
-          "source": "Hollywood Cocktails",
-          "sourceUrl": null,
-          "status": "exact-book",
-          "book": "05",
-          "available": true,
-          "page": 50,
-          "verified": "existing-exact-cocktail-book-image"
-        }
-      ]
-    },
-    "ferrari-named-desire": {
-      "candidates": [
-        {
-          "path": "assets/recipes/hollywood__ferrari-named-desire__p126.webp",
-          "source": "Hollywood Cocktails",
-          "sourceUrl": null,
-          "status": "exact-book",
-          "book": "05",
-          "available": true,
-          "page": 122,
-          "verified": "existing-exact-cocktail-book-image"
-        }
-      ]
-    },
-    "innuendo": {
-      "candidates": [
-        {
-          "path": "assets/recipes/hollywood__innuendo__p145.webp",
-          "source": "Hollywood Cocktails",
-          "sourceUrl": null,
-          "status": "exact-book",
-          "book": "05",
-          "available": true,
-          "page": 141,
-          "verified": "existing-exact-cocktail-book-image"
-        }
-      ]
-    },
-    "kitchen-sink": {
-      "candidates": [
-        {
-          "path": "assets/recipes/hollywood__kitchen-sink__p149.webp",
-          "source": "Hollywood Cocktails",
-          "sourceUrl": null,
-          "status": "exact-book",
-          "book": "05",
-          "available": true,
-          "page": 145,
-          "verified": "existing-exact-cocktail-book-image"
-        }
-      ]
-    },
-    "lady-day": {
-      "candidates": [
-        {
-          "path": "assets/recipes/hollywood__lady-day__p074.webp",
-          "source": "Hollywood Cocktails",
-          "sourceUrl": null,
-          "status": "exact-book",
-          "book": "05",
-          "available": true,
-          "page": 70,
-          "verified": "existing-exact-cocktail-book-image"
-        }
-      ]
-    },
-    "pink-lady": {
-      "candidates": [
-        {
-          "path": "assets/recipes/hollywood__pink-lady__p101.webp",
-          "source": "Hollywood Cocktails",
-          "sourceUrl": null,
-          "status": "exact-book",
-          "book": "05",
-          "available": true,
-          "page": 97,
-          "verified": "existing-exact-cocktail-book-image"
-        }
-      ]
-    },
-    "room-with-a-view": {
-      "candidates": [
-        {
-          "path": "assets/recipes/hollywood__room-with-a-view__p026.webp",
-          "source": "Hollywood Cocktails",
-          "sourceUrl": null,
-          "status": "exact-book",
-          "book": "05",
-          "available": true,
-          "page": 22,
-          "verified": "existing-exact-cocktail-book-image"
-        }
-      ]
-    },
-    "sakura-martini": {
-      "candidates": [
-        {
-          "path": "assets/recipes/hollywood__sakura-martini__p034.webp",
-          "source": "Hollywood Cocktails",
-          "sourceUrl": null,
-          "status": "exact-book",
-          "book": "05",
-          "available": true,
-          "page": 30,
-          "verified": "existing-exact-cocktail-book-image"
-        }
-      ]
-    },
-    "scotch-and-salt": {
-      "candidates": [
-        {
-          "path": "assets/recipes/hollywood__scotch-and-salt__p049.webp",
-          "source": "Hollywood Cocktails",
-          "sourceUrl": null,
-          "status": "exact-book",
-          "book": "05",
-          "available": true,
-          "page": 45,
-          "verified": "existing-exact-cocktail-book-image"
         }
       ]
     },
@@ -881,6 +1432,17 @@
         }
       ]
     },
+    "the-brave": {
+      "candidates": [
+        {
+          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23453728%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231a181e%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23e4ae57%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23ad6d37%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M263%20465h374l-37%20419H300Z%22%20fill%3D%22url(%23liquid)%22%20fill-opacity%3D%22.8%22%20stroke%3D%22%23e5efff%22%20stroke-opacity%3D%22.84%22%20stroke-width%3D%2212%22%20stroke-linejoin%3D%22round%22%2F%3E%3Cellipse%20cx%3D%22450%22%20cy%3D%22492%22%20rx%3D%22171%22%20ry%3D%2225%22%20fill%3D%22%23e4ae57%22%20opacity%3D%22.85%22%2F%3E%3Cpath%20d%3D%22M313%20560l86-28%2027%2098-85%2026Zm151%2084%2098-9-7%20102-91%2010Z%22%20fill%3D%22%23ffffff%22%20fill-opacity%3D%22.13%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.27%22%20stroke-width%3D%225%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3EThe%20Brave%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+          "source": "Shakerrr original cocktail illustration",
+          "status": "illustrated",
+          "available": true,
+          "verified": "recipe-specific-original-illustration"
+        }
+      ]
+    },
     "the-bronx": {
       "candidates": [
         {
@@ -892,6 +1454,19 @@
           "available": true,
           "page": 101,
           "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "the-celery-sour": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recImsTKVgcLVI5bp-1777500828022.jpg?v=1778190486",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/the-celery-sour",
+          "source": "curiada.com",
+          "title": "The Celery Sour",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
         }
       ]
     },
@@ -951,6 +1526,30 @@
         }
       ]
     },
+    "tipperary": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-tipperary-6695d3c453fd3.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/tipperary/",
+          "source": "IBA",
+          "title": "tipperary",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "tis-the-seasontini": {
+      "candidates": [
+        {
+          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%2325334b%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23101422%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23f7c56a%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23ea8738%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M240%20422h420L456%20694Z%22%20fill%3D%22url(%23liquid)%22%20stroke%3D%22%23eff9ff%22%20stroke-opacity%3D%22.8%22%20stroke-width%3D%2210%22%20stroke-linejoin%3D%22round%22%2F%3E%3Cpath%20d%3D%22M275%20469h352L454%20661Z%22%20fill%3D%22url(%23liquid)%22%20opacity%3D%22.88%22%2F%3E%3Cpath%20d%3D%22M450%20700L450%20901M345%20919h210%22%20fill%3D%22none%22%20stroke%3D%22%23dce6ed%22%20stroke-opacity%3D%22.8%22%20stroke-width%3D%2217%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpath%20d%3D%22M238%20422h425%22%20stroke%3D%22%23e9f2ff%22%20stroke-opacity%3D%22.95%22%20stroke-width%3D%2212%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%22555%22%20cy%3D%22432%22%20r%3D%2250%22%20stroke%3D%22%23ffb94c%22%20stroke-width%3D%2214%22%20fill%3D%22%23e88342%22%20fill-opacity%3D%22.78%22%2F%3E%3Ccircle%20cx%3D%22555%22%20cy%3D%22432%22%20r%3D%2228%22%20stroke%3D%22%23ffde8e%22%20stroke-width%3D%223%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M555%20402v60m-28-30h56%22%20stroke%3D%22%23ffdca0%22%20stroke-width%3D%223%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3E'Tis%20the%20Seasontini%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+          "source": "Shakerrr original cocktail illustration",
+          "status": "illustrated",
+          "available": true,
+          "verified": "recipe-specific-original-illustration"
+        }
+      ]
+    },
     "tom-jerry": {
       "candidates": [
         {
@@ -962,6 +1561,82 @@
           "available": true,
           "page": 65,
           "verified": "existing-exact-cocktail-book-image"
+        }
+      ]
+    },
+    "tomato-blossom-daiquiri": {
+      "candidates": [
+        {
+          "path": "https://curiada.com/cdn/shop/articles/cocktail-recPGAXVxs5MrARSv-1777502201906.jpg?v=1778190426",
+          "sourceUrl": "https://curiada.com/blogs/cocktail-library/tomato-blossom-daiquiri",
+          "source": "curiada.com",
+          "title": "Tomato Blossom Daiquiri",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "publisher-recipe-page"
+        }
+      ]
+    },
+    "tuxedo": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-tuxedo-6694912fd3b8f.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/tuxedo/",
+          "source": "IBA",
+          "title": "tuxedo",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "vesper": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-vesper-6695cdd43284b.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/vesper/",
+          "source": "IBA",
+          "title": "vesper",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "vieux-carre": {
+      "candidates": [
+        {
+          "path": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-vieux-carre-6694913015248.webp",
+          "sourceUrl": "https://iba-world.com/iba-cocktail/vieux-carre/",
+          "source": "IBA",
+          "title": "vieux-carre",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-iba-recipe-page"
+        }
+      ]
+    },
+    "wax-and-wane": {
+      "candidates": [
+        {
+          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23233943%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23111b28%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23d0ad68%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238d673e%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M313%20320h274l-20%20562H334Z%22%20fill%3D%22url(%23liquid)%22%20stroke%3D%22%23e2efff%22%20stroke-opacity%3D%22.86%22%20stroke-width%3D%2211%22%2F%3E%3Cellipse%20cx%3D%22450%22%20cy%3D%22324%22%20rx%3D%22138%22%20ry%3D%2223%22%20fill%3D%22%23d0ad68%22%20stroke%3D%22%23eef7ff%22%20stroke-opacity%3D%22.68%22%20stroke-width%3D%227%22%2F%3E%3Ccircle%20cx%3D%22404%22%20cy%3D%22655%22%20r%3D%2211%22%20fill%3D%22%23fff%22%20opacity%3D%22.25%22%2F%3E%3Ccircle%20cx%3D%22498%22%20cy%3D%22570%22%20r%3D%227%22%20fill%3D%22%23fff%22%20opacity%3D%22.35%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22743%22%20r%3D%2210%22%20fill%3D%22%23fff%22%20opacity%3D%22.3%22%2F%3E%3Cpath%20d%3D%22M548%20482q2-95%2022-157%22%20stroke%3D%22%2391af73%22%20stroke-width%3D%227%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M559%20410q-67-65-78-20q10%2045%2078%2020Zm-1-24q71-65%2091-24q-12%2047-91%2024Z%22%20fill%3D%22%2387b57a%22%20stroke%3D%22%23b0c68c%22%20stroke-width%3D%223%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3EWax%20and%20Wane%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+          "source": "Shakerrr original cocktail illustration",
+          "status": "illustrated",
+          "available": true,
+          "verified": "recipe-specific-original-illustration"
+        }
+      ]
+    },
+    "western-sour": {
+      "candidates": [
+        {
+          "path": "https://cdn.diffordsguide.com/cocktail/AmpvxR/default/0/512x.webp?v=1737701620",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/13347/western-sour",
+          "source": "Difford’s Guide",
+          "title": "Western Sour",
+          "status": "publisher-online",
+          "available": true,
+          "verified": "exact-publisher-recipe-result"
         }
       ]
     },
@@ -993,703 +1668,26 @@
         }
       ]
     },
-    "benton-s-old-fashioned": {
+    "whiskey-smash": {
       "candidates": [
         {
-          "path": "https://cdn.diffordsguide.com/cocktail/r4W4zA/default/1/512x.webp?v=1779441534",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2777/bentons-old-fashioned",
-          "source": "Difford’s Guide",
-          "title": "Benton's Old Fashioned",
+          "path": "https://cdn.diffordsguide.com/cocktail/AmlbyR/default/0/512x.webp?v=1737701592",
+          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3347/whiskey-smash",
+          "source": "Difford's Guide",
+          "title": "Whiskey Smash",
           "status": "publisher-online",
           "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "red-hook": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/ry8XNA/default/0/512x.webp?v=1737701589",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2892/red-hook",
-          "source": "Difford’s Guide",
-          "title": "Red Hook",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "revolver": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/RJ24ER/default/1/512x.webp?v=1752229112",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/5009/revolver",
-          "source": "Difford’s Guide",
-          "title": "Revolver",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "pina-verde": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/A2gmDr/default/0/512x.webp?v=1737701614",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/10138/pina-verde",
-          "source": "Difford’s Guide",
-          "title": "Piña Verde",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "flannel-shirt": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/R1JoNA/default/2/512x.webp?v=1764327224",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/23598/flannel-shirt",
-          "source": "Difford’s Guide",
-          "title": "Flannel Shirt",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "kentucky-buck": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/AGl2Br/default/0/512x.webp?v=1737701597",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/4121/kentucky-buck",
-          "source": "Difford’s Guide",
-          "title": "Kentucky Buck",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "filibuster": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/ry2NbO/default/1/512x.webp?v=1787913895",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/11104/filibuster",
-          "source": "Difford’s Guide",
-          "title": "Filibuster",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "bitter-mai-tai": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/RYDd2O/default/0/512x.webp?v=1737701619",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/12890/bitter-mai-tai",
-          "source": "Difford’s Guide",
-          "title": "Bitter Mai Tai",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "navy-grog": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/RaLwmO/default/0/512x.webp?v=1737701601",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/4866/navy-grog",
-          "source": "Difford’s Guide",
-          "title": "Navy Grog",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "western-sour": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/AmpvxR/default/0/512x.webp?v=1737701620",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/13347/western-sour",
-          "source": "Difford’s Guide",
-          "title": "Western Sour",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "division-bell": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/OlPaEO/default/0/512x.webp?v=1737701594",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3634/division-bell",
-          "source": "Difford’s Guide",
-          "title": "Division Bell",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "pomegranate-margarita": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/4A2bkA/default/1/512x.webp?v=1738932073",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1582/pomegranate-margarita",
-          "source": "Difford’s Guide",
-          "title": "Pomegranate Margarita",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "bobby-burns": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/RJ275R/default/0/512x.webp?v=1737701589",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/4109/bobby-burns-diffords-own",
-          "source": "Difford’s Guide",
-          "title": "Bobby Burns (Difford's own)",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "fitzgerald": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/OnlXnA/default/1/512x.webp?v=1741275161",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2408/fitzgerald",
-          "source": "Difford’s Guide",
-          "title": "Fitzgerald",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "jack-rose": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/BrVLwR/default/1/512x.webp?v=1763654375",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/1039/jack-rose-cocktail",
-          "source": "Difford’s Guide",
-          "title": "Jack Rose Cocktail",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "preakness": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/RYkplr/default/0/512x.webp?v=1737701591",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3302/preakness-cocktail",
-          "source": "Difford’s Guide",
-          "title": "Preakness Cocktail",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-result"
-        }
-      ]
-    },
-    "italian-buck": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/REDzPO/default/0/512x.webp?v=1737701632",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/19258/italian-buck",
-          "source": "Difford’s Guide",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "gin-and-juice": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/Ax0P6A/default/0/512x.webp?v=1737701584",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2172/gin-and-juice",
-          "source": "Difford’s Guide",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "london-sour": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/A2j7DA/default/0/512x.webp?v=1737701593",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3582/london-sour",
-          "source": "Difford’s Guide",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "flor-de-jerez": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/A6qvgR/default/0/512x.webp?v=1737701610",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/8406/flor-de-jerez",
-          "source": "Difford’s Guide",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "pendennis-club-cocktail": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/r4ooQA/default/0/512x.webp?v=1737701621",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/13877/pendennis-club-cocktail",
-          "source": "Difford’s Guide",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "bull-shot": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/RKa6xr/default/0/512x.webp?v=1737701587",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/2616/bull-shot",
-          "source": "Difford’s Guide",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "hot-buttered-rum": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/jRB5EO/default/0/512x.webp?v=1737701575",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/981/hot-buttered-rum-cocktail",
-          "source": "Difford’s Guide",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "lemon-drop": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/AmgnWO/default/0/512x.webp?v=1737701663",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/31603/lemon-drop",
-          "source": "Difford’s Guide",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "red-head": {
-      "candidates": [
-        {
-          "path": "https://cdn.diffordsguide.com/cocktail/Ax0zdA/default/0/512x.webp?v=1737701594",
-          "sourceUrl": "https://www.diffordsguide.com/cocktails/recipe/3728/red-head",
-          "source": "Difford’s Guide",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "angostura-colada": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2014/08/Article-Angostura-Colada-Cocktail-Recipe-Rogue-Beta-Cocktails-Book.jpg?w=800",
-          "sourceUrl": "https://punchdrink.com/recipes/angostura-colada/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "bitter-tom": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2013/06/Article-Bitter-Tom-How-to-Use-Benedictine-in-Cocktails-Drink-Recipe.jpg?w=800",
-          "sourceUrl": "https://punchdrink.com/recipes/bitter-tom/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "oxford-comma": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2014/07/Oxford-Comma.jpg?w=1000",
-          "sourceUrl": "https://punchdrink.com/recipes/oxford-comma/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "bitter-intentions": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2015/05/bitter-intentions-recipe.jpg?w=800",
-          "sourceUrl": "https://punchdrink.com/recipes/bitter-intentions/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "barber-of-seville": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2014/04/Article-Barber-of-Seville-Recipe.jpg?w=800",
-          "sourceUrl": "https://punchdrink.com/recipes/barber-of-seville/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "fancy-free": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2024/10/Article2-Fancy-Free-Old-Fashioned-Recipe-Simmer-Down.jpg?w=800",
-          "sourceUrl": "https://punchdrink.com/recipes/fancy-free/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "champs-elysees": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2024/04/Article2-Champs-Elysees-Cocktail-Recipe-Libertine-NYC.jpg?w=800",
-          "sourceUrl": "https://punchdrink.com/recipes/champs-elysees/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-publisher-recipe-page"
-        }
-      ]
-    },
-    "tis-the-seasontini": {
-      "candidates": [
-        {
-          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%2325334b%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23101422%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23f7c56a%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23ea8738%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M240%20422h420L456%20694Z%22%20fill%3D%22url(%23liquid)%22%20stroke%3D%22%23eff9ff%22%20stroke-opacity%3D%22.8%22%20stroke-width%3D%2210%22%20stroke-linejoin%3D%22round%22%2F%3E%3Cpath%20d%3D%22M275%20469h352L454%20661Z%22%20fill%3D%22url(%23liquid)%22%20opacity%3D%22.88%22%2F%3E%3Cpath%20d%3D%22M450%20700L450%20901M345%20919h210%22%20fill%3D%22none%22%20stroke%3D%22%23dce6ed%22%20stroke-opacity%3D%22.8%22%20stroke-width%3D%2217%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpath%20d%3D%22M238%20422h425%22%20stroke%3D%22%23e9f2ff%22%20stroke-opacity%3D%22.95%22%20stroke-width%3D%2212%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%22555%22%20cy%3D%22432%22%20r%3D%2250%22%20stroke%3D%22%23ffb94c%22%20stroke-width%3D%2214%22%20fill%3D%22%23e88342%22%20fill-opacity%3D%22.78%22%2F%3E%3Ccircle%20cx%3D%22555%22%20cy%3D%22432%22%20r%3D%2228%22%20stroke%3D%22%23ffde8e%22%20stroke-width%3D%223%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M555%20402v60m-28-30h56%22%20stroke%3D%22%23ffdca0%22%20stroke-width%3D%223%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3E'Tis%20the%20Seasontini%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
-          "source": "Shakerrr original cocktail illustration",
-          "status": "illustrated",
-          "available": true,
-          "verified": "recipe-specific-original-illustration"
-        }
-      ]
-    },
-    "blood-lust-diamonds": {
-      "candidates": [
-        {
-          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%2341243b%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23130d1e%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23bf593f%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%235b202f%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M235%20470Q245%20680%20450%20720Q655%20680%20665%20470Z%22%20fill%3D%22url(%23liquid)%22%20stroke%3D%22%23e8f1ff%22%20stroke-width%3D%2210%22%20stroke-opacity%3D%22.8%22%2F%3E%3Cellipse%20cx%3D%22450%22%20cy%3D%22468%22%20rx%3D%22210%22%20ry%3D%2243%22%20fill%3D%22%23bf593f%22%20stroke%3D%22%23f5e9e6%22%20stroke-opacity%3D%22.75%22%20stroke-width%3D%229%22%2F%3E%3Cpath%20d%3D%22M450%20700L450%20901M345%20919h210%22%20fill%3D%22none%22%20stroke%3D%22%23dce6ed%22%20stroke-opacity%3D%22.8%22%20stroke-width%3D%2217%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpath%20d%3D%22M535%20455Q533%20380%20611%20360%22%20stroke%3D%22%237caa65%22%20stroke-width%3D%227%22%20fill%3D%22none%22%2F%3E%3Ccircle%20cx%3D%22535%22%20cy%3D%22454%22%20r%3D%2221%22%20fill%3D%22%23d33442%22%20stroke%3D%22%23f58878%22%20stroke-width%3D%226%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3EBlood%2C%20Lust%20%26amp%3B%20Diamonds%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
-          "source": "Shakerrr original cocktail illustration",
-          "status": "illustrated",
-          "available": true,
-          "verified": "recipe-specific-original-illustration"
-        }
-      ]
-    },
-    "knight-takes-bishop": {
-      "candidates": [
-        {
-          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23263b3a%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23101e21%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23e7c981%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23aa8040%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M263%20465h374l-37%20419H300Z%22%20fill%3D%22url(%23liquid)%22%20fill-opacity%3D%22.8%22%20stroke%3D%22%23e5efff%22%20stroke-opacity%3D%22.84%22%20stroke-width%3D%2212%22%20stroke-linejoin%3D%22round%22%2F%3E%3Cellipse%20cx%3D%22450%22%20cy%3D%22492%22%20rx%3D%22171%22%20ry%3D%2225%22%20fill%3D%22%23e7c981%22%20opacity%3D%22.85%22%2F%3E%3Cpath%20d%3D%22M313%20560l86-28%2027%2098-85%2026Zm151%2084%2098-9-7%20102-91%2010Z%22%20fill%3D%22%23ffffff%22%20fill-opacity%3D%22.13%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.27%22%20stroke-width%3D%225%22%2F%3E%3Cpath%20d%3D%22M548%20482q2-95%2022-157%22%20stroke%3D%22%2391af73%22%20stroke-width%3D%227%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M559%20410q-67-65-78-20q10%2045%2078%2020Zm-1-24q71-65%2091-24q-12%2047-91%2024Z%22%20fill%3D%22%2387b57a%22%20stroke%3D%22%23b0c68c%22%20stroke-width%3D%223%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3EKnight%20Takes%20Bishop%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
-          "source": "Shakerrr original cocktail illustration",
-          "status": "illustrated",
-          "available": true,
-          "verified": "recipe-specific-original-illustration"
-        }
-      ]
-    },
-    "lawyers-guns-money": {
-      "candidates": [
-        {
-          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%2342292d%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2317131e%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23a64c44%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23482333%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M263%20465h374l-37%20419H300Z%22%20fill%3D%22url(%23liquid)%22%20fill-opacity%3D%22.8%22%20stroke%3D%22%23e5efff%22%20stroke-opacity%3D%22.84%22%20stroke-width%3D%2212%22%20stroke-linejoin%3D%22round%22%2F%3E%3Cellipse%20cx%3D%22450%22%20cy%3D%22492%22%20rx%3D%22171%22%20ry%3D%2225%22%20fill%3D%22%23a64c44%22%20opacity%3D%22.85%22%2F%3E%3Cpath%20d%3D%22M313%20560l86-28%2027%2098-85%2026Zm151%2084%2098-9-7%20102-91%2010Z%22%20fill%3D%22%23ffffff%22%20fill-opacity%3D%22.13%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.27%22%20stroke-width%3D%225%22%2F%3E%3Ccircle%20cx%3D%22555%22%20cy%3D%22432%22%20r%3D%2250%22%20stroke%3D%22%23ffb94c%22%20stroke-width%3D%2214%22%20fill%3D%22%23e88342%22%20fill-opacity%3D%22.78%22%2F%3E%3Ccircle%20cx%3D%22555%22%20cy%3D%22432%22%20r%3D%2228%22%20stroke%3D%22%23ffde8e%22%20stroke-width%3D%223%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M555%20402v60m-28-30h56%22%20stroke%3D%22%23ffdca0%22%20stroke-width%3D%223%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3ELawyers%2C%20Guns%20%26amp%3B%20Money%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
-          "source": "Shakerrr original cocktail illustration",
-          "status": "illustrated",
-          "available": true,
-          "verified": "recipe-specific-original-illustration"
-        }
-      ]
-    },
-    "paper-moon": {
-      "candidates": [
-        {
-          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%2329344c%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23121928%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%2397604b%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2335232e%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M313%20320h274l-20%20562H334Z%22%20fill%3D%22url(%23liquid)%22%20stroke%3D%22%23e2efff%22%20stroke-opacity%3D%22.86%22%20stroke-width%3D%2211%22%2F%3E%3Cellipse%20cx%3D%22450%22%20cy%3D%22324%22%20rx%3D%22138%22%20ry%3D%2223%22%20fill%3D%22%2397604b%22%20stroke%3D%22%23eef7ff%22%20stroke-opacity%3D%22.68%22%20stroke-width%3D%227%22%2F%3E%3Ccircle%20cx%3D%22404%22%20cy%3D%22655%22%20r%3D%2211%22%20fill%3D%22%23fff%22%20opacity%3D%22.25%22%2F%3E%3Ccircle%20cx%3D%22498%22%20cy%3D%22570%22%20r%3D%227%22%20fill%3D%22%23fff%22%20opacity%3D%22.35%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22743%22%20r%3D%2210%22%20fill%3D%22%23fff%22%20opacity%3D%22.3%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3EPaper%20Moon%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
-          "source": "Shakerrr original cocktail illustration",
-          "status": "illustrated",
-          "available": true,
-          "verified": "recipe-specific-original-illustration"
-        }
-      ]
-    },
-    "the-brave": {
-      "candidates": [
-        {
-          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23453728%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231a181e%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23e4ae57%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23ad6d37%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M263%20465h374l-37%20419H300Z%22%20fill%3D%22url(%23liquid)%22%20fill-opacity%3D%22.8%22%20stroke%3D%22%23e5efff%22%20stroke-opacity%3D%22.84%22%20stroke-width%3D%2212%22%20stroke-linejoin%3D%22round%22%2F%3E%3Cellipse%20cx%3D%22450%22%20cy%3D%22492%22%20rx%3D%22171%22%20ry%3D%2225%22%20fill%3D%22%23e4ae57%22%20opacity%3D%22.85%22%2F%3E%3Cpath%20d%3D%22M313%20560l86-28%2027%2098-85%2026Zm151%2084%2098-9-7%20102-91%2010Z%22%20fill%3D%22%23ffffff%22%20fill-opacity%3D%22.13%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.27%22%20stroke-width%3D%225%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3EThe%20Brave%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
-          "source": "Shakerrr original cocktail illustration",
-          "status": "illustrated",
-          "available": true,
-          "verified": "recipe-specific-original-illustration"
-        }
-      ]
-    },
-    "wax-and-wane": {
-      "candidates": [
-        {
-          "path": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22900%22%20height%3D%221125%22%20viewBox%3D%220%200%20900%201125%22%3E%0A%3Cdefs%3E%3ClinearGradient%20id%3D%22bg%22%20x2%3D%22.8%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23233943%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23111b28%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D%22liquid%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20stop-color%3D%22%23d0ad68%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238d673e%22%2F%3E%3C%2FlinearGradient%3E%3CradialGradient%20id%3D%22spot%22%3E%3Cstop%20stop-color%3D%22%23ffe7b4%22%20stop-opacity%3D%22.22%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%3C%2Fdefs%3E%0A%3Crect%20width%3D%22900%22%20height%3D%221125%22%20fill%3D%22url(%23bg)%22%2F%3E%3Ccircle%20cx%3D%22480%22%20cy%3D%22530%22%20r%3D%22490%22%20fill%3D%22url(%23spot)%22%2F%3E%0A%3Cpath%20d%3D%22M70%20120h750M70%201000h750%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%222%22%2F%3E%0A%3Ctext%20x%3D%2278%22%20y%3D%2293%22%20fill%3D%22%23d7e0e7%22%20font-size%3D%2223%22%20letter-spacing%3D%228%22%20font-family%3D%22Arial%2Csans-serif%22%3ESHAKERRR%20CINEMA%3C%2Ftext%3E%0A%3Cellipse%20cx%3D%22455%22%20cy%3D%22958%22%20rx%3D%22235%22%20ry%3D%2231%22%20fill%3D%22%2302040d%22%20opacity%3D%22.36%22%2F%3E%0A%3Cpath%20d%3D%22M313%20320h274l-20%20562H334Z%22%20fill%3D%22url(%23liquid)%22%20stroke%3D%22%23e2efff%22%20stroke-opacity%3D%22.86%22%20stroke-width%3D%2211%22%2F%3E%3Cellipse%20cx%3D%22450%22%20cy%3D%22324%22%20rx%3D%22138%22%20ry%3D%2223%22%20fill%3D%22%23d0ad68%22%20stroke%3D%22%23eef7ff%22%20stroke-opacity%3D%22.68%22%20stroke-width%3D%227%22%2F%3E%3Ccircle%20cx%3D%22404%22%20cy%3D%22655%22%20r%3D%2211%22%20fill%3D%22%23fff%22%20opacity%3D%22.25%22%2F%3E%3Ccircle%20cx%3D%22498%22%20cy%3D%22570%22%20r%3D%227%22%20fill%3D%22%23fff%22%20opacity%3D%22.35%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22743%22%20r%3D%2210%22%20fill%3D%22%23fff%22%20opacity%3D%22.3%22%2F%3E%3Cpath%20d%3D%22M548%20482q2-95%2022-157%22%20stroke%3D%22%2391af73%22%20stroke-width%3D%227%22%20fill%3D%22none%22%2F%3E%3Cpath%20d%3D%22M559%20410q-67-65-78-20q10%2045%2078%2020Zm-1-24q71-65%2091-24q-12%2047-91%2024Z%22%20fill%3D%22%2387b57a%22%20stroke%3D%22%23b0c68c%22%20stroke-width%3D%223%22%2F%3E%0A%3Cpath%20d%3D%22M180%201008h540%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.17%22%20stroke-width%3D%221%22%2F%3E%0A%3Ctext%20x%3D%22450%22%20y%3D%221056%22%20fill%3D%22%23e4e5e8%22%20font-size%3D%2227%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20letter-spacing%3D%221.5%22%3EWax%20and%20Wane%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
-          "source": "Shakerrr original cocktail illustration",
-          "status": "illustrated",
-          "available": true,
-          "verified": "recipe-specific-original-illustration"
-        }
-      ]
-    },
-    "capitan": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2023/09/Article2-El-Capitan-Pisco-Manhattan-Cocktail-Recipe.jpg?w=800",
-          "sourceUrl": "https://punchdrink.com/recipes/capitan/",
-          "source": "PUNCH",
-          "title": "Capitán",
-          "status": "publisher-online",
-          "verified": "exact-publisher-recipe-page",
-          "available": true
-        }
-      ]
-    },
-    "blazing-saddles": {
-      "candidates": [
-        {
-          "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb8aGVQHnO_1_pdG-F5ArcJNMwVjDUmd3JNQQFTsnTZGAAlyr1TabzxQKMajTRqo8neNeXILYSm3R0VldVLlKuMsGcOuXKsogwY6n2cDmW-uFrUbTjlOoCX7ikgKTyKEgUcr2x_KdT5Eku/w480-h640/IMG_1548.jpeg",
-          "sourceUrl": "https://www.jollybartender.com/2021/09/blazing-saddles-death-co-recipe.html",
-          "source": "The Jolly Bartender",
-          "title": "Blazing Saddles (Death & Co. recipe adaptation)",
-          "status": "publisher-online",
-          "verified": "exact-drink-blog-photograph",
-          "available": true
-        }
-      ]
-    },
-    "el-diablo": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2022/10/Punch_mallory-heyer_thumbnails-r3-1.jpg",
-          "sourceUrl": "https://punchdrink.com/recipes/el-diablo/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-recipe-hero-image"
-        }
-      ]
-    },
-    "mexican-firing-squad": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2013/12/Mexican-Firing-Squad.jpg?w=800",
-          "sourceUrl": "https://punchdrink.com/recipes/mexican-firing-squad/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-recipe-hero-image"
-        }
-      ]
-    },
-    "hotel-nacional": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2024/07/Article-2-Mastering-Hotel-Nacional-Cocktail-Recipe-Fontainebleau-Las-Vegas-Juyoung-Kang.jpg?w=800",
-          "sourceUrl": "https://punchdrink.com/recipes/hotel-nacional/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-recipe-hero-image"
-        }
-      ]
-    },
-    "scorpion-bowl": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2014/08/scorpion-lead.jpg?w=800",
-          "sourceUrl": "https://punchdrink.com/recipes/scorpion-bowl/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-recipe-hero-image"
-        }
-      ]
-    },
-    "de-la-louisiane": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2014/07/Louisiane.jpg?w=800",
-          "sourceUrl": "https://punchdrink.com/recipes/de-la-louisiane/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-recipe-hero-image"
-        }
-      ]
-    },
-    "milano-torino": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2018/10/Article-Milano-Torino-Italian-Aperitivo-Negroni-Cocktail-Recipe-Dante-NYC.jpg?w=1000",
-          "sourceUrl": "https://punchdrink.com/recipes/milano-torino/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-recipe-hero-image"
-        }
-      ]
-    },
-    "philadelphia-fish-house-punch": {
-      "candidates": [
-        {
-          "path": "https://punchdrink.com/wp-content/uploads/2014/01/Philadelphia-Fish-House.jpg?w=1000",
-          "sourceUrl": "https://punchdrink.com/recipes/philadelphia-fish-house-punch/",
-          "source": "PUNCH",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-recipe-hero-image"
-        }
-      ]
-    },
-    "atlas-finnish-long-drink": {
-      "candidates": [
-        {
-          "path": "https://en.hartwall.fi/4902c6/globalassets/hartwall.fi/juomat/long-drink--juomat/original-long-drink/original-gin-brand.jpg?width=1920",
-          "sourceUrl": "https://en.hartwall.fi/inspiration/brand-stories/2019/original-long-drink/",
-          "source": "Hartwall",
-          "title": "Finnish Original Long Drink",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-sourced-drink-image"
-        }
-      ]
-    },
-    "atlas-yorsh": {
-      "candidates": [
-        {
-          "path": "https://img.povar.ru/main-micro/ac/98/4d/cd/kokteil_quotyorshquot-833082.JPG",
-          "sourceUrl": "https://povar.ru/recipes/kokteil_yorsh-94118.html",
-          "source": "Povar.ru",
-          "title": "Ёрш cocktail",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-sourced-drink-image"
-        }
-      ]
-    },
-    "atlas-spicy-pomegranate-istanbul": {
-      "candidates": [
-        {
-          "path": "https://www.elizabethminchilli.com/wp-content/uploads/2011/02/IMG_0202-Version-2.jpg",
-          "sourceUrl": "https://www.elizabethminchilli.com/2011/02/spicy-pomegranate-cocktail-from-the-four-seasons-sultanahmet/",
-          "source": "Elizabeth Minchilli",
-          "title": "Spicy Pomegranate cocktail, Istanbul",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-sourced-drink-image"
-        }
-      ]
-    },
-    "atlas-ouzo-with-water": {
-      "candidates": [
-        {
-          "path": "https://cdn.visitgreece.gr/wp-uploads/shutterstock_1482568790_Ouzo_2000.jpg",
-          "sourceUrl": "https://www.visitgreece.gr/en/experiences/gastronomy/greek-wines/ouzo",
-          "source": "Visit Greece",
-          "title": "Greek ouzo with water",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-sourced-drink-image"
-        }
-      ]
-    },
-    "atlas-baijiu-sour": {
-      "candidates": [
-        {
-          "path": "https://www.chineseamericanfamily.com/wp-content/uploads/2015/04/baiju-sour.jpg",
-          "sourceUrl": "https://www.chineseamericanfamily.com/cheers-3-chinese-cocktails-worth-celebrating/",
-          "source": "Chinese American Family",
-          "title": "Baijiu Sour",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-sourced-drink-image"
-        }
-      ]
-    },
-    "flor-de-jalisco": {
-      "candidates": [
-        {
-          "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZbZkaBeHLKGugpDy7IsnwqqtpxtFmc4kwO81_Ae2qYglbz-Yqk__jiqB_-aoV_sacffCfVWz3MN3nfCYXXInEY17pAPlwdz7YsncUH0K2GjVmOAJy2TFVUO2Aan9HMCLEsr_YzzepxlL/w480-h640/IMG_1568.jpeg",
-          "sourceUrl": "https://www.jollybartender.com/2021/10/flor-de-jalisco-death-co-recipe.html",
-          "source": "The Jolly Bartender",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-Death-and-Co-recipe-blog-photo"
-        }
-      ]
-    },
-    "prima-china": {
-      "candidates": [
-        {
-          "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2uba2rGExQ7qz9gJRl5UPlwhJ_VPb4NiJTJN_wOTqFYwNg2S6z8ZOOVCp1yzDaHqhaKIkQtdl2y12wVc-zV4sQ4QyqcpQfpwwmzpTPHfUAxPFeydE-OhyK9Rn0JAzrU8J_0zltrKR4tk1/w480-h640/IMG_1610.jpeg",
-          "sourceUrl": "https://www.jollybartender.com/2021/10/prima-china-death-co-recipe.html",
-          "source": "The Jolly Bartender",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-Death-and-Co-recipe-blog-photo"
-        }
-      ]
-    },
-    "pink-elephant": {
-      "candidates": [
-        {
-          "path": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLpPWDbi9Qax7Ff0XYsQw73VHZURnbjC8aZ4weqIts2VPjjVxjl_o3CfA96AGvLR3ZZr8zVGBsxDz7W5SmzAoeiYCALnFE5pQ68thI4u9OMVADuv11KRGmDDXr3s4spqD8Jz_TPkjqjE6V/w480-h640/IMG_1550.jpeg",
-          "sourceUrl": "https://www.jollybartender.com/2021/09/pink-elephant-death-co-recipe.html",
-          "source": "The Jolly Bartender",
-          "status": "publisher-online",
-          "available": true,
-          "verified": "exact-Death-and-Co-recipe-blog-photo"
+          "verified": "publisher-cocktail-search-result"
         }
       ]
     }
   },
   "stats": {
     "attempted": 354,
-    "matched": 9,
-    "byPublisher": {
-      "curiada.com": 9
-    },
+    "matched": 0,
+    "byPublisher": {},
     "errors": 0,
-    "resolved": 9,
+    "resolved": 131,
     "catalogCards": 354
   }
 }
