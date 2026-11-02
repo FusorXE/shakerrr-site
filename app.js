@@ -17,6 +17,7 @@ import { publishedNote } from "./src/content.js";
 import { photoCandidates, photoCredit } from "./src/photos.js";
 import { resolveOnlinePhoto, resetOnlinePhotoCache } from "./src/remote-photos.js";
 import { ingredientOverlay } from "./src/ingredient-overlay.js";
+import { mezcalIllustrativePhoto } from "./src/mezcal-fallback.js";
 ("use strict");
 const $ = (s, r = document) => r.querySelector(s),
   $$ = (s, r = document) => [...r.querySelectorAll(s)];
@@ -1609,6 +1610,7 @@ async function loadPhoto(id, img) {
   if (credit) credit.textContent = "";
   let current;
   let lookedOnline = false;
+  let usedIllustrativeFallback = false;
   const next = () => {
     if (!active()) return;
     if (current?.objectURL) URL.revokeObjectURL(current.url);
@@ -1632,11 +1634,21 @@ async function loadPhoto(id, img) {
         }).catch(() => { if (active()) next(); });
         return;
       }
+      if (!usedIllustrativeFallback) {
+        usedIllustrativeFallback = true;
+        const illustration = mezcalIllustrativePhoto(r);
+        if (illustration) {
+          choices.push(illustration);
+          next();
+          return;
+        }
+      }
       img.removeAttribute("src");
       img.hidden = true;
       if (status) status.textContent = "No matching online photograph found";
       return;
     }
+    img.alt = current.illustrative ? "Representative mezcal photograph, not the exact named cocktail" : r.name;
     img.src = current.url;
   };
   img.onload = () => {
@@ -1648,7 +1660,7 @@ async function loadPhoto(id, img) {
     if (credit) {
       credit.textContent = current.credit;
       for (const [link, label, allowed] of [
-        [current.sourceUrl, "Photo source", ["commons.wikimedia.org", "www.pexels.com", "www.thecocktaildb.com", "en.wikipedia.org", "iba-world.com", "www.diffordsguide.com", "www.liquor.com", "curiada.com", "kindredcocktails.com", "cocktailvirgin.blogspot.com", "www.tastingtable.com", "punchdrink.com", "www.jollybartender.com"]],
+        [current.sourceUrl, "Photo source", ["commons.wikimedia.org", "www.pexels.com", "www.thecocktaildb.com", "en.wikipedia.org", "iba-world.com", "www.diffordsguide.com", "www.liquor.com", "curiada.com", "kindredcocktails.com", "cocktailvirgin.blogspot.com", "www.tastingtable.com", "punchdrink.com", "www.jollybartender.com", "www.bonappetit.com", "www.pbs.org", "foodfamilyfriends.com"]],
         [current.licenseUrl, "License", ["creativecommons.org", "www.pexels.com"]],
       ]) {
         if (!link) continue;
