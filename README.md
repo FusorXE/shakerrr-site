@@ -15,7 +15,11 @@ Discover, Cocktails, Atlas with regions/countries, My Bar, Families, Books, Movi
 Book/reference versions stay distinct. Personal and social versions never overwrite canonical published specs.
 
 ## Images
-`data/image-manifest.json` records catalog image mappings. Historical paths whose binary assets were never committed remain marked unavailable until exact authorized book or verified catalog images are extracted and committed. Missing is preferred over a wrong cocktail image.
+Premium website photography is now the default visual direction. `data/web-photos.json` contains independently curated photo records, creator/source/license metadata, and local WebP paths under `assets/recipes/web/`. `scripts/persist-web-photos.py` and `.github/workflows/persist-web-photos.yml` save up to 10 verified web images per batch into the repository.
+
+`data/image-manifest.json` retains legacy book-derived image provenance. The display pipeline prioritizes curated web images and temporarily falls back to book images only when no web replacement exists. Recipe versions and book bibliographies remain independent of photography. The recipe detail page shows on-photo annotations based on the active recipe version, not baked into the photo.
+
+The first persisted web-photo batch covers 7 named cocktails. The rest of the catalog still needs image-by-image photography review and licensing verification before the old book images can be retired. Never mislabel a representative photo as a verified image of an obscure named drink.
 
 The 2026-10-05 verified staging checkpoint covers 183 of 398 canonical recipes
 (46.0%), with 215 unresolved. See [the integration audit](source-data/verified-staging-20261005/README.md)
