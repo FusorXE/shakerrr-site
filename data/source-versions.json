@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "description": "Verified additional publisher recipe specifications for otherwise unchanged Shakerrr cards. The existing recipes and MJ Personal Versions are retained.",
+  "byRecipe": {
+    "padang-swizzle": [
+      {
+        "label": "PUNCH",
+        "key": "punch",
+        "type": "Published reference",
+        "url": "https://punchdrink.com/recipes/padang-swizzle/",
+        "creator": "Zac Overman",
+        "usable": true,
+        "ingredients": [
+          {
+            "amount": "1½ oz",
+            "name": "Amontillado sherry (Lustau Los Arcos)"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Aged rum (English Harbour 5 Year)"
+          },
+          {
+            "amount": "¼ oz",
+            "name": "Islay Scotch (Laphroaig 10 Year)"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Fresh lime juice"
+          },
+          {
+            "amount": "½ oz",
+            "name": "Grapefruit juice"
+          },
+          {
+            "amount": "¾ oz",
+            "name": "Cinnamon syrup"
+          }
+        ],
+        "instructions": "Combine in a Pilsner or Collins glass. Add crushed ice and swizzle until cold. Top with crushed ice and garnish with a cinnamon stick through a lime wheel. The publisher suggests a briefly smoking cinnamon garnish; extinguish it before drinking.",
+        "garnish": "Cinnamon stick and lime wheel",
+        "glass": "Pilsner or Collins glass",
+        "ice": "Crushed ice"
+      }
+    ],
+    "bicicletta": [
+      {
+        "label": "Liquor.com",
+        "key": "liquor",
+        "type": "Published reference",
+        "url": "https://www.liquor.com/recipes/bicicletta/",
+        "usable": true,
+        "ingredients": [
+          {
+            "amount": "3 oz",
+            "name": "Dry white wine (Pinot Grigio or Sauvignon Blanc)"
+          },
+          {
+            "amount": "2 oz",
+            "name": "Campari"
+          },
+          {
+            "amount": "To top",
+            "name": "Chilled club soda"
+          }
+        ],
+        "instructions": "Add dry white wine and Campari to a rocks or wine glass. Fill three-quarters with ice. Top with chilled club soda and stir briefly.",
+        "garnish": "2 orange wheels",
+        "glass": "Double rocks or wine glass",
+        "ice": "Cubed ice"
+      },
+      {
+        "label": "Difford’s Guide · Bicicletta Spritz",
+        "key": "diffords",
+        "type": "Published reference",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/4877/bicicletta-spritz",
+        "usable": true,
+        "ingredients": [
+          {
+            "amount": "1⅓ oz",
+            "name": "Soda water"
+          },
+          {
+            "amount": "1⅓ oz",
+            "name": "Pinot Grigio white wine"
+          },
+          {
+            "amount": "1⅓ oz",
+            "name": "Italian red bitter liqueur (Campari)"
+          }
+        ],
+        "instructions": "Combine ingredients with ice in a highball glass and stir gently.",
+        "glass": "Highball glass",
+        "ice": "Cubed ice"
+      }
+    ],
+    "american-trilogy": [
+      {
+        "label": "Difford’s Guide",
+        "key": "diffords",
+        "type": "Published reference",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/6227/american-trilogy",
+        "usable": true,
+        "ingredients": [
+          {
+            "amount": "1 oz",
+            "name": "Bonded applejack brandy"
+          },
+          {
+            "amount": "1 oz",
+            "name": "100-proof rye whiskey"
+          },
+          {
+            "amount": "¼ oz",
+            "name": "Rich brown sugar syrup (2:1)"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "Angostura orange bitters"
+          }
+        ],
+        "instructions": "Stir all ingredients with ice, then strain into a chilled rocks glass over a large piece of ice. Express an orange twist over the glass.",
+        "glass": "Old-fashioned glass",
+        "ice": "Large ice cube",
+        "garnish": "Long orange zest twist"
+      },
+      {
+        "label": "PUNCH",
+        "key": "punch",
+        "type": "Published reference",
+        "url": "https://punchdrink.com/recipes/american-trilogy/",
+        "creator": "Richard Boccato and Michael McIlroy",
+        "usable": true,
+        "ingredients": [
+          {
+            "amount": "1 oz",
+            "name": "Rye whiskey"
+          },
+          {
+            "amount": "1 oz",
+            "name": "Bonded applejack"
+          },
+          {
+            "amount": "1 cube",
+            "name": "Brown sugar"
+          },
+          {
+            "amount": "2 dashes",
+            "name": "Orange bitters"
+          }
+        ],
+        "instructions": "Saturate the brown sugar cube with orange bitters in a rocks glass and muddle to a paste. Add rye and bonded applejack, stir with ice, and garnish with a long orange peel.",
+        "glass": "Rocks glass",
+        "ice": "Large ice cube",
+        "garnish": "Long, curly orange peel"
+      }
+    ]
+  }
+}
