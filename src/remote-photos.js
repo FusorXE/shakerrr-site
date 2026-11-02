@@ -51,6 +51,24 @@ export function exactCommonsMatch(name, pages) {
   return matches[0] || null;
 }
 
+export function exactWikipediaMatch(name, pages) {
+  const wanted = normalizedDrinkName(name);
+  if (!wanted || !pages) return null;
+  for (const page of Object.values(pages)) {
+    const title = normalizedDrinkName(page.title || "");
+    if (title !== wanted && title !== wanted + " cocktail") continue;
+    if (!/\b(cocktail|mixed drink|alcoholic drink|alcoholic beverage)\b/i.test(page.extract || "")) continue;
+    const source = page.thumbnail?.source || page.original?.source;
+    if (!/^https:\/\//.test(source || "")) continue;
+    return {
+      path: source, source: "Wikipedia",
+      sourceUrl: "https://en.wikipedia.org/?curid=" + encodeURIComponent(page.pageid),
+      available: true, status: "online-match",
+    };
+  }
+  return null;
+}
+
 function queueLookup(work) {
   return new Promise((resolve) => {
     waiting.push({ work, resolve });
@@ -84,6 +102,18 @@ async function searchOnline(name) {
   try {
     const result = exactCocktailDbMatch(name, (await jsonFrom(db)).drinks);
     if (result) return result;
+  } catch { /* Try Commons instead. */ }
+
+  const wikiParams = new URLSearchParams({
+    action: "query", titles: name + " (cocktail)|" + name,
+    prop: "pageimages|extracts", piprop: "thumbnail|original",
+    pithumbsize: "1200", exintro: "1", explaintext: "1",
+    redirects: "1", format: "json", origin: "*",
+  });
+  try {
+    const match = exactWikipediaMatch(name,
+      (await jsonFrom("https://en.wikipedia.org/w/api.php?" + wikiParams)).query?.pages);
+    if (match) return match;
   } catch { /* Try Commons instead. */ }
 
   const params = new URLSearchParams({
